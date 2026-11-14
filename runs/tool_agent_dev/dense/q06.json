@@ -1,0 +1,531 @@
+{
+  "query_id": "q06",
+  "question": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên đất sử dụng hợp pháp. Điều này được quy định rõ trong Điều 26 của Luật Đất đai. [d0c238e70bafc09ad7fe14a0b71d2b6a]",
+    "citations": [
+      "d0c238e70bafc09ad7fe14a0b71d2b6a"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 26 quy định rõ quyền của người sử dụng đất, bao gồm quyền hưởng thành quả lao động và kết quả đầu tư trên đất sử dụng hợp pháp.",
+    "evidence_quotes": [
+      {
+        "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+        "quote": "2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp."
+      }
+    ],
+    "context": "[de107a9bf009e224591a4edb39f588dd] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 34 | Điều 219 | Khoản 6\nĐiều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n\n\n[d0c238e70bafc09ad7fe14a0b71d2b6a] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 21 | Điều 26 | Khoản None\nĐiều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n\n\n[112838a5173f23f164cc67a7407e0866] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 17 | Điều 194 | Khoản 6\nĐiều 194. Đất khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung\n6. Người sử dụng đất trong khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung phải sử dụng đất đúng mục đích đã được xác định, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+    "context_ids": [
+      "de107a9bf009e224591a4edb39f588dd",
+      "d0c238e70bafc09ad7fe14a0b71d2b6a",
+      "112838a5173f23f164cc67a7407e0866"
+    ],
+    "context_chars": 1923,
+    "context_tokens": 964,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_iBVmB4bJph9RvVNpEAevQRSJ",
+        "round": 1,
+        "arguments": {
+          "query": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "de107a9bf009e224591a4edb39f588dd",
+            "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 34,
+            "page_end": 34,
+            "provenance": [
+              {
+                "start": 443942,
+                "end": 444147,
+                "document_id": "luatdat3",
+                "page": 34,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 443942,
+            "metadata": {
+              "article": "219",
+              "clause": "6",
+              "part": 3
+            },
+            "score": 0.6531935930252075,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+            "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 21,
+            "page_end": 21,
+            "provenance": [
+              {
+                "start": 36623,
+                "end": 37502,
+                "document_id": "luatdat1",
+                "page": 21,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 36623,
+            "metadata": {
+              "article": "26",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.653011679649353,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "112838a5173f23f164cc67a7407e0866",
+            "text": "Điều 194. Đất khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung\n6. Người sử dụng đất trong khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung phải sử dụng đất đúng mục đích đã được xác định, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 17,
+            "page_end": 17,
+            "provenance": [
+              {
+                "start": 402833,
+                "end": 403102,
+                "document_id": "luatdat3",
+                "page": 17,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 402833,
+            "metadata": {
+              "article": "194",
+              "clause": "6",
+              "part": 3
+            },
+            "score": 0.630264937877655,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "de107a9bf009e224591a4edb39f588dd",
+          "d0c238e70bafc09ad7fe14a0b71d2b6a",
+          "112838a5173f23f164cc67a7407e0866"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?",
+          "variants": [
+            "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "de107a9bf009e224591a4edb39f588dd",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 443942,
+                    "end": 444147,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 443942,
+                "metadata": {
+                  "article": "219",
+                  "clause": "6",
+                  "part": 3
+                },
+                "score": 0.6531935930252075,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+                "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 21,
+                "page_end": 21,
+                "provenance": [
+                  {
+                    "start": 36623,
+                    "end": 37502,
+                    "document_id": "luatdat1",
+                    "page": 21,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 36623,
+                "metadata": {
+                  "article": "26",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.653011679649353,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "112838a5173f23f164cc67a7407e0866",
+                "text": "Điều 194. Đất khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung\n6. Người sử dụng đất trong khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung phải sử dụng đất đúng mục đích đã được xác định, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 17,
+                "page_end": 17,
+                "provenance": [
+                  {
+                    "start": 402833,
+                    "end": 403102,
+                    "document_id": "luatdat3",
+                    "page": 17,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 402833,
+                "metadata": {
+                  "article": "194",
+                  "clause": "6",
+                  "part": 3
+                },
+                "score": 0.630264937877655,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c7ee7773f08fd9556b0600ca3f96d32a",
+                "text": "Điều 3. Giải thích từ ngữ\n10. Chủ đầu tư dự án đầu tư có sử dụng đất (sau đây gọi là chủ đầu tư) là nhà đầu tư theo quy định của pháp luật về đầu tư, pháp luật có liên quan đã được lựa chọn để thực hiện dự án đầu tư có sử dụng đất và được giao đất, cho thuê đất, chuyển mục đích sử dụng đất theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 2703,
+                    "end": 2996,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 2703,
+                "metadata": {
+                  "article": "3",
+                  "clause": "10",
+                  "part": 1
+                },
+                "score": 0.6058272123336792,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "e68acf30b944d2398eeebc9278233db4",
+                "text": "Điều 203. Đất sử dụng cho khu kinh tế\n8. Chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất trong khu kinh tế được áp dụng đối với từng loại đất theo quy định của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 22,
+                "page_end": 22,
+                "provenance": [
+                  {
+                    "start": 416494,
+                    "end": 416638,
+                    "document_id": "luatdat3",
+                    "page": 22,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 416494,
+                "metadata": {
+                  "article": "203",
+                  "clause": "8",
+                  "part": 3
+                },
+                "score": 0.6032570004463196,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c3109f01be14517ff96699fcad9118ea",
+                "text": "Điều 186. Đất rừng đặc dụng\n4. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 11,
+                "page_end": 11,
+                "provenance": [
+                  {
+                    "start": 389386,
+                    "end": 389659,
+                    "document_id": "luatdat3",
+                    "page": 11,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 389386,
+                "metadata": {
+                  "article": "186",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.6026103496551514,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "0fee222bd38d579880b7aa79382fc8f4",
+                "text": "Điều 23. Quyền của công dân đối với đất đai\n1. Tham gia xây dựng, góp ý, giám sát trong việc hoàn thiện và tổ chức thực hiện chính sách, pháp luật về đất đai.\n2. Tham gia quản lý nhà nước, góp ý, thảo luận và kiến nghị, phản ánh với cơ quan nhà nước về công tác quản lý, sử dụng đất đai.\n3. Quyền về bình đẳng, bình đẳng giới trong quản lý, sử dụng đất đai.\n4. Tham gia đấu giá quyền sử dụng đất, đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất theo quy định của pháp luật; đề nghị Nhà nước giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất theo quy định của pháp luật.\n5. Nhận chuyển nhượng, nhận tặng cho, nhận thừa kế, nhận góp vốn, thuê quyền sử dụng đất; mua, bán, nhận chuyển nhượng cổ phần, phần vốn góp là giá trị quyền sử dụng đất theo quy định của pháp luật.\n6. Thực hiện các quyền của người sử dụng đất theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 19,
+                "page_end": 20,
+                "provenance": [
+                  {
+                    "start": 34523,
+                    "end": 34682,
+                    "document_id": "luatdat1",
+                    "page": 19,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 34682,
+                    "end": 35449,
+                    "document_id": "luatdat1",
+                    "page": 20,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 34523,
+                "metadata": {
+                  "article": "23",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.5984962582588196,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d09243ac3fce782fa76514ccf3f5109f",
+                "text": "Điều 13. Quyền của Nhà nước là đại diện chủ sở hữu về đất đai\n12. Quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 22334,
+                    "end": 22529,
+                    "document_id": "luatdat1",
+                    "page": 13,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 22334,
+                "metadata": {
+                  "article": "13",
+                  "clause": "12",
+                  "part": 1
+                },
+                "score": 0.5980914831161499,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "fea7aeea4fb3f153d279357c443ae436",
+                "text": "Điều 127. Sử dụng đất để thực hiện dự án phát triển kinh tế - xã hội thông qua thỏa thuận về nhận quyền sử dụng đất hoặc đang có quyền sử dụng đất\n6. Người đang có quyền sử dụng đất có đề xuất dự án đầu tư nếu thuộc trường hợp quy định tại Điều 79 của Luật này nhưng phù hợp với quy hoạch sử dụng đất và có đề nghị chuyển mục đích sử dụng đất mà được cơ quan nhà nước có thẩm quyền chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư theo quy định của pháp luật về đầu tư thì được sử dụng đất để thực hiện dự án đầu tư mà Nhà nước không thực hiện thu hồi đất theo quy định của Luật này. Trường hợp người đang có quyền sử dụng đất ở hoặc đất ở và đất khác có đề xuất dự án đầu tư nhà ở thương mại phù hợp với quy hoạch sử dụng đất, có đề nghị chuyển mục đích sử dụng đất mà được cơ quan nhà nước có thẩm quyền chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư theo quy định của pháp luật về đầu tư thì được sử dụng đất để thực hiện dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 37,
+                "page_end": 37,
+                "provenance": [
+                  {
+                    "start": 249338,
+                    "end": 250149,
+                    "document_id": "luatdat2",
+                    "page": 37,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 249338,
+                "metadata": {
+                  "article": "127",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.5979066491127014,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "3601f68bf042cae686dd47a88a2b823d",
+                "text": "Điều 148. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là nhà ở\n6. Trường hợp công trình có mục đích hỗn hợp theo quy định của pháp luật và được tạo lập trên đất ở thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là hạng mục công trình hoặc toàn bộ công trình đó; thời hạn sử dụng đất là ổn định lâu dài.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 69,
+                "page_end": 69,
+                "provenance": [
+                  {
+                    "start": 317097,
+                    "end": 317391,
+                    "document_id": "luatdat2",
+                    "page": 69,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 317097,
+                "metadata": {
+                  "article": "148",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.5962305068969727,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1179.7561999992467
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek87F1DQIgUS6Gc5o0dV9MVmjYt4g",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_iBVmB4bJph9RvVNpEAevQRSJ",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 403,
+          "completion_tokens": 43,
+          "total_tokens": 446,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.625e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek87I8xPbYgbYXHRRxSSGNUBm4B1A",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên đất sử dụng hợp pháp. Điều này được quy định rõ trong Điều 26 của Luật Đất đai.\",\"citations\":[\"d0c238e70bafc09ad7fe14a0b71d2b6a\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 26 quy định rõ quyền của người sử dụng đất, bao gồm quyền hưởng thành quả lao động và kết quả đầu tư trên đất sử dụng hợp pháp.\",\"evidence_quotes\":[{\"id\":\"d0c238e70bafc09ad7fe14a0b71d2b6a\",\"quote\":\"2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1222,
+          "completion_tokens": 173,
+          "total_tokens": 1395,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0002871,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "44dcb79b7c6843d9af772866d7106d23",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1625,
+      "completion_tokens": 216,
+      "total_tokens": 1841
+    },
+    "estimated_chat_cost_usd": 0.00037335,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4849.910299992189
+  }
+}

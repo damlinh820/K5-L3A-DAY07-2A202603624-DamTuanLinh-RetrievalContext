@@ -1,0 +1,154 @@
+{
+  "query_id": "q12",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Chỉ dùng phần 2 của bộ PDF: phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?",
+  "result": {
+    "status": "answered",
+    "answer": "Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất [9b9324128667b941bf0c4ab3c77c4053].",
+    "citations": [
+      "9b9324128667b941bf0c4ab3c77c4053"
+    ],
+    "abstained": false,
+    "context": "[9b9324128667b941bf0c4ab3c77c4053] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 2 | Điều 91 | Khoản 6\nĐiều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n\n\n[cac7c832ca4fdde7c20a32b97186583a] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 85 | Điều 87 | Khoản 4\nĐiều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm sau đây:\na) Phối hợp với Ủy ban nhân dân cấp xã phổ biến, niêm yết công khai quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã và địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi;\nb) Gửi phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt đến từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan trong đó ghi rõ về mức bồi thường, hỗ trợ, bố trí nhà hoặc đất tái định cư (nếu có), thời gian, địa điểm chi trả tiền bồi\nthường, hỗ trợ; thời gian bố trí nhà hoặc đất tái định cư (nếu có) và thời gian bàn giao đất đã thu hồi cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nc) Thực hiện việc bồi thường, hỗ trợ, bố trí tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt.\n\n\n[a2e40e183d2cfdd9d2a2d67a885cf04e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 84 | Điều 87 | Khoản 3\nĐiều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n3. Việc lập, thẩm định, phê duyệt phương án bồi thường, hỗ trợ, tái định cư được quy định như sau:\na) Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm lập phương án bồi thường, hỗ trợ, tái định cư và phối hợp với\nỦy ban nhân dân cấp xã nơi có đất thu hồi niêm yết công khai phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi trong thời hạn 30 ngày. Ngay sau khi hết thời hạn niêm yết công khai, tổ chức lấy ý kiến về phương án bồi thường, hỗ trợ, tái định cư theo hình thức tổ chức họp trực tiếp với người dân trong khu vực có đất thu hồi. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không tham gia họp trực tiếp có lý do chính đáng thì gửi ý kiến bằng văn bản. Việc tổ chức lấy ý kiến phải được lập thành biên bản, ghi rõ số lượng ý kiến đồng ý, số lượng ý kiến không đồng ý, số lượng ý kiến khác đối với phương án bồi thường, hỗ trợ, tái định cư; tiếp thu, giải trình ý kiến góp ý; có xác nhận của đại diện Ủy ban nhân dân cấp xã, đại diện những người có đất thu hồi. Trong thời hạn 60 ngày kể từ ngày tổ chức lấy ý kiến, đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm phối hợp với Ủy ban nhân dân cấp xã nơi có đất thu hồi tổ chức đối thoại trong trường hợp còn có ý kiến không đồng ý về phương án bồi thường, hỗ trợ, tái định cư; đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư tiếp thu, giải trình ý kiến góp ý về dự thảo phương án bồi thường, hỗ trợ tái định cư; hoàn chỉnh phương án trình cơ quan có thẩm quyền;\nb) Phương án bồi thường, hỗ trợ, tái định cư phải được thẩm định trước khi trình Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất;\nc) Ủy ban nhân dân cấp có thẩm quyền thu hồi đất quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+    "context_ids": [
+      "9b9324128667b941bf0c4ab3c77c4053",
+      "cac7c832ca4fdde7c20a32b97186583a",
+      "a2e40e183d2cfdd9d2a2d67a885cf04e"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "9b9324128667b941bf0c4ab3c77c4053",
+            "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 2,
+            "metadata": {
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+              "clause": "6",
+              "document_id": "luatdat2",
+              "page": 2,
+              "page_end": 2,
+              "part": 2,
+              "article": "91"
+            },
+            "score": 0.03278688524590164,
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.6178635358810425,
+              "bm25": 59.54128302887934
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "cac7c832ca4fdde7c20a32b97186583a",
+            "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm sau đây:\na) Phối hợp với Ủy ban nhân dân cấp xã phổ biến, niêm yết công khai quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã và địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi;\nb) Gửi phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt đến từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan trong đó ghi rõ về mức bồi thường, hỗ trợ, bố trí nhà hoặc đất tái định cư (nếu có), thời gian, địa điểm chi trả tiền bồi\nthường, hỗ trợ; thời gian bố trí nhà hoặc đất tái định cư (nếu có) và thời gian bàn giao đất đã thu hồi cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nc) Thực hiện việc bồi thường, hỗ trợ, bố trí tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 85,
+            "metadata": {
+              "clause": "4",
+              "article": "87",
+              "page_end": 86,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "part": 1,
+              "document_id": "luatdat1",
+              "page": 85
+            },
+            "score": 0.03200204813108039,
+            "rrf_score": 0.03200204813108039,
+            "source_ranks": {
+              "dense": 3,
+              "bm25": 2
+            },
+            "source_scores": {
+              "dense": 0.5780696868896484,
+              "bm25": 51.490508307314144
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "a2e40e183d2cfdd9d2a2d67a885cf04e",
+            "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n3. Việc lập, thẩm định, phê duyệt phương án bồi thường, hỗ trợ, tái định cư được quy định như sau:\na) Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm lập phương án bồi thường, hỗ trợ, tái định cư và phối hợp với\nỦy ban nhân dân cấp xã nơi có đất thu hồi niêm yết công khai phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi trong thời hạn 30 ngày. Ngay sau khi hết thời hạn niêm yết công khai, tổ chức lấy ý kiến về phương án bồi thường, hỗ trợ, tái định cư theo hình thức tổ chức họp trực tiếp với người dân trong khu vực có đất thu hồi. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không tham gia họp trực tiếp có lý do chính đáng thì gửi ý kiến bằng văn bản. Việc tổ chức lấy ý kiến phải được lập thành biên bản, ghi rõ số lượng ý kiến đồng ý, số lượng ý kiến không đồng ý, số lượng ý kiến khác đối với phương án bồi thường, hỗ trợ, tái định cư; tiếp thu, giải trình ý kiến góp ý; có xác nhận của đại diện Ủy ban nhân dân cấp xã, đại diện những người có đất thu hồi. Trong thời hạn 60 ngày kể từ ngày tổ chức lấy ý kiến, đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm phối hợp với Ủy ban nhân dân cấp xã nơi có đất thu hồi tổ chức đối thoại trong trường hợp còn có ý kiến không đồng ý về phương án bồi thường, hỗ trợ, tái định cư; đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư tiếp thu, giải trình ý kiến góp ý về dự thảo phương án bồi thường, hỗ trợ tái định cư; hoàn chỉnh phương án trình cơ quan có thẩm quyền;\nb) Phương án bồi thường, hỗ trợ, tái định cư phải được thẩm định trước khi trình Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất;\nc) Ủy ban nhân dân cấp có thẩm quyền thu hồi đất quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 84,
+            "metadata": {
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "clause": "3",
+              "page_end": 85,
+              "document_id": "luatdat1",
+              "page": 84,
+              "article": "87",
+              "part": 1
+            },
+            "score": 0.030621785881252923,
+            "rrf_score": 0.030621785881252923,
+            "source_ranks": {
+              "dense": 2,
+              "bm25": 9
+            },
+            "source_scores": {
+              "dense": 0.5903257131576538,
+              "bm25": 46.35994537382277
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "9b9324128667b941bf0c4ab3c77c4053",
+          "cac7c832ca4fdde7c20a32b97186583a",
+          "a2e40e183d2cfdd9d2a2d67a885cf04e"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "9b9324128667b941bf0c4ab3c77c4053",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 1471,
+      "completion_tokens": 102,
+      "total_tokens": 1573,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 3770.8138000161853
+  }
+}

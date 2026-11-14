@@ -1,0 +1,146 @@
+{
+  "query_id": "q06",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?",
+  "result": {
+    "status": "answered",
+    "answer": "Người sử dụng đất có quyền hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp [d0c238e70bafc09ad7fe14a0b71d2b6a].",
+    "citations": [
+      "d0c238e70bafc09ad7fe14a0b71d2b6a"
+    ],
+    "abstained": false,
+    "context": "[d0c238e70bafc09ad7fe14a0b71d2b6a] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 21 | Điều 26 | Khoản \nĐiều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n\n\n[de107a9bf009e224591a4edb39f588dd] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 34 | Điều 219 | Khoản 6\nĐiều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n\n\n[35c207dad6ae169a2abfbf5796955993] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 20 | Điều 201 | Khoản 3\nĐiều 201. Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế\n3. Quyền và nghĩa vụ của đối tượng quy định tại khoản 1 Điều này khi sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế được quy định như sau:\na) Được tổ chức sản xuất, kinh doanh theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\nb) Được hưởng thành quả lao động, kết quả đầu tư trên đất và các lợi ích khác theo quy định của pháp luật;\nc) Không được bồi thường về đất và tài sản gắn liền với đất khi chấm dứt phương án sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế để phục vụ nhiệm vụ quân sự, quốc phòng, an ninh;\nd) Không được chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất;\nđ) Không được thế chấp, góp vốn bằng quyền sử dụng đất;\ne) Không được tự ý chuyển mục đích sử dụng đất;\ng) Đối tượng quy định tại điểm a khoản 1 Điều này không được chuyển nhượng, cho thuê, tặng cho, thế chấp, góp vốn bằng tài sản gắn liền với đất;\nh) Đối tượng quy định tại điểm b khoản 1 Điều này được cho thuê, thế chấp, góp vốn bằng tài sản gắn liền với đất theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt; trường hợp mua, bán tài sản gắn liền với đất, xử lý tài sản thế chấp, tài sản góp vốn thì chỉ được thực hiện trong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\ni) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n",
+    "context_ids": [
+      "d0c238e70bafc09ad7fe14a0b71d2b6a",
+      "de107a9bf009e224591a4edb39f588dd",
+      "35c207dad6ae169a2abfbf5796955993"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+            "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 21,
+            "metadata": {
+              "page": 21,
+              "article": "26",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "part": 1,
+              "document_id": "luatdat1",
+              "clause": "",
+              "page_end": 21
+            },
+            "score": 0.03252247488101534,
+            "rrf_score": 0.03252247488101534,
+            "source_ranks": {
+              "dense": 2,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.653011679649353,
+              "bm25": 29.685140506546684
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "de107a9bf009e224591a4edb39f588dd",
+            "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 34,
+            "metadata": {
+              "part": 3,
+              "document_id": "luatdat3",
+              "article": "219",
+              "page": 34,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "clause": "6",
+              "page_end": 34
+            },
+            "score": 0.01639344262295082,
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "dense": 1
+            },
+            "source_scores": {
+              "dense": 0.6531935930252075
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "35c207dad6ae169a2abfbf5796955993",
+            "text": "Điều 201. Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế\n3. Quyền và nghĩa vụ của đối tượng quy định tại khoản 1 Điều này khi sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế được quy định như sau:\na) Được tổ chức sản xuất, kinh doanh theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\nb) Được hưởng thành quả lao động, kết quả đầu tư trên đất và các lợi ích khác theo quy định của pháp luật;\nc) Không được bồi thường về đất và tài sản gắn liền với đất khi chấm dứt phương án sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế để phục vụ nhiệm vụ quân sự, quốc phòng, an ninh;\nd) Không được chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất;\nđ) Không được thế chấp, góp vốn bằng quyền sử dụng đất;\ne) Không được tự ý chuyển mục đích sử dụng đất;\ng) Đối tượng quy định tại điểm a khoản 1 Điều này không được chuyển nhượng, cho thuê, tặng cho, thế chấp, góp vốn bằng tài sản gắn liền với đất;\nh) Đối tượng quy định tại điểm b khoản 1 Điều này được cho thuê, thế chấp, góp vốn bằng tài sản gắn liền với đất theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt; trường hợp mua, bán tài sản gắn liền với đất, xử lý tài sản thế chấp, tài sản góp vốn thì chỉ được thực hiện trong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\ni) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 20,
+            "metadata": {
+              "part": 3,
+              "article": "201",
+              "clause": "3"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 25.076592826769833
+            }
+          }
+        ],
+        "context_ids": [
+          "d0c238e70bafc09ad7fe14a0b71d2b6a",
+          "de107a9bf009e224591a4edb39f588dd",
+          "35c207dad6ae169a2abfbf5796955993"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 1143,
+      "completion_tokens": 98,
+      "total_tokens": 1241,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2968.7798999948427
+  }
+}

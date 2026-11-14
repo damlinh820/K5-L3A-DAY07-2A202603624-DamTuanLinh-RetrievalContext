@@ -1,0 +1,144 @@
+{
+  "query_id": "q10",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[f354078c00a1f0756c79d24e1ceb1900] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 25 | Điều 29 | Khoản \nĐiều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n\n\n[3b324e68f7fd2925de82141c26421a91] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 24 | Điều 28 | Khoản 3\nĐiều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n\n\n[e89dff3515d6d03c7fc61536c2fbb9c3] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 12 | Điều 105 | Khoản None\nĐiều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+    "context_ids": [
+      "f354078c00a1f0756c79d24e1ceb1900",
+      "3b324e68f7fd2925de82141c26421a91",
+      "e89dff3515d6d03c7fc61536c2fbb9c3"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "f354078c00a1f0756c79d24e1ceb1900",
+            "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 25,
+            "metadata": {
+              "page_end": 25,
+              "part": 1,
+              "clause": "",
+              "page": 25,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "document_id": "luatdat1",
+              "article": "29"
+            },
+            "score": 0.03278688524590164,
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.7881299257278442,
+              "bm25": 37.333791733237284
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "3b324e68f7fd2925de82141c26421a91",
+            "text": "Điều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 24,
+            "metadata": {
+              "article": "28",
+              "page": 24,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "clause": "3",
+              "page_end": 24,
+              "document_id": "luatdat1",
+              "part": 1
+            },
+            "score": 0.016129032258064516,
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "dense": 2
+            },
+            "source_scores": {
+              "dense": 0.6548044085502625
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "e89dff3515d6d03c7fc61536c2fbb9c3",
+            "text": "Điều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 12,
+            "metadata": {
+              "part": 2,
+              "article": "105",
+              "clause": null
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 20.151978182336308
+            }
+          }
+        ],
+        "context_ids": [
+          "f354078c00a1f0756c79d24e1ceb1900",
+          "3b324e68f7fd2925de82141c26421a91",
+          "e89dff3515d6d03c7fc61536c2fbb9c3"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [
+            {
+              "id": "f354078c00a1f0756c79d24e1ceb1900",
+              "in_context": true,
+              "marked_in_answer": false,
+              "excerpt_present": true,
+              "syntactically_valid": false
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 936,
+      "completion_tokens": 109,
+      "total_tokens": 1045,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 3042.6661999954376
+  }
+}

@@ -1,0 +1,1459 @@
+{
+  "query_id": "q05",
+  "question": "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Có, lấn đất, chiếm đất và hủy hoại đất nằm trong các hành vi bị nghiêm cấm theo quy định của Luật Đất đai. Cụ thể, Điều 11 của luật này nêu rõ rằng những hành vi này là hành vi bị nghiêm cấm trong lĩnh vực đất đai. [fdbe051504d74d83dcd190c1ddd9ad01]",
+    "citations": [
+      "fdbe051504d74d83dcd190c1ddd9ad01"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 11 đã nêu rõ các hành vi bị nghiêm cấm, bao gồm lấn đất, chiếm đất và hủy hoại đất.",
+    "evidence_quotes": [
+      {
+        "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+        "quote": "1. Lấn đất, chiếm đất, hủy hoại đất."
+      }
+    ],
+    "context": "[fdbe051504d74d83dcd190c1ddd9ad01] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 11 | Điều 11 | Khoản None\nĐiều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n\n\n[17f8cbaa9684379b9fdd6fc99dd801de] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 5\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n\n\n[7f2e158707845390f8b493d6fc04a206] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 4 | Điều 3 | Khoản 27\nĐiều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n\n\n[c85e8f84308a622b71a690acc814e97c] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 4\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n4. Đất do nhận chuyển nhượng, nhận tặng cho từ người được Nhà nước giao đất, cho thuê đất mà người được giao đất, cho thuê đất không được chuyển nhượng, tặng cho theo quy định của Luật này.\n\n\n[92bbb0b136a58d47e3c0e2af4d61e385] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 6\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n\n\n[ea71c2ed35689883da3bae2cafebc236] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 4 | Điều 3 | Khoản 26\nĐiều 3. Giải thích từ ngữ\n26. Hợp tác sản xuất, kinh doanh bằng quyền sử dụng đất là sự thỏa thuận giữa các bên, theo đó người sử dụng đất dùng quyền sử dụng đất của mình để hợp tác sản xuất, kinh doanh mà không làm thay đổi quyền sử dụng đất của người sử dụng đất.\n",
+    "context_ids": [
+      "fdbe051504d74d83dcd190c1ddd9ad01",
+      "17f8cbaa9684379b9fdd6fc99dd801de",
+      "7f2e158707845390f8b493d6fc04a206",
+      "c85e8f84308a622b71a690acc814e97c",
+      "92bbb0b136a58d47e3c0e2af4d61e385",
+      "ea71c2ed35689883da3bae2cafebc236"
+    ],
+    "context_chars": 2798,
+    "context_tokens": 1401,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_CPL9SbgxlPX5I6tumx17Nk77",
+        "round": 1,
+        "arguments": {
+          "query": "lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+            "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 11,
+            "page_end": 12,
+            "provenance": [
+              {
+                "start": 19973,
+                "end": 20130,
+                "document_id": "luatdat1",
+                "page": 11,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              },
+              {
+                "start": 20130,
+                "end": 20954,
+                "document_id": "luatdat1",
+                "page": 12,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 19973,
+            "metadata": {
+              "article": "11",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.06530936012691699,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06530936012691699,
+            "source_ranks": {
+              "dense_0": 2,
+              "bm25_0": 1,
+              "dense_1": 1,
+              "bm25_1": 1
+            },
+            "source_scores": {
+              "dense_0": 0.5516698360443115,
+              "bm25_0": 33.96182490440251,
+              "dense_1": 0.6739972829818726,
+              "bm25_1": 32.30196225004129
+            },
+            "rank": 1
+          },
+          {
+            "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+            "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 77,
+            "page_end": 77,
+            "provenance": [
+              {
+                "start": 145428,
+                "end": 145491,
+                "document_id": "luatdat1",
+                "page": 77,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 145428,
+            "metadata": {
+              "article": "81",
+              "clause": "5",
+              "part": 1
+            },
+            "score": 0.06374807987711213,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06374807987711213,
+            "source_ranks": {
+              "dense_0": 3,
+              "bm25_0": 3,
+              "dense_1": 2,
+              "bm25_1": 3
+            },
+            "source_scores": {
+              "dense_0": 0.5464389324188232,
+              "bm25_0": 21.130845058493435,
+              "dense_1": 0.6446743607521057,
+              "bm25_1": 21.130845058493435
+            },
+            "rank": 2
+          },
+          {
+            "id": "7f2e158707845390f8b493d6fc04a206",
+            "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 4,
+            "page_end": 4,
+            "provenance": [
+              {
+                "start": 6917,
+                "end": 7088,
+                "document_id": "luatdat1",
+                "page": 4,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 6917,
+            "metadata": {
+              "article": "3",
+              "clause": "27",
+              "part": 1
+            },
+            "score": 0.06327607388058208,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06327607388058208,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 5,
+              "dense_1": 3,
+              "bm25_1": 4
+            },
+            "source_scores": {
+              "dense_0": 0.5536014437675476,
+              "bm25_0": 18.73367316084609,
+              "dense_1": 0.6289641261100769,
+              "bm25_1": 18.73367316084609
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "fdbe051504d74d83dcd190c1ddd9ad01",
+          "17f8cbaa9684379b9fdd6fc99dd801de",
+          "7f2e158707845390f8b493d6fc04a206",
+          "c85e8f84308a622b71a690acc814e97c",
+          "92bbb0b136a58d47e3c0e2af4d61e385",
+          "ea71c2ed35689883da3bae2cafebc236"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+          "variants": [
+            "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+            "lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?"
+          ],
+          "filters": {
+            "part": 1
+          },
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "7f2e158707845390f8b493d6fc04a206",
+                "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 6917,
+                    "end": 7088,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 6917,
+                "metadata": {
+                  "article": "3",
+                  "clause": "27",
+                  "part": 1
+                },
+                "score": 0.5536014437675476,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+                "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 11,
+                "page_end": 12,
+                "provenance": [
+                  {
+                    "start": 19973,
+                    "end": 20130,
+                    "document_id": "luatdat1",
+                    "page": 11,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 20130,
+                    "end": 20954,
+                    "document_id": "luatdat1",
+                    "page": 12,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 19973,
+                "metadata": {
+                  "article": "11",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.5516698360443115,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145428,
+                    "end": 145491,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145428,
+                "metadata": {
+                  "article": "81",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5464389324188232,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "957c1379bbfc718cf1b5915578fad18d",
+                "text": "Điều 54. Bảo vệ, cải tạo, phục hồi đất\n1. Nội dung bảo vệ, cải tạo và phục hồi đất bao gồm:\na) Phân loại các khu vực đất đã được khoanh vùng theo quy định tại điểm c khoản 1, điểm c khoản 2 và điểm c khoản 3 Điều 53 của Luật này;\nb) Tổng hợp, xác định phạm vi, mức độ cần bảo vệ, cải tạo, phục hồi đất theo từng khu vực đất đã được phân loại tại điểm a khoản này;\nc) Lập kế hoạch và lộ trình thực hiện bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất đã được xác định tại điểm b khoản này;\nd) Xác định các biện pháp kỹ thuật, giải pháp kinh tế, xã hội kèm theo các phân tích để lựa chọn phương án tối ưu và quyết định phương án thực hiện;\nđ) Lập báo cáo kết quả thực hiện bảo vệ, cải tạo, phục hồi đất;\ne) Giám sát, kiểm soát quá trình xử lý, bảo vệ, cải tạo, phục hồi đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 48,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 91241,
+                    "end": 91697,
+                    "document_id": "luatdat1",
+                    "page": 48,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 91697,
+                    "end": 91981,
+                    "document_id": "luatdat1",
+                    "page": 49,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 91241,
+                "metadata": {
+                  "article": "54",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.5422074794769287,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4145eff29e4a231ce0e95f91132e76a4",
+                "text": "Điều 54. Bảo vệ, cải tạo, phục hồi đất\n3. Kiểm soát các khu vực đất bị thoái hóa, ô nhiễm chưa được bảo vệ, cải tạo, phục hồi theo quy định khoản 1 Điều này bao gồm khoanh vùng, cảnh báo, không cho phép hoặc hạn chế hoạt động trên đất nhằm giảm thiểu tác động xấu đến đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 49,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 92156,
+                    "end": 92390,
+                    "document_id": "luatdat1",
+                    "page": 49,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 92156,
+                "metadata": {
+                  "article": "54",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.5384732484817505,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 145047,
+                    "end": 145162,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145047,
+                "metadata": {
+                  "article": "81",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.5350182056427002,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "34a8a059899116bfcee9999954eff015",
+                "text": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n5. Việc thu hồi đất trong các trường hợp quy định tại các khoản 1, 2 và 3 Điều này phải dựa trên căn cứ sau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp quy định tại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật đối với trường hợp quy định tại điểm b khoản 1 Điều này;\nc) Quyết định giao đất, quyết định cho thuê đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Văn bản chấm dứt dự án đầu tư đối với trường hợp quy định tại điểm d khoản 1 Điều này;\nđ) Văn bản thu hồi rừng đối với trường hợp quy định tại điểm đ khoản 1 Điều này;\ne) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại khoản 2 Điều này;\ng) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đối với trường hợp quy định tại khoản 3 Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 78,
+                "page_end": 79,
+                "provenance": [
+                  {
+                    "start": 148456,
+                    "end": 149208,
+                    "document_id": "luatdat1",
+                    "page": 78,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 149208,
+                    "end": 149657,
+                    "document_id": "luatdat1",
+                    "page": 79,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 148456,
+                "metadata": {
+                  "article": "82",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5338974595069885,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "17522cf40d69efc0d31ca34d59ade90c",
+                "text": "Điều 3. Giải thích từ ngữ\n4. Bảo vệ, cải tạo, phục hồi đất là việc áp dụng các biện pháp quản lý, kỹ thuật, cơ giới, sinh học, hữu cơ tác động vào đất để xử lý đất bị ô nhiễm, phục hồi đất bị thoái hóa.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 1528,
+                    "end": 1705,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 1528,
+                "metadata": {
+                  "article": "3",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.5299532413482666,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "92bbb0b136a58d47e3c0e2af4d61e385",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145491,
+                    "end": 145561,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145491,
+                "metadata": {
+                  "article": "81",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.5148704648017883,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "e5d9a8dd9f53509159c6427a3e6e7243",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n9. Các trường hợp quy định tại các khoản 6, 7 và 8 Điều này không áp dụng đối với trường hợp bất khả kháng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 146744,
+                    "end": 146852,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 146744,
+                "metadata": {
+                  "article": "81",
+                  "clause": "9",
+                  "part": 1
+                },
+                "score": 0.5071690678596497,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+                "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 11,
+                "page_end": 12,
+                "provenance": [
+                  {
+                    "start": 19973,
+                    "end": 20130,
+                    "document_id": "luatdat1",
+                    "page": 11,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 20130,
+                    "end": 20954,
+                    "document_id": "luatdat1",
+                    "page": 12,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 19973,
+                "metadata": {
+                  "article": "11",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 33.96182490440251,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 145047,
+                    "end": 145162,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145047,
+                "metadata": {
+                  "article": "81",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 30.95348570680613,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145428,
+                    "end": 145491,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145428,
+                "metadata": {
+                  "article": "81",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 21.130845058493435,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "6565b81b1d28973872f259e86232bbf3",
+                "text": "Điều 55. Trách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất\n2. Bộ Tài nguyên và Môi trường có trách nhiệm chủ trì, phối hợp với các Bộ có liên quan thực hiện các nhiệm vụ sau đây:\na) Quy định kỹ thuật điều tra, đánh giá đất đai; kỹ thuật bảo vệ, cải tạo, phục hồi đất;\nb) Xây dựng và duy trì hệ thống quan trắc;\nc) Tổ chức thực hiện, phê duyệt và công bố kết quả điều tra, đánh giá đất đai cả nước, các vùng kinh tế - xã hội và theo chuyên đề;\nd) Ban hành và tổ chức thực hiện kế hoạch bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất thoái hóa nặng liên vùng, liên tỉnh; kế hoạch bảo vệ, cải tạo, phục hồi đất đối với khu vực đất bị ô nhiễm đặc biệt nghiêm trọng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 49,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 92667,
+                    "end": 93277,
+                    "document_id": "luatdat1",
+                    "page": 49,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 92667,
+                "metadata": {
+                  "article": "55",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 19.28744689147742,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "7f2e158707845390f8b493d6fc04a206",
+                "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 6917,
+                    "end": 7088,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 6917,
+                "metadata": {
+                  "article": "3",
+                  "clause": "27",
+                  "part": 1
+                },
+                "score": 18.73367316084609,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "02ab0dc4f2e0c862a428aac7189e2328",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n1. Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất và đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 144851,
+                    "end": 145047,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 144851,
+                "metadata": {
+                  "article": "81",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 16.93702531254559,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "842e64ae698d3c1641b87200b7e47188",
+                "text": "Điều 76. Tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất\n7. Diện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện đã được cơ quan có thẩm quyền phê duyệt thu hồi để thực hiện dự án hoặc phải chuyển mục đích sử dụng đất mà sau 02 năm liên tục được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện chưa có quyết định thu hồi đất hoặc chưa được phép chuyển mục đích sử dụng đất thì cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện phải xem xét, đánh giá điều chỉnh, hủy bỏ và phải công bố công khai việc điều chỉnh, hủy bỏ việc thu hồi đất hoặc hủy bỏ việc chuyển mục đích sử dụng đất đối với phần diện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện. Trường hợp cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện không điều chỉnh, hủy bỏ hoặc có điều chỉnh, hủy bỏ nhưng không công bố công khai thì người sử dụng đất không bị hạn chế về các quyền sử dụng đất đã được pháp luật quy định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 69,
+                "page_end": 69,
+                "provenance": [
+                  {
+                    "start": 129357,
+                    "end": 130276,
+                    "document_id": "luatdat1",
+                    "page": 69,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 129357,
+                "metadata": {
+                  "article": "76",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 16.469652662565668,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "09dc413c4b605a00139468e330270331",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145561,
+                    "end": 145938,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145561,
+                "metadata": {
+                  "article": "81",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 16.047069725909548,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a8305c96e2519703d293d0df7d0b4943",
+                "text": "Điều 21. Nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ và chính quyền địa phương các cấp\n1. Chính phủ thống nhất quản lý nhà nước về đất đai trong phạm vi cả nước.\n2. Thủ tướng Chính phủ thực hiện nhiệm vụ quản lý nhà nước về đất đai theo quy định của Luật này.\n3. Bộ Tài nguyên và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ thực hiện quản lý nhà nước về đất đai.\n4. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm giúp Chính phủ, Thủ tướng Chính phủ trong quản lý nhà nước về đất đai.\n5. Chính quyền địa phương các cấp có trách nhiệm quản lý nhà nước về đất đai tại địa phương theo thẩm quyền quy định của Luật này. Ở đơn vị hành chính cấp huyện không thành lập đơn vị hành chính cấp xã thì Hội đồng nhân dân, Ủy ban nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân cấp xã quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 32750,
+                    "end": 32949,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 32949,
+                    "end": 33677,
+                    "document_id": "luatdat1",
+                    "page": 19,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 32750,
+                "metadata": {
+                  "article": "21",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 15.787441137154683,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "081acb7be3f995437cdfbd1bb90b419b",
+                "text": "Điều 51. Nguyên tắc điều tra, đánh giá đất đai và bảo vệ, cải tạo, phục hồi đất\n1. Bảo đảm kịp thời, khách quan, phản ánh đúng thực trạng tài nguyên đất.\n2. Thực hiện trên phạm vi cả nước, các vùng kinh tế - xã hội, đơn vị hành chính cấp tỉnh và bảo đảm liên tục, kế thừa.\n3. Nhà nước bảo đảm kinh phí thực hiện điều tra, đánh giá đất đai; khuyến khích các tổ chức, cá nhân cùng với Nhà nước thực hiện bảo vệ, cải tạo, phục hồi đất.\n4. Cung cấp kịp thời thông tin, số liệu để phục vụ công tác quản lý nhà nước về đất đai và nhu cầu thông tin đất đai cho các hoạt động kinh tế, xã hội, quốc phòng, an ninh, nghiên cứu khoa học, giáo dục và đào tạo và các nhu cầu khác của Nhà nước và xã hội.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 46,
+                "page_end": 46,
+                "provenance": [
+                  {
+                    "start": 87161,
+                    "end": 87852,
+                    "document_id": "luatdat1",
+                    "page": 46,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 87161,
+                "metadata": {
+                  "article": "51",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 15.68260283049138,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ],
+            "dense_1": [
+              {
+                "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+                "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 11,
+                "page_end": 12,
+                "provenance": [
+                  {
+                    "start": 19973,
+                    "end": 20130,
+                    "document_id": "luatdat1",
+                    "page": 11,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 20130,
+                    "end": 20954,
+                    "document_id": "luatdat1",
+                    "page": 12,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 19973,
+                "metadata": {
+                  "article": "11",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.6739972829818726,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145428,
+                    "end": 145491,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145428,
+                "metadata": {
+                  "article": "81",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.6446743607521057,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "7f2e158707845390f8b493d6fc04a206",
+                "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 6917,
+                    "end": 7088,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 6917,
+                "metadata": {
+                  "article": "3",
+                  "clause": "27",
+                  "part": 1
+                },
+                "score": 0.6289641261100769,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 145047,
+                    "end": 145162,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145047,
+                "metadata": {
+                  "article": "81",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.6039934158325195,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "92bbb0b136a58d47e3c0e2af4d61e385",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145491,
+                    "end": 145561,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145491,
+                "metadata": {
+                  "article": "81",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.5945014953613281,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "34a8a059899116bfcee9999954eff015",
+                "text": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n5. Việc thu hồi đất trong các trường hợp quy định tại các khoản 1, 2 và 3 Điều này phải dựa trên căn cứ sau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp quy định tại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật đối với trường hợp quy định tại điểm b khoản 1 Điều này;\nc) Quyết định giao đất, quyết định cho thuê đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Văn bản chấm dứt dự án đầu tư đối với trường hợp quy định tại điểm d khoản 1 Điều này;\nđ) Văn bản thu hồi rừng đối với trường hợp quy định tại điểm đ khoản 1 Điều này;\ne) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại khoản 2 Điều này;\ng) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đối với trường hợp quy định tại khoản 3 Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 78,
+                "page_end": 79,
+                "provenance": [
+                  {
+                    "start": 148456,
+                    "end": 149208,
+                    "document_id": "luatdat1",
+                    "page": 78,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 149208,
+                    "end": 149657,
+                    "document_id": "luatdat1",
+                    "page": 79,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 148456,
+                "metadata": {
+                  "article": "82",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5918645858764648,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "02ab0dc4f2e0c862a428aac7189e2328",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n1. Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất và đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 144851,
+                    "end": 145047,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 144851,
+                "metadata": {
+                  "article": "81",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.5882478356361389,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "109c074508d73b0e59564caed899c759",
+                "text": "Điều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 2509,
+                    "end": 2703,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 2509,
+                "metadata": {
+                  "article": "3",
+                  "clause": "9",
+                  "part": 1
+                },
+                "score": 0.5852998495101929,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "e5d9a8dd9f53509159c6427a3e6e7243",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n9. Các trường hợp quy định tại các khoản 6, 7 và 8 Điều này không áp dụng đối với trường hợp bất khả kháng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 146744,
+                    "end": 146852,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 146744,
+                "metadata": {
+                  "article": "81",
+                  "clause": "9",
+                  "part": 1
+                },
+                "score": 0.5744155049324036,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c85e8f84308a622b71a690acc814e97c",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n4. Đất do nhận chuyển nhượng, nhận tặng cho từ người được Nhà nước giao đất, cho thuê đất mà người được giao đất, cho thuê đất không được chuyển nhượng, tặng cho theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145238,
+                    "end": 145428,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145238,
+                "metadata": {
+                  "article": "81",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.5711013078689575,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_1": [
+              {
+                "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+                "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 11,
+                "page_end": 12,
+                "provenance": [
+                  {
+                    "start": 19973,
+                    "end": 20130,
+                    "document_id": "luatdat1",
+                    "page": 11,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 20130,
+                    "end": 20954,
+                    "document_id": "luatdat1",
+                    "page": 12,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 19973,
+                "metadata": {
+                  "article": "11",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 32.30196225004129,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 145047,
+                    "end": 145162,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145047,
+                "metadata": {
+                  "article": "81",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 30.95348570680613,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145428,
+                    "end": 145491,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145428,
+                "metadata": {
+                  "article": "81",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 21.130845058493435,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "7f2e158707845390f8b493d6fc04a206",
+                "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 6917,
+                    "end": 7088,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 6917,
+                "metadata": {
+                  "article": "3",
+                  "clause": "27",
+                  "part": 1
+                },
+                "score": 18.73367316084609,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "09dc413c4b605a00139468e330270331",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145561,
+                    "end": 145938,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145561,
+                "metadata": {
+                  "article": "81",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 16.047069725909548,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "02ab0dc4f2e0c862a428aac7189e2328",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n1. Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất và đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 144851,
+                    "end": 145047,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 144851,
+                "metadata": {
+                  "article": "81",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 15.445431724681473,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "842e64ae698d3c1641b87200b7e47188",
+                "text": "Điều 76. Tổ chức thực hiện quy hoạch, kế hoạch sử dụng đất\n7. Diện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện đã được cơ quan có thẩm quyền phê duyệt thu hồi để thực hiện dự án hoặc phải chuyển mục đích sử dụng đất mà sau 02 năm liên tục được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện chưa có quyết định thu hồi đất hoặc chưa được phép chuyển mục đích sử dụng đất thì cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện phải xem xét, đánh giá điều chỉnh, hủy bỏ và phải công bố công khai việc điều chỉnh, hủy bỏ việc thu hồi đất hoặc hủy bỏ việc chuyển mục đích sử dụng đất đối với phần diện tích đất được xác định trong kế hoạch sử dụng đất hằng năm cấp huyện. Trường hợp cơ quan có thẩm quyền phê duyệt kế hoạch sử dụng đất hằng năm cấp huyện không điều chỉnh, hủy bỏ hoặc có điều chỉnh, hủy bỏ nhưng không công bố công khai thì người sử dụng đất không bị hạn chế về các quyền sử dụng đất đã được pháp luật quy định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 69,
+                "page_end": 69,
+                "provenance": [
+                  {
+                    "start": 129357,
+                    "end": 130276,
+                    "document_id": "luatdat1",
+                    "page": 69,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 129357,
+                "metadata": {
+                  "article": "76",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 14.39947239517869,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "c4c18c9b09d59b2100eb3f9ae97b08a1",
+                "text": "Điều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 7538,
+                    "end": 7781,
+                    "document_id": "luatdat1",
+                    "page": 5,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 7538,
+                "metadata": {
+                  "article": "3",
+                  "clause": "31",
+                  "part": 1
+                },
+                "score": 12.78860774858387,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "8364dde5a74993d72c9c833dd701e934",
+                "text": "Điều 90. Trưng dụng đất\n7. Việc bồi thường thiệt hại do việc trưng dụng đất gây ra thực hiện theo quy định sau đây:\na) Trường hợp đất trưng dụng bị hủy hoại thì việc bồi thường được thực hiện bằng tiền theo giá chuyển nhượng quyền sử dụng đất trên thị trường tại thời điểm thanh toán;\nb) Trường hợp thu nhập bị thiệt hại do việc trưng dụng đất trực tiếp gây ra thì mức bồi thường được xác định căn cứ vào mức thiệt hại thu nhập thực tế tính từ ngày giao đất trưng dụng đến ngày hoàn trả đất trưng dụng được ghi trong quyết định hoàn trả đất trưng dụng. Mức thiệt hại thu nhập thực tế phải phù hợp với thu nhập do đất trưng dụng mang lại trong điều kiện bình thường trước thời điểm trưng dụng đất;\nc) Trường hợp tài sản bị thiệt hại do việc trưng dụng đất trực tiếp gây ra thì mức bồi thường thiệt hại được xác định theo giá chuyển nhượng tài sản trên thị trường tại thời điểm thanh toán;\nd) Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất trưng dụng thành lập Hội đồng để xác định mức bồi thường thiệt hại do thực hiện trưng dụng đất gây ra trên cơ sở văn bản kê khai của người sử dụng đất và hồ sơ địa chính. Căn cứ vào mức bồi thường thiệt hại do Hội đồng xác định, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện quyết định mức bồi thường;\nđ) Tiền bồi thường thiệt hại do việc trưng dụng đất gây ra được ngân sách nhà nước chi trả một lần, trực tiếp cho người có đất trưng dụng, chủ sở hữu tài sản gắn liền với đất trưng dụng trong thời hạn không quá 30 ngày kể từ ngày hoàn trả đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 93,
+                "page_end": 93,
+                "provenance": [
+                  {
+                    "start": 177653,
+                    "end": 179171,
+                    "document_id": "luatdat1",
+                    "page": 93,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 177653,
+                "metadata": {
+                  "article": "90",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 11.538008528545866,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "6565b81b1d28973872f259e86232bbf3",
+                "text": "Điều 55. Trách nhiệm tổ chức thực hiện điều tra, đánh giá đất đai, bảo vệ, cải tạo, phục hồi đất\n2. Bộ Tài nguyên và Môi trường có trách nhiệm chủ trì, phối hợp với các Bộ có liên quan thực hiện các nhiệm vụ sau đây:\na) Quy định kỹ thuật điều tra, đánh giá đất đai; kỹ thuật bảo vệ, cải tạo, phục hồi đất;\nb) Xây dựng và duy trì hệ thống quan trắc;\nc) Tổ chức thực hiện, phê duyệt và công bố kết quả điều tra, đánh giá đất đai cả nước, các vùng kinh tế - xã hội và theo chuyên đề;\nd) Ban hành và tổ chức thực hiện kế hoạch bảo vệ, cải tạo, phục hồi đất đối với các khu vực đất thoái hóa nặng liên vùng, liên tỉnh; kế hoạch bảo vệ, cải tạo, phục hồi đất đối với khu vực đất bị ô nhiễm đặc biệt nghiêm trọng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 49,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 92667,
+                    "end": 93277,
+                    "document_id": "luatdat1",
+                    "page": 49,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 92667,
+                "metadata": {
+                  "article": "55",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 11.495512425805629,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 30.132199986837804
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek8E3fgFYBbv2npWMjSx9Ql8wUD41",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_CPL9SbgxlPX5I6tumx17Nk77",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 499,
+          "completion_tokens": 48,
+          "total_tokens": 547,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00010364999999999999,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek8E46LdNRdYEOIOUdCAqEcvjyEv0",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Có, lấn đất, chiếm đất và hủy hoại đất nằm trong các hành vi bị nghiêm cấm theo quy định của Luật Đất đai. Cụ thể, Điều 11 của luật này nêu rõ rằng những hành vi này là hành vi bị nghiêm cấm trong lĩnh vực đất đai.\",\"citations\":[\"fdbe051504d74d83dcd190c1ddd9ad01\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 11 đã nêu rõ các hành vi bị nghiêm cấm, bao gồm lấn đất, chiếm đất và hủy hoại đất.\",\"evidence_quotes\":[{\"id\":\"fdbe051504d74d83dcd190c1ddd9ad01\",\"quote\":\"1. Lấn đất, chiếm đất, hủy hoại đất.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1703,
+          "completion_tokens": 183,
+          "total_tokens": 1886,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00036525,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "c7662bc53aa3489f9e572cdabb56cc57",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2202,
+      "completion_tokens": 231,
+      "total_tokens": 2433
+    },
+    "estimated_chat_cost_usd": 0.0004689,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 3891.001600015443
+  }
+}

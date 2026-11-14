@@ -1,0 +1,12 @@
+{
+  "status": "frozen_after_dev_review",
+  "selected_mode": "hybrid_rrf",
+  "candidate_k": 10,
+  "rrf_k": 60,
+  "final_top_k": 3,
+  "context_budget_chars": 6000,
+  "selection_reason": "Dev Evidence Hit@3 15/15; candidate pool 20 and lexical rerank were negative improvements.",
+  "dev_run": "runs/phase3_dev_improvements/summary.json",
+  "human_review_log": "reviews/review_log.csv",
+  "test_tuning_allowed": false
+}

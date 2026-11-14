@@ -1,0 +1,138 @@
+{
+  "query_id": "q23",
+  "split": "test",
+  "answerability": "insufficient_evidence",
+  "question": "Trong bộ tài liệu, giá đất cụ thể của một thửa đất tại một địa chỉ thực tế cụ thể trong năm 2027 là bao nhiêu?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[887f1629d09f6cb251113170be592bd2] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 86 | Điều 160 | Khoản 4\nĐiều 160. Giá đất cụ thể\n4. Đối với khu vực đã có bảng giá đất tới từng thửa đất trên cơ sở vùng giá trị, thửa đất chuẩn thì giá đất cụ thể được xác định theo bảng giá đất tại thời điểm định giá đất.\n\n\n[180cb51c24f2e1d61d162c138be4f607] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 87 | Điều 161 | Khoản 5\nĐiều 161. Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể\n5. Nội dung thẩm định của Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể bao gồm việc tuân thủ nguyên tắc, phương pháp định giá đất, trình tự, thủ tục định giá đất, kết quả thu thập thông tin.\n\n\n[176171aff0b47669669c5737c83d42d9] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 86 | Điều 160 | Khoản 3\nĐiều 160. Giá đất cụ thể\n3. Cơ quan có chức năng quản lý đất đai có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cùng cấp tổ chức việc xác định giá đất cụ thể. Trong quá trình thực hiện, cơ quan có chức năng quản lý đất đai được thuê tổ chức tư vấn xác định giá đất để xác định giá đất cụ thể.\n",
+    "context_ids": [
+      "887f1629d09f6cb251113170be592bd2",
+      "180cb51c24f2e1d61d162c138be4f607",
+      "176171aff0b47669669c5737c83d42d9"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "887f1629d09f6cb251113170be592bd2",
+            "text": "Điều 160. Giá đất cụ thể\n4. Đối với khu vực đã có bảng giá đất tới từng thửa đất trên cơ sở vùng giá trị, thửa đất chuẩn thì giá đất cụ thể được xác định theo bảng giá đất tại thời điểm định giá đất.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 86,
+            "metadata": {
+              "page_end": 86,
+              "clause": "4",
+              "page": 86,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+              "part": 2,
+              "article": "160",
+              "document_id": "luatdat2"
+            },
+            "score": 0.03278688524590164,
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.6143423914909363,
+              "bm25": 32.0507890561082
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "180cb51c24f2e1d61d162c138be4f607",
+            "text": "Điều 161. Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể\n5. Nội dung thẩm định của Hội đồng thẩm định bảng giá đất, Hội đồng thẩm định giá đất cụ thể bao gồm việc tuân thủ nguyên tắc, phương pháp định giá đất, trình tự, thủ tục định giá đất, kết quả thu thập thông tin.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 87,
+            "metadata": {
+              "page_end": 87,
+              "page": 87,
+              "document_id": "luatdat2",
+              "article": "161",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+              "clause": "5",
+              "part": 2
+            },
+            "score": 0.030158730158730156,
+            "rrf_score": 0.030158730158730156,
+            "source_ranks": {
+              "dense": 10,
+              "bm25": 3
+            },
+            "source_scores": {
+              "dense": 0.48535704612731934,
+              "bm25": 27.812231527173783
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "176171aff0b47669669c5737c83d42d9",
+            "text": "Điều 160. Giá đất cụ thể\n3. Cơ quan có chức năng quản lý đất đai có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cùng cấp tổ chức việc xác định giá đất cụ thể. Trong quá trình thực hiện, cơ quan có chức năng quản lý đất đai được thuê tổ chức tư vấn xác định giá đất để xác định giá đất cụ thể.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 86,
+            "metadata": {
+              "part": 2,
+              "article": "160",
+              "clause": "3"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 30.073059418843755
+            }
+          }
+        ],
+        "context_ids": [
+          "887f1629d09f6cb251113170be592bd2",
+          "180cb51c24f2e1d61d162c138be4f607",
+          "176171aff0b47669669c5737c83d42d9"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 621,
+      "completion_tokens": 35,
+      "total_tokens": 656,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2362.549300014507
+  }
+}

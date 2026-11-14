@@ -1,0 +1,542 @@
+{
+  "query_id": "q10",
+  "question": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Quyền đối với thửa đất liền kề bao gồm các nhu cầu hạ tầng như: lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật [f354078c00a1f0756c79d24e1ceb1900].",
+    "citations": [
+      "f354078c00a1f0756c79d24e1ceb1900"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 29 đã nêu rõ các nhu cầu hạ tầng liên quan đến quyền đối với thửa đất liền kề.",
+    "evidence_quotes": [
+      {
+        "id": "f354078c00a1f0756c79d24e1ceb1900",
+        "quote": "Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật."
+      }
+    ],
+    "context": "[f354078c00a1f0756c79d24e1ceb1900] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 25 | Điều 29 | Khoản None\nĐiều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n\n\n[e89dff3515d6d03c7fc61536c2fbb9c3] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 12 | Điều 105 | Khoản None\nĐiều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n\n\n[6c346290ec7bd819bbab14e15ed5d1b0] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 40 | Điều 132 | Khoản None\nĐiều 132. Đăng ký lần đầu\n1. Đăng ký lần đầu đối với đất đai, tài sản gắn liền với đất được thực hiện trong các trường hợp sau đây:\na) Thửa đất đang sử dụng mà chưa đăng ký;\nb) Thửa đất được Nhà nước giao, cho thuê để sử dụng;\nc) Thửa đất được giao để quản lý mà chưa đăng ký;\nd) Tài sản gắn liền với đất mà có nhu cầu đăng ký đồng thời với đăng ký đất đai trong các trường hợp quy định tại các điểm a, b và c khoản này.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc phổ biến, tuyên truyền và tổ chức thực hiện đăng ký lần đầu cho các trường hợp chưa đăng ký.\n",
+    "context_ids": [
+      "f354078c00a1f0756c79d24e1ceb1900",
+      "e89dff3515d6d03c7fc61536c2fbb9c3",
+      "6c346290ec7bd819bbab14e15ed5d1b0"
+    ],
+    "context_chars": 2468,
+    "context_tokens": 1215,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_BvEw1wEsT3Pn1vPkGZyDlOTJ",
+        "round": 1,
+        "arguments": {
+          "query": "quyền đối với thửa đất liền kề nhu cầu hạ tầng khoản 1 Điều 29",
+          "mode": "bm25",
+          "top_k": 3
+        },
+        "executed_query": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+        "mode": "bm25",
+        "results": [
+          {
+            "id": "f354078c00a1f0756c79d24e1ceb1900",
+            "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 25,
+            "page_end": 25,
+            "provenance": [
+              {
+                "start": 44105,
+                "end": 44665,
+                "document_id": "luatdat1",
+                "page": 25,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 44105,
+            "metadata": {
+              "article": "29",
+              "clause": null,
+              "part": 1
+            },
+            "score": 37.333791733237284,
+            "rank": 1,
+            "strategy": "bm25"
+          },
+          {
+            "id": "e89dff3515d6d03c7fc61536c2fbb9c3",
+            "text": "Điều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 12,
+            "page_end": 13,
+            "provenance": [
+              {
+                "start": 202012,
+                "end": 202723,
+                "document_id": "luatdat2",
+                "page": 12,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              },
+              {
+                "start": 202723,
+                "end": 202927,
+                "document_id": "luatdat2",
+                "page": 13,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 202012,
+            "metadata": {
+              "article": "105",
+              "clause": null,
+              "part": 2
+            },
+            "score": 20.151978182336308,
+            "rank": 2,
+            "strategy": "bm25"
+          },
+          {
+            "id": "6c346290ec7bd819bbab14e15ed5d1b0",
+            "text": "Điều 132. Đăng ký lần đầu\n1. Đăng ký lần đầu đối với đất đai, tài sản gắn liền với đất được thực hiện trong các trường hợp sau đây:\na) Thửa đất đang sử dụng mà chưa đăng ký;\nb) Thửa đất được Nhà nước giao, cho thuê để sử dụng;\nc) Thửa đất được giao để quản lý mà chưa đăng ký;\nd) Tài sản gắn liền với đất mà có nhu cầu đăng ký đồng thời với đăng ký đất đai trong các trường hợp quy định tại các điểm a, b và c khoản này.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc phổ biến, tuyên truyền và tổ chức thực hiện đăng ký lần đầu cho các trường hợp chưa đăng ký.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 40,
+            "page_end": 40,
+            "provenance": [
+              {
+                "start": 254656,
+                "end": 255226,
+                "document_id": "luatdat2",
+                "page": 40,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 254656,
+            "metadata": {
+              "article": "132",
+              "clause": null,
+              "part": 2
+            },
+            "score": 19.32620600265254,
+            "rank": 3,
+            "strategy": "bm25"
+          }
+        ],
+        "context_ids": [
+          "f354078c00a1f0756c79d24e1ceb1900",
+          "e89dff3515d6d03c7fc61536c2fbb9c3",
+          "6c346290ec7bd819bbab14e15ed5d1b0"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+          "variants": [
+            "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "bm25_0": [
+              {
+                "id": "f354078c00a1f0756c79d24e1ceb1900",
+                "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 44105,
+                    "end": 44665,
+                    "document_id": "luatdat1",
+                    "page": 25,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 44105,
+                "metadata": {
+                  "article": "29",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 37.333791733237284,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "e89dff3515d6d03c7fc61536c2fbb9c3",
+                "text": "Điều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 12,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 202012,
+                    "end": 202723,
+                    "document_id": "luatdat2",
+                    "page": 12,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 202723,
+                    "end": 202927,
+                    "document_id": "luatdat2",
+                    "page": 13,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 202012,
+                "metadata": {
+                  "article": "105",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 20.151978182336308,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "6c346290ec7bd819bbab14e15ed5d1b0",
+                "text": "Điều 132. Đăng ký lần đầu\n1. Đăng ký lần đầu đối với đất đai, tài sản gắn liền với đất được thực hiện trong các trường hợp sau đây:\na) Thửa đất đang sử dụng mà chưa đăng ký;\nb) Thửa đất được Nhà nước giao, cho thuê để sử dụng;\nc) Thửa đất được giao để quản lý mà chưa đăng ký;\nd) Tài sản gắn liền với đất mà có nhu cầu đăng ký đồng thời với đăng ký đất đai trong các trường hợp quy định tại các điểm a, b và c khoản này.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc phổ biến, tuyên truyền và tổ chức thực hiện đăng ký lần đầu cho các trường hợp chưa đăng ký.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 40,
+                "page_end": 40,
+                "provenance": [
+                  {
+                    "start": 254656,
+                    "end": 255226,
+                    "document_id": "luatdat2",
+                    "page": 40,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 254656,
+                "metadata": {
+                  "article": "132",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 19.32620600265254,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f2917c5e3b102e9d2618b19b8e5e0af8",
+                "text": "Điều 220. Tách thửa đất, hợp thửa đất\n2. Trường hợp tách thửa đất thì ngoài các nguyên tắc, điều kiện quy định tại khoản 1 Điều này còn phải bảo đảm các điều kiện sau đây:\na) Các thửa đất sau khi tách thửa phải bảo đảm diện tích tối thiểu với loại đất đang sử dụng theo quy định của Ủy ban nhân dân cấp tỉnh; Trường hợp thửa đất được tách có diện tích nhỏ hơn diện tích tối thiểu được phép tách thửa thì phải thực hiện đồng thời việc hợp thửa với thửa đất liền kề;\nb) Trường hợp chuyển mục đích sử dụng một phần thửa đất thì thực hiện tách thửa, diện tích tối thiểu của thửa đất sau khi tách phải bằng hoặc lớn hơn diện tích tối thiểu của loại đất sau khi chuyển mục đích sử dụng. Đối với thửa đất có đất ở và đất khác thì không bắt buộc thực hiện tách thửa khi chuyển mục đích sử dụng một phần thửa đất, trừ trường hợp người sử dụng đất có nhu cầu tách thửa;\nc) Trường hợp phân chia quyền sử dụng đất theo bản án, quyết định của Tòa án mà việc phân chia không bảo đảm các điều kiện, diện tích, kích thước tách thửa theo quy định thì không thực hiện tách thửa.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 35,
+                "page_end": 35,
+                "provenance": [
+                  {
+                    "start": 445960,
+                    "end": 446983,
+                    "document_id": "luatdat3",
+                    "page": 35,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 445960,
+                "metadata": {
+                  "article": "220",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 19.254190100175446,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "126522736a3de4481c7c7742c23001e5",
+                "text": "Điều 3. Giải thích từ ngữ\n48. Vùng giá trị là khu vực các thửa đất liền kề nhau, có cùng mục đích sử dụng và có các yếu tố tương đồng về vị trí, khả năng sinh lợi, điều kiện kết cấu hạ tầng và yếu tố khác ảnh hưởng đến giá đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 7,
+                "page_end": 7,
+                "provenance": [
+                  {
+                    "start": 11387,
+                    "end": 11589,
+                    "document_id": "luatdat1",
+                    "page": 7,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 11387,
+                "metadata": {
+                  "article": "3",
+                  "clause": "48",
+                  "part": 1
+                },
+                "score": 18.918885925043288,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "beefbbeafd19e107d38e596514c22ccc",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 43,
+                "page_end": 43,
+                "provenance": [
+                  {
+                    "start": 260691,
+                    "end": 261150,
+                    "document_id": "luatdat2",
+                    "page": 43,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 260691,
+                "metadata": {
+                  "article": "135",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 18.786446817696806,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a9f40f70da919be4040d473b4abf502f",
+                "text": "Điều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 64,
+                "page_end": 64,
+                "provenance": [
+                  {
+                    "start": 305459,
+                    "end": 306054,
+                    "document_id": "luatdat2",
+                    "page": 64,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 305459,
+                "metadata": {
+                  "article": "143",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 18.162204406208065,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0ae418ae8fa3b9803a1f381a3da4a0ef",
+                "text": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo quy định tại Điều 220 của Luật này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 67,
+                "page_end": 67,
+                "provenance": [
+                  {
+                    "start": 311405,
+                    "end": 311957,
+                    "document_id": "luatdat2",
+                    "page": 67,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 311405,
+                "metadata": {
+                  "article": "146",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 17.824354252324497,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "44b19090179ef42eaa255900d00ef7d2",
+                "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n5. Đối với những khu vực không thuộc quy định tại khoản 4 Điều này mà đã có quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn được phê duyệt thì việc lập quy hoạch sử dụng đất cấp huyện phải cập nhật định hướng không gian sử dụng đất và hệ thống hạ tầng kỹ thuật, hạ tầng xã hội theo thời kỳ quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 59,
+                "page_end": 59,
+                "provenance": [
+                  {
+                    "start": 109965,
+                    "end": 110288,
+                    "document_id": "luatdat1",
+                    "page": 59,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 109965,
+                "metadata": {
+                  "article": "66",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 17.10298320010185,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "fb165836bc3dba6eb4f2235b02e67f7e",
+                "text": "Điều 164. Hạ tầng kỹ thuật công nghệ thông tin và phần mềm của Hệ thống thông tin quốc gia về đất đai\n1. Hạ tầng kỹ thuật công nghệ thông tin được xây dựng ở trung ương và địa phương, bao gồm tập hợp thiết bị máy chủ, máy trạm, thiết bị kết nối mạng, hệ thống đường truyền, thiết bị bảo đảm an ninh, an toàn, thiết bị lưu trữ, thiết bị ngoại vi và thiết bị khác.\n2. Phần mềm của Hệ thống thông tin quốc gia về đất đai bao gồm các phần mềm hệ thống, phần mềm tiện ích và phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định các yêu cầu kỹ thuật đối với phần mềm ứng dụng phục vụ quản lý, vận hành, cập nhật, khai thác cơ sở dữ liệu quốc gia về đất đai.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 89,
+                "page_end": 90,
+                "provenance": [
+                  {
+                    "start": 355366,
+                    "end": 355729,
+                    "document_id": "luatdat2",
+                    "page": 89,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 355729,
+                    "end": 356115,
+                    "document_id": "luatdat2",
+                    "page": 90,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 355366,
+                "metadata": {
+                  "article": "164",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 17.082048378579923,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "bm25",
+          "requested_fields": []
+        },
+        "elapsed_ms": 5.6238999823108315
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "f354078c00a1f0756c79d24e1ceb1900",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek89PSwDiOXl9Q9KUdeqmqm2hfYYx",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_BvEw1wEsT3Pn1vPkGZyDlOTJ",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"quyền đối với thửa đất liền kề nhu cầu hạ tầng khoản 1 Điều 29\",\"mode\":\"bm25\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 414,
+          "completion_tokens": 45,
+          "total_tokens": 459,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.91e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek89R4tpSpUyJgJt8pUp1S5pXwK6j",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Quyền đối với thửa đất liền kề bao gồm các nhu cầu hạ tầng như: lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật [f354078c00a1f0756c79d24e1ceb1900].\",\"citations\":[\"f354078c00a1f0756c79d24e1ceb1900\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 29 đã nêu rõ các nhu cầu hạ tầng liên quan đến quyền đối với thửa đất liền kề.\",\"evidence_quotes\":[{\"id\":\"f354078c00a1f0756c79d24e1ceb1900\",\"quote\":\"Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1396,
+          "completion_tokens": 260,
+          "total_tokens": 1656,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0003654,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "bm25",
+    "autonomous": false,
+    "tool_trace_id": "6daa748f5cd24c638c9a2665aac4c0e0",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1810,
+      "completion_tokens": 305,
+      "total_tokens": 2115
+    },
+    "estimated_chat_cost_usd": 0.0004545,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4760.617599997204
+  }
+}

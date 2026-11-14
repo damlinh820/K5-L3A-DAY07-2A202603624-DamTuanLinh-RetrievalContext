@@ -1,0 +1,11 @@
+case_id,run_id,grounded_answer_0_2,citation_support_0_2,abstention_correct,review_reason,status
+q01,human_verified,2,2,false,"Đáp án đầy đủ, citation trỏ đúng context; cần xác nhận semantic cuối.",ai_suggestion
+q03,human_verified,0,0,false,"Có evidence định nghĩa chiếm đất trong context nhưng agent abstain.",ai_suggestion
+q04,human_verified,2,2,false,"Đáp án liệt kê đủ ba nhóm đất và citation hợp lệ.",ai_suggestion
+q05,human_verified,0,0,false,"Có evidence hành vi bị nghiêm cấm trong context nhưng agent abstain.",ai_suggestion
+q08,human_verified,1,1,false,"Đúng hướng nhưng diễn đạt có thể làm mất điều kiện/ngoại lệ; cần kiểm tra khoản 1 điểm a và khoản 4.",ai_suggestion
+q09,human_verified,0,0,false,"Có evidence về quy hoạch cấp dưới/cấp trên trong context nhưng agent abstain.",ai_suggestion
+q10,human_verified,0,0,false,"Có evidence về quyền đối với thửa đất liền kề trong context nhưng agent abstain.",ai_suggestion
+q15,human_verified,2,2,false,"Đáp án đầy đủ và citation trỏ đúng khoản 1 Điều 135.",ai_suggestion
+q21,human_verified,0,0,true,"Đúng hành vi abstain cho câu ngoài phạm vi corpus.",ai_suggestion
+q22,human_verified,0,0,true,"Đúng hành vi abstain cho câu ngoài phạm vi corpus.",ai_suggestion

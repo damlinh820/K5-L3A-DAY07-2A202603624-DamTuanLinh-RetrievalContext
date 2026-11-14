@@ -1,0 +1,23 @@
+{
+  "created_at_utc": "2026-11-14T08:22:38.948583+00:00",
+  "status": "human_verified_H1",
+  "source_day6": "D:\\AI20K\\day7\\K5-L3A-DAY06-2A202603624-DataIngestion\\benchmark\\questions.jsonl",
+  "source_day6_sha256": "fa49a88cd96ad388b778e1cc91f77ac928be0b05e211cdfa8f58fd85dd367f8c",
+  "candidate_source": "data\\benchmark_insufficient_candidates.json",
+  "corpus_path": "D:\\AI20K\\day7\\K5-L3A-DAY06-2A202603624-DataIngestion\\results\\chunks_C.jsonl",
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "output_sha256": "6c664d5217307e83f02a8a6baa803ab9bd5ec0216f80a17517612be91ff835fd",
+  "counts": {
+    "total": 24,
+    "answerable": 20,
+    "insufficient_evidence": 4,
+    "dev": 17,
+    "test": 7
+  },
+  "human_approval": {
+    "h1": true,
+    "reviewer": "DamTuanLinh",
+    "approved_at": "2026-11-14",
+    "notes": "Người dùng đã xác nhận q21-q24 thiếu evidence trong corpus Day 6."
+  }
+}

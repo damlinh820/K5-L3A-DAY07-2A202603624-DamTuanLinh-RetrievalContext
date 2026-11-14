@@ -1,0 +1,154 @@
+{
+  "query_id": "q02",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?",
+  "result": {
+    "status": "answered",
+    "answer": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận [b1d6c1eac664db0f5a23bcb8b2a48412].",
+    "citations": [
+      "b1d6c1eac664db0f5a23bcb8b2a48412"
+    ],
+    "abstained": false,
+    "context": "[b1d6c1eac664db0f5a23bcb8b2a48412] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 1 | Điều 3 | Khoản 1\nĐiều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n\n\n[ee316cd78a033ba57d018ce9fd279721] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 1 | Điều 3 | Khoản 2\nĐiều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n\n\n[64d3c45e3843c75c90a5cb965f6ab707] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 46 | Điều 50 | Khoản \nĐiều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+    "context_ids": [
+      "b1d6c1eac664db0f5a23bcb8b2a48412",
+      "ee316cd78a033ba57d018ce9fd279721",
+      "64d3c45e3843c75c90a5cb965f6ab707"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+            "text": "Điều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 1,
+            "metadata": {
+              "part": 1,
+              "article": "3",
+              "page_end": 1,
+              "document_id": "luatdat1",
+              "page": 1,
+              "clause": "1",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            },
+            "score": 0.03278688524590164,
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.6741018891334534,
+              "bm25": 44.084684372620174
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "ee316cd78a033ba57d018ce9fd279721",
+            "text": "Điều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 1,
+            "metadata": {
+              "page_end": 1,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "clause": "2",
+              "document_id": "luatdat1",
+              "article": "3",
+              "page": 1
+            },
+            "score": 0.03225806451612903,
+            "rrf_score": 0.03225806451612903,
+            "source_ranks": {
+              "dense": 2,
+              "bm25": 2
+            },
+            "source_scores": {
+              "dense": 0.6342747211456299,
+              "bm25": 35.14658135454861
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "64d3c45e3843c75c90a5cb965f6ab707",
+            "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 46,
+            "metadata": {
+              "document_id": "luatdat1",
+              "article": "50",
+              "page": 46,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "clause": "",
+              "part": 1,
+              "page_end": 46
+            },
+            "score": 0.03149801587301587,
+            "rrf_score": 0.03149801587301587,
+            "source_ranks": {
+              "dense": 4,
+              "bm25": 3
+            },
+            "source_scores": {
+              "dense": 0.5828766822814941,
+              "bm25": 33.95746962746414
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "b1d6c1eac664db0f5a23bcb8b2a48412",
+          "ee316cd78a033ba57d018ce9fd279721",
+          "64d3c45e3843c75c90a5cb965f6ab707"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 753,
+      "completion_tokens": 119,
+      "total_tokens": 872,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2860.5234999849927
+  }
+}

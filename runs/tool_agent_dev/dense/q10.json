@@ -1,0 +1,531 @@
+{
+  "query_id": "q10",
+  "question": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Quyền đối với thửa đất liền kề bao gồm các nhu cầu hạ tầng như: quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật. [f354078c00a1f0756c79d24e1ceb1900]",
+    "citations": [
+      "f354078c00a1f0756c79d24e1ceb1900"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 29 đã nêu rõ các nhu cầu hạ tầng liên quan đến quyền đối với thửa đất liền kề.",
+    "evidence_quotes": [
+      {
+        "id": "f354078c00a1f0756c79d24e1ceb1900",
+        "quote": "Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật."
+      }
+    ],
+    "context": "[f354078c00a1f0756c79d24e1ceb1900] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 25 | Điều 29 | Khoản None\nĐiều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n\n\n[3b324e68f7fd2925de82141c26421a91] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 24 | Điều 28 | Khoản 3\nĐiều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n\n\n[a6591c94f867b5a3454adcd64c68796b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 34 | Điều 219 | Khoản 8\nĐiều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+    "context_ids": [
+      "f354078c00a1f0756c79d24e1ceb1900",
+      "3b324e68f7fd2925de82141c26421a91",
+      "a6591c94f867b5a3454adcd64c68796b"
+    ],
+    "context_chars": 1278,
+    "context_tokens": 651,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_JADSv65NnJiTcUsKcIEdpXKc",
+        "round": 1,
+        "arguments": {
+          "query": "quyền đối với thửa đất liền kề khoản 1 Điều 29",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "f354078c00a1f0756c79d24e1ceb1900",
+            "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 25,
+            "page_end": 25,
+            "provenance": [
+              {
+                "start": 44105,
+                "end": 44665,
+                "document_id": "luatdat1",
+                "page": 25,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 44105,
+            "metadata": {
+              "article": "29",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.7880667448043823,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "3b324e68f7fd2925de82141c26421a91",
+            "text": "Điều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 24,
+            "page_end": 24,
+            "provenance": [
+              {
+                "start": 43932,
+                "end": 44105,
+                "document_id": "luatdat1",
+                "page": 24,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 43932,
+            "metadata": {
+              "article": "28",
+              "clause": "3",
+              "part": 1
+            },
+            "score": 0.6547467708587646,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "a6591c94f867b5a3454adcd64c68796b",
+            "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 34,
+            "page_end": 34,
+            "provenance": [
+              {
+                "start": 444611,
+                "end": 444652,
+                "document_id": "luatdat3",
+                "page": 34,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 444611,
+            "metadata": {
+              "article": "219",
+              "clause": "8",
+              "part": 3
+            },
+            "score": 0.612285315990448,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "f354078c00a1f0756c79d24e1ceb1900",
+          "3b324e68f7fd2925de82141c26421a91",
+          "a6591c94f867b5a3454adcd64c68796b"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+          "variants": [
+            "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "f354078c00a1f0756c79d24e1ceb1900",
+                "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 44105,
+                    "end": 44665,
+                    "document_id": "luatdat1",
+                    "page": 25,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 44105,
+                "metadata": {
+                  "article": "29",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.7880667448043823,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "3b324e68f7fd2925de82141c26421a91",
+                "text": "Điều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 24,
+                "page_end": 24,
+                "provenance": [
+                  {
+                    "start": 43932,
+                    "end": 44105,
+                    "document_id": "luatdat1",
+                    "page": 24,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 43932,
+                "metadata": {
+                  "article": "28",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.6547467708587646,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a6591c94f867b5a3454adcd64c68796b",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 444611,
+                    "end": 444652,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 444611,
+                "metadata": {
+                  "article": "219",
+                  "clause": "8",
+                  "part": 3
+                },
+                "score": 0.612285315990448,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "1c90cf3c5ff694c1065a3b04790ab383",
+                "text": "Điều 13. Quyền của Nhà nước là đại diện chủ sở hữu về đất đai\n9. Công nhận quyền sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 22060,
+                    "end": 22092,
+                    "document_id": "luatdat1",
+                    "page": 13,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 22060,
+                "metadata": {
+                  "article": "13",
+                  "clause": "9",
+                  "part": 1
+                },
+                "score": 0.5942072868347168,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "ad6bdcff5f061a528a6c6b5c20a748e1",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n5. Đối với diện tích đất do cơ quan, tổ chức của Nhà nước quản lý có trong khu vực thực hiện góp quyền sử dụng đất, điều chỉnh lại đất đai được sử dụng như sau:\na) Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư;\nb) Đấu giá quyền sử dụng đất đối với phần diện tích đất còn lại sau khi sử dụng đất theo điểm a khoản này. Tiền thu được từ việc đấu giá quyền sử dụng đất được sử dụng để thực hiện dự án.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 443512,
+                    "end": 443942,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 443512,
+                "metadata": {
+                  "article": "219",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 0.5925294160842896,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+                "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 21,
+                "page_end": 21,
+                "provenance": [
+                  {
+                    "start": 36623,
+                    "end": 37502,
+                    "document_id": "luatdat1",
+                    "page": 21,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 36623,
+                "metadata": {
+                  "article": "26",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.5921920537948608,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "26f9aa0e46fb07057eae48faea0575ee",
+                "text": "Điều 13. Quyền của Nhà nước là đại diện chủ sở hữu về đất đai\n6. Quyết định trưng dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 21828,
+                    "end": 21858,
+                    "document_id": "luatdat1",
+                    "page": 13,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 21828,
+                "metadata": {
+                  "article": "13",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.5915398597717285,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "84ce1887be182b1d63f8383a9accfb2f",
+                "text": "Điều 129. Hồ sơ địa chính\n3. Hồ sơ địa chính được sử dụng vào các mục đích sau đây:\na) Làm công cụ quản lý đất đai;\nb) Bảo vệ quyền và xác định nghĩa vụ của người sử dụng đất, người được giao quản lý đất, chủ sở hữu tài sản gắn liền với đất, tổ chức, cá nhân có liên quan theo quy định của pháp luật về đất đai;\nc) Xác định các khoản thu tài chính từ đất đai;\nd) Giám sát biến động thị trường quyền sử dụng đất;\nđ) Hỗ trợ người sử dụng đất trong việc tiếp cận vốn tín dụng;\ne) Hỗ trợ các ngành, các cấp chỉ đạo, điều hành, xây dựng, triển khai và giám sát việc thực hiện quy hoạch, phát triển cơ sở hạ tầng;\ng) Cung cấp thông tin cho các cơ quan có thẩm quyền trong việc giải quyết tranh chấp liên quan đến quyền sử dụng đất và tài sản gắn liền với đất;\nh) Cung cấp thông tin cho tổ chức, cá nhân có nhu cầu tiếp cận đất đai.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 38,
+                "page_end": 39,
+                "provenance": [
+                  {
+                    "start": 251741,
+                    "end": 252323,
+                    "document_id": "luatdat2",
+                    "page": 38,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 252323,
+                    "end": 252541,
+                    "document_id": "luatdat2",
+                    "page": 39,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 251741,
+                "metadata": {
+                  "article": "129",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.5898110270500183,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "397d92c6d003518fe1228b4c62f33072",
+                "text": "Điều 13. Quyền của Nhà nước là đại diện chủ sở hữu về đất đai\n3. Quy định hạn mức sử dụng đất gồm hạn mức giao đất nông nghiệp, hạn mức giao đất ở, hạn mức công nhận đất ở và hạn mức nhận chuyển quyền sử dụng đất nông nghiệp.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 21601,
+                    "end": 21765,
+                    "document_id": "luatdat1",
+                    "page": 13,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 21601,
+                "metadata": {
+                  "article": "13",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.5879249572753906,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "37ad72566e2eb0c9898447e4a93f81d6",
+                "text": "Điều 80. Căn cứ, điều kiện thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Việc thu hồi đất theo quy định tại khoản 26 và khoản 27 Điều 79 của Luật này phải đáp ứng điều kiện quy định tại các khoản 1, 2 và 3 Điều này và để tạo quỹ đất do Nhà nước đầu tư để quản lý, khai thác hoặc giao đất, cho thuê đất cho nhà đầu tư theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 144507,
+                    "end": 144783,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 144507,
+                "metadata": {
+                  "article": "80",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.5869556665420532,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1235.772399988491
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "f354078c00a1f0756c79d24e1ceb1900",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek87h4fVz1DkrVk9LKtU3Qav6qXLN",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_JADSv65NnJiTcUsKcIEdpXKc",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"quyền đối với thửa đất liền kề khoản 1 Điều 29\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 413,
+          "completion_tokens": 39,
+          "total_tokens": 452,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.535e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek87j0GnCb0ctA361pyjQheplL4dK",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Quyền đối với thửa đất liền kề bao gồm các nhu cầu hạ tầng như: quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\",\"citations\":[\"f354078c00a1f0756c79d24e1ceb1900\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 29 đã nêu rõ các nhu cầu hạ tầng liên quan đến quyền đối với thửa đất liền kề.\",\"evidence_quotes\":[{\"id\":\"f354078c00a1f0756c79d24e1ceb1900\",\"quote\":\"Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1039,
+          "completion_tokens": 241,
+          "total_tokens": 1280,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00030045,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "702a4759b6b24963ae8b5f69f17494fd",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1452,
+      "completion_tokens": 280,
+      "total_tokens": 1732
+    },
+    "estimated_chat_cost_usd": 0.0003858,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 5637.11469998816
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "run_id": "agent_dev_fixed",
+    "case_id": "q03",
+    "trace_sha256": "9e2f3e837977e6d9e80f7bff29124a0608ba555cb77d8659cf156029fd811ccd",
+    "status": "pending_human_review",
+    "reviewer": null,
+    "reviewed_at": null,
+    "source_verified": null,
+    "evidence_sufficiency_0_2": null,
+    "grounded_answer_0_2": null,
+    "abstention_correct": false,
+    "notes": "",
+    "citation_reviews": [],
+    "proposed_evidence_sufficiency_0_2": 2,
+    "proposed_grounded_answer_0_2": 0,
+    "previous_context_grade": 0,
+    "question": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 2,
+        "evidence_quote": "9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép."
+      }
+    ],
+    "context": "[109c074508d73b0e59564caed899c759] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 2 | Điều 3 | Khoản 9\nĐiều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n\n\n[83f5840fbb119e11c3e616249e7ed1b2] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 6 | Điều 178 | Khoản 1\nĐiều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp do cá nhân sử dụng bao gồm đất nông nghiệp được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất; do thuê quyền sử dụng đất của người sử dụng đất khác; do nhận chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất theo quy định của pháp luật.\n\n\n[c4c18c9b09d59b2100eb3f9ae97b08a1] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 5 | Điều 3 | Khoản 31\nĐiều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "result_status": "abstain",
+    "trace_artifact": "runs/agent_dev_fixed/q03.json",
+    "proposal_reason": "Context đã chứa quote gold và nguồn/trang trực tiếp. Đề xuất context 2; grounded giữ 0 vì agent abstain trên câu có đáp án. Chờ người học đối chiếu và xác nhận."
+  },
+  {
+    "run_id": "agent_dev_fixed",
+    "case_id": "q05",
+    "trace_sha256": "d5dedcfc5852845afdcd3a36f589af044f36ec20ea5d079b94dff44d9ce23d40",
+    "status": "pending_human_review",
+    "reviewer": null,
+    "reviewed_at": null,
+    "source_verified": null,
+    "evidence_sufficiency_0_2": null,
+    "grounded_answer_0_2": null,
+    "abstention_correct": false,
+    "notes": "",
+    "citation_reviews": [],
+    "proposed_evidence_sufficiency_0_2": 2,
+    "proposed_grounded_answer_0_2": 0,
+    "previous_context_grade": 0,
+    "question": "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 11,
+        "evidence_quote": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai 1. Lấn đất, chiếm đất, hủy hoại đất."
+      }
+    ],
+    "context": "[fdbe051504d74d83dcd190c1ddd9ad01] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 11 | Điều 11 | Khoản \nĐiều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n\n\n[f9a88b7b0c664b68e453730f8b1d1a69] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 76 | Điều 81 | Khoản 2\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n\n\n[17f8cbaa9684379b9fdd6fc99dd801de] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 5\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "result_status": "abstain",
+    "trace_artifact": "runs/agent_dev_fixed/q05.json",
+    "proposal_reason": "Context đã chứa quote gold và nguồn/trang trực tiếp. Đề xuất context 2; grounded giữ 0 vì agent abstain trên câu có đáp án. Chờ người học đối chiếu và xác nhận."
+  },
+  {
+    "run_id": "agent_dev_fixed",
+    "case_id": "q09",
+    "trace_sha256": "4833aeeed3056d37f9713719aca7e2418d3bec955d51b0f8e898a9d7f631e91b",
+    "status": "pending_human_review",
+    "reviewer": null,
+    "reviewed_at": null,
+    "source_verified": null,
+    "evidence_sufficiency_0_2": null,
+    "grounded_answer_0_2": null,
+    "abstention_correct": false,
+    "notes": "",
+    "citation_reviews": [],
+    "proposed_evidence_sufficiency_0_2": 2,
+    "proposed_grounded_answer_0_2": 0,
+    "previous_context_grade": 0,
+    "question": "Theo nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 53,
+        "evidence_quote": "quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên;"
+      }
+    ],
+    "context": "[e4ffaa13606d5cb7478e46fa7151739d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 53 | Điều 60 | Khoản 4\nĐiều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n\n\n[49a2bfc7e0bc26eec966d6af4d1482a4] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 53 | Điều 60 | Khoản 1\nĐiều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n\n\n[78c8913c5c2cf398a7ebe7d7a27cbdbe] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 53 | Điều 60 | Khoản 2\nĐiều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc gia nhằm sử dụng đất tiết kiệm, hiệu quả.\n",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "result_status": "abstain",
+    "trace_artifact": "runs/agent_dev_fixed/q09.json",
+    "proposal_reason": "Context đã chứa quote gold và nguồn/trang trực tiếp. Đề xuất context 2; grounded giữ 0 vì agent abstain trên câu có đáp án. Chờ người học đối chiếu và xác nhận."
+  },
+  {
+    "run_id": "agent_dev_fixed",
+    "case_id": "q10",
+    "trace_sha256": "baaa0f0862b794c9f8d6172881cbd12a9f3e6eed6ac1cc6d75b9194165310143",
+    "status": "pending_human_review",
+    "reviewer": null,
+    "reviewed_at": null,
+    "source_verified": null,
+    "evidence_sufficiency_0_2": null,
+    "grounded_answer_0_2": null,
+    "abstention_correct": false,
+    "notes": "",
+    "citation_reviews": [],
+    "proposed_evidence_sufficiency_0_2": 2,
+    "proposed_grounded_answer_0_2": 0,
+    "previous_context_grade": 0,
+    "question": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 25,
+        "evidence_quote": "1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật."
+      }
+    ],
+    "context": "[f354078c00a1f0756c79d24e1ceb1900] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 25 | Điều 29 | Khoản \nĐiều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n\n\n[3b324e68f7fd2925de82141c26421a91] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 24 | Điều 28 | Khoản 3\nĐiều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n\n\n[e89dff3515d6d03c7fc61536c2fbb9c3] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 12 | Điều 105 | Khoản None\nĐiều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "result_status": "abstain",
+    "trace_artifact": "runs/agent_dev_fixed/q10.json",
+    "proposal_reason": "Context đã chứa quote gold và nguồn/trang trực tiếp. Đề xuất context 2; grounded giữ 0 vì agent abstain trên câu có đáp án. Chờ người học đối chiếu và xác nhận."
+  }
+]

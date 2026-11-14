@@ -1,0 +1,146 @@
+{
+  "query_id": "q03",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?",
+  "result": {
+    "status": "answered",
+    "answer": "Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép [109c074508d73b0e59564caed899c759].",
+    "citations": [
+      "109c074508d73b0e59564caed899c759"
+    ],
+    "abstained": false,
+    "context": "[109c074508d73b0e59564caed899c759] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 2 | Điều 3 | Khoản 9\nĐiều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n\n\n[83f5840fbb119e11c3e616249e7ed1b2] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 6 | Điều 178 | Khoản 1\nĐiều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp do cá nhân sử dụng bao gồm đất nông nghiệp được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất; do thuê quyền sử dụng đất của người sử dụng đất khác; do nhận chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất theo quy định của pháp luật.\n\n\n[c4c18c9b09d59b2100eb3f9ae97b08a1] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 5 | Điều 3 | Khoản 31\nĐiều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+    "context_ids": [
+      "109c074508d73b0e59564caed899c759",
+      "83f5840fbb119e11c3e616249e7ed1b2",
+      "c4c18c9b09d59b2100eb3f9ae97b08a1"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "109c074508d73b0e59564caed899c759",
+            "text": "Điều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 2,
+            "metadata": {
+              "article": "3",
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "page": 2,
+              "document_id": "luatdat1",
+              "clause": "9",
+              "page_end": 2
+            },
+            "score": 0.030886196246139225,
+            "rrf_score": 0.030886196246139225,
+            "source_ranks": {
+              "dense": 9,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.6419087648391724,
+              "bm25": 40.431427830269214
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "83f5840fbb119e11c3e616249e7ed1b2",
+            "text": "Điều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp do cá nhân sử dụng bao gồm đất nông nghiệp được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất; do thuê quyền sử dụng đất của người sử dụng đất khác; do nhận chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất theo quy định của pháp luật.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 6,
+            "metadata": {
+              "article": "178",
+              "clause": "1",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "page": 6,
+              "page_end": 6,
+              "document_id": "luatdat3",
+              "part": 3
+            },
+            "score": 0.01639344262295082,
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "dense": 1
+            },
+            "source_scores": {
+              "dense": 0.7076376676559448
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "c4c18c9b09d59b2100eb3f9ae97b08a1",
+            "text": "Điều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 5,
+            "metadata": {
+              "part": 1,
+              "article": "3",
+              "clause": "31"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 24.832664546875755
+            }
+          }
+        ],
+        "context_ids": [
+          "109c074508d73b0e59564caed899c759",
+          "83f5840fbb119e11c3e616249e7ed1b2",
+          "c4c18c9b09d59b2100eb3f9ae97b08a1"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "109c074508d73b0e59564caed899c759",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 635,
+      "completion_tokens": 103,
+      "total_tokens": 738,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 3567.093699995894
+  }
+}

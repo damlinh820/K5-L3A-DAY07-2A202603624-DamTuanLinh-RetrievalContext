@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "report": "report/individual/2A202603624_DamTuanLinh.md",
+  "report_sha256": "4de82379a762f980059e033a90470239ce4688472d673f4c0d3ff57a062dcebf",
+  "metrics": "reports/metrics.json",
+  "metrics_sha256": "b5789356dccc2445e5531c72288e97b40e8522529b34abcdca659ec6906c552f",
+  "final_test_run": "runs/final_holdout_v1",
+  "note": "H1/H2 and all 14 H3 labels confirmed; report and metrics finalized from the original traces without model rerun."
+}

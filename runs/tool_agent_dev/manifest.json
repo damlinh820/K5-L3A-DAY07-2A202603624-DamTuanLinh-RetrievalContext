@@ -1,0 +1,308 @@
+{
+  "started_at_utc": "2026-11-14T13:29:18.896129+00:00",
+  "evaluation_type": "dev",
+  "config": {
+    "modes": [
+      "dense",
+      "bm25",
+      "hybrid_rrf",
+      "hybrid_improved"
+    ],
+    "split": "dev",
+    "model": "gpt-4o-mini",
+    "top_k": 3,
+    "candidate_k": 10,
+    "rrf_k": 60,
+    "max_rounds": 1,
+    "context_budget_chars": 6000,
+    "max_run_estimated_usd": 0.2
+  },
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "benchmark_sha256": "6c664d5217307e83f02a8a6baa803ab9bd5ec0216f80a17517612be91ff835fd",
+  "code_hashes": {
+    "src\\agent.py": "e945cace7141daf0c1ea0aebeff6289f5bf6d67715d312b21ca0237a08b5afb5",
+    "src\\api.py": "97094f53d3ccec089b6d4ca6be1ec4f02922f337f60f207f2cea4f6807c36d75",
+    "src\\citation.py": "96e8cd3be4034fba26ab7f0817053160256b9a41e93692eacf728ba999985abe",
+    "src\\cli.py": "8e08401de49fdc4f38b3dbfced018ff38e8279d4b8ab0d8e42161513103e5296",
+    "src\\context.py": "b3557c3d2b649b9150e38e1079b11f884504ea7a84f339d7a5f99804b7cc2b92",
+    "src\\evaluation.py": "0670f7d29b32807566919a6c0980f9613bc68d7eb0e21756112b9bc491783e12",
+    "src\\pipeline.py": "c46ce4783cd635758e0ab4b439f082f55496010ca82509c4326121157ee06575",
+    "src\\rerank.py": "f7c7298a7bf38ced594fe68640de0cbed26cc436a1202b63a3dcee614ca31c97",
+    "src\\retrieval.py": "356fc5274d19c13f0f1330cbc4ebdfffff4bbcc1c6dc7fb3e0d6656d6aade0a6",
+    "src\\settings.py": "14b3d54f21f9ddcef3ced39f5307b8b92da163fd20d70582b7d88ce111ba5435",
+    "src\\tool_agent.py": "bcfdb70309aa22db517133f12e49ff6af2d0e8f20286a62e4178c14859ce7443"
+  },
+  "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+  "semantic_review_status": "pending_human_review",
+  "completed_at_utc": "2026-11-14T13:35:41.333833+00:00",
+  "status": "finished",
+  "estimated_chat_cost_usd": 0.03283995000000001,
+  "embedding_usage": [
+    {
+      "query_hash": "c0e075a75c12b29504dd0a79b4c38c6a5d3001cf265297dd01d2981d50f2e26e",
+      "usage": {
+        "prompt_tokens": 29,
+        "total_tokens": 29,
+        "cost": 5.8e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 5.8e-07,
+          "upstream_inference_prompt_cost": 5.8e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "e3da70368b45bebb2fd3e281d097033ae1d8a454bbf5730402e9068446730406",
+      "usage": {
+        "prompt_tokens": 37,
+        "total_tokens": 37,
+        "cost": 7.4e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 7.4e-07,
+          "upstream_inference_prompt_cost": 7.4e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "671987bcf1b4c1480bf48f5015d3e1bf0a9db26deb3f84c58341208deb67a191",
+      "usage": {
+        "prompt_tokens": 60,
+        "total_tokens": 60,
+        "cost": 1.2e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.2e-06,
+          "upstream_inference_prompt_cost": 1.2e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "7df4e08daefc6a6ac026a6ffc440676182220da4b08390a8c29d2626f21d985a",
+      "usage": {
+        "prompt_tokens": 34,
+        "total_tokens": 34,
+        "cost": 6.8e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 6.8e-07,
+          "upstream_inference_prompt_cost": 6.8e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "8935435548601056e932588861bfd2ed93ec31859bce339ed091c14d45b6ae5a",
+      "usage": {
+        "prompt_tokens": 54,
+        "total_tokens": 54,
+        "cost": 1.08e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.08e-06,
+          "upstream_inference_prompt_cost": 1.08e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "292b6138466f67225df774cf138aabe3860b04a4adabeec95f51731ffccd9bba",
+      "usage": {
+        "prompt_tokens": 44,
+        "total_tokens": 44,
+        "cost": 8.8e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 8.8e-07,
+          "upstream_inference_prompt_cost": 8.8e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "8952542509e4918dacb0934e6dd1eae20a734b3d1669b5e049d6544f990ec03b",
+      "usage": {
+        "prompt_tokens": 53,
+        "total_tokens": 53,
+        "cost": 1.06e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.06e-06,
+          "upstream_inference_prompt_cost": 1.06e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "12625d15ab8f3e61dc40650b1d3bdd481a2910ab1f3109374d2e5be98e4576a1",
+      "usage": {
+        "prompt_tokens": 73,
+        "total_tokens": 73,
+        "cost": 1.46e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.46e-06,
+          "upstream_inference_prompt_cost": 1.46e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "3786c275bc9c45ec2bf267ec21948e1d45a761d7b8de318a31970245e6dbaf4d",
+      "usage": {
+        "prompt_tokens": 53,
+        "total_tokens": 53,
+        "cost": 1.06e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.06e-06,
+          "upstream_inference_prompt_cost": 1.06e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "47249406e32c8ad2b3ec482d561c55ed743f5203f107cdbe6eea3851867e3d85",
+      "usage": {
+        "prompt_tokens": 51,
+        "total_tokens": 51,
+        "cost": 1.02e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.02e-06,
+          "upstream_inference_prompt_cost": 1.02e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "5ef88001dd844f655b1688421356bdfe25a0af624da588ba29dd15f48b65dc78",
+      "usage": {
+        "prompt_tokens": 57,
+        "total_tokens": 57,
+        "cost": 1.14e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.14e-06,
+          "upstream_inference_prompt_cost": 1.14e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "0c4f877dba8e991cfc355fa6d067ae688e2ca0ab8061f494286a32ff5a318fe0",
+      "usage": {
+        "prompt_tokens": 68,
+        "total_tokens": 68,
+        "cost": 1.36e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.36e-06,
+          "upstream_inference_prompt_cost": 1.36e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "598bf327db256480765a0ba11ff002ea459f3fc0eb2e8f567f02040a8cba0023",
+      "usage": {
+        "prompt_tokens": 70,
+        "total_tokens": 70,
+        "cost": 1.4e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.4e-06,
+          "upstream_inference_prompt_cost": 1.4e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "772abc41c6198ff6f5db118ccd911a42839fe3c7ea83a95575a1f4ddd36b43e4",
+      "usage": {
+        "prompt_tokens": 49,
+        "total_tokens": 49,
+        "cost": 9.8e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 9.8e-07,
+          "upstream_inference_prompt_cost": 9.8e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "d707b978246e1ce43385098ff9c574ad44c5d8ce3628b6b3ce4a280cc071bf50",
+      "usage": {
+        "prompt_tokens": 60,
+        "total_tokens": 60,
+        "cost": 1.2e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.2e-06,
+          "upstream_inference_prompt_cost": 1.2e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "bf77829da628bca2b25f6d04dee4802c06c3f2d3bf19e6c909e6100a685c472e",
+      "usage": {
+        "prompt_tokens": 54,
+        "total_tokens": 54,
+        "cost": 1.08e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.08e-06,
+          "upstream_inference_prompt_cost": 1.08e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "2f5e63f7e4f999470b6bc28db0e28c635757cc28a64563d2b9d6bfacaff0305c",
+      "usage": {
+        "prompt_tokens": 56,
+        "total_tokens": 56,
+        "cost": 1.12e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.12e-06,
+          "upstream_inference_prompt_cost": 1.12e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "9ea3ae612d9d6b705b24a2059c3669bb91fef47ca52b45c30c8b1916e7c2a692",
+      "usage": {
+        "prompt_tokens": 39,
+        "total_tokens": 39,
+        "cost": 7.8e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 7.8e-07,
+          "upstream_inference_prompt_cost": 7.8e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "0133dbcc5d86056e10998448559d74481d44ea06fa4067af1001d64b13226fa8",
+      "usage": {
+        "prompt_tokens": 55,
+        "total_tokens": 55,
+        "cost": 1.1e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.1e-06,
+          "upstream_inference_prompt_cost": 1.1e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    }
+  ]
+}

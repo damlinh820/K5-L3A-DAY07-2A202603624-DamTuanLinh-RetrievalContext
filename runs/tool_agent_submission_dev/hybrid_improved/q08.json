@@ -1,0 +1,876 @@
+{
+  "query_id": "q08",
+  "question": "Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác.",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Có, Điều 45 khoản 1 điểm a quy định rằng điều kiện có Giấy chứng nhận quyền sử dụng đất không áp dụng cho trường hợp thừa kế quyền sử dụng đất. Cụ thể, trong trường hợp thừa kế quyền sử dụng đất, người nhận thừa kế vẫn có thể thực hiện quyền mà không cần có Giấy chứng nhận, miễn là họ đủ điều kiện để cấp Giấy chứng nhận theo quy định của Luật này. [8ca8b881dd1a173f9471a07ffaaaa046] [4be2717b2b9b1d33dcc59af4cbe7b253]",
+    "citations": [
+      "8ca8b881dd1a173f9471a07ffaaaa046",
+      "4be2717b2b9b1d33dcc59af4cbe7b253"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 45 đã nêu rõ về ngoại lệ cho việc thừa kế quyền sử dụng đất.",
+    "evidence_quotes": [
+      {
+        "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+        "quote": "trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;"
+      },
+      {
+        "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+        "quote": "Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này."
+      }
+    ],
+    "context": "[8ca8b881dd1a173f9471a07ffaaaa046] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 40 | Điều 45 | Khoản 1\nĐiều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất khi có đủ các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự;\nd) Trong thời hạn sử dụng đất;\nđ) Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.\n\n\n[4be2717b2b9b1d33dcc59af4cbe7b253] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 41 | Điều 45 | Khoản 4\nĐiều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n\n\n[6006926c5ff35baaff4022efc1dd1d9d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 46 | Điều 135 | Khoản 7\nĐiều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n\n\n[c65199a5136781a2ce5f3a39e64750e9] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 41 | Điều 45 | Khoản 2\nĐiều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n2. Trường hợp chủ đầu tư chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản thì ngoài các điều kiện quy định tại khoản 1 Điều này còn phải đáp ứng điều kiện khác theo quy định của Luật Kinh doanh bất động sản, Luật Nhà ở.\n\n\n[ac3b4801af2f2edd5125c7891b9588ab] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 41 | Điều 45 | Khoản 3\nĐiều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n3. Người sử dụng đất khi thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất thì ngoài các điều kiện quy định tại khoản 1 Điều này còn phải đáp ứng các điều kiện theo các trường hợp sau đây:\na) Đối với trường hợp mua, bán tài sản gắn liền với đất, quyền thuê trong hợp đồng thuê đất được Nhà nước cho thuê thu tiền thuê đất hằng năm thì phải đáp ứng điều kiện quy định tại Điều 46 của Luật này;\nb) Đối với trường hợp chuyển đổi quyền sử dụng đất nông nghiệp thì phải đáp ứng điều kiện quy định tại Điều 47 của Luật này;\nc) Đối với trường hợp thực hiện quyền sử dụng đất của cá nhân là người dân tộc thiểu số được giao đất, cho thuê đất theo quy định tại khoản 3 Điều 16 của Luật này thì phải đáp ứng điều kiện quy định tại Điều 48 của Luật này.\n\n\n[3688b9b49deb7d5f80940a94cdda57f9] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 42 | Điều 45 | Khoản 5\nĐiều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n5. Trường hợp người sử dụng đất được chậm thực hiện nghĩa vụ tài chính hoặc được ghi nợ nghĩa vụ tài chính thì phải thực hiện xong nghĩa vụ tài chính trước khi thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\n",
+    "context_ids": [
+      "8ca8b881dd1a173f9471a07ffaaaa046",
+      "4be2717b2b9b1d33dcc59af4cbe7b253",
+      "6006926c5ff35baaff4022efc1dd1d9d",
+      "c65199a5136781a2ce5f3a39e64750e9",
+      "ac3b4801af2f2edd5125c7891b9588ab",
+      "3688b9b49deb7d5f80940a94cdda57f9"
+    ],
+    "context_chars": 5291,
+    "context_tokens": 2709,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_ec0ud7A91LC2qLWTwJWJEXDM",
+        "round": 1,
+        "arguments": {
+          "query": "Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác.",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác.",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+            "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất khi có đủ các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự;\nd) Trong thời hạn sử dụng đất;\nđ) Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 40,
+            "page_end": 41,
+            "provenance": [
+              {
+                "start": 75447,
+                "end": 76165,
+                "document_id": "luatdat1",
+                "page": 40,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              },
+              {
+                "start": 76165,
+                "end": 76620,
+                "document_id": "luatdat1",
+                "page": 41,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 75447,
+            "metadata": {
+              "article": "45",
+              "clause": "1",
+              "part": 1
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03252247488101534,
+            "source_ranks": {
+              "retrieval": 2,
+              "explicit_locator": 1
+            },
+            "source_scores": {
+              "retrieval": 0.031544957774465976,
+              "explicit_locator": 0.0
+            },
+            "rank": 1
+          },
+          {
+            "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+            "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 41,
+            "page_end": 41,
+            "provenance": [
+              {
+                "start": 77713,
+                "end": 78202,
+                "document_id": "luatdat1",
+                "page": 41,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 77713,
+            "metadata": {
+              "article": "45",
+              "clause": "4",
+              "part": 1
+            },
+            "score": 0.01639344262295082,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "retrieval": 1
+            },
+            "source_scores": {
+              "retrieval": 0.03252247488101534
+            },
+            "rank": 2
+          },
+          {
+            "id": "6006926c5ff35baaff4022efc1dd1d9d",
+            "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 46,
+            "page_end": 46,
+            "provenance": [
+              {
+                "start": 267316,
+                "end": 267521,
+                "document_id": "luatdat2",
+                "page": 46,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 267316,
+            "metadata": {
+              "article": "135",
+              "clause": "7",
+              "part": 2
+            },
+            "score": 0.015873015873015872,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.015873015873015872,
+            "source_ranks": {
+              "retrieval": 3
+            },
+            "source_scores": {
+              "retrieval": 0.016129032258064516
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "8ca8b881dd1a173f9471a07ffaaaa046",
+          "4be2717b2b9b1d33dcc59af4cbe7b253",
+          "6006926c5ff35baaff4022efc1dd1d9d",
+          "c65199a5136781a2ce5f3a39e64750e9",
+          "ac3b4801af2f2edd5125c7891b9588ab",
+          "3688b9b49deb7d5f80940a94cdda57f9"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác.",
+          "variants": [
+            "Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác."
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 41,
+                "page_end": 41,
+                "provenance": [
+                  {
+                    "start": 77713,
+                    "end": 78202,
+                    "document_id": "luatdat1",
+                    "page": 41,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 77713,
+                "metadata": {
+                  "article": "45",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.6505574584007263,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "6006926c5ff35baaff4022efc1dd1d9d",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 46,
+                "page_end": 46,
+                "provenance": [
+                  {
+                    "start": 267316,
+                    "end": 267521,
+                    "document_id": "luatdat2",
+                    "page": 46,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 267316,
+                "metadata": {
+                  "article": "135",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.6412977576255798,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c03ecb66c0ff16b0e6c689a900b2aa8e",
+                "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n9. Nhà nước có trách nhiệm cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho các trường hợp đã đăng ký và đủ điều kiện theo quy định tại Điều này;\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 55,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 286985,
+                    "end": 287163,
+                    "document_id": "luatdat2",
+                    "page": 55,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 286985,
+                "metadata": {
+                  "article": "138",
+                  "clause": "9",
+                  "part": 2
+                },
+                "score": 0.6411852240562439,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "188c3be61c5c95f31c7fc276533a18b2",
+                "text": "Điều 185. Đất rừng phòng hộ\n3. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 11,
+                "page_end": 11,
+                "provenance": [
+                  {
+                    "start": 387939,
+                    "end": 388212,
+                    "document_id": "luatdat3",
+                    "page": 11,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 387939,
+                "metadata": {
+                  "article": "185",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 0.6401723623275757,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a7f5b556c8516d78e9996345aaa89b16",
+                "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n7. Việc áp dụng quy định về hạn mức đất ở của địa phương để xác định diện tích đất ở trong các trường hợp quy định tại các khoản 1, 2, 3, 4 và 5 Điều này được thực hiện theo quy định của pháp luật tại thời điểm người sử dụng đất nộp hồ sơ để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 55,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 286322,
+                    "end": 286642,
+                    "document_id": "luatdat2",
+                    "page": 55,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 286322,
+                "metadata": {
+                  "article": "138",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.6397140026092529,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất khi có đủ các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự;\nd) Trong thời hạn sử dụng đất;\nđ) Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 40,
+                "page_end": 41,
+                "provenance": [
+                  {
+                    "start": 75447,
+                    "end": 76165,
+                    "document_id": "luatdat1",
+                    "page": 40,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 76165,
+                    "end": 76620,
+                    "document_id": "luatdat1",
+                    "page": 41,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 75447,
+                "metadata": {
+                  "article": "45",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.638869047164917,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "193083121b19689a9c97921719e207d5",
+                "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n8. Trường hợp người đang sử dụng đất có một trong giấy tờ quy định tại các khoản 1, 2, 3, 4, 5, 6 và 7 của Điều này mà trên giấy tờ đó có các thời điểm khác nhau thì người sử dụng đất được chọn thời điểm trên giấy tờ để làm căn cứ cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 50,
+                "page_end": 50,
+                "provenance": [
+                  {
+                    "start": 276607,
+                    "end": 276916,
+                    "document_id": "luatdat2",
+                    "page": 50,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 276607,
+                "metadata": {
+                  "article": "137",
+                  "clause": "8",
+                  "part": 2
+                },
+                "score": 0.635257363319397,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c3109f01be14517ff96699fcad9118ea",
+                "text": "Điều 186. Đất rừng đặc dụng\n4. Người được Nhà nước giao đất quy định tại khoản 1 Điều này được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất nhưng không được ghi nhận tài sản là tài sản công trên Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 11,
+                "page_end": 11,
+                "provenance": [
+                  {
+                    "start": 389386,
+                    "end": 389659,
+                    "document_id": "luatdat3",
+                    "page": 11,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 389386,
+                "metadata": {
+                  "article": "186",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.6345952749252319,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "2421f32f07c0006624ad43bfc21ad7d0",
+                "text": "Điều 149. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở\n5. Trường hợp chủ sở hữu công trình xây dựng không có quyền sử dụng đất đối với thửa đất đó thì phải có giấy tờ chứng minh về quyền sở hữu công trình xây dựng theo quy định tại Điều này và hợp đồng thuê đất hoặc hợp đồng góp vốn hoặc hợp đồng hợp tác kinh doanh hoặc văn bản chấp thuận của người sử dụng đất đồng ý cho xây dựng công trình đã được công chứng hoặc chứng thực theo quy định của pháp luật thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 71,
+                "page_end": 71,
+                "provenance": [
+                  {
+                    "start": 319784,
+                    "end": 320273,
+                    "document_id": "luatdat2",
+                    "page": 71,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 319784,
+                "metadata": {
+                  "article": "149",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 0.632365882396698,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "708ea568b5889d5d81df92edd85dcb3c",
+                "text": "Điều 140. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho hộ gia đình, cá nhân đang sử dụng đất được giao không đúng thẩm quyền Đất được giao không đúng thẩm quyền cho hộ gia đình, cá nhân theo quy định của pháp luật về đất đai tại thời điểm được giao hoặc sử dụng đất do mua, nhận thanh lý, hóa giá, phân phối nhà ở, công trình xây dựng gắn liền với đất không đúng quy định của pháp luật thì việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện như sau:\n7. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 59,
+                "page_end": 59,
+                "provenance": [
+                  {
+                    "start": 295030,
+                    "end": 295071,
+                    "document_id": "luatdat2",
+                    "page": 59,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 295030,
+                "metadata": {
+                  "article": "140",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.6312519311904907,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất khi có đủ các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự;\nd) Trong thời hạn sử dụng đất;\nđ) Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 40,
+                "page_end": 41,
+                "provenance": [
+                  {
+                    "start": 75447,
+                    "end": 76165,
+                    "document_id": "luatdat1",
+                    "page": 40,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 76165,
+                    "end": 76620,
+                    "document_id": "luatdat1",
+                    "page": 41,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 75447,
+                "metadata": {
+                  "article": "45",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 37.66503156290292,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 41,
+                "page_end": 41,
+                "provenance": [
+                  {
+                    "start": 77713,
+                    "end": 78202,
+                    "document_id": "luatdat1",
+                    "page": 41,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 77713,
+                "metadata": {
+                  "article": "45",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 35.40103628546764,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "c65199a5136781a2ce5f3a39e64750e9",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n2. Trường hợp chủ đầu tư chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản thì ngoài các điều kiện quy định tại khoản 1 Điều này còn phải đáp ứng điều kiện khác theo quy định của Luật Kinh doanh bất động sản, Luật Nhà ở.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 41,
+                "page_end": 41,
+                "provenance": [
+                  {
+                    "start": 76620,
+                    "end": 76871,
+                    "document_id": "luatdat1",
+                    "page": 41,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 76620,
+                "metadata": {
+                  "article": "45",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 32.073373006888104,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "c5e6153723f194ffe1a9acbd8e06074f",
+                "text": "Điều 10. Xác định loại đất\n1. Việc xác định loại đất dựa trên một trong các căn cứ sau đây:\na) Giấy chứng nhận quyền sử dụng đất; Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này đối với trường hợp chưa được cấp giấy chứng nhận quy định tại điểm a khoản này;\nc) Quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất của cơ quan nhà nước có thẩm quyền đối với trường hợp chưa được cấp giấy chứng nhận quy định tại điểm a khoản này.\n2. Đối với trường hợp không có giấy tờ quy định tại khoản 1 Điều này và trường hợp loại đất xác định trên giấy tờ đã cấp khác với phân loại đất theo quy định của Luật này hoặc khác với hiện trạng sử dụng đất thì việc xác định loại đất thực hiện theo quy định của Chính phủ.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 11,
+                "page_end": 11,
+                "provenance": [
+                  {
+                    "start": 19011,
+                    "end": 19973,
+                    "document_id": "luatdat1",
+                    "page": 11,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 19011,
+                "metadata": {
+                  "article": "10",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 30.687024277178356,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "782d301cdfd20314fcdfd5ab657a2026",
+                "text": "Điều 152. Đính chính, thu hồi, hủy giấy chứng nhận đã cấp\n3. Việc thu hồi giấy chứng nhận đã cấp đối với trường hợp quy định tại điểm d khoản 2 Điều này mà không thuộc khoản 4 Điều này được thực hiện theo quy định sau đây:\na) Trường hợp Tòa án có thẩm quyền giải quyết tranh chấp đất đai có bản án, quyết định có hiệu lực thi hành, trong đó có kết luận về việc thu hồi giấy chứng nhận đã cấp thì việc thu hồi giấy chứng nhận đã cấp được thực hiện theo bản án, quyết định đó;\nb) Trường hợp cơ quan thanh tra có văn bản kết luận giấy chứng nhận đã cấp không đúng quy định của pháp luật về đất đai thì cơ quan nhà nước có thẩm quyền có trách nhiệm xem xét, nếu kết luận đó là đúng thì quyết định thu hồi giấy chứng nhận đã cấp; trường hợp xem xét, xác định giấy chứng nhận đã cấp là đúng quy định của pháp luật thì phải thông báo lại cho cơ quan thanh tra;\nc) Trường hợp cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất quy định tại Điều 136 của Luật này phát\nhiện giấy chứng nhận đã cấp không đúng quy định của pháp luật về đất đai thì kiểm tra lại, thông báo cho người sử dụng đất biết rõ lý do và quyết định thu hồi giấy chứng nhận đã cấp không đúng quy định;\nd) Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện giấy chứng nhận đã cấp không đúng quy định của pháp luật về đất đai thì gửi kiến nghị bằng văn bản đến cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất. Cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất có trách nhiệm kiểm tra, xem xét, quyết định thu hồi giấy chứng nhận đã cấp không đúng quy định của pháp luật về đất đai;\nđ) Cơ quan có thẩm quyền thu hồi giấy chứng nhận đã cấp quy định tại các điểm a, b, c và d khoản này là cơ quan có thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất quy định tại Điều 136 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 74,
+                "page_end": 75,
+                "provenance": [
+                  {
+                    "start": 326736,
+                    "end": 327685,
+                    "document_id": "luatdat2",
+                    "page": 74,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 327685,
+                    "end": 328630,
+                    "document_id": "luatdat2",
+                    "page": 75,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 326736,
+                "metadata": {
+                  "article": "152",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 30.180812474975784,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4a5fd78a30168991d1205594420e161f",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n7. Cá nhân không trực tiếp sản xuất nông nghiệp nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất trồng lúa quá hạn mức quy định tại Điều 176 của Luật này thì phải thành lập tổ chức kinh tế và có phương án sử dụng đất trồng lúa bao gồm các nội dung theo quy định tại khoản 6 Điều này và được Ủy ban nhân dân cấp huyện phê duyệt, trừ trường hợp người nhận tặng cho là người thuộc hàng thừa kế.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 42,
+                "page_end": 42,
+                "provenance": [
+                  {
+                    "start": 78887,
+                    "end": 79282,
+                    "document_id": "luatdat1",
+                    "page": 42,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 78887,
+                "metadata": {
+                  "article": "45",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 29.651557303791808,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "cdfac5fe99565a61a74b3dbb40b5c10a",
+                "text": "Điều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 44,
+                "page_end": 44,
+                "provenance": [
+                  {
+                    "start": 82202,
+                    "end": 82623,
+                    "document_id": "luatdat1",
+                    "page": 44,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 82202,
+                "metadata": {
+                  "article": "47",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 29.084784019612652,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "ac3b4801af2f2edd5125c7891b9588ab",
+                "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n3. Người sử dụng đất khi thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất thì ngoài các điều kiện quy định tại khoản 1 Điều này còn phải đáp ứng các điều kiện theo các trường hợp sau đây:\na) Đối với trường hợp mua, bán tài sản gắn liền với đất, quyền thuê trong hợp đồng thuê đất được Nhà nước cho thuê thu tiền thuê đất hằng năm thì phải đáp ứng điều kiện quy định tại Điều 46 của Luật này;\nb) Đối với trường hợp chuyển đổi quyền sử dụng đất nông nghiệp thì phải đáp ứng điều kiện quy định tại Điều 47 của Luật này;\nc) Đối với trường hợp thực hiện quyền sử dụng đất của cá nhân là người dân tộc thiểu số được giao đất, cho thuê đất theo quy định tại khoản 3 Điều 16 của Luật này thì phải đáp ứng điều kiện quy định tại Điều 48 của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 41,
+                "page_end": 41,
+                "provenance": [
+                  {
+                    "start": 76871,
+                    "end": 77713,
+                    "document_id": "luatdat1",
+                    "page": 41,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 76871,
+                "metadata": {
+                  "article": "45",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 28.86744054757734,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "34a8a059899116bfcee9999954eff015",
+                "text": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n5. Việc thu hồi đất trong các trường hợp quy định tại các khoản 1, 2 và 3 Điều này phải dựa trên căn cứ sau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp quy định tại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật đối với trường hợp quy định tại điểm b khoản 1 Điều này;\nc) Quyết định giao đất, quyết định cho thuê đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Văn bản chấm dứt dự án đầu tư đối với trường hợp quy định tại điểm d khoản 1 Điều này;\nđ) Văn bản thu hồi rừng đối với trường hợp quy định tại điểm đ khoản 1 Điều này;\ne) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại khoản 2 Điều này;\ng) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đối với trường hợp quy định tại khoản 3 Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 78,
+                "page_end": 79,
+                "provenance": [
+                  {
+                    "start": 148456,
+                    "end": 149208,
+                    "document_id": "luatdat1",
+                    "page": 78,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 149208,
+                    "end": 149657,
+                    "document_id": "luatdat1",
+                    "page": 79,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 148456,
+                "metadata": {
+                  "article": "82",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 28.36043806027993,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4ccccfce77dbf6b09aaa20ae86ded510",
+                "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n2. Tranh chấp đất đai mà các bên tranh chấp không có Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc không có một trong các loại giấy tờ quy định tại Điều 137 của Luật này thì các bên tranh chấp được lựa chọn một trong hai hình thức giải quyết tranh chấp đất đai theo quy định sau đây:\na) Nộp đơn yêu cầu giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền theo quy định tại khoản 3 Điều này;\nb) Khởi kiện tại Tòa án có thẩm quyền theo quy định của pháp luật về tố tụng dân sự.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 47,
+                "page_end": 47,
+                "provenance": [
+                  {
+                    "start": 473572,
+                    "end": 474356,
+                    "document_id": "luatdat3",
+                    "page": 47,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 473572,
+                "metadata": {
+                  "article": "236",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 28.33948397593913,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 19.796899985522032
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            },
+            {
+              "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek8Q2J5vrmmFCpfXfIEhob6kiNHrU",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_ec0ud7A91LC2qLWTwJWJEXDM",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác.\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 539,
+          "completion_tokens": 62,
+          "total_tokens": 601,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00011804999999999998,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek8Q4DBgSM4zju93fViJKIoMorWSv",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Có, Điều 45 khoản 1 điểm a quy định rằng điều kiện có Giấy chứng nhận quyền sử dụng đất không áp dụng cho trường hợp thừa kế quyền sử dụng đất. Cụ thể, trong trường hợp thừa kế quyền sử dụng đất, người nhận thừa kế vẫn có thể thực hiện quyền mà không cần có Giấy chứng nhận, miễn là họ đủ điều kiện để cấp Giấy chứng nhận theo quy định của Luật này.\",\"citations\":[\"8ca8b881dd1a173f9471a07ffaaaa046\",\"4be2717b2b9b1d33dcc59af4cbe7b253\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 45 đã nêu rõ về ngoại lệ cho việc thừa kế quyền sử dụng đất.\",\"evidence_quotes\":[{\"id\":\"8ca8b881dd1a173f9471a07ffaaaa046\",\"quote\":\"trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\"},{\"id\":\"4be2717b2b9b1d33dcc59af4cbe7b253\",\"quote\":\"Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2391,
+          "completion_tokens": 424,
+          "total_tokens": 2815,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00061305,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "500c41964dbd4bf5a65e69618aae48bf",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2930,
+      "completion_tokens": 486,
+      "total_tokens": 3416
+    },
+    "estimated_chat_cost_usd": 0.0007310999999999999,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 6636.652300017886
+  }
+}

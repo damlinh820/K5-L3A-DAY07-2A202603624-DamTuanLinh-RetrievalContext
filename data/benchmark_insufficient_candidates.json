@@ -1,0 +1,58 @@
+[
+  {
+    "id": "q21",
+    "split": "dev",
+    "type": "insufficient_evidence",
+    "question": "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?",
+    "answerability": "insufficient_evidence",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus là snapshot của Luật Đất đai 31/2024/QH15 và không bao gồm nghị định năm 2027.",
+    "gold_status": "pending_human_review",
+    "reviewer": null,
+    "review_timestamp": null,
+    "review_reason": null,
+    "notes": "xác nhận nằm ngoài phạm vi corpus "
+  },
+  {
+    "id": "q22",
+    "split": "dev",
+    "type": "insufficient_evidence",
+    "question": "Luật trong bộ tài liệu quy định thủ tục cấp giấy chứng nhận quyền sử dụng đất tại một quốc gia khác như thế nào?",
+    "answerability": "insufficient_evidence",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus chỉ bao phủ pháp luật đất đai Việt Nam, không có thủ tục của quốc gia khác.",
+    "gold_status": "pending_human_review",
+    "reviewer": null,
+    "review_timestamp": null,
+    "review_reason": null,
+    "notes": "xác nhận không có trong phạm vi corpus"
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "type": "insufficient_evidence",
+    "question": "Trong bộ tài liệu, giá đất cụ thể của một thửa đất tại một địa chỉ thực tế cụ thể trong năm 2027 là bao nhiêu?",
+    "answerability": "insufficient_evidence",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus không cung cấp địa chỉ thửa đất cụ thể và không bao phủ bảng giá năm 2027.",
+    "gold_status": "pending_human_review",
+    "reviewer": null,
+    "review_timestamp": null,
+    "review_reason": null,
+    "notes": "xác nhận không có trong phạm vi corpus"
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "type": "insufficient_evidence",
+    "question": "Theo một công văn địa phương không có trong bộ tài liệu, thời hạn giải quyết hồ sơ cụ thể của huyện X là bao lâu?",
+    "answerability": "insufficient_evidence",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus không chứa công văn địa phương được nêu trong câu hỏi.",
+    "gold_status": "pending_human_review",
+    "reviewer": null,
+    "review_timestamp": null,
+    "review_reason": null,
+    "notes": "xác nhận không có trong phạm vi copus"
+  }
+]

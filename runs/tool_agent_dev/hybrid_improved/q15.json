@@ -1,0 +1,858 @@
+{
+  "query_id": "q15",
+  "question": "Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Có, người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng một xã, phường, thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho các thửa đất đó. [beefbbeafd19e107d38e596514c22ccc]",
+    "citations": [
+      "beefbbeafd19e107d38e596514c22ccc"
+    ],
+    "abstained": false,
+    "reason": "Thông tin trong Điều 135 quy định rõ về việc cấp Giấy chứng nhận cho nhiều thửa đất nông nghiệp trong cùng một xã, phường, thị trấn.",
+    "evidence_quotes": [
+      {
+        "id": "beefbbeafd19e107d38e596514c22ccc",
+        "quote": "Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó."
+      }
+    ],
+    "context": "[beefbbeafd19e107d38e596514c22ccc] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 43 | Điều 135 | Khoản 1\nĐiều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n\n\n[464dd540d68c99955c1279546a384b77] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 43 | Điều 135 | Khoản 2\nĐiều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n\n\n[a9f40f70da919be4040d473b4abf502f] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 64 | Điều 143 | Khoản 2\nĐiều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt.\n\n\n[b8ad8af5c2f5ac732306c9bfa8f84761] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 43 | Điều 135 | Khoản 3\nĐiều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n3. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chỉ được cấp sau khi người sử dụng đất, chủ sở hữu tài sản gắn liền với đất hoàn thành nghĩa vụ tài chính theo quy định của pháp luật. Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất không thuộc đối tượng phải thực hiện nghĩa vụ tài chính hoặc được miễn, được ghi nợ nghĩa vụ\ntài chính thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp sau khi cơ quan có thẩm quyền xác định không phải thực hiện nghĩa vụ tài chính hoặc được miễn, được ghi nợ nghĩa vụ tài chính; trường hợp thuê đất trả tiền thuê đất hằng năm thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp sau khi cơ quan có thẩm quyền ban hành quyết định cho thuê đất, ký hợp đồng thuê đất. Trường hợp người sử dụng đất tặng cho quyền sử dụng đất cho Nhà nước hoặc tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch hoặc tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật thì Nhà nước có trách nhiệm bố trí kinh phí thực hiện việc đo đạc, chỉnh lý, cập nhật hồ sơ địa chính và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất theo quy định của Luật này; người sử dụng đất không phải trả chi phí đối với trường hợp này.\n\n\n[2f3b02a38b515d2994601e61a49f08fa] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 63 | Điều 143 | Khoản 1\nĐiều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n1. Đất giao cho chủ đầu tư để thực hiện dự án xây dựng khu đô thị, khu dân cư nông thôn mà trong dự án xác định có nhiều hạng mục công trình hoặc nhiều phần diện tích đất có mục đích sử dụng đất khác nhau theo quy định tại Điều 9 của Luật này thì phải xác định rõ vị trí, diện tích theo từng mục đích sử dụng đất và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định như sau:\na) Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện đối với từng thửa đất sử dụng vào mỗi mục đích, phù hợp với quy hoạch xây dựng chi tiết đã được cơ quan có thẩm quyền phê duyệt;\nb) Đối với phần diện tích đất sử dụng vào mục đích xây dựng công trình công cộng phục vụ cho lợi ích chung của cộng đồng trong và ngoài khu đô thị, khu dân\ncư nông thôn theo dự án đầu tư và quy hoạch xây dựng chi tiết đã được cơ quan có thẩm quyền phê duyệt thì bàn giao cho địa phương quản lý mà không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nc) Trường hợp chung cư kết hợp với văn phòng, cơ sở thương mại, dịch vụ, nếu chủ đầu tư có nhu cầu và đủ điều kiện thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho một hoặc nhiều căn hộ, văn phòng, cơ sở thương mại, dịch vụ thuộc sở hữu của chủ đầu tư.\n",
+    "context_ids": [
+      "beefbbeafd19e107d38e596514c22ccc",
+      "464dd540d68c99955c1279546a384b77",
+      "a9f40f70da919be4040d473b4abf502f",
+      "b8ad8af5c2f5ac732306c9bfa8f84761",
+      "2f3b02a38b515d2994601e61a49f08fa"
+    ],
+    "context_chars": 5677,
+    "context_tokens": 2860,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_umj9L5yVUXbjjnMUAar5peWq",
+        "round": 1,
+        "arguments": {
+          "query": "Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "beefbbeafd19e107d38e596514c22ccc",
+            "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 43,
+            "page_end": 43,
+            "provenance": [
+              {
+                "start": 260691,
+                "end": 261150,
+                "document_id": "luatdat2",
+                "page": 43,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 260691,
+            "metadata": {
+              "article": "135",
+              "clause": "1",
+              "part": 2
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "dense_0": 0.6653435230255127,
+              "bm25_0": 51.405943316450426
+            },
+            "rank": 1
+          },
+          {
+            "id": "464dd540d68c99955c1279546a384b77",
+            "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 43,
+            "page_end": 43,
+            "provenance": [
+              {
+                "start": 261150,
+                "end": 261575,
+                "document_id": "luatdat2",
+                "page": 43,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 261150,
+            "metadata": {
+              "article": "135",
+              "clause": "2",
+              "part": 2
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03200204813108039,
+            "source_ranks": {
+              "dense_0": 2,
+              "bm25_0": 3
+            },
+            "source_scores": {
+              "dense_0": 0.6434279680252075,
+              "bm25_0": 34.19639628070629
+            },
+            "rank": 2
+          },
+          {
+            "id": "a9f40f70da919be4040d473b4abf502f",
+            "text": "Điều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 64,
+            "page_end": 64,
+            "provenance": [
+              {
+                "start": 305459,
+                "end": 306054,
+                "document_id": "luatdat2",
+                "page": 64,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 305459,
+            "metadata": {
+              "article": "143",
+              "clause": "2",
+              "part": 2
+            },
+            "score": 0.029411764705882353,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.029411764705882353,
+            "source_ranks": {
+              "dense_0": 8,
+              "bm25_0": 8
+            },
+            "source_scores": {
+              "dense_0": 0.6217617988586426,
+              "bm25_0": 29.69570360889616
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "beefbbeafd19e107d38e596514c22ccc",
+          "464dd540d68c99955c1279546a384b77",
+          "a9f40f70da919be4040d473b4abf502f",
+          "b8ad8af5c2f5ac732306c9bfa8f84761",
+          "2f3b02a38b515d2994601e61a49f08fa"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không?",
+          "variants": [
+            "Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "beefbbeafd19e107d38e596514c22ccc",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 43,
+                "page_end": 43,
+                "provenance": [
+                  {
+                    "start": 260691,
+                    "end": 261150,
+                    "document_id": "luatdat2",
+                    "page": 43,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 260691,
+                "metadata": {
+                  "article": "135",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.6653435230255127,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "464dd540d68c99955c1279546a384b77",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 43,
+                "page_end": 43,
+                "provenance": [
+                  {
+                    "start": 261150,
+                    "end": 261575,
+                    "document_id": "luatdat2",
+                    "page": 43,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 261150,
+                "metadata": {
+                  "article": "135",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.6434279680252075,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d234f920262f1ffd4bffe01ff7bba092",
+                "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n9. Cộng đồng dân cư đang sử dụng đất có công trình là đình, đền, miếu, am, nhà thờ họ, công trình tín ngưỡng khác; chùa không thuộc quy định tại khoản 1 Điều 213 của Luật này; đất nông nghiệp quy định tại khoản 4 Điều 178 của\nLuật này và đất đó không có tranh chấp, có giấy tờ xác nhận của Ủy ban nhân dân cấp xã nơi có đất là đất sử dụng chung cho cộng đồng dân cư thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 50,
+                "page_end": 51,
+                "provenance": [
+                  {
+                    "start": 276916,
+                    "end": 277142,
+                    "document_id": "luatdat2",
+                    "page": 50,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 277142,
+                    "end": 277369,
+                    "document_id": "luatdat2",
+                    "page": 51,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 276916,
+                "metadata": {
+                  "article": "137",
+                  "clause": "9",
+                  "part": 2
+                },
+                "score": 0.6351599097251892,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4724f3253d3733f0be04bbb527a67311",
+                "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n7. Hộ gia đình, cá nhân có bản sao một trong các loại giấy tờ quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này mà bản gốc giấy tờ đã bị thất lạc và cơ quan nhà nước không còn lưu giữ hồ sơ quản lý việc cấp loại giấy tờ này, được Ủy ban nhân dân cấp xã nơi có đất xác nhận là đất sử dụng ổn định, không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; việc thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 50,
+                "page_end": 50,
+                "provenance": [
+                  {
+                    "start": 276139,
+                    "end": 276607,
+                    "document_id": "luatdat2",
+                    "page": 50,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 276139,
+                "metadata": {
+                  "article": "137",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.6296831369400024,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "91e6be24e35fe36b97dd01b765fb660a",
+                "text": "Điều 149. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở\n3. Trường hợp hộ gia đình, cá nhân, cộng đồng dân cư sở hữu công trình xây dựng không thuộc quy định tại khoản 1 và khoản 2 Điều này mà thuộc trường hợp không phải xin giấy phép xây dựng thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; đối với trường hợp phải xin phép xây dựng thì phải có giấy xác nhận của cơ quan có chức năng quản lý về xây dựng cấp huyện đủ điều kiện tồn tại công trình xây dựng đó theo quy định của pháp luật về xây dựng.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 70,
+                "page_end": 70,
+                "provenance": [
+                  {
+                    "start": 318711,
+                    "end": 319193,
+                    "document_id": "luatdat2",
+                    "page": 70,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 318711,
+                "metadata": {
+                  "article": "149",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.6250025033950806,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "65a7ed81021e9eceae692d58bdaffcaa",
+                "text": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n2. Không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp tự chia, tách thửa đất đã đăng ký, đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở\nvà tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất thành 02 hoặc nhiều thửa đất mà trong đó có ít nhất 01 thửa đất có diện tích nhỏ hơn diện tích tối thiểu được tách thửa theo quy định tại Điều 220 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 66,
+                "page_end": 67,
+                "provenance": [
+                  {
+                    "start": 310825,
+                    "end": 311133,
+                    "document_id": "luatdat2",
+                    "page": 66,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 311133,
+                    "end": 311405,
+                    "document_id": "luatdat2",
+                    "page": 67,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 310825,
+                "metadata": {
+                  "article": "146",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.6248331069946289,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "2421f32f07c0006624ad43bfc21ad7d0",
+                "text": "Điều 149. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở\n5. Trường hợp chủ sở hữu công trình xây dựng không có quyền sử dụng đất đối với thửa đất đó thì phải có giấy tờ chứng minh về quyền sở hữu công trình xây dựng theo quy định tại Điều này và hợp đồng thuê đất hoặc hợp đồng góp vốn hoặc hợp đồng hợp tác kinh doanh hoặc văn bản chấp thuận của người sử dụng đất đồng ý cho xây dựng công trình đã được công chứng hoặc chứng thực theo quy định của pháp luật thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 71,
+                "page_end": 71,
+                "provenance": [
+                  {
+                    "start": 319784,
+                    "end": 320273,
+                    "document_id": "luatdat2",
+                    "page": 71,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 319784,
+                "metadata": {
+                  "article": "149",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 0.6228426694869995,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a9f40f70da919be4040d473b4abf502f",
+                "text": "Điều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 64,
+                "page_end": 64,
+                "provenance": [
+                  {
+                    "start": 305459,
+                    "end": 306054,
+                    "document_id": "luatdat2",
+                    "page": 64,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 305459,
+                "metadata": {
+                  "article": "143",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.6217617988586426,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "38a5a0e631c4faad3cf00ec117ee60af",
+                "text": "Điều 149. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở\n1. Hộ gia đình, cá nhân, cộng đồng dân cư sở hữu công trình xây dựng được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có một trong các loại giấy tờ sau đây:\na) Giấy phép xây dựng công trình hoặc giấy phép xây dựng công trình có thời hạn đối với trường hợp phải xin cấp giấy phép xây dựng theo quy định của pháp luật về xây dựng;\nb) Giấy tờ về sở hữu công trình xây dựng do cơ quan có thẩm quyền cấp qua các thời kỳ, trừ trường hợp Nhà nước đã quản lý, bố trí sử dụng;\nc) Giấy tờ về mua bán hoặc tặng cho hoặc thừa kế công trình xây dựng theo quy định của pháp luật;\nd) Bản án hoặc quyết định của Tòa án hoặc giấy tờ của cơ quan nhà nước có thẩm quyền đã có hiệu lực pháp luật mà có xác định quyền sở hữu công trình xây dựng;\nđ) Một trong những giấy tờ quy định tại các điểm a, b, c và d khoản này mà trên giấy tờ đó ghi tên người khác và đang không có tranh chấp.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 70,
+                "page_end": 70,
+                "provenance": [
+                  {
+                    "start": 317537,
+                    "end": 318438,
+                    "document_id": "luatdat2",
+                    "page": 70,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 317537,
+                "metadata": {
+                  "article": "149",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.6198408007621765,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "459e81637a4a1b7f39239045bd6d76f0",
+                "text": "Điều 144. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích theo quy định của pháp luật về di sản văn hóa được thực hiện như sau:\n1. Trường hợp đất chỉ do một cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đang sử dụng thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp cho cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình, cá nhân đó;\n2. Trường hợp có nhiều người sử dụng đất, có nhiều loại đất khác nhau thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng người sử dụng đất. Người sử dụng đất phải tuân thủ các quy định của pháp luật về bảo vệ di tích lịch sử - văn hóa, danh lam thắng cảnh.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 64,
+                "page_end": 64,
+                "provenance": [
+                  {
+                    "start": 306054,
+                    "end": 307048,
+                    "document_id": "luatdat2",
+                    "page": 64,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 306054,
+                "metadata": {
+                  "article": "144",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 0.6188599467277527,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "beefbbeafd19e107d38e596514c22ccc",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 43,
+                "page_end": 43,
+                "provenance": [
+                  {
+                    "start": 260691,
+                    "end": 261150,
+                    "document_id": "luatdat2",
+                    "page": 43,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 260691,
+                "metadata": {
+                  "article": "135",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 51.405943316450426,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "07bd74bbc919a731d0b53354ad7a1be0",
+                "text": "Điều 147. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất thuộc phạm vi nhiều đơn vị hành chính cấp xã\n1. Trường hợp thửa đất thuộc phạm vi nhiều xã, phường, thị trấn nhưng cùng thuộc thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của một cơ quan thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất; trong đó phải xác định từng phần diện tích thuộc phạm vi từng đơn vị hành chính cấp xã.\n2. Trường hợp thửa đất thuộc phạm vi nhiều xã, phường, thị trấn thuộc thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của các cơ quan khác nhau thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo từng thửa đất thuộc thẩm quyền của từng cơ quan cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 67,
+                "page_end": 67,
+                "provenance": [
+                  {
+                    "start": 311957,
+                    "end": 312894,
+                    "document_id": "luatdat2",
+                    "page": 67,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 311957,
+                "metadata": {
+                  "article": "147",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 47.46201416641713,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "464dd540d68c99955c1279546a384b77",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 43,
+                "page_end": 43,
+                "provenance": [
+                  {
+                    "start": 261150,
+                    "end": 261575,
+                    "document_id": "luatdat2",
+                    "page": 43,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 261150,
+                "metadata": {
+                  "article": "135",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 34.19639628070629,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "2f3b02a38b515d2994601e61a49f08fa",
+                "text": "Điều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n1. Đất giao cho chủ đầu tư để thực hiện dự án xây dựng khu đô thị, khu dân cư nông thôn mà trong dự án xác định có nhiều hạng mục công trình hoặc nhiều phần diện tích đất có mục đích sử dụng đất khác nhau theo quy định tại Điều 9 của Luật này thì phải xác định rõ vị trí, diện tích theo từng mục đích sử dụng đất và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định như sau:\na) Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện đối với từng thửa đất sử dụng vào mỗi mục đích, phù hợp với quy hoạch xây dựng chi tiết đã được cơ quan có thẩm quyền phê duyệt;\nb) Đối với phần diện tích đất sử dụng vào mục đích xây dựng công trình công cộng phục vụ cho lợi ích chung của cộng đồng trong và ngoài khu đô thị, khu dân\ncư nông thôn theo dự án đầu tư và quy hoạch xây dựng chi tiết đã được cơ quan có thẩm quyền phê duyệt thì bàn giao cho địa phương quản lý mà không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nc) Trường hợp chung cư kết hợp với văn phòng, cơ sở thương mại, dịch vụ, nếu chủ đầu tư có nhu cầu và đủ điều kiện thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho một hoặc nhiều căn hộ, văn phòng, cơ sở thương mại, dịch vụ thuộc sở hữu của chủ đầu tư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 63,
+                "page_end": 64,
+                "provenance": [
+                  {
+                    "start": 304139,
+                    "end": 304940,
+                    "document_id": "luatdat2",
+                    "page": 63,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 304940,
+                    "end": 305459,
+                    "document_id": "luatdat2",
+                    "page": 64,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 304139,
+                "metadata": {
+                  "article": "143",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 31.43983584939463,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "c036e6ec6d93a0b2900ebb12804a7505",
+                "text": "Điều 220. Tách thửa đất, hợp thửa đất\n1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây:\na) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thửa đất còn trong thời hạn sử dụng đất;\nc) Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền. Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất;\nd) Việc tách thửa đất, hợp thửa đất phải bảo đảm có lối đi; được kết nối với đường giao thông công cộng hiện có; bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý. Trường hợp người sử dụng đất dành một phần diện tích của thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất để làm lối đi, khi thực hiện việc tách thửa đất hoặc hợp thửa đất thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đất để làm lối đi đó.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 35,
+                "provenance": [
+                  {
+                    "start": 444690,
+                    "end": 445090,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  },
+                  {
+                    "start": 445090,
+                    "end": 445960,
+                    "document_id": "luatdat3",
+                    "page": 35,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 444690,
+                "metadata": {
+                  "article": "220",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 30.754853661075654,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "581b44265b24f7bef27e483fd0e9e64d",
+                "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 372268,
+                    "end": 372443,
+                    "document_id": "luatdat3",
+                    "page": 4,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 372268,
+                "metadata": {
+                  "article": "176",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 30.649010571180437,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+                "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 372571,
+                    "end": 373044,
+                    "document_id": "luatdat3",
+                    "page": 5,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 372571,
+                "metadata": {
+                  "article": "176",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 30.540235955830617,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a9f40f70da919be4040d473b4abf502f",
+                "text": "Điều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 64,
+                "page_end": 64,
+                "provenance": [
+                  {
+                    "start": 305459,
+                    "end": 306054,
+                    "document_id": "luatdat2",
+                    "page": 64,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 305459,
+                "metadata": {
+                  "article": "143",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 29.69570360889616,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4658b1b0a6346d3bdb703608627df2cb",
+                "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n4. Trường hợp thửa đất có nhiều hộ gia đình, cá nhân sử dụng chung thì hạn mức đất ở quy định tại các khoản 1, 2 và 3 Điều này được tính bằng tổng hạn mức đất ở của các hộ gia đình, cá nhân đó. Trường hợp một hộ gia đình, cá nhân sử dụng nhiều thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống được Ủy ban nhân dân cấp xã nơi có đất xác nhận đã sử dụng đất ổn định từ trước ngày 15 tháng 10 năm 1993 thì hạn mức đất ở được xác định theo quy định tại các khoản 1, 2 và 3 Điều này đối với từng thửa đất đó;\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 54,
+                "page_end": 54,
+                "provenance": [
+                  {
+                    "start": 284421,
+                    "end": 284932,
+                    "document_id": "luatdat2",
+                    "page": 54,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 284421,
+                "metadata": {
+                  "article": "138",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 26.714136950188713,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "7660397040505407dcadfc7340e80b9c",
+                "text": "Điều 6. Người chịu trách nhiệm trước Nhà nước đối với việc sử dụng đất\n2. Chủ tịch Ủy ban nhân dân cấp xã đối với việc sử dụng đất nông nghiệp vào mục đích công ích; đất phi nông nghiệp đã giao cho Ủy ban nhân dân cấp xã để sử dụng vào mục đích xây dựng trụ sở Ủy ban nhân dân, các công trình công cộng phục vụ hoạt động văn hóa, giáo dục, y tế, thể dục, thể thao, vui chơi, giải trí, chợ, nghĩa trang và công trình công cộng khác của xã, phường, thị trấn; đất tôn giáo, đất tín ngưỡng chưa giao quản lý, sử dụng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 8,
+                "page_end": 8,
+                "provenance": [
+                  {
+                    "start": 14161,
+                    "end": 14604,
+                    "document_id": "luatdat1",
+                    "page": 8,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 14161,
+                "metadata": {
+                  "article": "6",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 26.561827429462088,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 6.266800046432763
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "beefbbeafd19e107d38e596514c22ccc",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek8CZCUoOOgDvkc5STeSvyNqVQsc3",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_umj9L5yVUXbjjnMUAar5peWq",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 418,
+          "completion_tokens": 57,
+          "total_tokens": 475,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 9.69e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek8CbPSF0RoZqt23TXUwpXDsX86fQ",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Có, người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng một xã, phường, thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho các thửa đất đó.\",\"citations\":[\"beefbbeafd19e107d38e596514c22ccc\"],\"abstained\":false,\"reason\":\"Thông tin trong Điều 135 quy định rõ về việc cấp Giấy chứng nhận cho nhiều thửa đất nông nghiệp trong cùng một xã, phường, thị trấn.\",\"evidence_quotes\":[{\"id\":\"beefbbeafd19e107d38e596514c22ccc\",\"quote\":\"Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2324,
+          "completion_tokens": 221,
+          "total_tokens": 2545,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00048119999999999993,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "17163894f14f47a59d51c8ba47864d0d",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 2742,
+      "completion_tokens": 278,
+      "total_tokens": 3020
+    },
+    "estimated_chat_cost_usd": 0.0005780999999999999,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4938.494200003333
+  }
+}

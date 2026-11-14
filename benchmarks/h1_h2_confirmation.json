@@ -1,0 +1,33 @@
+{
+  "reviewer": "DamTuanLinh",
+  "confirmed_at_utc": "2026-11-14T15:54:29.005387+00:00",
+  "H1": true,
+  "H2": true,
+  "H3": false,
+  "cases": [
+    "h01",
+    "h02",
+    "h03",
+    "h04",
+    "h05",
+    "h06",
+    "h07"
+  ],
+  "candidate_sha256": "572b97e28fe5a98b508dcfa0d9ca902a3fd1628936366ae4e291bf2049b5ca3d",
+  "approved_benchmark": "benchmarks/fresh_holdout_approved.jsonl",
+  "benchmark_sha256": "9edd6c89d87eeab7cc8420cfa0cae65c570caae906abbc7b5b090105c6c42360",
+  "config": "configs/final_tool_agent.json",
+  "config_before_sha256": "5e59fb6764af7ce55ae482fad17fad5ba6b9477545ba824b217def2fa893eecb",
+  "config_sha256": "4c04a51913bf9271fb03b4b507b08a65479717fe6cf62b3bc7a222bad5f19b92",
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "test_modes": [
+    "dense",
+    "hybrid_improved"
+  ],
+  "max_run_estimated_chat_usd": 0.2,
+  "content_changes": "Approval metadata only; questions, gold, answerability, scope, split and inference parameters unchanged.",
+  "user_confirmations": [
+    "Tôi check h1-07 đều đúng rồi",
+    "Đã xác nhận H1; chạy Dense và Hybrid theo cấu hình hiện tại"
+  ]
+}

@@ -1,0 +1,888 @@
+{
+  "query_id": "h02",
+  "question": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?",
+  "split": "test",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất không có quyền cho thuê hoặc thế chấp quyền sử dụng đất. Cụ thể, theo Điều 32 của Luật Đất đai, tổ chức này không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, hoặc góp vốn bằng quyền sử dụng đất. [c16144e5dc20f4c53f83cffa10f4322b]",
+    "citations": [
+      "c16144e5dc20f4c53f83cffa10f4322b"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 32 quy định rõ quyền và nghĩa vụ của tổ chức được giao đất không thu tiền sử dụng đất, trong đó nêu rõ không có quyền cho thuê hoặc thế chấp quyền sử dụng đất.",
+    "evidence_quotes": [
+      {
+        "id": "c16144e5dc20f4c53f83cffa10f4322b",
+        "quote": "Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất."
+      }
+    ],
+    "context": "[859cddd88c86343038524f710ad77cd1] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 26 | Điều 33 | Khoản 1\nĐiều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n1. Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê có quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này;\nb) Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất;\nc) Cho thuê quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước giao đất có thu tiền sử dụng đất; cho thuê lại quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê;\nd) Tặng cho quyền sử dụng đất cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch; tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật;\nđ) Thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\ne) Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất với tổ chức trong nước, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định của pháp luật.\n\n\n[c16144e5dc20f4c53f83cffa10f4322b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 26 | Điều 32 | Khoản None\nĐiều 32. Quyền và nghĩa vụ của tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất\n1. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này.\n2. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\n\n\n[3a6996f1479e2d4d9876efe82abcb1b8] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 27 | Điều 33 | Khoản 3\nĐiều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n3. Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có các quyền và nghĩa vụ theo quy định sau đây:\na) Trường hợp được Nhà nước giao đất để thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân, dự án đầu tư cải tạo, xây dựng lại nhà chung cư mà được miễn hoặc giảm tiền sử dụng đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất;\nb) Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để thực hiện dự án đầu tư có mục đích kinh doanh mà được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền thuê đất; trường hợp chuyển nhượng, góp vốn bằng quyền sử dụng đất thì phải nộp cho Nhà nước một khoản tiền tương ứng với số tiền sử dụng đất, tiền thuê đất đã được miễn, giảm tại thời điểm giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, trừ trường hợp pháp luật có liên quan có quy định khác.\n\n\n[7d2bb05e53ba50d65db82fd6e3b9871b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 27 | Điều 33 | Khoản 2\nĐiều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n2. Đơn vị sự nghiệp công lập được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công nghiệp quy định tại khoản 2 Điều 202 của Luật này thì có quyền và nghĩa vụ quy định tại khoản 1 Điều này.\n",
+    "context_ids": [
+      "859cddd88c86343038524f710ad77cd1",
+      "c16144e5dc20f4c53f83cffa10f4322b",
+      "3a6996f1479e2d4d9876efe82abcb1b8",
+      "7d2bb05e53ba50d65db82fd6e3b9871b"
+    ],
+    "context_chars": 4471,
+    "context_tokens": 2198,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_xlBX9r82QxtlD590pSJTOZj9",
+        "round": 1,
+        "arguments": {
+          "query": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "859cddd88c86343038524f710ad77cd1",
+            "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n1. Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê có quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này;\nb) Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất;\nc) Cho thuê quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước giao đất có thu tiền sử dụng đất; cho thuê lại quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê;\nd) Tặng cho quyền sử dụng đất cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch; tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật;\nđ) Thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\ne) Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất với tổ chức trong nước, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định của pháp luật.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 26,
+            "page_end": 27,
+            "provenance": [
+              {
+                "start": 47815,
+                "end": 47973,
+                "document_id": "luatdat1",
+                "page": 26,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              },
+              {
+                "start": 47973,
+                "end": 49210,
+                "document_id": "luatdat1",
+                "page": 27,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 47815,
+            "metadata": {
+              "article": "33",
+              "clause": "1",
+              "part": 1
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03200204813108039,
+            "source_ranks": {
+              "dense_0": 2,
+              "bm25_0": 3
+            },
+            "source_scores": {
+              "dense_0": 0.7138186097145081,
+              "bm25_0": 30.231761927615867
+            },
+            "rank": 1
+          },
+          {
+            "id": "c16144e5dc20f4c53f83cffa10f4322b",
+            "text": "Điều 32. Quyền và nghĩa vụ của tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất\n1. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này.\n2. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 26,
+            "page_end": 26,
+            "provenance": [
+              {
+                "start": 47076,
+                "end": 47656,
+                "document_id": "luatdat1",
+                "page": 26,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 47076,
+            "metadata": {
+              "article": "32",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.03177805800756621,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03177805800756621,
+            "source_ranks": {
+              "dense_0": 5,
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "dense_0": 0.6782393455505371,
+              "bm25_0": 37.68583669169493
+            },
+            "rank": 2
+          },
+          {
+            "id": "3a6996f1479e2d4d9876efe82abcb1b8",
+            "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n3. Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có các quyền và nghĩa vụ theo quy định sau đây:\na) Trường hợp được Nhà nước giao đất để thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân, dự án đầu tư cải tạo, xây dựng lại nhà chung cư mà được miễn hoặc giảm tiền sử dụng đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất;\nb) Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để thực hiện dự án đầu tư có mục đích kinh doanh mà được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền thuê đất; trường hợp chuyển nhượng, góp vốn bằng quyền sử dụng đất thì phải nộp cho Nhà nước một khoản tiền tương ứng với số tiền sử dụng đất, tiền thuê đất đã được miễn, giảm tại thời điểm giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, trừ trường hợp pháp luật có liên quan có quy định khác.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 27,
+            "page_end": 28,
+            "provenance": [
+              {
+                "start": 49492,
+                "end": 50037,
+                "document_id": "luatdat1",
+                "page": 27,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              },
+              {
+                "start": 50037,
+                "end": 50676,
+                "document_id": "luatdat1",
+                "page": 28,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 49492,
+            "metadata": {
+              "article": "33",
+              "clause": "3",
+              "part": 1
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.031754032258064516,
+            "source_ranks": {
+              "dense_0": 4,
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "dense_0": 0.6890777945518494,
+              "bm25_0": 32.85389086153741
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "859cddd88c86343038524f710ad77cd1",
+          "c16144e5dc20f4c53f83cffa10f4322b",
+          "3a6996f1479e2d4d9876efe82abcb1b8",
+          "7d2bb05e53ba50d65db82fd6e3b9871b"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?",
+          "variants": [
+            "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "7d2bb05e53ba50d65db82fd6e3b9871b",
+                "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n2. Đơn vị sự nghiệp công lập được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công nghiệp quy định tại khoản 2 Điều 202 của Luật này thì có quyền và nghĩa vụ quy định tại khoản 1 Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 27,
+                "page_end": 27,
+                "provenance": [
+                  {
+                    "start": 49210,
+                    "end": 49492,
+                    "document_id": "luatdat1",
+                    "page": 27,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 49210,
+                "metadata": {
+                  "article": "33",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.7240230441093445,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "859cddd88c86343038524f710ad77cd1",
+                "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n1. Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê có quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này;\nb) Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất;\nc) Cho thuê quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước giao đất có thu tiền sử dụng đất; cho thuê lại quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê;\nd) Tặng cho quyền sử dụng đất cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch; tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật;\nđ) Thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\ne) Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất với tổ chức trong nước, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 26,
+                "page_end": 27,
+                "provenance": [
+                  {
+                    "start": 47815,
+                    "end": 47973,
+                    "document_id": "luatdat1",
+                    "page": 26,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 47973,
+                    "end": 49210,
+                    "document_id": "luatdat1",
+                    "page": 27,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 47815,
+                "metadata": {
+                  "article": "33",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.7138186097145081,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d20384d135d7396f2536234329669aef",
+                "text": "Điều 118. Giao đất không thu tiền sử dụng đất\n8. Tổ chức sử dụng đất để xây dựng nhà ở phục vụ tái định cư theo dự án của Nhà nước.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 24,
+                "page_end": 24,
+                "provenance": [
+                  {
+                    "start": 224728,
+                    "end": 224814,
+                    "document_id": "luatdat2",
+                    "page": 24,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 224728,
+                "metadata": {
+                  "article": "118",
+                  "clause": "8",
+                  "part": 2
+                },
+                "score": 0.7009543180465698,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "3a6996f1479e2d4d9876efe82abcb1b8",
+                "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n3. Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có các quyền và nghĩa vụ theo quy định sau đây:\na) Trường hợp được Nhà nước giao đất để thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân, dự án đầu tư cải tạo, xây dựng lại nhà chung cư mà được miễn hoặc giảm tiền sử dụng đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất;\nb) Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để thực hiện dự án đầu tư có mục đích kinh doanh mà được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền thuê đất; trường hợp chuyển nhượng, góp vốn bằng quyền sử dụng đất thì phải nộp cho Nhà nước một khoản tiền tương ứng với số tiền sử dụng đất, tiền thuê đất đã được miễn, giảm tại thời điểm giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, trừ trường hợp pháp luật có liên quan có quy định khác.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 27,
+                "page_end": 28,
+                "provenance": [
+                  {
+                    "start": 49492,
+                    "end": 50037,
+                    "document_id": "luatdat1",
+                    "page": 27,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 50037,
+                    "end": 50676,
+                    "document_id": "luatdat1",
+                    "page": 28,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 49492,
+                "metadata": {
+                  "article": "33",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.6890777945518494,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c16144e5dc20f4c53f83cffa10f4322b",
+                "text": "Điều 32. Quyền và nghĩa vụ của tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất\n1. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này.\n2. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 26,
+                "page_end": 26,
+                "provenance": [
+                  {
+                    "start": 47076,
+                    "end": 47656,
+                    "document_id": "luatdat1",
+                    "page": 26,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 47076,
+                "metadata": {
+                  "article": "32",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.6782393455505371,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a916d0477fd82287ece3751d56f26aa4",
+                "text": "Điều 97. Bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của tổ chức kinh tế, cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc\n1. Tổ chức kinh tế đang sử dụng đất nông nghiệp được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, nhận chuyển nhượng quyền sử dụng đất khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường về đất.\n2. Cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường về đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 8,
+                "page_end": 8,
+                "provenance": [
+                  {
+                    "start": 192928,
+                    "end": 193616,
+                    "document_id": "luatdat2",
+                    "page": 8,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 192928,
+                "metadata": {
+                  "article": "97",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 0.6718133687973022,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "82f4d7b115e6aaf645c22458fd7c30e7",
+                "text": "Điều 118. Giao đất không thu tiền sử dụng đất\n5. Cộng đồng dân cư sử dụng đất nông nghiệp; tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sử dụng đất quy định tại khoản 2 Điều 213 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 24,
+                "page_end": 24,
+                "provenance": [
+                  {
+                    "start": 224271,
+                    "end": 224418,
+                    "document_id": "luatdat2",
+                    "page": 24,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 224271,
+                "metadata": {
+                  "article": "118",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 0.6637595891952515,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "ef9496f83dee73e67bcc67e3275ae9e4",
+                "text": "Điều 37. Quyền và nghĩa vụ của cá nhân sử dụng đất\n4. Cá nhân được Nhà nước giao đất, cho thuê đất mà được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có quyền và nghĩa vụ như trường hợp không được miễn, không được giảm tiền sử dụng đất, tiền thuê đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 33,
+                "page_end": 33,
+                "provenance": [
+                  {
+                    "start": 61971,
+                    "end": 62176,
+                    "document_id": "luatdat1",
+                    "page": 33,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 61971,
+                "metadata": {
+                  "article": "37",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.6539925336837769,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "08ce77a5e50cecaf64c55f4d974bb54a",
+                "text": "Điều 34. Quyền và nghĩa vụ của tổ chức kinh tế, đơn vị sự nghiệp công lập, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sử dụng đất do Nhà nước cho thuê đất thu tiền hằng năm\n2. Đơn vị sự nghiệp công lập được Nhà nước cho thuê đất thu tiền thuê đất hằng năm không thuộc trường hợp sử dụng đất để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghiệp, cụm công nghiệp quy định tại khoản 2 Điều 202 của Luật này thì có quyền và nghĩa vụ quy định tại khoản 1 Điều này, trừ quyền bán, quyền thế chấp và quyền góp vốn bằng tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất. Việc khai thác, sử dụng quỹ đất đã được Nhà nước cho thuê đất kết hợp vào mục đích khác thực hiện theo quy định sau đây:\na) Đối với đất đơn vị sự nghiệp công lập được Nhà nước cho thuê đất thì được phép chủ động khai thác, sử dụng kết hợp đa mục đích theo phương án được cơ quan chủ quản phê duyệt phù hợp với quy định của Luật này và pháp luật có liên quan; trường hợp có đầu tư xây dựng công trình trên đất phải phù hợp với pháp luật về xây dựng. Việc khai thác, sử dụng đất kết hợp đa mục đích phải được hạch toán theo quy định của pháp luật;\nb) Đối với đất do đơn vị sự nghiệp công lập đang sử dụng mà có nhu cầu cho thuê, liên doanh, liên kết với tổ chức kinh tế thì phải có đề án sử dụng tài sản công vào mục đích cho thuê, liên doanh, liên kết được cấp có thẩm quyền phê duyệt theo quy định của pháp luật về quản lý, sử dụng tài sản công.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 29,
+                "page_end": 29,
+                "provenance": [
+                  {
+                    "start": 52449,
+                    "end": 53707,
+                    "document_id": "luatdat1",
+                    "page": 29,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 52449,
+                "metadata": {
+                  "article": "34",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.6537097692489624,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a88118228e943fc4c2fc18720e8d520a",
+                "text": "Điều 34. Quyền và nghĩa vụ của tổ chức kinh tế, đơn vị sự nghiệp công lập, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sử dụng đất do Nhà nước cho thuê đất thu tiền hằng năm\n1. Tổ chức kinh tế, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho thuê đất thu tiền thuê đất hằng năm có các quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này;\nb) Thế chấp tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\nc) Bán tài sản thuộc sở hữu của mình gắn liền với đất, bán tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất khi đáp ứng điều kiện quy định tại Điều 46 của Luật này. Người mua tài sản gắn liền với đất và quyền thuê trong hợp đồng thuê đất được tiếp tục thuê đất theo mục đích đã được xác định và thời hạn sử dụng đất còn lại, được kế thừa các quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan;\nd) Góp vốn bằng tài sản thuộc sở hữu của mình gắn liền với đất trong thời hạn thuê đất; người nhận góp vốn bằng tài sản được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định trong thời hạn còn lại;\nđ) Cho thuê tài sản thuộc sở hữu của mình gắn liền với đất và quyền thuê trong hợp đồng thuê đất;\ne) Cho thuê lại quyền sử dụng đất theo hình thức trả tiền thuê đất hằng năm đối với đất đã được xây dựng xong kết cấu hạ tầng trong trường hợp được phép đầu tư xây dựng kinh doanh kết cấu hạ tầng đối với đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao; người thuê lại quyền sử dụng đất phải sử dụng đất đúng mục đích và thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 28,
+                "page_end": 29,
+                "provenance": [
+                  {
+                    "start": 50852,
+                    "end": 52063,
+                    "document_id": "luatdat1",
+                    "page": 28,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 52063,
+                    "end": 52449,
+                    "document_id": "luatdat1",
+                    "page": 29,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 50852,
+                "metadata": {
+                  "article": "34",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.6508849859237671,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "c16144e5dc20f4c53f83cffa10f4322b",
+                "text": "Điều 32. Quyền và nghĩa vụ của tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất\n1. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này.\n2. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 26,
+                "page_end": 26,
+                "provenance": [
+                  {
+                    "start": 47076,
+                    "end": 47656,
+                    "document_id": "luatdat1",
+                    "page": 26,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 47076,
+                "metadata": {
+                  "article": "32",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 37.68583669169493,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "3a6996f1479e2d4d9876efe82abcb1b8",
+                "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n3. Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có các quyền và nghĩa vụ theo quy định sau đây:\na) Trường hợp được Nhà nước giao đất để thực hiện dự án đầu tư xây dựng nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân, dự án đầu tư cải tạo, xây dựng lại nhà chung cư mà được miễn hoặc giảm tiền sử dụng đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất;\nb) Tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê để thực hiện dự án đầu tư có mục đích kinh doanh mà được miễn, giảm tiền sử dụng đất, tiền thuê đất thì có quyền và nghĩa vụ như trường hợp không được miễn hoặc không được giảm tiền sử dụng đất, tiền thuê đất; trường hợp chuyển nhượng, góp vốn bằng quyền sử dụng đất thì phải nộp cho Nhà nước một khoản tiền tương ứng với số tiền sử dụng đất, tiền thuê đất đã được miễn, giảm tại thời điểm giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, trừ trường hợp pháp luật có liên quan có quy định khác.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 27,
+                "page_end": 28,
+                "provenance": [
+                  {
+                    "start": 49492,
+                    "end": 50037,
+                    "document_id": "luatdat1",
+                    "page": 27,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 50037,
+                    "end": 50676,
+                    "document_id": "luatdat1",
+                    "page": 28,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 49492,
+                "metadata": {
+                  "article": "33",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 32.85389086153741,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "859cddd88c86343038524f710ad77cd1",
+                "text": "Điều 33. Quyền và nghĩa vụ của tổ chức trong nước được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê\n1. Tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê có quyền và nghĩa vụ sau đây:\na) Quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này;\nb) Chuyển nhượng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất;\nc) Cho thuê quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước giao đất có thu tiền sử dụng đất; cho thuê lại quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất đối với trường hợp được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê;\nd) Tặng cho quyền sử dụng đất cho Nhà nước; tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch; tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật;\nđ) Thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất tại các tổ chức tín dụng được phép hoạt động tại Việt Nam, tại tổ chức kinh tế khác hoặc cá nhân theo quy định của pháp luật;\ne) Góp vốn bằng quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất với tổ chức trong nước, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 26,
+                "page_end": 27,
+                "provenance": [
+                  {
+                    "start": 47815,
+                    "end": 47973,
+                    "document_id": "luatdat1",
+                    "page": 26,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 47973,
+                    "end": 49210,
+                    "document_id": "luatdat1",
+                    "page": 27,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 47815,
+                "metadata": {
+                  "article": "33",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 30.231761927615867,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "89921b62e386c2716686bfc1e9bfd8b5",
+                "text": "Điều 92. Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt\n3. Trường hợp tổ chức bị thu hồi đất nhưng không được bồi thường về đất, tổ chức có tài sản do Nhà nước giao quản lý, sử dụng thì được thực hiện như sau:\na) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê mà tiền sử dụng đất, tiền thuê đất đã nộp có nguồn gốc từ ngân sách nhà nước và tổ chức được Nhà nước giao đất không thu tiền sử dụng đất khi Nhà nước thu hồi đất thì không được bồi thường về đất nhưng được hỗ trợ bằng tiền nếu phải di dời đến cơ sở mới do cơ quan nhà nước có thẩm quyền quyết định; mức hỗ trợ tối đa không quá mức bồi thường về đất;\nb) Đơn vị vũ trang nhân dân đang sử dụng đất khi Nhà nước thu hồi đất theo quy định tại Điều 79 của Luật này thì được bố trí vị trí mới hoặc chuyển đổi vị trí đất phù hợp;\nc) Khi Nhà nước thu hồi đất, tổ chức bị thiệt hại về tài sản do Nhà nước giao quản lý, sử dụng và phải di dời đến cơ sở mới thì tổ chức đó được sử dụng tiền bồi thường tài sản để đầu tư tại cơ sở mới theo dự án đầu tư được cấp có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 183048,
+                    "end": 184097,
+                    "document_id": "luatdat2",
+                    "page": 3,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 183048,
+                "metadata": {
+                  "article": "92",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 29.416980113062753,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "fa449e30f1d638ada2c36ab9171cb48c",
+                "text": "Điều 95. Điều kiện được bồi thường về đất khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp được bồi thường về đất khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng bao gồm:\na) Hộ gia đình, cá nhân đang sử dụng đất không phải là đất thuê trả tiền thuê đất hằng năm;\nb) Cộng đồng dân cư đang sử dụng đất có công trình là chùa, đình, đền, miếu, am, nhà thờ họ, công trình tín ngưỡng khác; đất nông nghiệp quy định tại khoản 4 Điều 178 của Luật này và đất đó không có tranh chấp, được Ủy ban nhân dân cấp xã nơi có đất xác nhận là đất sử dụng chung cho cộng đồng;\nc) Người gốc Việt Nam định cư ở nước ngoài quy định tại khoản 1 Điều 44 của Luật này;\nd) Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động đang sử dụng đất mà không phải là đất do Nhà nước giao, cho thuê; không phải là đất nhận chuyển nhượng, nhận tặng cho từ ngày 01 tháng 7 năm 2004 trở về sau;\nđ) Người gốc Việt Nam định cư ở nước ngoài được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê; nhận chuyển nhượng quyền sử dụng đất trong khu công nghiệp, cụm công nghiệp, khu công nghệ cao, khu kinh tế;\ne) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê; nhận thừa kế quyền sử dụng đất, nhận chuyển nhượng quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất;\ng) Tổ chức nước ngoài có chức năng ngoại giao được Nhà nước cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê;\nh) Tổ chức kinh tế, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được Nhà nước giao đất có thu tiền sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở để bán hoặc để bán kết hợp cho thuê; cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 5,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 188776,
+                    "end": 189035,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 189035,
+                    "end": 190557,
+                    "document_id": "luatdat2",
+                    "page": 6,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 188776,
+                "metadata": {
+                  "article": "95",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 29.407993792694025,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "656d154a7a6c364bce19c7dbd4a91c05",
+                "text": "Điều 38. Quyền và nghĩa vụ của cá nhân chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc thuê đất\n1. Cá nhân được phép chuyển mục đích sử dụng đất từ đất được Nhà nước giao đất không thu tiền sử dụng đất sang đất được Nhà nước giao đất có thu tiền sử dụng đất hoặc Nhà nước cho thuê đất có quyền và nghĩa vụ chung quy định tại Điều 26 và Điều 31 của Luật này.\n2. Cá nhân sử dụng đất được cơ quan nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng đất từ đất được Nhà nước giao đất không thu tiền sử dụng đất sang đất được Nhà nước giao đất có thu tiền sử dụng đất hoặc Nhà nước cho thuê đất có quyền và nghĩa vụ như sau:\na) Trường hợp được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại khoản 1 Điều 37 của Luật này;\nb) Trường hợp được Nhà nước cho thuê đất thu tiền thuê đất hằng năm thì có quyền và nghĩa vụ quy định tại khoản 2 Điều 37 của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 62342,
+                    "end": 63349,
+                    "document_id": "luatdat1",
+                    "page": 34,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 62342,
+                "metadata": {
+                  "article": "38",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 29.33683456069052,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "8b39337cfd9531a47353d6c83b9ee6b9",
+                "text": "Điều 36. Quyền và nghĩa vụ của tổ chức kinh tế nhận góp vốn bằng quyền sử dụng đất; quyền sử dụng đất của tổ chức kinh tế khi giải thể, phá sản\n1. Tổ chức kinh tế nhận góp vốn bằng quyền sử dụng đất của cá nhân, tổ chức kinh tế khác thì có quyền và nghĩa vụ quy định tại Điều 33 của Luật này trong các trường hợp sau đây:\na) Đất của tổ chức kinh tế góp vốn có nguồn gốc do được Nhà nước giao có thu tiền sử dụng đất hoặc được Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, do nhận chuyển nhượng quyền sử dụng đất;\nb) Đất của cá nhân góp vốn mà không phải là đất được Nhà nước cho thuê thu tiền thuê đất hằng năm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 30,
+                "page_end": 30,
+                "provenance": [
+                  {
+                    "start": 55964,
+                    "end": 56457,
+                    "document_id": "luatdat1",
+                    "page": 30,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 55964,
+                "metadata": {
+                  "article": "36",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 29.324973349103683,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "91b241c74865c58e6780218e52ed3e0e",
+                "text": "Điều 35. Quyền và nghĩa vụ của tổ chức kinh tế nhận chuyển nhượng quyền sử dụng đất, chuyển mục đích sử dụng đất\n4. Quyền và nghĩa vụ của tổ chức kinh tế sử dụng đất được cơ quan nhà nước có thẩm quyền cho phép chuyển mục đích sử dụng đất từ đất không thu tiền sử dụng đất sang đất có thu tiền sử dụng đất hoặc cho thuê đất được quy định như sau:\na) Trường hợp thuộc hình thức Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê thì có quyền và nghĩa vụ quy định tại khoản 1 và khoản 3 Điều 33 của Luật này;\nb) Trường hợp thuộc hình thức Nhà nước cho thuê đất thu tiền thuê đất hằng năm thì có quyền và nghĩa vụ quy định tại khoản 1 Điều 34 của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 30,
+                "page_end": 30,
+                "provenance": [
+                  {
+                    "start": 55222,
+                    "end": 55820,
+                    "document_id": "luatdat1",
+                    "page": 30,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 55222,
+                "metadata": {
+                  "article": "35",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 28.021458532505655,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "e9bd312d621ba655fcbb6bdff0ec625b",
+                "text": "Điều 184. Đất rừng sản xuất\n3. Người được Nhà nước cho thuê đất rừng sản xuất là rừng tự nhiên không được chuyển nhượng, cho thuê lại, thế chấp, góp vốn bằng quyền sử dụng đất và quyền thuê trong hợp đồng thuê đất trả tiền thuê đất hằng năm.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 10,
+                "page_end": 10,
+                "provenance": [
+                  {
+                    "start": 386713,
+                    "end": 386927,
+                    "document_id": "luatdat3",
+                    "page": 10,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 386713,
+                "metadata": {
+                  "article": "184",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 27.843093695166463,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "963d4d7c89e5945d37e8cf0e4a7990db",
+                "text": "Điều 36. Quyền và nghĩa vụ của tổ chức kinh tế nhận góp vốn bằng quyền sử dụng đất; quyền sử dụng đất của tổ chức kinh tế khi giải thể, phá sản\n2. Quyền sử dụng đất của hợp tác xã, liên hiệp hợp tác xã khi giải thể, phá sản thực hiện theo quy định sau đây:\na) Đối với đất được Nhà nước giao đất không thu tiền sử dụng đất; được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất, do mua tài sản gắn liền với đất hoặc nhận chuyển nhượng quyền sử dụng đất hợp pháp từ người khác mà tiền sử dụng đất, tiền thuê đất, tiền mua tài sản gắn liền với đất, tiền nhận chuyển nhượng quyền sử dụng đất có nguồn gốc do Nhà nước hỗ trợ thì Nhà nước thu hồi đất đó theo quy định của Luật này và pháp luật về hợp tác xã;\nb) Đối với đất được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, do mua tài sản gắn liền với đất hoặc nhận chuyển nhượng quyền sử dụng đất hợp pháp từ người khác mà tiền sử dụng đất, tiền thuê đất, tiền mua tài sản gắn liền với đất, tiền nhận chuyển nhượng quyền sử dụng đất không có nguồn gốc do Nhà nước hỗ trợ; đất do thành viên góp quyền sử dụng vào hợp tác xã, liên hiệp hợp tác xã thì Nhà nước không thu hồi đất, quyền sử dụng đất đó là của hợp tác xã, liên hiệp hợp tác xã và được xử lý theo điều lệ của hợp tác xã, liên hiệp hợp tác xã, nghị quyết của đại hội thành viên.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 31,
+                "page_end": 31,
+                "provenance": [
+                  {
+                    "start": 56457,
+                    "end": 57663,
+                    "document_id": "luatdat1",
+                    "page": 31,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 56457,
+                "metadata": {
+                  "article": "36",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 27.37657335389286,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 11.409300030209124
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "c16144e5dc20f4c53f83cffa10f4322b",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-EkAOSzBhgSC0J0oLvUzQs9kIpodMc",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_xlBX9r82QxtlD590pSJTOZj9",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 521,
+          "completion_tokens": 54,
+          "total_tokens": 575,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00011054999999999998,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-EkAOTBF6W3YD0iYgIMM7w9AlEVYr9",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất không có quyền cho thuê hoặc thế chấp quyền sử dụng đất. Cụ thể, theo Điều 32 của Luật Đất đai, tổ chức này không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, hoặc góp vốn bằng quyền sử dụng đất.\",\"citations\":[\"c16144e5dc20f4c53f83cffa10f4322b\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 32 quy định rõ quyền và nghĩa vụ của tổ chức được giao đất không thu tiền sử dụng đất, trong đó nêu rõ không có quyền cho thuê hoặc thế chấp quyền sử dụng đất.\",\"evidence_quotes\":[{\"id\":\"c16144e5dc20f4c53f83cffa10f4322b\",\"quote\":\"Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1990,
+          "completion_tokens": 260,
+          "total_tokens": 2250,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0004545,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "c8b28631f7c9450891d148268aa14876",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2511,
+      "completion_tokens": 314,
+      "total_tokens": 2825
+    },
+    "estimated_chat_cost_usd": 0.00056505,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4300.9968000114895
+  }
+}

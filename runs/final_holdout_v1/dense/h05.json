@@ -1,0 +1,531 @@
+{
+  "query_id": "h05",
+  "question": "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?",
+  "split": "test",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Có, Điều 199 khoản 1 liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong danh sách đất xây dựng trụ sở cơ quan. [95b05da1e503db293e4a14d5c2f267d4]",
+    "citations": [
+      "95b05da1e503db293e4a14d5c2f267d4"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 199 khoản 1 rõ ràng liệt kê Mặt trận Tổ quốc Việt Nam là một trong những cơ quan được đề cập.",
+    "evidence_quotes": [
+      {
+        "id": "95b05da1e503db293e4a14d5c2f267d4",
+        "quote": "Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên."
+      }
+    ],
+    "context": "[95b05da1e503db293e4a14d5c2f267d4] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 18 | Điều 199 | Khoản 1\nĐiều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n1. Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên.\n\n\n[9925c5c4e08b5c0d33f2caa81256c304] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 19 | Điều 199 | Khoản 3\nĐiều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n3. Việc sử dụng đất quy định tại khoản 1 và khoản 2 Điều này phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt.\n\n\n[8c0dcb4832652ed08990801ef1d1bf31] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 19 | Điều 199 | Khoản 5\nĐiều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+    "context_ids": [
+      "95b05da1e503db293e4a14d5c2f267d4",
+      "9925c5c4e08b5c0d33f2caa81256c304",
+      "8c0dcb4832652ed08990801ef1d1bf31"
+    ],
+    "context_chars": 1485,
+    "context_tokens": 769,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_Yzn1BDOVrPfZKidiVdoBsbJk",
+        "round": 1,
+        "arguments": {
+          "query": "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "95b05da1e503db293e4a14d5c2f267d4",
+            "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n1. Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 18,
+            "page_end": 18,
+            "provenance": [
+              {
+                "start": 406450,
+                "end": 406815,
+                "document_id": "luatdat3",
+                "page": 18,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 406450,
+            "metadata": {
+              "article": "199",
+              "clause": "1",
+              "part": 3
+            },
+            "score": 0.6817101240158081,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "9925c5c4e08b5c0d33f2caa81256c304",
+            "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n3. Việc sử dụng đất quy định tại khoản 1 và khoản 2 Điều này phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 19,
+            "page_end": 19,
+            "provenance": [
+              {
+                "start": 406918,
+                "end": 407089,
+                "document_id": "luatdat3",
+                "page": 19,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 406918,
+            "metadata": {
+              "article": "199",
+              "clause": "3",
+              "part": 3
+            },
+            "score": 0.6675267219543457,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "8c0dcb4832652ed08990801ef1d1bf31",
+            "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 19,
+            "page_end": 19,
+            "provenance": [
+              {
+                "start": 407246,
+                "end": 407600,
+                "document_id": "luatdat3",
+                "page": 19,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 407246,
+            "metadata": {
+              "article": "199",
+              "clause": "5",
+              "part": 3
+            },
+            "score": 0.6513028144836426,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "95b05da1e503db293e4a14d5c2f267d4",
+          "9925c5c4e08b5c0d33f2caa81256c304",
+          "8c0dcb4832652ed08990801ef1d1bf31"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?",
+          "variants": [
+            "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "95b05da1e503db293e4a14d5c2f267d4",
+                "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n1. Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 406450,
+                    "end": 406815,
+                    "document_id": "luatdat3",
+                    "page": 18,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 406450,
+                "metadata": {
+                  "article": "199",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 0.6817101240158081,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "9925c5c4e08b5c0d33f2caa81256c304",
+                "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n3. Việc sử dụng đất quy định tại khoản 1 và khoản 2 Điều này phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đã được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 19,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 406918,
+                    "end": 407089,
+                    "document_id": "luatdat3",
+                    "page": 19,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 406918,
+                "metadata": {
+                  "article": "199",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 0.6675267219543457,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8c0dcb4832652ed08990801ef1d1bf31",
+                "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 19,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 407246,
+                    "end": 407600,
+                    "document_id": "luatdat3",
+                    "page": 19,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 407246,
+                "metadata": {
+                  "article": "199",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 0.6513028144836426,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "95ed2800050b804e0c36b5ba3b99f2af",
+                "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n2. Đất xây dựng công trình sự nghiệp gồm các loại đất quy định tại điểm d khoản 3 Điều 9 của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 19,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 406815,
+                    "end": 406918,
+                    "document_id": "luatdat3",
+                    "page": 19,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 406815,
+                "metadata": {
+                  "article": "199",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 0.6442015767097473,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d00bf4d9aa3e429cba6326952fa85cbc",
+                "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n4. Người đại diện cơ quan, tổ chức được giao đất, cho thuê đất có trách nhiệm bảo toàn diện tích đất được giao, được thuê và phải sử dụng đất đúng mục đích.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 19,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 407089,
+                    "end": 407246,
+                    "document_id": "luatdat3",
+                    "page": 19,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 407089,
+                "metadata": {
+                  "article": "199",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.6387148499488831,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "561283801a54971f14bbdd50f988628b",
+                "text": "Điều 118. Giao đất không thu tiền sử dụng đất\n2. Đất xây dựng trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội; tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên; đất quốc phòng, an ninh; đất sử dụng vào mục đích công cộng không nhằm mục đích kinh doanh; đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng, đất cơ sở lưu giữ tro cốt không thuộc trường hợp quy định tại khoản 2 Điều 119 của Luật này; đất tín ngưỡng để bồi thường cho trường hợp Nhà nước thu hồi đất tín ngưỡng.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 23,
+                "page_end": 23,
+                "provenance": [
+                  {
+                    "start": 223475,
+                    "end": 224125,
+                    "document_id": "luatdat2",
+                    "page": 23,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 223475,
+                "metadata": {
+                  "article": "118",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.6194735765457153,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "37ad72566e2eb0c9898447e4a93f81d6",
+                "text": "Điều 80. Căn cứ, điều kiện thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Việc thu hồi đất theo quy định tại khoản 26 và khoản 27 Điều 79 của Luật này phải đáp ứng điều kiện quy định tại các khoản 1, 2 và 3 Điều này và để tạo quỹ đất do Nhà nước đầu tư để quản lý, khai thác hoặc giao đất, cho thuê đất cho nhà đầu tư theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 144507,
+                    "end": 144783,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 144507,
+                "metadata": {
+                  "article": "80",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.55425626039505,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "ad281beea388ce5d95f6d391fdb286b0",
+                "text": "Điều 217. Đất do cơ quan, tổ chức của Nhà nước quản lý\n1. Đất do cơ quan, tổ chức của Nhà nước quản lý là đất chưa giao, chưa cho thuê hoặc đã được giao đất để quản lý, bao gồm:\na) Đất sử dụng vào mục đích công cộng;\nb) Đất sông, ngòi, kênh, rạch, suối, ao, hồ, đầm, phá;\nc) Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt;\nd) Đất có mặt nước chuyên dùng;\nđ) Đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất;\ne) Đất do Nhà nước thu hồi và giao cho tổ chức phát triển quỹ đất quản lý;\ng) Đất do Nhà nước thu hồi và giao Ủy ban nhân dân cấp xã quản lý trong các trường hợp tại điểm đ khoản 1 và khoản 3 Điều 82; khoản 2 Điều 82 tại khu vực nông thôn; khoản 5 Điều 86; điểm e khoản 2 Điều 181 của Luật này;\nh) Đất giao lại, chuyển quyền sử dụng đất của tổ chức nước ngoài có chức năng ngoại giao khi không có nhu cầu sử dụng đất thực hiện trên cơ sở điều ước quốc tế, thỏa thuận quốc tế và quy định của pháp luật có liên quan;\ni) Đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn;\nk) Đất chưa sử dụng.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 31,
+                "page_end": 32,
+                "provenance": [
+                  {
+                    "start": 438044,
+                    "end": 438504,
+                    "document_id": "luatdat3",
+                    "page": 31,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  },
+                  {
+                    "start": 438504,
+                    "end": 439040,
+                    "document_id": "luatdat3",
+                    "page": 32,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 438044,
+                "metadata": {
+                  "article": "217",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 0.5505887866020203,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "60c87076bf5d1ddc5d9b29f14c49a46d",
+                "text": "Điều 217. Đất do cơ quan, tổ chức của Nhà nước quản lý\n2. Cơ quan, tổ chức của Nhà nước được giao quản lý quỹ đất quy định tại khoản 1 Điều này có trách nhiệm quản lý, bảo toàn diện tích đất được giao quản lý; việc sử dụng quỹ đất nêu trên thực hiện theo chế độ sử dụng đất tương ứng theo quy định của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 32,
+                "page_end": 32,
+                "provenance": [
+                  {
+                    "start": 439040,
+                    "end": 439297,
+                    "document_id": "luatdat3",
+                    "page": 32,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 439040,
+                "metadata": {
+                  "article": "217",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 0.5422911643981934,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d20384d135d7396f2536234329669aef",
+                "text": "Điều 118. Giao đất không thu tiền sử dụng đất\n8. Tổ chức sử dụng đất để xây dựng nhà ở phục vụ tái định cư theo dự án của Nhà nước.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 24,
+                "page_end": 24,
+                "provenance": [
+                  {
+                    "start": 224728,
+                    "end": 224814,
+                    "document_id": "luatdat2",
+                    "page": 24,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 224728,
+                "metadata": {
+                  "article": "118",
+                  "clause": "8",
+                  "part": 2
+                },
+                "score": 0.5332806706428528,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1068.969100015238
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "95b05da1e503db293e4a14d5c2f267d4",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-EkAO2STy5sHiTQXkvbfssgh57h0bW",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_Yzn1BDOVrPfZKidiVdoBsbJk",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 526,
+          "completion_tokens": 55,
+          "total_tokens": 581,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0001119,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-EkAO4dXM36bjNtHyoE7cEVaPUHrwY",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Có, Điều 199 khoản 1 liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong danh sách đất xây dựng trụ sở cơ quan.\",\"citations\":[\"95b05da1e503db293e4a14d5c2f267d4\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 199 khoản 1 rõ ràng liệt kê Mặt trận Tổ quốc Việt Nam là một trong những cơ quan được đề cập.\",\"evidence_quotes\":[{\"id\":\"95b05da1e503db293e4a14d5c2f267d4\",\"quote\":\"Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1190,
+          "completion_tokens": 237,
+          "total_tokens": 1427,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0003207,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "6dd9464b6de14392837de69bae247b0e",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 1716,
+      "completion_tokens": 292,
+      "total_tokens": 2008
+    },
+    "estimated_chat_cost_usd": 0.0004326,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 5261.8357000174
+  }
+}

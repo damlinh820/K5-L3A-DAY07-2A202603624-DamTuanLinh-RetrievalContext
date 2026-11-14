@@ -1,0 +1,140 @@
+{
+  "query_id": "q01",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Luật Đất đai trong bộ tài liệu này điều chỉnh những nội dung nào?",
+  "result": {
+    "status": "answered",
+    "answer": "[1910c8cd89dd864e3d19b4bea6880b0d] Luật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "citations": [
+      "1910c8cd89dd864e3d19b4bea6880b0d"
+    ],
+    "abstained": false,
+    "context": "[1910c8cd89dd864e3d19b4bea6880b0d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 1 | Điều 1 | Khoản \nĐiều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n\n\n[c72aaf9225e6677bfe0678e0fac68105] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 90 | Điều 165 | Khoản None\nĐiều 165. Cơ sở dữ liệu quốc gia về đất đai\n1. Cơ sở dữ liệu quốc gia về đất đai bao gồm các thành phần sau đây:\na) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;\nb) Cơ sở dữ liệu địa chính;\nc) Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất;\nd) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;\nđ) Cơ sở dữ liệu giá đất;\ne) Cơ sở dữ liệu thống kê, kiểm kê đất đai;\ng) Cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;\nh) Cơ sở dữ liệu khác liên quan đến đất đai.\n2. Cơ sở dữ liệu quốc gia về đất đai được xây dựng đồng bộ, thống nhất theo tiêu chuẩn, quy chuẩn quốc gia trong phạm vi cả nước.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu quốc gia về đất đai.\n\n\n[8c0dcb4832652ed08990801ef1d1bf31] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 19 | Điều 199 | Khoản 5\nĐiều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+    "context_ids": [
+      "1910c8cd89dd864e3d19b4bea6880b0d",
+      "c72aaf9225e6677bfe0678e0fac68105",
+      "8c0dcb4832652ed08990801ef1d1bf31"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+            "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 1,
+            "metadata": {
+              "clause": "",
+              "page": 1,
+              "page_end": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "article": "1",
+              "part": 1,
+              "document_id": "luatdat1"
+            },
+            "score": 0.01639344262295082,
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "dense": 1
+            },
+            "source_scores": {
+              "dense": 0.6342139840126038
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "c72aaf9225e6677bfe0678e0fac68105",
+            "text": "Điều 165. Cơ sở dữ liệu quốc gia về đất đai\n1. Cơ sở dữ liệu quốc gia về đất đai bao gồm các thành phần sau đây:\na) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;\nb) Cơ sở dữ liệu địa chính;\nc) Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất;\nd) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;\nđ) Cơ sở dữ liệu giá đất;\ne) Cơ sở dữ liệu thống kê, kiểm kê đất đai;\ng) Cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;\nh) Cơ sở dữ liệu khác liên quan đến đất đai.\n2. Cơ sở dữ liệu quốc gia về đất đai được xây dựng đồng bộ, thống nhất theo tiêu chuẩn, quy chuẩn quốc gia trong phạm vi cả nước.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu quốc gia về đất đai.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 90,
+            "metadata": {
+              "part": 2,
+              "article": "165",
+              "clause": null
+            },
+            "score": 0.01639344262295082,
+            "rank": 2,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "bm25": 1
+            },
+            "source_scores": {
+              "bm25": 18.691105811058083
+            }
+          },
+          {
+            "id": "8c0dcb4832652ed08990801ef1d1bf31",
+            "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 19,
+            "metadata": {
+              "part": 3,
+              "article": "199",
+              "clause": "5"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 18.346690324858226
+            }
+          }
+        ],
+        "context_ids": [
+          "1910c8cd89dd864e3d19b4bea6880b0d",
+          "c72aaf9225e6677bfe0678e0fac68105",
+          "8c0dcb4832652ed08990801ef1d1bf31"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 895,
+      "completion_tokens": 151,
+      "total_tokens": 1046,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 4034.2596000118647
+  }
+}

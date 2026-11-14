@@ -1,0 +1,136 @@
+{
+  "query_id": "q24",
+  "split": "test",
+  "answerability": "insufficient_evidence",
+  "question": "Theo một công văn địa phương không có trong bộ tài liệu, thời hạn giải quyết hồ sơ cụ thể của huyện X là bao lâu?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[41b7c976aaf012cc8b4d1781d3f2b6ee] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 2 | Điều 172 | Khoản 3\nĐiều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n\n\n[ba44790bb3742a31dae3bc98b4976a0d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 38 | Điều 129 | Khoản 1\nĐiều 129. Hồ sơ địa chính\n1. Hồ sơ địa chính bao gồm các tài liệu thể hiện thông tin chi tiết về từng thửa đất, người được giao quản lý đất, người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, tình trạng pháp lý của thửa đất và tài sản gắn liền với đất, phản ánh đầy đủ tình hình quản lý, sử dụng đất trên địa bàn.\n\n\n[bffc46a7c83914660421035867004576] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 2 | Điều 172 | Khoản 2\nĐiều 172. Đất sử dụng có thời hạn\n2. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền.\n",
+    "context_ids": [
+      "41b7c976aaf012cc8b4d1781d3f2b6ee",
+      "ba44790bb3742a31dae3bc98b4976a0d",
+      "bffc46a7c83914660421035867004576"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+            "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 2,
+            "metadata": {
+              "part": 3,
+              "article": "172",
+              "document_id": "luatdat3",
+              "clause": "3",
+              "page": 2,
+              "page_end": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            "score": 0.03131881575727918,
+            "rrf_score": 0.03131881575727918,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 7
+            },
+            "source_scores": {
+              "dense": 0.541507363319397,
+              "bm25": 22.74104055215073
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "ba44790bb3742a31dae3bc98b4976a0d",
+            "text": "Điều 129. Hồ sơ địa chính\n1. Hồ sơ địa chính bao gồm các tài liệu thể hiện thông tin chi tiết về từng thửa đất, người được giao quản lý đất, người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, tình trạng pháp lý của thửa đất và tài sản gắn liền với đất, phản ánh đầy đủ tình hình quản lý, sử dụng đất trên địa bàn.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 38,
+            "metadata": {
+              "part": 2,
+              "article": "129",
+              "clause": "1"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "bm25": 1
+            },
+            "source_scores": {
+              "bm25": 25.221019228456903
+            }
+          },
+          {
+            "id": "bffc46a7c83914660421035867004576",
+            "text": "Điều 172. Đất sử dụng có thời hạn\n2. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 2,
+            "metadata": {
+              "page_end": 2,
+              "page": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "document_id": "luatdat3",
+              "article": "172",
+              "part": 3,
+              "clause": "2"
+            },
+            "score": 0.016129032258064516,
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "dense": 2
+            },
+            "source_scores": {
+              "dense": 0.539852499961853
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "ba44790bb3742a31dae3bc98b4976a0d",
+          "bffc46a7c83914660421035867004576"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 706,
+      "completion_tokens": 35,
+      "total_tokens": 741,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2418.550200003665
+  }
+}

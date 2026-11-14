@@ -1,0 +1,1374 @@
+{
+  "query_id": "q17",
+  "question": "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm trong hạn mức Điều 176 có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?",
+  "result": {
+    "status": "answered",
+    "answer": "Cá nhân trực tiếp sản xuất nông nghiệp được giao đất trồng cây hằng năm có thời hạn không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố thuộc khu vực Đông Nam Bộ và đồng bằng sông Cửu Long, và không quá 02 ha cho mỗi loại đất đối với các tỉnh, thành phố khác [a072328b4fe6b9fce9dff1acd3ec99a6]. Khi hết hạn, cá nhân phải làm thủ tục gia hạn để tiếp tục sử dụng đất.",
+    "citations": [
+      "a072328b4fe6b9fce9dff1acd3ec99a6"
+    ],
+    "abstained": false,
+    "reason": "Thông tin về thời hạn giao đất và yêu cầu gia hạn được nêu rõ trong Điều 176, Khoản 1.",
+    "evidence_quotes": [
+      {
+        "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+        "quote": "Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau: a) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long; b) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "response_id": "chatcmpl-Ek6RB3BwM7qSiRsoFIE2kdNdGtx6A",
+        "model": "gpt-4o-mini-2024-07-18",
+        "raw_content": "{\"answer\":\"Cá nhân trực tiếp sản xuất nông nghiệp được giao đất trồng cây hằng năm có thời hạn không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố thuộc khu vực Đông Nam Bộ và đồng bằng sông Cửu Long, và không quá 02 ha cho mỗi loại đất đối với các tỉnh, thành phố khác [a072328b4fe6b9fce9dff1acd3ec99a6]. Khi hết hạn, cá nhân phải làm thủ tục gia hạn để tiếp tục sử dụng đất.\",\"citations\":[\"a072328b4fe6b9fce9dff1acd3ec99a6\"],\"abstained\":false,\"reason\":\"Thông tin về thời hạn giao đất và yêu cầu gia hạn được nêu rõ trong Điều 176, Khoản 1.\",\"evidence_quotes\":[{\"id\":\"a072328b4fe6b9fce9dff1acd3ec99a6\",\"quote\":\"Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau: a) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long; b) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\"}]}",
+        "finish_reason": "stop",
+        "refusal": null,
+        "validation_errors": [],
+        "usage": {
+          "prompt_tokens": 1283,
+          "completion_tokens": 314,
+          "total_tokens": 1597,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        }
+      }
+    ],
+    "context": "[ce84f03d0cb43d67c9a36e9ff3311e90] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 5 | Điều 176 | Khoản 4\nĐiều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n\n\n[a072328b4fe6b9fce9dff1acd3ec99a6] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 4 | Điều 176 | Khoản 1\nĐiều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n\n\n[581b44265b24f7bef27e483fd0e9e64d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 4 | Điều 176 | Khoản 2\nĐiều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n\n\n[a87fb2f6351f548a97b2e57e20863269] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 4 | Điều 176 | Khoản 3\nĐiều 176. Hạn mức giao đất nông nghiệp\n3. Hạn mức giao đất cho cá nhân không quá 30 ha đối với mỗi loại đất:\na) Đất rừng phòng hộ;\nb) Đất rừng sản xuất là rừng trồng.\n\n\n[34259142f4ecb8a4cd6e0aa8fa26b1ab] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 5 | Điều 176 | Khoản 5\nĐiều 176. Hạn mức giao đất nông nghiệp\n5. Hạn mức giao đất chưa sử dụng cho cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối không quá hạn mức giao đất quy định tại các khoản 1, 2 và 3 Điều này và không tính vào hạn mức giao đất nông nghiệp cho cá nhân quy định tại các khoản 1, 2 và 3 Điều này. Ủy ban nhân dân cấp tỉnh quy định hạn mức giao đất chưa sử dụng cho cá nhân để đưa vào sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+    "context_ids": [
+      "ce84f03d0cb43d67c9a36e9ff3311e90",
+      "a072328b4fe6b9fce9dff1acd3ec99a6",
+      "581b44265b24f7bef27e483fd0e9e64d",
+      "a87fb2f6351f548a97b2e57e20863269",
+      "34259142f4ecb8a4cd6e0aa8fa26b1ab"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "query": "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm trong hạn mức Điều 176 có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+            "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 5,
+            "page_end": 5,
+            "provenance": [
+              {
+                "start": 372571,
+                "end": 373044,
+                "document_id": "luatdat3",
+                "page": 5,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 372571,
+            "metadata": {
+              "article": "176",
+              "clause": "4",
+              "part": 3
+            },
+            "score": 0.06451612903225806,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06451612903225806,
+            "source_ranks": {
+              "dense_0": 2,
+              "bm25_0": 2,
+              "dense_1": 2,
+              "bm25_1": 2
+            },
+            "source_scores": {
+              "dense_0": 0.7564135789871216,
+              "bm25_0": 69.18655359486432,
+              "dense_1": 0.7248125076293945,
+              "bm25_1": 55.034347469331934
+            },
+            "rank": 1
+          },
+          {
+            "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+            "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 4,
+            "page_end": 4,
+            "provenance": [
+              {
+                "start": 371892,
+                "end": 372268,
+                "document_id": "luatdat3",
+                "page": 4,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 371892,
+            "metadata": {
+              "article": "176",
+              "clause": "1",
+              "part": 3
+            },
+            "score": 0.063003663003663,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.063003663003663,
+            "source_ranks": {
+              "dense_0": 3,
+              "bm25_0": 3,
+              "dense_1": 3,
+              "bm25_1": 5
+            },
+            "source_scores": {
+              "dense_0": 0.7282211780548096,
+              "bm25_0": 62.25153447863593,
+              "dense_1": 0.6775996088981628,
+              "bm25_1": 50.24524942391959
+            },
+            "rank": 2
+          },
+          {
+            "id": "581b44265b24f7bef27e483fd0e9e64d",
+            "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 4,
+            "page_end": 4,
+            "provenance": [
+              {
+                "start": 372268,
+                "end": 372443,
+                "document_id": "luatdat3",
+                "page": 4,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 372268,
+            "metadata": {
+              "article": "176",
+              "clause": "2",
+              "part": 3
+            },
+            "score": 0.06243115402060521,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06243115402060521,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 6,
+              "dense_1": 1,
+              "bm25_1": 9
+            },
+            "source_scores": {
+              "dense_0": 0.7615230083465576,
+              "bm25_0": 55.070810079795045,
+              "dense_1": 0.732651948928833,
+              "bm25_1": 41.029511731285446
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "581b44265b24f7bef27e483fd0e9e64d",
+          "a87fb2f6351f548a97b2e57e20863269",
+          "34259142f4ecb8a4cd6e0aa8fa26b1ab"
+        ],
+        "dropped_ids": [],
+        "expanded_ids": [
+          "a87fb2f6351f548a97b2e57e20863269",
+          "34259142f4ecb8a4cd6e0aa8fa26b1ab"
+        ]
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        },
+        "validation_errors": []
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "usage": {
+      "prompt_tokens": 1283,
+      "completion_tokens": 314,
+      "total_tokens": 1597
+    },
+    "prompt_version": "grounded_answer_v2",
+    "prompt_sha256": "bb81020e539b5357e3f574feb20beb3465b5186e0ba7468a07af22940d7de771",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 7388.480099994922
+  },
+  "retrieval_trace": {
+    "original_query": "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm trong hạn mức Điều 176 có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?",
+    "variants": [
+      "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm trong hạn mức Điều 176 có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?",
+      "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?"
+    ],
+    "filters": null,
+    "source_rankings": {
+      "dense_0": [
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372268,
+              "end": 372443,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372268,
+          "metadata": {
+            "article": "176",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 0.7615230083465576,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 372571,
+              "end": 373044,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372571,
+          "metadata": {
+            "article": "176",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 0.7564135789871216,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 371892,
+              "end": 372268,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 371892,
+          "metadata": {
+            "article": "176",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 0.7282211780548096,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "a87fb2f6351f548a97b2e57e20863269",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n3. Hạn mức giao đất cho cá nhân không quá 30 ha đối với mỗi loại đất:\na) Đất rừng phòng hộ;\nb) Đất rừng sản xuất là rừng trồng.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372443,
+              "end": 372571,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372443,
+          "metadata": {
+            "article": "176",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.7102411985397339,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "d6518a43abfe68bbe24e0c870531cf0c",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n6. Đối với diện tích đất nông nghiệp của cá nhân đang sử dụng ngoài xã, phường, thị trấn nơi đăng ký thường trú thì cá nhân được tiếp tục sử dụng, nếu là đất được giao không thu tiền sử dụng đất thì được tính vào hạn mức giao đất nông nghiệp của cá nhân. Cơ quan có chức năng quản lý đất đai nơi đã giao đất nông nghiệp không thu tiền sử dụng đất cho cá nhân gửi thông báo cho Ủy ban nhân dân cấp xã nơi cá nhân đó đăng ký thường trú để tính hạn mức giao đất nông nghiệp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 373531,
+              "end": 374003,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 373531,
+          "metadata": {
+            "article": "176",
+            "clause": "6",
+            "part": 3
+          },
+          "score": 0.6820082068443298,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "34259142f4ecb8a4cd6e0aa8fa26b1ab",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n5. Hạn mức giao đất chưa sử dụng cho cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối không quá hạn mức giao đất quy định tại các khoản 1, 2 và 3 Điều này và không tính vào hạn mức giao đất nông nghiệp cho cá nhân quy định tại các khoản 1, 2 và 3 Điều này. Ủy ban nhân dân cấp tỉnh quy định hạn mức giao đất chưa sử dụng cho cá nhân để đưa vào sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 373044,
+              "end": 373531,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 373044,
+          "metadata": {
+            "article": "176",
+            "clause": "5",
+            "part": 3
+          },
+          "score": 0.6660023331642151,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367457,
+              "end": 368019,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367457,
+          "metadata": {
+            "article": "172",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.6464179158210754,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 365500,
+              "end": 365672,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 365672,
+              "end": 367309,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 365500,
+          "metadata": {
+            "article": "172",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 0.6336934566497803,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "34ced8a1dbbbd8cb73afed4f438df447",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n7. Diện tích đất nông nghiệp của cá nhân do nhận chuyển nhượng, thuê, thuê lại, nhận thừa kế, được tặng cho quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất từ người khác, nhận khoán, được Nhà nước cho thuê đất không tính vào hạn mức giao đất nông nghiệp quy định tại Điều này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 374003,
+              "end": 374287,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 374003,
+          "metadata": {
+            "article": "176",
+            "clause": "7",
+            "part": 3
+          },
+          "score": 0.6307923197746277,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "e82b7a7bf72b25e9d890d622faa32053",
+          "text": "Điều 177. Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân\n1. Hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân không quá 15 lần hạn mức giao đất nông nghiệp của cá nhân đối với mỗi loại đất quy định tại các khoản 1, 2 và 3 Điều 176 của Luật này.\n2. Việc xác định hạn mức nhận chuyển quyền sử dụng đất nông nghiệp quy định tại khoản 1 Điều này phải căn cứ vào các yếu tố sau đây:\na) Điều kiện về đất đai và công nghệ sản xuất;\nb) Chuyển dịch lực lượng lao động, cơ cấu kinh tế; quá trình đô thị hóa.\n3. Ủy ban nhân dân cấp tỉnh, căn cứ quy định tại khoản 1 và khoản 2 Điều này, quy định hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân phù hợp với điều kiện cụ thể của địa phương.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 374287,
+              "end": 375006,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 374287,
+          "metadata": {
+            "article": "177",
+            "clause": null,
+            "part": 3
+          },
+          "score": 0.6296359896659851,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        }
+      ],
+      "bm25_0": [
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 365500,
+              "end": 365672,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 365672,
+              "end": 367309,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 365500,
+          "metadata": {
+            "article": "172",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 75.57756851972864,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 372571,
+              "end": 373044,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372571,
+          "metadata": {
+            "article": "176",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 69.18655359486432,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 371892,
+              "end": 372268,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 371892,
+          "metadata": {
+            "article": "176",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 62.25153447863593,
+          "rank": 3,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 370052,
+              "end": 370621,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 370621,
+              "end": 370968,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 370052,
+          "metadata": {
+            "article": "174",
+            "clause": null,
+            "part": 3
+          },
+          "score": 61.15250311799916,
+          "rank": 4,
+          "strategy": "bm25"
+        },
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368522,
+              "end": 369578,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368522,
+          "metadata": {
+            "article": "173",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 56.323321017373395,
+          "rank": 5,
+          "strategy": "bm25"
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372268,
+              "end": 372443,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372268,
+          "metadata": {
+            "article": "176",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 55.070810079795045,
+          "rank": 6,
+          "strategy": "bm25"
+        },
+        {
+          "id": "f5504742c813eb0c70f20ac3d0b1cea1",
+          "text": "Điều 118. Giao đất không thu tiền sử dụng đất\n1. Cá nhân trực tiếp sản xuất nông nghiệp được giao đất nông nghiệp trong hạn mức quy định tại Điều 176 của Luật này.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 23,
+          "page_end": 23,
+          "provenance": [
+            {
+              "start": 223357,
+              "end": 223475,
+              "document_id": "luatdat2",
+              "page": 23,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 223357,
+          "metadata": {
+            "article": "118",
+            "clause": "1",
+            "part": 2
+          },
+          "score": 50.92230446026055,
+          "rank": 7,
+          "strategy": "bm25"
+        },
+        {
+          "id": "f4bac5b51731f03e8f543d68de7eeee0",
+          "text": "Điều 244. Sửa đổi, bổ sung khoản 4 Điều 44 của Luật Thủy sản số 18/2017/QH14\n“4. Thời hạn giao khu vực biển để nuôi trồng thủy sản không quá 50 năm, được tính từ ngày quyết định giao khu vực biển có hiệu lực. Khi hết thời hạn giao, tổ chức, cá nhân có nhu cầu tiếp tục sử dụng khu vực biển đã được giao để nuôi trồng thủy sản được Nhà nước xem xét gia hạn có thể gia hạn nhiều lần nhưng tổng thời gian gia hạn không quá 20 năm. Thời hạn giao khu vực biển cho tổ chức, cá nhân Việt Nam thực hiện nhiệm vụ khoa học và công nghệ phục vụ nuôi trồng thủy sản không quá thời hạn nhiệm vụ khoa học và công nghệ được cơ quan có thẩm quyền phê duyệt.”.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 52,
+          "page_end": 52,
+          "provenance": [
+            {
+              "start": 485898,
+              "end": 486542,
+              "document_id": "luatdat3",
+              "page": 52,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 485898,
+          "metadata": {
+            "article": "244",
+            "clause": null,
+            "part": 3
+          },
+          "score": 50.72080171861747,
+          "rank": 8,
+          "strategy": "bm25"
+        },
+        {
+          "id": "34259142f4ecb8a4cd6e0aa8fa26b1ab",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n5. Hạn mức giao đất chưa sử dụng cho cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối không quá hạn mức giao đất quy định tại các khoản 1, 2 và 3 Điều này và không tính vào hạn mức giao đất nông nghiệp cho cá nhân quy định tại các khoản 1, 2 và 3 Điều này. Ủy ban nhân dân cấp tỉnh quy định hạn mức giao đất chưa sử dụng cho cá nhân để đưa vào sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 373044,
+              "end": 373531,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 373044,
+          "metadata": {
+            "article": "176",
+            "clause": "5",
+            "part": 3
+          },
+          "score": 50.55768580400941,
+          "rank": 9,
+          "strategy": "bm25"
+        },
+        {
+          "id": "95312ce8339c89a83ff213d6a3eab795",
+          "text": "Điều 109. Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà nước thu hồi đất\n1. Hỗ trợ bằng tiền không quá 05 lần giá đất nông nghiệp cùng loại trong bảng giá đất của địa phương đối với toàn bộ diện tích đất nông nghiệp thu hồi nhưng không vượt quá hạn mức giao đất nông nghiệp tại địa phương theo quy định tại Điều 176 của Luật này đối với các đối tượng sau đây:\na) Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp đang sử dụng đất nông nghiệp do được Nhà nước giao, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho, được công nhận quyền sử dụng đất khi Nhà nước thu hồi đất không có đất để bồi thường và đã được bồi thường bằng tiền;\nb) Cá nhân thuộc đối tượng bảo trợ xã hội, đối tượng được hưởng chế độ trợ cấp xã hội hằng tháng theo quy định của pháp luật, thương binh, bệnh binh, gia đình liệt sĩ khi Nhà nước thu hồi đất nông nghiệp mà không có đất để bồi thường và đã được bồi thường bằng tiền;\nc) Hộ gia đình, cá nhân sử dụng đất do nhận giao khoán đất để sử dụng vào mục đích nông nghiệp, lâm nghiệp, nuôi trồng thủy sản từ các nông, lâm trường quốc doanh hoặc công ty nông, lâm nghiệp được chuyển đổi từ các nông, lâm trường quốc doanh đang trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó, trừ trường hợp cá nhân là cán bộ, công nhân viên của nông, lâm trường quốc doanh, của công ty nông, lâm nghiệp được chuyển đổi từ các nông, lâm trường quốc doanh đã nghỉ hưu, nghỉ mất sức lao động, thôi việc được hưởng trợ cấp;\nd) Hộ gia đình, cá nhân đang sử dụng đất do nhận giao khoán đất của tập đoàn sản xuất nông nghiệp, hợp tác xã nông nghiệp đang trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 15,
+          "page_end": 15,
+          "provenance": [
+            {
+              "start": 206048,
+              "end": 207674,
+              "document_id": "luatdat2",
+              "page": 15,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 206048,
+          "metadata": {
+            "article": "109",
+            "clause": "1",
+            "part": 2
+          },
+          "score": 47.86513555341798,
+          "rank": 10,
+          "strategy": "bm25"
+        }
+      ],
+      "dense_1": [
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372268,
+              "end": 372443,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372268,
+          "metadata": {
+            "article": "176",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 0.732651948928833,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 372571,
+              "end": 373044,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372571,
+          "metadata": {
+            "article": "176",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 0.7248125076293945,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 371892,
+              "end": 372268,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 371892,
+          "metadata": {
+            "article": "176",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 0.6775996088981628,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "a87fb2f6351f548a97b2e57e20863269",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n3. Hạn mức giao đất cho cá nhân không quá 30 ha đối với mỗi loại đất:\na) Đất rừng phòng hộ;\nb) Đất rừng sản xuất là rừng trồng.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372443,
+              "end": 372571,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372443,
+          "metadata": {
+            "article": "176",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.651963472366333,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "d6518a43abfe68bbe24e0c870531cf0c",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n6. Đối với diện tích đất nông nghiệp của cá nhân đang sử dụng ngoài xã, phường, thị trấn nơi đăng ký thường trú thì cá nhân được tiếp tục sử dụng, nếu là đất được giao không thu tiền sử dụng đất thì được tính vào hạn mức giao đất nông nghiệp của cá nhân. Cơ quan có chức năng quản lý đất đai nơi đã giao đất nông nghiệp không thu tiền sử dụng đất cho cá nhân gửi thông báo cho Ủy ban nhân dân cấp xã nơi cá nhân đó đăng ký thường trú để tính hạn mức giao đất nông nghiệp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 373531,
+              "end": 374003,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 373531,
+          "metadata": {
+            "article": "176",
+            "clause": "6",
+            "part": 3
+          },
+          "score": 0.6200562715530396,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367457,
+              "end": 368019,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367457,
+          "metadata": {
+            "article": "172",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.6156107783317566,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "34259142f4ecb8a4cd6e0aa8fa26b1ab",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n5. Hạn mức giao đất chưa sử dụng cho cá nhân đưa vào sử dụng theo quy hoạch để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối không quá hạn mức giao đất quy định tại các khoản 1, 2 và 3 Điều này và không tính vào hạn mức giao đất nông nghiệp cho cá nhân quy định tại các khoản 1, 2 và 3 Điều này. Ủy ban nhân dân cấp tỉnh quy định hạn mức giao đất chưa sử dụng cho cá nhân để đưa vào sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 373044,
+              "end": 373531,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 373044,
+          "metadata": {
+            "article": "176",
+            "clause": "5",
+            "part": 3
+          },
+          "score": 0.6142892837524414,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "b6e9e2a352a02d51afaadcaf6b1f69ad",
+          "text": "Điều 90. Trưng dụng đất\n4. Thời hạn trưng dụng đất là không quá 30 ngày kể từ khi quyết định trưng dụng đất có hiệu lực thi hành. Trường hợp hết thời hạn trưng dụng đất mà mục đích của việc trưng dụng chưa hoàn thành thì được gia hạn nhưng không quá 30 ngày. Quyết định gia hạn trưng dụng đất phải được thể hiện bằng văn bản và gửi cho người có đất trưng dụng, chủ sở hữu tài sản gắn liền với đất trưng dụng trước khi kết thúc thời hạn trưng dụng. Trường hợp trong tình trạng chiến tranh, tình trạng khẩn cấp thì thời hạn trưng dụng được tính từ ngày ra quyết định đến không quá 30 ngày kể từ ngày bãi bỏ tình trạng chiến tranh, tình trạng khẩn cấp.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 92,
+          "page_end": 92,
+          "provenance": [
+            {
+              "start": 176316,
+              "end": 176942,
+              "document_id": "luatdat1",
+              "page": 92,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 176316,
+          "metadata": {
+            "article": "90",
+            "clause": "4",
+            "part": 1
+          },
+          "score": 0.6003018617630005,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "55279867b897f204bee043a33bc808d1",
+          "text": "Điều 103. Bồi thường đối với cây trồng, vật nuôi\n5. Chủ sở hữu cây trồng, vật nuôi quy định tại các khoản 1, 2, 3 và 4 Điều này được tự thu hồi cây trồng, vật nuôi trước khi bàn giao lại đất cho Nhà nước;\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 12,
+          "page_end": 12,
+          "provenance": [
+            {
+              "start": 201039,
+              "end": 201195,
+              "document_id": "luatdat2",
+              "page": 12,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 201039,
+          "metadata": {
+            "article": "103",
+            "clause": "5",
+            "part": 2
+          },
+          "score": 0.598846435546875,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "09dc413c4b605a00139468e330270331",
+          "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 77,
+          "page_end": 77,
+          "provenance": [
+            {
+              "start": 145561,
+              "end": 145938,
+              "document_id": "luatdat1",
+              "page": 77,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 145561,
+          "metadata": {
+            "article": "81",
+            "clause": "7",
+            "part": 1
+          },
+          "score": 0.5969271063804626,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        }
+      ],
+      "bm25_1": [
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 365500,
+              "end": 365672,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 365672,
+              "end": 367309,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 365500,
+          "metadata": {
+            "article": "172",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 67.6491593555334,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "page_end": 5,
+          "provenance": [
+            {
+              "start": 372571,
+              "end": 373044,
+              "document_id": "luatdat3",
+              "page": 5,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372571,
+          "metadata": {
+            "article": "176",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 55.034347469331934,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 370052,
+              "end": 370621,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 370621,
+              "end": 370968,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 370052,
+          "metadata": {
+            "article": "174",
+            "clause": null,
+            "part": 3
+          },
+          "score": 53.7973548567224,
+          "rank": 3,
+          "strategy": "bm25"
+        },
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368522,
+              "end": 369578,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368522,
+          "metadata": {
+            "article": "173",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 52.47069853601128,
+          "rank": 4,
+          "strategy": "bm25"
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 371892,
+              "end": 372268,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 371892,
+          "metadata": {
+            "article": "176",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 50.24524942391959,
+          "rank": 5,
+          "strategy": "bm25"
+        },
+        {
+          "id": "f4bac5b51731f03e8f543d68de7eeee0",
+          "text": "Điều 244. Sửa đổi, bổ sung khoản 4 Điều 44 của Luật Thủy sản số 18/2017/QH14\n“4. Thời hạn giao khu vực biển để nuôi trồng thủy sản không quá 50 năm, được tính từ ngày quyết định giao khu vực biển có hiệu lực. Khi hết thời hạn giao, tổ chức, cá nhân có nhu cầu tiếp tục sử dụng khu vực biển đã được giao để nuôi trồng thủy sản được Nhà nước xem xét gia hạn có thể gia hạn nhiều lần nhưng tổng thời gian gia hạn không quá 20 năm. Thời hạn giao khu vực biển cho tổ chức, cá nhân Việt Nam thực hiện nhiệm vụ khoa học và công nghệ phục vụ nuôi trồng thủy sản không quá thời hạn nhiệm vụ khoa học và công nghệ được cơ quan có thẩm quyền phê duyệt.”.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 52,
+          "page_end": 52,
+          "provenance": [
+            {
+              "start": 485898,
+              "end": 486542,
+              "document_id": "luatdat3",
+              "page": 52,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 485898,
+          "metadata": {
+            "article": "244",
+            "clause": null,
+            "part": 3
+          },
+          "score": 46.7816608844814,
+          "rank": 6,
+          "strategy": "bm25"
+        },
+        {
+          "id": "95312ce8339c89a83ff213d6a3eab795",
+          "text": "Điều 109. Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà nước thu hồi đất\n1. Hỗ trợ bằng tiền không quá 05 lần giá đất nông nghiệp cùng loại trong bảng giá đất của địa phương đối với toàn bộ diện tích đất nông nghiệp thu hồi nhưng không vượt quá hạn mức giao đất nông nghiệp tại địa phương theo quy định tại Điều 176 của Luật này đối với các đối tượng sau đây:\na) Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp đang sử dụng đất nông nghiệp do được Nhà nước giao, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho, được công nhận quyền sử dụng đất khi Nhà nước thu hồi đất không có đất để bồi thường và đã được bồi thường bằng tiền;\nb) Cá nhân thuộc đối tượng bảo trợ xã hội, đối tượng được hưởng chế độ trợ cấp xã hội hằng tháng theo quy định của pháp luật, thương binh, bệnh binh, gia đình liệt sĩ khi Nhà nước thu hồi đất nông nghiệp mà không có đất để bồi thường và đã được bồi thường bằng tiền;\nc) Hộ gia đình, cá nhân sử dụng đất do nhận giao khoán đất để sử dụng vào mục đích nông nghiệp, lâm nghiệp, nuôi trồng thủy sản từ các nông, lâm trường quốc doanh hoặc công ty nông, lâm nghiệp được chuyển đổi từ các nông, lâm trường quốc doanh đang trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó, trừ trường hợp cá nhân là cán bộ, công nhân viên của nông, lâm trường quốc doanh, của công ty nông, lâm nghiệp được chuyển đổi từ các nông, lâm trường quốc doanh đã nghỉ hưu, nghỉ mất sức lao động, thôi việc được hưởng trợ cấp;\nd) Hộ gia đình, cá nhân đang sử dụng đất do nhận giao khoán đất của tập đoàn sản xuất nông nghiệp, hợp tác xã nông nghiệp đang trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 15,
+          "page_end": 15,
+          "provenance": [
+            {
+              "start": 206048,
+              "end": 207674,
+              "document_id": "luatdat2",
+              "page": 15,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 206048,
+          "metadata": {
+            "article": "109",
+            "clause": "1",
+            "part": 2
+          },
+          "score": 42.744202075562086,
+          "rank": 7,
+          "strategy": "bm25"
+        },
+        {
+          "id": "1da2f935acc4396e28719f5160ae6fa1",
+          "text": "Điều 9. Phân loại đất\n2. Nhóm đất nông nghiệp bao gồm các loại đất sau đây:\na) Đất trồng cây hằng năm, gồm đất trồng lúa và đất trồng cây hằng năm khác;\nb) Đất trồng cây lâu năm;\nc) Đất lâm nghiệp, gồm đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất;\nd) Đất nuôi trồng thủy sản;\nđ) Đất chăn nuôi tập trung;\ne) Đất làm muối;\ng) Đất nông nghiệp khác.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 10,
+          "page_end": 10,
+          "provenance": [
+            {
+              "start": 17064,
+              "end": 17399,
+              "document_id": "luatdat1",
+              "page": 10,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 17064,
+          "metadata": {
+            "article": "9",
+            "clause": "2",
+            "part": 1
+          },
+          "score": 42.022788074907446,
+          "rank": 8,
+          "strategy": "bm25"
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372268,
+              "end": 372443,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372268,
+          "metadata": {
+            "article": "176",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 41.029511731285446,
+          "rank": 9,
+          "strategy": "bm25"
+        },
+        {
+          "id": "06a159ea74fd75320f741e45628c1132",
+          "text": "Điều 260. Quy định chuyển tiếp một số trường hợp khác khi Luật này có hiệu lực thi hành\n3. Tổ chức kinh tế, hộ gia đình, cá nhân, người Việt Nam định cư ở nước ngoài đầu tư sản xuất, kinh doanh trong khu công nghiệp, cụm công nghiệp, khu chế xuất được tiếp tục sử dụng đất theo thời hạn còn lại của dự án quy định tại khoản 5 Điều 149 của Luật Đất đai số 45/2013/QH13 thì được tiếp tục sử dụng đất theo thời hạn còn lại của dự án mà không phải chuyển sang thuê đất. Khi hết thời hạn thực hiện dự án nếu có nhu cầu thì được Nhà nước xem xét cho thuê đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 64,
+          "page_end": 64,
+          "provenance": [
+            {
+              "start": 515218,
+              "end": 515711,
+              "document_id": "luatdat3",
+              "page": 64,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 515218,
+          "metadata": {
+            "article": "260",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 41.00704018949015,
+          "rank": 10,
+          "strategy": "bm25"
+        }
+      ]
+    },
+    "mode": "hybrid_improved"
+  },
+  "evidence_audit": {
+    "gold_chunk_ids": [
+      "8f9858b390b20bbbd00836d99647486c"
+    ],
+    "gold_in_top3": false,
+    "gold_in_context": false,
+    "semantic_support": "pending_human_review"
+  }
+}

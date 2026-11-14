@@ -1,0 +1,143 @@
+{
+  "created_at_utc": "2026-11-14T11:43:44.728735+00:00",
+  "status": "finished",
+  "evaluation_type": "diagnostic_replay_exposed_test",
+  "case_ids": [
+    "q16",
+    "q17",
+    "q19",
+    "q23",
+    "q24"
+  ],
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "benchmark_sha256": "6c664d5217307e83f02a8a6baa803ab9bd5ec0216f80a17517612be91ff835fd",
+  "config": {
+    "mode": "hybrid_improved",
+    "candidate_k": 10,
+    "rrf_k": 60,
+    "top_k": 3,
+    "context_budget_chars": 6000,
+    "context_expansion_max": 6,
+    "max_chat_calls_per_case": 2,
+    "max_completion_tokens_per_call": 1000,
+    "model": "gpt-4o-mini",
+    "temperature": 0
+  },
+  "config_sha256": "095c9e4b926747f0c82c024f569f9d5fa71c40a71a2631d026ea08e13e9f9175",
+  "code_hashes": {
+    "src/agent.py": "eb8252902bf18596bd4a42060eb91d904ac07947ea1ec22569570a18f8787598",
+    "src/pipeline.py": "4a97d557645d6aa1d09f6f8fb9d356f77acaf1ed3505f18315720793ae1d5bd2",
+    "src/context.py": "b3557c3d2b649b9150e38e1079b11f884504ea7a84f339d7a5f99804b7cc2b92",
+    "src/citation.py": "96e8cd3be4034fba26ab7f0817053160256b9a41e93692eacf728ba999985abe",
+    "prompts/grounded_answer_v2.txt": "bb81020e539b5357e3f574feb20beb3465b5186e0ba7468a07af22940d7de771"
+  },
+  "semantic_review_status": "pending_human_review",
+  "chat_cost_usd": null,
+  "completed_at_utc": "2026-11-14T11:44:11.815632+00:00",
+  "embedding_usage": [
+    {
+      "query_hash": "0e95433e7a73f5b74e81cc3a4e0fb18112b2845466f08ad6e15e8a4540575089",
+      "usage": {
+        "prompt_tokens": 51,
+        "total_tokens": 51,
+        "cost": 1.02e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.02e-06,
+          "upstream_inference_prompt_cost": 1.02e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "2cc25422f0cc3c0de14b8dfe22b3ab4fce21aed6063d6c53eed2d4ae1515cff0",
+      "usage": {
+        "prompt_tokens": 83,
+        "total_tokens": 83,
+        "cost": 1.66e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.66e-06,
+          "upstream_inference_prompt_cost": 1.66e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "2ea6e3314cddc7ab711a750b7dcc2228ef680fbd8868a54766ca32a5d4f28202",
+      "usage": {
+        "prompt_tokens": 72,
+        "total_tokens": 72,
+        "cost": 1.44e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.44e-06,
+          "upstream_inference_prompt_cost": 1.44e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "4eed97ae7c948c55b1ba5bd4d22743d2f5da74ad17498f91fb42284597490e6e",
+      "usage": {
+        "prompt_tokens": 64,
+        "total_tokens": 64,
+        "cost": 1.28e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.28e-06,
+          "upstream_inference_prompt_cost": 1.28e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "ede8d986b2471027e354e83a5efa2d5aea790d3e25673496a4753de760345bed",
+      "usage": {
+        "prompt_tokens": 50,
+        "total_tokens": 50,
+        "cost": 1e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1e-06,
+          "upstream_inference_prompt_cost": 1e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "3d6fd24990e180bb7e3a50860121a7270ed72ffe9025ff0e1cc43effeb62f50c",
+      "usage": {
+        "prompt_tokens": 53,
+        "total_tokens": 53,
+        "cost": 1.06e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.06e-06,
+          "upstream_inference_prompt_cost": 1.06e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "8215a4aa92812c946f7b18a493a2714a2415bf03a03ef441cf0fc1db1438d5a1",
+      "usage": {
+        "prompt_tokens": 52,
+        "total_tokens": 52,
+        "cost": 1.04e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.04e-06,
+          "upstream_inference_prompt_cost": 1.04e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    }
+  ],
+  "trace_sha256": "823155d2ed28f1da926eef8edfb8bb33fdc8fc8f72bfccd36b5992a465deea76",
+  "chat_usage": {
+    "prompt_tokens": 11445,
+    "completion_tokens": 1260,
+    "total_tokens": 12705
+  }
+}

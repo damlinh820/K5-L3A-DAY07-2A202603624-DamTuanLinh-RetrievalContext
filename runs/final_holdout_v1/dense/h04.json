@@ -1,0 +1,615 @@
+{
+  "query_id": "h04",
+  "question": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?",
+  "split": "test",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 thuộc trường hợp không cấp Giấy chứng nhận quyền sử dụng đất theo Điều 151. Cụ thể, Điều 151 quy định rằng \"Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này\" là một trong những trường hợp không được cấp Giấy chứng nhận quyền sử dụng đất. [1401e3850d480530c51b4788310c72a4] [4c80cb76914432cd27c83fe93e76d31b]",
+    "citations": [
+      "1401e3850d480530c51b4788310c72a4",
+      "4c80cb76914432cd27c83fe93e76d31b"
+    ],
+    "abstained": false,
+    "reason": "Evidence đủ để xác định rằng đất nông nghiệp sử dụng vào mục đích công ích không được cấp Giấy chứng nhận.",
+    "evidence_quotes": [
+      {
+        "id": "1401e3850d480530c51b4788310c72a4",
+        "quote": "a) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;"
+      },
+      {
+        "id": "4c80cb76914432cd27c83fe93e76d31b",
+        "quote": "Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất đai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương."
+      }
+    ],
+    "context": "[1401e3850d480530c51b4788310c72a4] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 71 | Điều 151 | Khoản 1\nĐiều 151. Các trường hợp không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Người sử dụng đất không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp sau đây:\na) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;\nb) Đất được giao để quản lý thuộc các trường hợp quy định tại Điều 7 của Luật này, trừ trường hợp đất được giao sử dụng chung với đất được giao để quản lý thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với phần diện tích đất sử dụng theo quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền;\nc) Đất thuê, thuê lại của người sử dụng đất, trừ trường hợp thuê, thuê lại đất của chủ đầu tư xây dựng kinh doanh kết cấu hạ tầng, phù hợp với dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt;\nd) Đất nhận khoán, trừ trường hợp được công nhận quyền sử dụng đất tại điểm a khoản 2 Điều 181 của Luật này;\nđ) Đất đã có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền, trừ trường hợp đã quá 03 năm kể từ thời điểm có quyết định thu hồi đất mà không thực hiện;\ne) Đất đang có tranh chấp, đang bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật về thi hành án dân sự; quyền sử dụng đất đang bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật;\ng) Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất để sử dụng vào mục đích công cộng không nhằm mục đích kinh doanh.\n\n\n[4c80cb76914432cd27c83fe93e76d31b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 6 | Điều 179 | Khoản 1\nĐiều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n1. Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất đai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.\n\n\n[39f891be7c1d4e2f74cd2e18317083f2] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 6 | Điều 179 | Khoản 2\nĐiều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n2. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn để sử dụng vào các mục đích sau đây:\na) Xây dựng các công trình văn hóa, thể dục thể thao, vui chơi, giải trí công cộng, y tế, giáo dục, chợ, nghĩa trang và các công trình công cộng khác do Ủy ban nhân dân cấp xã đầu tư, quản lý, sử dụng; xây dựng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết;\nb) Bồi thường cho người có đất thu hồi khi xây dựng các công trình quy định tại điểm a khoản này.\n",
+    "context_ids": [
+      "1401e3850d480530c51b4788310c72a4",
+      "4c80cb76914432cd27c83fe93e76d31b",
+      "39f891be7c1d4e2f74cd2e18317083f2"
+    ],
+    "context_chars": 2722,
+    "context_tokens": 1343,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_3FXVrXvzmViAQexIXSa7cwYL",
+        "round": 1,
+        "arguments": {
+          "query": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "1401e3850d480530c51b4788310c72a4",
+            "text": "Điều 151. Các trường hợp không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Người sử dụng đất không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp sau đây:\na) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;\nb) Đất được giao để quản lý thuộc các trường hợp quy định tại Điều 7 của Luật này, trừ trường hợp đất được giao sử dụng chung với đất được giao để quản lý thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với phần diện tích đất sử dụng theo quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền;\nc) Đất thuê, thuê lại của người sử dụng đất, trừ trường hợp thuê, thuê lại đất của chủ đầu tư xây dựng kinh doanh kết cấu hạ tầng, phù hợp với dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt;\nd) Đất nhận khoán, trừ trường hợp được công nhận quyền sử dụng đất tại điểm a khoản 2 Điều 181 của Luật này;\nđ) Đất đã có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền, trừ trường hợp đã quá 03 năm kể từ thời điểm có quyết định thu hồi đất mà không thực hiện;\ne) Đất đang có tranh chấp, đang bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật về thi hành án dân sự; quyền sử dụng đất đang bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật;\ng) Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất để sử dụng vào mục đích công cộng không nhằm mục đích kinh doanh.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 71,
+            "page_end": 72,
+            "provenance": [
+              {
+                "start": 321233,
+                "end": 321462,
+                "document_id": "luatdat2",
+                "page": 71,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              },
+              {
+                "start": 321462,
+                "end": 322641,
+                "document_id": "luatdat2",
+                "page": 72,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 321233,
+            "metadata": {
+              "article": "151",
+              "clause": "1",
+              "part": 2
+            },
+            "score": 0.6822496056556702,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "4c80cb76914432cd27c83fe93e76d31b",
+            "text": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n1. Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất đai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 6,
+            "page_end": 6,
+            "provenance": [
+              {
+                "start": 376896,
+                "end": 377094,
+                "document_id": "luatdat3",
+                "page": 6,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 376896,
+            "metadata": {
+              "article": "179",
+              "clause": "1",
+              "part": 3
+            },
+            "score": 0.6484832167625427,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "39f891be7c1d4e2f74cd2e18317083f2",
+            "text": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n2. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn để sử dụng vào các mục đích sau đây:\na) Xây dựng các công trình văn hóa, thể dục thể thao, vui chơi, giải trí công cộng, y tế, giáo dục, chợ, nghĩa trang và các công trình công cộng khác do Ủy ban nhân dân cấp xã đầu tư, quản lý, sử dụng; xây dựng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết;\nb) Bồi thường cho người có đất thu hồi khi xây dựng các công trình quy định tại điểm a khoản này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 6,
+            "page_end": 6,
+            "provenance": [
+              {
+                "start": 377094,
+                "end": 377569,
+                "document_id": "luatdat3",
+                "page": 6,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 377094,
+            "metadata": {
+              "article": "179",
+              "clause": "2",
+              "part": 3
+            },
+            "score": 0.6429119110107422,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "1401e3850d480530c51b4788310c72a4",
+          "4c80cb76914432cd27c83fe93e76d31b",
+          "39f891be7c1d4e2f74cd2e18317083f2"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?",
+          "variants": [
+            "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "1401e3850d480530c51b4788310c72a4",
+                "text": "Điều 151. Các trường hợp không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Người sử dụng đất không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp sau đây:\na) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;\nb) Đất được giao để quản lý thuộc các trường hợp quy định tại Điều 7 của Luật này, trừ trường hợp đất được giao sử dụng chung với đất được giao để quản lý thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với phần diện tích đất sử dụng theo quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền;\nc) Đất thuê, thuê lại của người sử dụng đất, trừ trường hợp thuê, thuê lại đất của chủ đầu tư xây dựng kinh doanh kết cấu hạ tầng, phù hợp với dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt;\nd) Đất nhận khoán, trừ trường hợp được công nhận quyền sử dụng đất tại điểm a khoản 2 Điều 181 của Luật này;\nđ) Đất đã có quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền, trừ trường hợp đã quá 03 năm kể từ thời điểm có quyết định thu hồi đất mà không thực hiện;\ne) Đất đang có tranh chấp, đang bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật về thi hành án dân sự; quyền sử dụng đất đang bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật;\ng) Tổ chức được Nhà nước giao đất không thu tiền sử dụng đất để sử dụng vào mục đích công cộng không nhằm mục đích kinh doanh.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 71,
+                "page_end": 72,
+                "provenance": [
+                  {
+                    "start": 321233,
+                    "end": 321462,
+                    "document_id": "luatdat2",
+                    "page": 71,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 321462,
+                    "end": 322641,
+                    "document_id": "luatdat2",
+                    "page": 72,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 321233,
+                "metadata": {
+                  "article": "151",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.6822496056556702,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4c80cb76914432cd27c83fe93e76d31b",
+                "text": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n1. Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất đai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 6,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 376896,
+                    "end": 377094,
+                    "document_id": "luatdat3",
+                    "page": 6,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 376896,
+                "metadata": {
+                  "article": "179",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 0.6484832167625427,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "39f891be7c1d4e2f74cd2e18317083f2",
+                "text": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n2. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn để sử dụng vào các mục đích sau đây:\na) Xây dựng các công trình văn hóa, thể dục thể thao, vui chơi, giải trí công cộng, y tế, giáo dục, chợ, nghĩa trang và các công trình công cộng khác do Ủy ban nhân dân cấp xã đầu tư, quản lý, sử dụng; xây dựng nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết;\nb) Bồi thường cho người có đất thu hồi khi xây dựng các công trình quy định tại điểm a khoản này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 6,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 377094,
+                    "end": 377569,
+                    "document_id": "luatdat3",
+                    "page": 6,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 377094,
+                "metadata": {
+                  "article": "179",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 0.6429119110107422,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a7cdce738aaa59e30fcd4c1dfb41f960",
+                "text": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n3. Đối với diện tích đất chưa sử dụng vào các mục đích quy định tại khoản 2 Điều này thì Ủy ban nhân dân cấp xã cho cá nhân tại địa phương thuê để sản xuất nông nghiệp, nuôi trồng thủy sản theo hình thức đấu giá. Thời hạn sử dụng đất đối với mỗi lần thuê không quá 10 năm.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 7,
+                "page_end": 7,
+                "provenance": [
+                  {
+                    "start": 377569,
+                    "end": 377842,
+                    "document_id": "luatdat3",
+                    "page": 7,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 377569,
+                "metadata": {
+                  "article": "179",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 0.6390988826751709,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "945704113975ee2976bc7f88d55ee93f",
+                "text": "Điều 179. Quỹ đất nông nghiệp sử dụng vào mục đích công ích\n4. Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn do Ủy ban nhân dân cấp xã nơi có đất quản lý, sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 7,
+                "page_end": 7,
+                "provenance": [
+                  {
+                    "start": 377842,
+                    "end": 378052,
+                    "document_id": "luatdat3",
+                    "page": 7,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 377842,
+                "metadata": {
+                  "article": "179",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.6264122128486633,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "5126c85b6377629e04d9e73d68c3a7d5",
+                "text": "Điều 145. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất\n4. Trường hợp đất do tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng vào mục đích sản xuất nông nghiệp, sản xuất lâm nghiệp, sản xuất, kinh doanh phi nông nghiệp bảo đảm các điều kiện quy định tại khoản 3 Điều này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo hình thức và thời hạn sử dụng đất tương ứng với mục đích đó như đối với hộ gia đình, cá nhân.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 66,
+                "page_end": 66,
+                "provenance": [
+                  {
+                    "start": 309800,
+                    "end": 310210,
+                    "document_id": "luatdat2",
+                    "page": 66,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 309800,
+                "metadata": {
+                  "article": "145",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.6250888109207153,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "f7d7ab1f0624e7184bd88b9bd82be5e7",
+                "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n6. Hộ gia đình, cá nhân đang sử dụng đất ổn định vào mục đích thuộc nhóm đất nông nghiệp, nay được Ủy ban nhân dân cấp xã nơi có đất xác nhận không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo hình thức Nhà nước giao đất không thu tiền sử dụng đất đối với diện tích đất đang sử dụng nhưng không vượt quá hạn mức giao đất nông nghiệp cho cá nhân quy định tại Điều 176 của Luật này; thời hạn sử dụng đất tính từ ngày được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; diện tích đất nông nghiệp còn lại (nếu có) phải chuyển sang thuê đất của Nhà nước;\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 55,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 285681,
+                    "end": 286322,
+                    "document_id": "luatdat2",
+                    "page": 55,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 285681,
+                "metadata": {
+                  "article": "138",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.6200811266899109,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d234f920262f1ffd4bffe01ff7bba092",
+                "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n9. Cộng đồng dân cư đang sử dụng đất có công trình là đình, đền, miếu, am, nhà thờ họ, công trình tín ngưỡng khác; chùa không thuộc quy định tại khoản 1 Điều 213 của Luật này; đất nông nghiệp quy định tại khoản 4 Điều 178 của\nLuật này và đất đó không có tranh chấp, có giấy tờ xác nhận của Ủy ban nhân dân cấp xã nơi có đất là đất sử dụng chung cho cộng đồng dân cư thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 50,
+                "page_end": 51,
+                "provenance": [
+                  {
+                    "start": 276916,
+                    "end": 277142,
+                    "document_id": "luatdat2",
+                    "page": 50,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 277142,
+                    "end": 277369,
+                    "document_id": "luatdat2",
+                    "page": 51,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 276916,
+                "metadata": {
+                  "article": "137",
+                  "clause": "9",
+                  "part": 2
+                },
+                "score": 0.6152516603469849,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "1695f976d2864f70cc0773f6009700aa",
+                "text": "Điều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n3. Người sử dụng đất nông nghiệp được chuyển đổi cơ cấu cây trồng, vật nuôi để sử dụng đất kết hợp đa mục đích theo quy định tại Điều 218 của Luật này; được sử dụng một diện tích đất theo quy định của Ủy ban nhân dân cấp tỉnh để xây dựng công trình phục vụ trực tiếp sản xuất nông nghiệp. Trường hợp sử dụng đất trồng lúa thì thực hiện theo quy định tại Điều 182 của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 6,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 376074,
+                    "end": 376451,
+                    "document_id": "luatdat3",
+                    "page": 6,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 376074,
+                "metadata": {
+                  "article": "178",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 0.6133016347885132,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "b4abe25196d9d7be166e946e400f8abf",
+                "text": "Điều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n4. Đất nông nghiệp do cộng đồng dân cư sử dụng được quy định như sau:\na) Cộng đồng dân cư được Nhà nước giao đất, công nhận quyền sử dụng đất để bảo tồn bản sắc dân tộc gắn với phong tục, tập quán, tín ngưỡng của các dân tộc;\nb) Cộng đồng dân cư được Nhà nước giao đất, công nhận quyền sử dụng đất có trách nhiệm bảo vệ đất được giao, không được chuyển sang sử dụng vào mục đích khác.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 6,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 376451,
+                    "end": 376836,
+                    "document_id": "luatdat3",
+                    "page": 6,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 376451,
+                "metadata": {
+                  "article": "178",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.6007879972457886,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1136.8042000103742
+      },
+      {
+        "event": "answer_validation",
+        "errors": [
+          "each citation needs a verified excerpt"
+        ],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "1401e3850d480530c51b4788310c72a4",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            },
+            {
+              "id": "4c80cb76914432cd27c83fe93e76d31b",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "1401e3850d480530c51b4788310c72a4",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            },
+            {
+              "id": "4c80cb76914432cd27c83fe93e76d31b",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-EkANsdcBG1l7jzC1qKrm3gMqY12J7",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_3FXVrXvzmViAQexIXSa7cwYL",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 528,
+          "completion_tokens": 56,
+          "total_tokens": 584,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00011280000000000002,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-EkANvwHBioFMln5Pdj49ehVrinPNd",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 thuộc trường hợp không cấp Giấy chứng nhận quyền sử dụng đất nêu ở Điều 151. Cụ thể, Điều 151 quy định rằng người sử dụng đất không được cấp Giấy chứng nhận quyền sử dụng đất trong trường hợp \\\"Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này\\\" [1401e3850d480530c51b4788310c72a4].\",\"citations\":[\"1401e3850d480530c51b4788310c72a4\",\"4c80cb76914432cd27c83fe93e76d31b\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 151 và Điều 179 đã được trích dẫn rõ ràng, xác nhận rằng đất nông nghiệp sử dụng vào mục đích công ích không được cấp Giấy chứng nhận.\",\"evidence_quotes\":[{\"id\":\"1401e3850d480530c51b4788310c72a4\",\"quote\":\"Người sử dụng đất không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong các trường hợp sau đây: a) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1528,
+          "completion_tokens": 300,
+          "total_tokens": 1828,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00040919999999999997,
+        "finish_reason": "stop"
+      },
+      {
+        "response_id": "chatcmpl-EkANyXr0ev37wUqvUE0Wkxbc5PKux",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 thuộc trường hợp không cấp Giấy chứng nhận quyền sử dụng đất theo Điều 151. Cụ thể, Điều 151 quy định rằng \\\"Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này\\\" là một trong những trường hợp không được cấp Giấy chứng nhận quyền sử dụng đất.\",\"citations\":[\"1401e3850d480530c51b4788310c72a4\",\"4c80cb76914432cd27c83fe93e76d31b\"],\"abstained\":false,\"reason\":\"Evidence đủ để xác định rằng đất nông nghiệp sử dụng vào mục đích công ích không được cấp Giấy chứng nhận.\",\"evidence_quotes\":[{\"id\":\"1401e3850d480530c51b4788310c72a4\",\"quote\":\"a) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;\"},{\"id\":\"4c80cb76914432cd27c83fe93e76d31b\",\"quote\":\"Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất đai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1557,
+          "completion_tokens": 299,
+          "total_tokens": 1856,
+          "prompt_tokens_details": {
+            "cached_tokens": 1408,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00041295,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "3949dcdfcb7446b7b89bbda13d4ef8a1",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 3613,
+      "completion_tokens": 655,
+      "total_tokens": 4268
+    },
+    "estimated_chat_cost_usd": 0.0009349499999999999,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 9939.31970000267
+  }
+}

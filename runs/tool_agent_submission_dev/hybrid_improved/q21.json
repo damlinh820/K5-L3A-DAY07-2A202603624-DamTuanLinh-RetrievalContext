@@ -1,0 +1,821 @@
+{
+  "query_id": "q21",
+  "question": "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?",
+  "split": "dev",
+  "answerability": "insufficient_evidence",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "reason": "Tài liệu không chứa thông tin về mức xử phạt cụ thể đối với hành vi lấn đất theo nghị định sửa đổi năm 2027.",
+    "evidence_quotes": [],
+    "context": "[fd5834c89a3dafaff7c68740b8558542] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 57 | Điều 252 | Khoản None\nĐiều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030. Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n\n\n[868c9a448f5717cb40057d01d0ad0e2e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 53 | Điều 245 | Khoản 5\nĐiều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n5. Sửa đổi, bổ sung Điều 129 như sau: “Điều 129. Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính\n1. Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh.\n2. Ủy ban Thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã.\n3. Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”.\n\n\n[09dc413c4b605a00139468e330270331] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 7\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n\n\n[dc466527db85235c70dddf69e4f1aaaa] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 53 | Điều 245 | Khoản 4\nĐiều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n4. Bổ sung khoản 2a vào sau khoản 2 Điều 42 như sau: “2a. Phê duyệt quy hoạch, kế hoạch sử dụng đất của huyện trực thuộc theo quy định của Luật Đất đai.”.\n\n\n[92bbb0b136a58d47e3c0e2af4d61e385] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 6\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n\n\n[474fb9a496754b785bd9237d2fb1bcd9] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 8\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n8. Đất được Nhà nước giao, cho thuê, cho phép chuyển mục đích sử dụng, công nhận quyền sử dụng đất, nhận chuyển nhượng quyền sử dụng đất để thực hiện dự án đầu tư mà không được sử dụng trong thời hạn 12 tháng liên tục kể từ khi nhận bàn giao đất trên thực địa hoặc tiến độ sử dụng đất chậm 24 tháng so với tiến độ ghi trong dự án đầu tư; trường hợp không đưa đất vào sử dụng hoặc chậm tiến độ sử dụng đất so với tiến độ ghi trong dự án đầu tư thì chủ đầu tư được gia hạn sử dụng không quá 24 tháng và phải nộp bổ sung cho Nhà nước khoản tiền tương ứng với mức tiền sử dụng đất, tiền thuê đất đối với thời gian được gia hạn; hết thời hạn được gia hạn mà chủ đầu tư vẫn chưa đưa đất vào sử dụng thì Nhà nước thu hồi đất mà không bồi thường về đất, tài sản gắn liền với đất và chi phí đầu tư vào đất còn lại.\n",
+    "context_ids": [
+      "fd5834c89a3dafaff7c68740b8558542",
+      "868c9a448f5717cb40057d01d0ad0e2e",
+      "09dc413c4b605a00139468e330270331",
+      "dc466527db85235c70dddf69e4f1aaaa",
+      "92bbb0b136a58d47e3c0e2af4d61e385",
+      "474fb9a496754b785bd9237d2fb1bcd9"
+    ],
+    "context_chars": 4491,
+    "context_tokens": 2253,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_jqOgTFusvaTd56zHRsuEdu0h",
+        "round": 1,
+        "arguments": {
+          "query": "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "fd5834c89a3dafaff7c68740b8558542",
+            "text": "Điều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030. Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 57,
+            "page_end": 57,
+            "provenance": [
+              {
+                "start": 496970,
+                "end": 497864,
+                "document_id": "luatdat3",
+                "page": 57,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 496970,
+            "metadata": {
+              "article": "252",
+              "clause": null,
+              "part": 3
+            },
+            "score": 0.031099324975891997,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.031099324975891997,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 8
+            },
+            "source_scores": {
+              "dense_0": 0.5593070983886719,
+              "bm25_0": 20.857117001037857
+            },
+            "rank": 1
+          },
+          {
+            "id": "868c9a448f5717cb40057d01d0ad0e2e",
+            "text": "Điều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n5. Sửa đổi, bổ sung Điều 129 như sau: “Điều 129. Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính\n1. Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh.\n2. Ủy ban Thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã.\n3. Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 53,
+            "page_end": 53,
+            "provenance": [
+              {
+                "start": 487670,
+                "end": 488403,
+                "document_id": "luatdat3",
+                "page": 53,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 487670,
+            "metadata": {
+              "article": "245",
+              "clause": "5",
+              "part": 3
+            },
+            "score": 0.01639344262295082,
+            "rank": 2,
+            "strategy": "hybrid_improved",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "bm25_0": 27.247530596194018
+            }
+          },
+          {
+            "id": "09dc413c4b605a00139468e330270331",
+            "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 77,
+            "page_end": 77,
+            "provenance": [
+              {
+                "start": 145561,
+                "end": 145938,
+                "document_id": "luatdat1",
+                "page": 77,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 145561,
+            "metadata": {
+              "article": "81",
+              "clause": "7",
+              "part": 1
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_improved",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "bm25_0": 24.906119907337636
+            }
+          }
+        ],
+        "context_ids": [
+          "fd5834c89a3dafaff7c68740b8558542",
+          "868c9a448f5717cb40057d01d0ad0e2e",
+          "09dc413c4b605a00139468e330270331",
+          "dc466527db85235c70dddf69e4f1aaaa",
+          "92bbb0b136a58d47e3c0e2af4d61e385",
+          "474fb9a496754b785bd9237d2fb1bcd9"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?",
+          "variants": [
+            "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "fd5834c89a3dafaff7c68740b8558542",
+                "text": "Điều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030. Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 57,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 496970,
+                    "end": 497864,
+                    "document_id": "luatdat3",
+                    "page": 57,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 496970,
+                "metadata": {
+                  "article": "252",
+                  "clause": null,
+                  "part": 3
+                },
+                "score": 0.5593070983886719,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a6b318d891a20ee1d94bdc862688a466",
+                "text": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n6. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 79,
+                "page_end": 79,
+                "provenance": [
+                  {
+                    "start": 149657,
+                    "end": 149698,
+                    "document_id": "luatdat1",
+                    "page": 79,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 149657,
+                "metadata": {
+                  "article": "82",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.5582888126373291,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "984b797acdb638cca0cc6363cba349ae",
+                "text": "Điều 139. Giải quyết đối với trường hợp hộ gia đình, cá nhân sử dụng đất có vi phạm pháp luật đất đai trước ngày 01 tháng 7 năm 2014\n6. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 57,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 291627,
+                    "end": 291668,
+                    "document_id": "luatdat2",
+                    "page": 57,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 291627,
+                "metadata": {
+                  "article": "139",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.5481423139572144,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "109357e10785e865564905b9ec5dae74",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n10. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 146852,
+                    "end": 146894,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 146852,
+                "metadata": {
+                  "article": "81",
+                  "clause": "10",
+                  "part": 1
+                },
+                "score": 0.5357266664505005,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "7d63c91928a2a0d27942d467f424ee6f",
+                "text": "Điều 172. Đất sử dụng có thời hạn\n5. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 368418,
+                    "end": 368459,
+                    "document_id": "luatdat3",
+                    "page": 3,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 368418,
+                "metadata": {
+                  "article": "172",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 0.5304698944091797,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "bd9161747841c096da1066f9f65ae970",
+                "text": "Điều 89. Cưỡng chế thực hiện quyết định thu hồi đất\n7. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 91,
+                "page_end": 91,
+                "provenance": [
+                  {
+                    "start": 174927,
+                    "end": 174968,
+                    "document_id": "luatdat1",
+                    "page": 91,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 174927,
+                "metadata": {
+                  "article": "89",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 0.5291685461997986,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "34a8a059899116bfcee9999954eff015",
+                "text": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n5. Việc thu hồi đất trong các trường hợp quy định tại các khoản 1, 2 và 3 Điều này phải dựa trên căn cứ sau đây:\na) Văn bản của cơ quan có thẩm quyền giải quyết đã có hiệu lực pháp luật đối với trường hợp quy định tại điểm a khoản 1 Điều này;\nb) Giấy chứng tử hoặc quyết định tuyên bố một người là đã chết theo quy định của pháp luật đối với trường hợp quy định tại điểm b khoản 1 Điều này;\nc) Quyết định giao đất, quyết định cho thuê đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp quy định tại điểm c khoản 1 Điều này;\nd) Văn bản chấm dứt dự án đầu tư đối với trường hợp quy định tại điểm d khoản 1 Điều này;\nđ) Văn bản thu hồi rừng đối với trường hợp quy định tại điểm đ khoản 1 Điều này;\ne) Văn bản trả lại đất của người sử dụng đất đối với trường hợp quy định tại khoản 2 Điều này;\ng) Văn bản của cơ quan có thẩm quyền xác định mức độ ô nhiễm môi trường, sạt lở, sụt lún, bị ảnh hưởng bởi hiện tượng thiên tai khác đối với trường hợp quy định tại khoản 3 Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 78,
+                "page_end": 79,
+                "provenance": [
+                  {
+                    "start": 148456,
+                    "end": 149208,
+                    "document_id": "luatdat1",
+                    "page": 78,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 149208,
+                    "end": 149657,
+                    "document_id": "luatdat1",
+                    "page": 79,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 148456,
+                "metadata": {
+                  "article": "82",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5288576483726501,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8c59a94a5c1a00a6a863085936a62455",
+                "text": "Điều 139. Giải quyết đối với trường hợp hộ gia đình, cá nhân sử dụng đất có vi phạm pháp luật đất đai trước ngày 01 tháng 7 năm 2014\n1. Trường hợp sử dụng đất do lấn, chiếm hành lang bảo vệ an toàn công trình công cộng sau khi Nhà nước đã công bố, cắm mốc hành lang bảo vệ hoặc lấn, chiếm lòng đường, lề đường, vỉa hè sau khi Nhà nước đã công bố chỉ giới xây dựng hoặc lấn đất, chiếm đất sử dụng cho mục đích xây dựng trụ sở cơ quan, công trình sự nghiệp, công trình công cộng khác thì Nhà nước thu hồi đất để trả lại cho công trình mà không cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với diện tích đất đã lấn, chiếm.\nTrường hợp đã có điều chỉnh quy hoạch sử dụng đất, quy hoạch xây dựng được cơ quan có thẩm quyền phê duyệt mà nay diện tích đất lấn, chiếm không còn thuộc hành lang bảo vệ an toàn công trình công cộng; không thuộc chỉ giới xây dựng đường giao thông; không có mục đích sử dụng cho trụ sở cơ quan, công trình sự nghiệp và công trình công cộng khác thì người đang sử dụng đất được xem xét cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 55,
+                "page_end": 56,
+                "provenance": [
+                  {
+                    "start": 287338,
+                    "end": 287861,
+                    "document_id": "luatdat2",
+                    "page": 55,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 287861,
+                    "end": 288390,
+                    "document_id": "luatdat2",
+                    "page": 56,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 287338,
+                "metadata": {
+                  "article": "139",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.5272905826568604,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "af20323098207b6afce5153a85394c16",
+                "text": "Điều 139. Giải quyết đối với trường hợp hộ gia đình, cá nhân sử dụng đất có vi phạm pháp luật đất đai trước ngày 01 tháng 7 năm 2014\n4. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp do tự khai hoang, không có tranh chấp thì được Nhà nước cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo hạn mức giao đất nông nghiệp do Ủy ban nhân dân cấp tỉnh quy định; nếu vượt hạn mức do Ủy ban nhân dân cấp tỉnh quy định thì diện tích vượt hạn mức phải chuyển sang thuê đất của Nhà nước.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 57,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 290955,
+                    "end": 291334,
+                    "document_id": "luatdat2",
+                    "page": 57,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 290955,
+                "metadata": {
+                  "article": "139",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.5221704244613647,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a6591c94f867b5a3454adcd64c68796b",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 444611,
+                    "end": 444652,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 444611,
+                "metadata": {
+                  "article": "219",
+                  "clause": "8",
+                  "part": 3
+                },
+                "score": 0.5179107189178467,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "868c9a448f5717cb40057d01d0ad0e2e",
+                "text": "Điều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n5. Sửa đổi, bổ sung Điều 129 như sau: “Điều 129. Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính\n1. Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh.\n2. Ủy ban Thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã.\n3. Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 487670,
+                    "end": 488403,
+                    "document_id": "luatdat3",
+                    "page": 53,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 487670,
+                "metadata": {
+                  "article": "245",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 27.247530596194018,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "09dc413c4b605a00139468e330270331",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145561,
+                    "end": 145938,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145561,
+                "metadata": {
+                  "article": "81",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 24.906119907337636,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f23073ebed9774e8513b934df1d02851",
+                "text": "Điều 239. Xử lý đối với người có hành vi vi phạm pháp luật về đất đai\nNgười có hành vi vi phạm pháp luật về đất đai thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 49,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 478737,
+                    "end": 479043,
+                    "document_id": "luatdat3",
+                    "page": 49,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 478737,
+                "metadata": {
+                  "article": "239",
+                  "clause": null,
+                  "part": 3
+                },
+                "score": 23.11611017713093,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "ba07a840da91b83499b7f30b3ce7d0d8",
+                "text": "Điều 246. Sửa đổi, bổ sung khoản 4 Điều 106 của Luật Thi hành án dân sự số 26/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2014/QH13, Luật số 23/2018/QH14, Luật số 67/2020/QH14 và Luật số 03/2022/QH15 Sửa đổi, bổ sung khoản 4 Điều 106 như sau: “4. Trường hợp tài sản là quyền sử dụng đất, tài sản gắn liền với đất mà đủ điều kiện nhưng chưa được cấp giấy chứng nhận lần đầu thì cơ quan thi hành án có trách nhiệm đề nghị cơ quan có thẩm quyền thực hiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu cho người mua được tài sản thi hành án, người nhận tài sản thi hành án theo quy định của pháp luật. Trường hợp tài sản là quyền sử dụng đất, tài sản gắn liền với đất đã được cấp giấy chứng nhận mà không thu hồi được giấy chứng nhận đã cấp thì cơ quan thi hành án có trách nhiệm đề nghị cơ quan có thẩm quyền thực hiện thu hồi hoặc hủy giấy chứng nhận đã cấp và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người mua được tài sản thi hành án, người nhận tài sản thi hành án theo quy định của pháp luật.”.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 488403,
+                    "end": 489499,
+                    "document_id": "luatdat3",
+                    "page": 53,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 488403,
+                "metadata": {
+                  "article": "246",
+                  "clause": null,
+                  "part": 3
+                },
+                "score": 21.99501477111891,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 145047,
+                    "end": 145162,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145047,
+                "metadata": {
+                  "article": "81",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 21.656195858024027,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "73bd878c6f92be26178b6ecd659ad0f9",
+                "text": "Điều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n2. Sửa đổi, bổ sung điểm a khoản 2 Điều 26 như sau: “a) Thông qua kế hoạch phát triển kinh tế - xã hội trung hạn và hằng năm của huyện, quy hoạch sử dụng đất của huyện trước khi trình Ủy ban nhân dân cấp tỉnh phê duyệt;”.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 52,
+                "page_end": 52,
+                "provenance": [
+                  {
+                    "start": 487097,
+                    "end": 487319,
+                    "document_id": "luatdat3",
+                    "page": 52,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 487097,
+                "metadata": {
+                  "article": "245",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 21.343531758442843,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "7a915aad1f8cd80c4d49a8c3386ae0a8",
+                "text": "Điều 103. Bồi thường đối với cây trồng, vật nuôi\n4. Khi Nhà nước thu hồi đất mà gây thiệt hại đối với vật nuôi là thủy sản hoặc vật nuôi khác mà không thể di chuyển thì được bồi thường thiệt hại thực tế theo mức bồi thường cụ thể do Ủy ban nhân dân cấp tỉnh quy định;\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 12,
+                "page_end": 12,
+                "provenance": [
+                  {
+                    "start": 200820,
+                    "end": 201039,
+                    "document_id": "luatdat2",
+                    "page": 12,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 200820,
+                "metadata": {
+                  "article": "103",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 20.99159006526792,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "fd5834c89a3dafaff7c68740b8558542",
+                "text": "Điều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030. Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 57,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 496970,
+                    "end": 497864,
+                    "document_id": "luatdat3",
+                    "page": 57,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 496970,
+                "metadata": {
+                  "article": "252",
+                  "clause": null,
+                  "part": 3
+                },
+                "score": 20.857117001037857,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "b43388260a90b74cdccd11dc834415d8",
+                "text": "Điều 241. Trách nhiệm trong việc phát hiện, ngăn chặn và xử lý vi phạm pháp luật về quản lý, sử dụng đất đai\n1. Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm sau đây:\na) Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm phát hiện, ngăn chặn và xử lý kịp thời những vi phạm pháp luật về quản lý, sử dụng đất đai tại địa phương theo thẩm quyền;\nb) Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thường xuyên kiểm tra, phát hiện, ngăn chặn và xử lý kịp thời theo thẩm quyền đối với các hành vi không đăng ký đất đai; lấn đất, chiếm đất, hủy hoại đất; sử dụng đất không đúng mục đích; chuyển, nhận quyền sử dụng đất không đúng pháp luật và hành vi vi phạm pháp luật đất đai khác của người sử dụng đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 50,
+                "page_end": 50,
+                "provenance": [
+                  {
+                    "start": 480708,
+                    "end": 481334,
+                    "document_id": "luatdat3",
+                    "page": 50,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 480708,
+                "metadata": {
+                  "article": "241",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 20.690514663746388,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "02ab0dc4f2e0c862a428aac7189e2328",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n1. Sử dụng đất không đúng mục đích đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất và đã bị xử phạt vi phạm hành chính về hành vi sử dụng đất không đúng mục đích mà tiếp tục vi phạm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 76,
+                "page_end": 76,
+                "provenance": [
+                  {
+                    "start": 144851,
+                    "end": 145047,
+                    "document_id": "luatdat1",
+                    "page": 76,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 144851,
+                "metadata": {
+                  "article": "81",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 20.28731914307509,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 12.182299979031086
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek8QdtROxalGx5YCScw6esGunZkrZ",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_jqOgTFusvaTd56zHRsuEdu0h",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 523,
+          "completion_tokens": 55,
+          "total_tokens": 578,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00011145,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek8QeGBx5OOW2aWVwcCn923OtImOf",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Tài liệu hiện có không đề cập đến mức xử phạt cụ thể đối với hành vi lấn đất theo nghị định sửa đổi ban hành năm 2027. Do đó, không có thông tin nào để trả lời cho câu hỏi này.\",\"citations\":[],\"abstained\":true,\"reason\":\"Tài liệu không chứa thông tin về mức xử phạt cụ thể đối với hành vi lấn đất theo nghị định sửa đổi năm 2027.\",\"evidence_quotes\":[]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2245,
+          "completion_tokens": 101,
+          "total_tokens": 2346,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00039735000000000004,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "62ff59e2f8704c81bb0a2ef374b8b2ca",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2768,
+      "completion_tokens": 156,
+      "total_tokens": 2924
+    },
+    "estimated_chat_cost_usd": 0.0005088,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 3130.3372999536805
+  }
+}

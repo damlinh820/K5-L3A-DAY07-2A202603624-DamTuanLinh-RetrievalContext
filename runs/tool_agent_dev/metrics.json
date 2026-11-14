@@ -1,0 +1,346 @@
+{
+  "dense": {
+    "run_id": "tool_agent_dev/dense",
+    "cases": 17,
+    "errors": 0,
+    "tool_use": {
+      "n": 17,
+      "N": 17,
+      "rate": 1.0
+    },
+    "tool_call_distribution": {
+      "0": 0,
+      "1": 17,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "grounded": {
+      "reviewed": 0,
+      "total": 15,
+      "counts": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "mean_out_of_2": null
+    },
+    "citation_id_validity": {
+      "n": 17,
+      "N": 17,
+      "rate": 1.0
+    },
+    "citation_support": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "answers_with_citations": {
+      "n": 16,
+      "N": 17,
+      "rate": 0.9411764705882353
+    },
+    "abstention_recall": {
+      "n": 1,
+      "N": 2,
+      "rate": 0.5
+    },
+    "abstention_precision": {
+      "n": 1,
+      "N": 1,
+      "rate": 1.0
+    },
+    "false_abstention": {
+      "n": 0,
+      "N": 15,
+      "rate": 0.0
+    },
+    "abstention_confusion": {
+      "true_abstention": 1,
+      "false_abstention": 0,
+      "false_answer_on_absent": 1
+    },
+    "reviewed_context_evidence_rate": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "latency_ms": {
+      "p50": 5870.5568999866955,
+      "p95": 12526.911520003338
+    },
+    "tokens": {
+      "prompt_tokens": 29738,
+      "completion_tokens": 5153,
+      "total_tokens": 34891
+    },
+    "actual_chat_cost_usd": null,
+    "semantic_review_status": "pending",
+    "retrieval": {
+      "hit1": 10,
+      "hit3": 13,
+      "n": 15,
+      "context_exact_evidence": 13,
+      "label": "mechanical provenance-aware; semantic review separate"
+    },
+    "estimated_chat_cost_usd": 0.007552499999999999
+  },
+  "bm25": {
+    "run_id": "tool_agent_dev/bm25",
+    "cases": 17,
+    "errors": 0,
+    "tool_use": {
+      "n": 17,
+      "N": 17,
+      "rate": 1.0
+    },
+    "tool_call_distribution": {
+      "0": 0,
+      "1": 17,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "grounded": {
+      "reviewed": 0,
+      "total": 15,
+      "counts": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "mean_out_of_2": null
+    },
+    "citation_id_validity": {
+      "n": 21,
+      "N": 21,
+      "rate": 1.0
+    },
+    "citation_support": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "answers_with_citations": {
+      "n": 16,
+      "N": 17,
+      "rate": 0.9411764705882353
+    },
+    "abstention_recall": {
+      "n": 1,
+      "N": 2,
+      "rate": 0.5
+    },
+    "abstention_precision": {
+      "n": 1,
+      "N": 1,
+      "rate": 1.0
+    },
+    "false_abstention": {
+      "n": 0,
+      "N": 15,
+      "rate": 0.0
+    },
+    "abstention_confusion": {
+      "true_abstention": 1,
+      "false_abstention": 0,
+      "false_answer_on_absent": 1
+    },
+    "reviewed_context_evidence_rate": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "latency_ms": {
+      "p50": 4760.617599997204,
+      "p95": 10535.321660002228
+    },
+    "tokens": {
+      "prompt_tokens": 32227,
+      "completion_tokens": 5660,
+      "total_tokens": 37887
+    },
+    "actual_chat_cost_usd": null,
+    "semantic_review_status": "pending",
+    "retrieval": {
+      "hit1": 14,
+      "hit3": 14,
+      "n": 15,
+      "context_exact_evidence": 14,
+      "label": "mechanical provenance-aware; semantic review separate"
+    },
+    "estimated_chat_cost_usd": 0.00823005
+  },
+  "hybrid_rrf": {
+    "run_id": "tool_agent_dev/hybrid_rrf",
+    "cases": 17,
+    "errors": 0,
+    "tool_use": {
+      "n": 17,
+      "N": 17,
+      "rate": 1.0
+    },
+    "tool_call_distribution": {
+      "0": 0,
+      "1": 17,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "grounded": {
+      "reviewed": 0,
+      "total": 15,
+      "counts": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "mean_out_of_2": null
+    },
+    "citation_id_validity": {
+      "n": 18,
+      "N": 18,
+      "rate": 1.0
+    },
+    "citation_support": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "answers_with_citations": {
+      "n": 16,
+      "N": 17,
+      "rate": 0.9411764705882353
+    },
+    "abstention_recall": {
+      "n": 1,
+      "N": 2,
+      "rate": 0.5
+    },
+    "abstention_precision": {
+      "n": 1,
+      "N": 1,
+      "rate": 1.0
+    },
+    "false_abstention": {
+      "n": 0,
+      "N": 15,
+      "rate": 0.0
+    },
+    "abstention_confusion": {
+      "true_abstention": 1,
+      "false_abstention": 0,
+      "false_answer_on_absent": 1
+    },
+    "reviewed_context_evidence_rate": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "latency_ms": {
+      "p50": 4235.778699978255,
+      "p95": 7811.557459982574
+    },
+    "tokens": {
+      "prompt_tokens": 30634,
+      "completion_tokens": 5175,
+      "total_tokens": 35809
+    },
+    "actual_chat_cost_usd": null,
+    "semantic_review_status": "pending",
+    "retrieval": {
+      "hit1": 14,
+      "hit3": 15,
+      "n": 15,
+      "context_exact_evidence": 15,
+      "label": "mechanical provenance-aware; semantic review separate"
+    },
+    "estimated_chat_cost_usd": 0.0077001
+  },
+  "hybrid_improved": {
+    "run_id": "tool_agent_dev/hybrid_improved",
+    "cases": 17,
+    "errors": 1,
+    "tool_use": {
+      "n": 16,
+      "N": 16,
+      "rate": 1.0
+    },
+    "tool_call_distribution": {
+      "0": 0,
+      "1": 17,
+      "2": 0,
+      "3": 0,
+      "4": 0
+    },
+    "grounded": {
+      "reviewed": 0,
+      "total": 15,
+      "counts": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "mean_out_of_2": null
+    },
+    "citation_id_validity": {
+      "n": 18,
+      "N": 18,
+      "rate": 1.0
+    },
+    "citation_support": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "answers_with_citations": {
+      "n": 15,
+      "N": 16,
+      "rate": 0.9375
+    },
+    "abstention_recall": {
+      "n": 1,
+      "N": 2,
+      "rate": 0.5
+    },
+    "abstention_precision": {
+      "n": 1,
+      "N": 1,
+      "rate": 1.0
+    },
+    "false_abstention": {
+      "n": 0,
+      "N": 15,
+      "rate": 0.0
+    },
+    "abstention_confusion": {
+      "true_abstention": 1,
+      "false_abstention": 0,
+      "false_answer_on_absent": 1
+    },
+    "reviewed_context_evidence_rate": {
+      "n": 0,
+      "N": 0,
+      "rate": null
+    },
+    "latency_ms": {
+      "p50": 4963.0250000045635,
+      "p95": 8498.981560009996
+    },
+    "tokens": {
+      "prompt_tokens": 40946,
+      "completion_tokens": 5359,
+      "total_tokens": 46305
+    },
+    "actual_chat_cost_usd": null,
+    "semantic_review_status": "pending",
+    "retrieval": {
+      "hit1": 15,
+      "hit3": 15,
+      "n": 15,
+      "context_exact_evidence": 15,
+      "label": "mechanical provenance-aware; semantic review separate"
+    },
+    "estimated_chat_cost_usd": 0.009357299999999999
+  }
+}

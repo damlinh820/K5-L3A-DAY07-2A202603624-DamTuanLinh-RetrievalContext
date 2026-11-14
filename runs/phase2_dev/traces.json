@@ -1,0 +1,2850 @@
+[
+  {
+    "query_id": "q01",
+    "question": "Luật Đất đai trong bộ tài liệu này điều chỉnh những nội dung nào?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 1,
+        "evidence_quote": "Luật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+          "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "1",
+            "clause": ""
+          },
+          "score": 0.6342835426330566,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "a6591c94f867b5a3454adcd64c68796b",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "8"
+          },
+          "score": 0.6237308382987976,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "bf12a26555ff54353b6a3c25e652b556",
+          "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n13. Thống kê, kiểm kê đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 18,
+          "metadata": {
+            "part": 1,
+            "article": "20",
+            "clause": "13"
+          },
+          "score": 0.6077932119369507,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "c72aaf9225e6677bfe0678e0fac68105",
+          "text": "Điều 165. Cơ sở dữ liệu quốc gia về đất đai\n1. Cơ sở dữ liệu quốc gia về đất đai bao gồm các thành phần sau đây:\na) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;\nb) Cơ sở dữ liệu địa chính;\nc) Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất;\nd) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;\nđ) Cơ sở dữ liệu giá đất;\ne) Cơ sở dữ liệu thống kê, kiểm kê đất đai;\ng) Cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;\nh) Cơ sở dữ liệu khác liên quan đến đất đai.\n2. Cơ sở dữ liệu quốc gia về đất đai được xây dựng đồng bộ, thống nhất theo tiêu chuẩn, quy chuẩn quốc gia trong phạm vi cả nước.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu quốc gia về đất đai.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 90,
+          "metadata": {
+            "part": 2,
+            "article": "165",
+            "clause": null
+          },
+          "score": 18.691105811058083,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "8c0dcb4832652ed08990801ef1d1bf31",
+          "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 19,
+          "metadata": {
+            "part": 3,
+            "article": "199",
+            "clause": "5"
+          },
+          "score": 18.346690324858226,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e9eef9d9ebe7eabcbdf647c6e508c323",
+          "text": "Điều 58. Chỉ tiêu, nội dung, hoạt động thống kê, kiểm kê đất đai\n4. Hoạt động thống kê đất đai được thực hiện như sau:\na) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ thống kê; số liệu kiểm kê đất đai của kỳ trước hoặc số liệu thống kê đất đai được thực hiện trong năm trước;\nb) Rà soát, cập nhật, chỉnh lý các biến động đất đai trong năm thống kê;\nc) Xử lý, tổng hợp số liệu và lập các biểu thống kê đất đai theo đơn vị hành chính các cấp;\nd) Phân tích, đánh giá, hiện trạng sử dụng đất, biến động đất đai trong kỳ thống kê, đề xuất các giải pháp tăng cường quản lý, nâng cao hiệu quả sử dụng đất;\nđ) Xây dựng báo cáo thống kê đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 51,
+          "metadata": {
+            "part": 1,
+            "article": "58",
+            "clause": "4"
+          },
+          "score": 17.94510303900995,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+          "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "1",
+            "clause": ""
+          },
+          "score": 0.01639344262295082,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.01639344262295082,
+          "source_ranks": {
+            "dense": 1
+          },
+          "source_scores": {
+            "dense": 0.6342835426330566
+          }
+        },
+        {
+          "id": "c72aaf9225e6677bfe0678e0fac68105",
+          "text": "Điều 165. Cơ sở dữ liệu quốc gia về đất đai\n1. Cơ sở dữ liệu quốc gia về đất đai bao gồm các thành phần sau đây:\na) Cơ sở dữ liệu về văn bản quy phạm pháp luật về đất đai;\nb) Cơ sở dữ liệu địa chính;\nc) Cơ sở dữ liệu điều tra, đánh giá, bảo vệ, cải tạo, phục hồi đất;\nd) Cơ sở dữ liệu quy hoạch, kế hoạch sử dụng đất;\nđ) Cơ sở dữ liệu giá đất;\ne) Cơ sở dữ liệu thống kê, kiểm kê đất đai;\ng) Cơ sở dữ liệu về thanh tra, kiểm tra, tiếp công dân, giải quyết tranh chấp, khiếu nại, tố cáo về đất đai;\nh) Cơ sở dữ liệu khác liên quan đến đất đai.\n2. Cơ sở dữ liệu quốc gia về đất đai được xây dựng đồng bộ, thống nhất theo tiêu chuẩn, quy chuẩn quốc gia trong phạm vi cả nước.\n3. Bộ trưởng Bộ Tài nguyên và Môi trường quy định về nội dung, cấu trúc và kiểu thông tin cơ sở dữ liệu quốc gia về đất đai.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 90,
+          "metadata": {
+            "part": 2,
+            "article": "165",
+            "clause": null
+          },
+          "score": 0.01639344262295082,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.01639344262295082,
+          "source_ranks": {
+            "bm25": 1
+          },
+          "source_scores": {
+            "bm25": 18.691105811058083
+          }
+        },
+        {
+          "id": "8c0dcb4832652ed08990801ef1d1bf31",
+          "text": "Điều 199. Đất xây dựng trụ sở cơ quan, công trình sự nghiệp\n5. Việc quản lý, sử dụng, khai thác quỹ đất quy định tại khoản 1 và khoản 2 Điều này mà thuộc phạm vi điều chỉnh của pháp luật về quản lý, sử dụng tài sản công thì thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công; những nội dung mà pháp luật về quản lý, sử dụng tài sản công không quy định thì thực hiện theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 19,
+          "metadata": {
+            "part": 3,
+            "article": "199",
+            "clause": "5"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 18.346690324858226
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": false,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": false,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 33.74470002017915
+  },
+  {
+    "query_id": "q02",
+    "question": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 1,
+        "evidence_quote": "1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+          "text": "Điều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "1"
+          },
+          "score": 0.6741229295730591,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "ee316cd78a033ba57d018ce9fd279721",
+          "text": "Điều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "2"
+          },
+          "score": 0.6342777013778687,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "17b1bfc7743b121eac57086a44fdf93f",
+          "text": "Điều 49. Địa giới đơn vị hành chính\n3. Phạm vi quản lý đất đai trên đất liền được xác định theo đường địa giới đơn vị hành chính của từng đơn vị hành chính theo quy định của pháp luật.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 45,
+          "metadata": {
+            "part": 1,
+            "article": "49",
+            "clause": "3"
+          },
+          "score": 0.6034257411956787,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+          "text": "Điều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "1"
+          },
+          "score": 44.084684372620174,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "ee316cd78a033ba57d018ce9fd279721",
+          "text": "Điều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "2"
+          },
+          "score": 35.14658135454861,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "64d3c45e3843c75c90a5cb965f6ab707",
+          "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 1,
+            "article": "50",
+            "clause": null
+          },
+          "score": 33.95746962746414,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+          "text": "Điều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "1"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6741229295730591,
+            "bm25": 44.084684372620174
+          }
+        },
+        {
+          "id": "ee316cd78a033ba57d018ce9fd279721",
+          "text": "Điều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "2"
+          },
+          "score": 0.03225806451612903,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03225806451612903,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6342777013778687,
+            "bm25": 35.14658135454861
+          }
+        },
+        {
+          "id": "64d3c45e3843c75c90a5cb965f6ab707",
+          "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 1,
+            "article": "50",
+            "clause": ""
+          },
+          "score": 0.03149801587301587,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03149801587301587,
+          "source_ranks": {
+            "dense": 4,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.5828679800033569,
+            "bm25": 33.95746962746414
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.604100006166846
+  },
+  {
+    "query_id": "q03",
+    "question": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 2,
+        "evidence_quote": "9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "83f5840fbb119e11c3e616249e7ed1b2",
+          "text": "Điều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp do cá nhân sử dụng bao gồm đất nông nghiệp được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất; do thuê quyền sử dụng đất của người sử dụng đất khác; do nhận chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất theo quy định của pháp luật.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 6,
+          "metadata": {
+            "part": 3,
+            "article": "178",
+            "clause": "1"
+          },
+          "score": 0.7076624631881714,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+          "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 21,
+          "metadata": {
+            "part": 1,
+            "article": "26",
+            "clause": ""
+          },
+          "score": 0.6594284772872925,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "cc312d89cd47b4350297dd3d0c4dc030",
+          "text": "Điều 207. Đất sử dụng vào mục đích công cộng; đất để thực hiện dự án đầu tư theo phương thức đối tác công tư\n1. Việc sử dụng đất vào mục đích công cộng phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch chuyên ngành có sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 3,
+            "article": "207",
+            "clause": "1"
+          },
+          "score": 0.6591967344284058,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "109c074508d73b0e59564caed899c759",
+          "text": "Điều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 2,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "9"
+          },
+          "score": 40.431427830269214,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "c4c18c9b09d59b2100eb3f9ae97b08a1",
+          "text": "Điều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "31"
+          },
+          "score": 24.832664546875755,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "476da231d78b9d10e7dff1be91a48479",
+          "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n1. Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ được lập trước ngày 15 tháng 10 năm 1993 sau đây thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và không phải nộp tiền sử dụng đất:\na) Những giấy tờ về quyền được sử dụng đất do cơ quan có thẩm quyền cấp trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ Cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nb) Một trong các giấy tờ về quyền sử dụng đất do cơ quan có thẩm quyền thuộc chế độ cũ cấp cho người sử dụng đất, gồm: Bằng khoán điền thổ; Văn tự đoạn mãi bất động sản có chứng nhận của cơ quan thuộc chế độ cũ; Văn tự mua bán nhà ở, tặng cho nhà ở, đổi nhà ở, thừa kế nhà ở mà gắn liền với đất ở có chứng nhận của cơ quan thuộc chế độ cũ; Bản di chúc hoặc giấy thỏa thuận tương phân di\nsản về nhà ở được cơ quan thuộc chế độ cũ chứng nhận; Giấy phép cho xây cất nhà ở; Giấy phép hợp thức hóa kiến trúc của cơ quan thuộc chế độ cũ cấp; Bản án của Tòa án thuộc chế độ cũ đã có hiệu lực thi hành;\nc) Giấy chứng nhận quyền sử dụng đất tạm thời được cơ quan nhà nước có thẩm quyền cấp hoặc có tên trong Sổ đăng ký ruộng đất, Sổ địa chính;\nd) Giấy tờ chuyển nhượng quyền sử dụng đất, mua bán nhà ở gắn liền với đất ở, nay được Ủy ban nhân dân cấp xã xác nhận đã sử dụng đất trước ngày 15 tháng 10 năm 1993;\nđ) Sổ mục kê, sổ kiến điền lập trước ngày 18 tháng 12 năm 1980 mà có tên người sử dụng đất;\ne) Một trong các giấy tờ được lập trong quá trình thực hiện đăng ký ruộng đất theo Chỉ thị số 299/TTg ngày 10 tháng 11 năm 1980 của Thủ tướng Chính phủ về công tác đo đạc, phân hạng và đăng ký ruộng đất trong cả nước do cơ quan nhà nước đang quản lý mà có tên người sử dụng đất, bao gồm: Biên bản xét duyệt của Hội đồng đăng ký ruộng đất cấp xã xác định người đang sử dụng đất là hợp pháp; Bản tổng hợp các trường hợp sử dụng đất hợp pháp do Ủy ban nhân dân cấp xã hoặc Hội đồng đăng ký ruộng đất cấp xã hoặc cơ quan quản lý đất đai cấp huyện, cấp tỉnh lập; Đơn xin đăng ký quyền sử dụng ruộng đất; Giấy tờ về việc chứng nhận đã đăng ký quyền sử dụng đất của Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh cấp cho người sử dụng đất;\ng) Giấy tờ về việc kê khai, đăng ký nhà cửa được Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh xác nhận mà trong đó có ghi diện tích đất có nhà;\nh) Giấy tờ của đơn vị quốc phòng giao đất cho cán bộ, chiến sĩ làm nhà ở theo Chỉ thị số 282/CT-QP ngày 11 tháng 7 năm 1991 của Bộ trưởng Bộ Quốc phòng mà việc giao đất đó phù hợp với quy hoạch sử dụng đất làm nhà ở của cán bộ, chiến sĩ trong quy hoạch đất quốc phòng đã được phê duyệt tại thời điểm giao đất;\ni) Dự án hoặc danh sách hoặc văn bản về việc di dân đi xây dựng khu kinh tế mới, di dân tái định cư được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan có thẩm quyền phê duyệt mà có tên người sử dụng đất;\nk) Giấy tờ có nội dung về quyền sở hữu nhà ở, công trình; giấy tờ về việc xây dựng, sửa chữa nhà ở, công trình được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan quản lý nhà nước về nhà ở, xây dựng chứng nhận hoặc cho phép;\nl) Giấy tờ tạm giao đất của Ủy ban nhân dân cấp huyện, cấp tỉnh; Đơn đề nghị được sử dụng đất được Ủy ban nhân dân cấp xã, hợp tác xã nông nghiệp phê duyệt, chấp thuận trước ngày 01 tháng 7 năm 1980 hoặc được Ủy ban nhân dân cấp huyện, cấp tỉnh phê duyệt, chấp thuận;\nm) Giấy tờ của cơ quan nhà nước có thẩm quyền về việc giao đất cho cơ quan, tổ chức để bố trí đất cho cán bộ, công nhân viên tự làm nhà ở hoặc xây dựng nhà ở để phân hoặc cấp cho cán bộ, công nhân viên bằng vốn không thuộc ngân sách nhà nước hoặc do cán bộ, công nhân viên tự đóng góp xây dựng;\nn) Giấy tờ khác về quyền sử dụng đất có trước ngày 15 tháng 10 năm 1993 do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tiễn của địa phương.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 47,
+          "metadata": {
+            "part": 2,
+            "article": "137",
+            "clause": "1"
+          },
+          "score": 23.905173178211086,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "109c074508d73b0e59564caed899c759",
+          "text": "Điều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 2,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "9"
+          },
+          "score": 0.030886196246139225,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030886196246139225,
+          "source_ranks": {
+            "dense": 9,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6418789029121399,
+            "bm25": 40.431427830269214
+          }
+        },
+        {
+          "id": "83f5840fbb119e11c3e616249e7ed1b2",
+          "text": "Điều 178. Đất nông nghiệp do cá nhân, cộng đồng dân cư sử dụng\n1. Đất nông nghiệp do cá nhân sử dụng bao gồm đất nông nghiệp được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất; do thuê quyền sử dụng đất của người sử dụng đất khác; do nhận chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất theo quy định của pháp luật.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 6,
+          "metadata": {
+            "part": 3,
+            "article": "178",
+            "clause": "1"
+          },
+          "score": 0.01639344262295082,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.01639344262295082,
+          "source_ranks": {
+            "dense": 1
+          },
+          "source_scores": {
+            "dense": 0.7076624631881714
+          }
+        },
+        {
+          "id": "c4c18c9b09d59b2100eb3f9ae97b08a1",
+          "text": "Điều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "31"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 24.832664546875755
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 7.015599985606968
+  },
+  {
+    "query_id": "q04",
+    "question": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 10,
+        "evidence_quote": "1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "e768fa75598da2a2f436f39ae47e54af",
+          "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 10,
+          "metadata": {
+            "part": 1,
+            "article": "9",
+            "clause": "1"
+          },
+          "score": 0.6255303025245667,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "b234303013326a4847354d341275ab52",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã hội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình hạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất đai.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "4"
+          },
+          "score": 0.5668922662734985,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "ad6bdcff5f061a528a6c6b5c20a748e1",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n5. Đối với diện tích đất do cơ quan, tổ chức của Nhà nước quản lý có trong khu vực thực hiện góp quyền sử dụng đất, điều chỉnh lại đất đai được sử dụng như sau:\na) Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư;\nb) Đấu giá quyền sử dụng đất đối với phần diện tích đất còn lại sau khi sử dụng đất theo điểm a khoản này. Tiền thu được từ việc đấu giá quyền sử dụng đất được sử dụng để thực hiện dự án.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "5"
+          },
+          "score": 0.5570851564407349,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "e768fa75598da2a2f436f39ae47e54af",
+          "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 10,
+          "metadata": {
+            "part": 1,
+            "article": "9",
+            "clause": "1"
+          },
+          "score": 27.93496599849351,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "0079b0f83ff5841e09c74762faac5dd3",
+          "text": "Điều 27. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân theo quy định của Luật này. Trường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ như quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng thành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử dụng đất của mình thì phải thực hiện đăng ký biến động hoặc tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và được thực hiện quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này. Trường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì các thành viên cùng nhau thực hiện hoặc ủy quyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 22,
+          "metadata": {
+            "part": 1,
+            "article": "27",
+            "clause": "2"
+          },
+          "score": 18.17269406296773,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "b248e5f0419e5526f423652e03940e1e",
+          "text": "Điều 158. Nguyên tắc, căn cứ, phương pháp định giá đất\n2. Căn cứ định giá đất bao gồm:\na) Mục đích sử dụng đất được đưa ra định giá;\nb) Thời hạn sử dụng đất. Đối với đất nông nghiệp đã được Nhà nước giao cho hộ gia đình, cá nhân theo hạn mức giao đất nông nghiệp, đất nông nghiệp trong hạn mức nhận chuyển quyền thì không căn cứ vào thời hạn sử dụng đất;\nc) Thông tin đầu vào để định giá đất theo các phương pháp định giá đất;\nd) Yếu tố khác ảnh hưởng đến giá đất;\nđ) Quy định của pháp luật có liên quan tại thời điểm định giá đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 81,
+          "metadata": {
+            "part": 2,
+            "article": "158",
+            "clause": "2"
+          },
+          "score": 16.84886231119433,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "e768fa75598da2a2f436f39ae47e54af",
+          "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 10,
+          "metadata": {
+            "part": 1,
+            "article": "9",
+            "clause": "1"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6255303025245667,
+            "bm25": 27.93496599849351
+          }
+        },
+        {
+          "id": "0079b0f83ff5841e09c74762faac5dd3",
+          "text": "Điều 27. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân theo quy định của Luật này. Trường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ như quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng thành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử dụng đất của mình thì phải thực hiện đăng ký biến động hoặc tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và được thực hiện quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này. Trường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì các thành viên cùng nhau thực hiện hoặc ủy quyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 22,
+          "metadata": {
+            "part": 1,
+            "article": "27",
+            "clause": "2"
+          },
+          "score": 0.016129032258064516,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 18.17269406296773
+          }
+        },
+        {
+          "id": "b234303013326a4847354d341275ab52",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã hội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình hạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất đai.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "4"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "dense": 2
+          },
+          "source_scores": {
+            "dense": 0.5668922662734985
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 4.2412999900989234
+  },
+  {
+    "query_id": "q05",
+    "question": "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 11,
+        "evidence_quote": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai 1. Lấn đất, chiếm đất, hủy hoại đất."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "7f2e158707845390f8b493d6fc04a206",
+          "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "27"
+          },
+          "score": 0.5539072155952454,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+          "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 11,
+          "metadata": {
+            "part": 1,
+            "article": "11",
+            "clause": ""
+          },
+          "score": 0.5520395040512085,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+          "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 77,
+          "metadata": {
+            "part": 1,
+            "article": "81",
+            "clause": "5"
+          },
+          "score": 0.5465474724769592,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+          "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 11,
+          "metadata": {
+            "part": 1,
+            "article": "11",
+            "clause": null
+          },
+          "score": 33.96182490440251,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "b43388260a90b74cdccd11dc834415d8",
+          "text": "Điều 241. Trách nhiệm trong việc phát hiện, ngăn chặn và xử lý vi phạm pháp luật về quản lý, sử dụng đất đai\n1. Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm sau đây:\na) Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện có trách nhiệm phát hiện, ngăn chặn và xử lý kịp thời những vi phạm pháp luật về quản lý, sử dụng đất đai tại địa phương theo thẩm quyền;\nb) Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thường xuyên kiểm tra, phát hiện, ngăn chặn và xử lý kịp thời theo thẩm quyền đối với các hành vi không đăng ký đất đai; lấn đất, chiếm đất, hủy hoại đất; sử dụng đất không đúng mục đích; chuyển, nhận quyền sử dụng đất không đúng pháp luật và hành vi vi phạm pháp luật đất đai khác của người sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 50,
+          "metadata": {
+            "part": 3,
+            "article": "241",
+            "clause": "1"
+          },
+          "score": 30.98454357733241,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+          "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 76,
+          "metadata": {
+            "part": 1,
+            "article": "81",
+            "clause": "2"
+          },
+          "score": 30.95348570680613,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+          "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 11,
+          "metadata": {
+            "part": 1,
+            "article": "11",
+            "clause": ""
+          },
+          "score": 0.03252247488101534,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03252247488101534,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.5520395040512085,
+            "bm25": 33.96182490440251
+          }
+        },
+        {
+          "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+          "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 76,
+          "metadata": {
+            "part": 1,
+            "article": "81",
+            "clause": "2"
+          },
+          "score": 0.031024531024531024,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031024531024531024,
+          "source_ranks": {
+            "dense": 6,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.5352681279182434,
+            "bm25": 30.95348570680613
+          }
+        },
+        {
+          "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+          "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 77,
+          "metadata": {
+            "part": 1,
+            "article": "81",
+            "clause": "5"
+          },
+          "score": 0.03057889822595705,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03057889822595705,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 8
+          },
+          "source_scores": {
+            "dense": 0.5465474724769592,
+            "bm25": 21.130845058493435
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.607099999906495
+  },
+  {
+    "query_id": "q06",
+    "question": "Người sử dụng đất có quyền hưởng thành quả lao động và kết quả đầu tư trên loại đất nào?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 21,
+        "evidence_quote": "2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "de107a9bf009e224591a4edb39f588dd",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "6"
+          },
+          "score": 0.6532194018363953,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+          "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 21,
+          "metadata": {
+            "part": 1,
+            "article": "26",
+            "clause": ""
+          },
+          "score": 0.6530316472053528,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "112838a5173f23f164cc67a7407e0866",
+          "text": "Điều 194. Đất khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung\n6. Người sử dụng đất trong khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung phải sử dụng đất đúng mục đích đã được xác định, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 17,
+          "metadata": {
+            "part": 3,
+            "article": "194",
+            "clause": "6"
+          },
+          "score": 0.6302201747894287,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+          "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 21,
+          "metadata": {
+            "part": 1,
+            "article": "26",
+            "clause": null
+          },
+          "score": 29.685140506546684,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "35c207dad6ae169a2abfbf5796955993",
+          "text": "Điều 201. Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế\n3. Quyền và nghĩa vụ của đối tượng quy định tại khoản 1 Điều này khi sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế được quy định như sau:\na) Được tổ chức sản xuất, kinh doanh theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\nb) Được hưởng thành quả lao động, kết quả đầu tư trên đất và các lợi ích khác theo quy định của pháp luật;\nc) Không được bồi thường về đất và tài sản gắn liền với đất khi chấm dứt phương án sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế để phục vụ nhiệm vụ quân sự, quốc phòng, an ninh;\nd) Không được chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất;\nđ) Không được thế chấp, góp vốn bằng quyền sử dụng đất;\ne) Không được tự ý chuyển mục đích sử dụng đất;\ng) Đối tượng quy định tại điểm a khoản 1 Điều này không được chuyển nhượng, cho thuê, tặng cho, thế chấp, góp vốn bằng tài sản gắn liền với đất;\nh) Đối tượng quy định tại điểm b khoản 1 Điều này được cho thuê, thế chấp, góp vốn bằng tài sản gắn liền với đất theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt; trường hợp mua, bán tài sản gắn liền với đất, xử lý tài sản thế chấp, tài sản góp vốn thì chỉ được thực hiện trong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\ni) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 20,
+          "metadata": {
+            "part": 3,
+            "article": "201",
+            "clause": "3"
+          },
+          "score": 25.076592826769833,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e35acd195a7b125cf2d45d50d09fb4df",
+          "text": "Điều 190. Hoạt động lấn biển\n2. Hoạt động lấn biển phải tuân thủ các nguyên tắc sau đây:\na) Bảo đảm quốc phòng, an ninh, chủ quyền, quyền chủ quyền, quyền tài phán, lợi ích quốc gia trên biển; phù hợp với quy định của luật khác có liên quan và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;\nb) Dựa trên cơ sở đánh giá đầy đủ về kinh tế, xã hội, môi trường, bảo đảm phát triển bền vững, đa dạng sinh học, các yếu tố tự nhiên, tác động của thiên tai, biến đổi khí hậu và nước biển dâng;\nc) Phù hợp với quy hoạch tỉnh hoặc quy hoạch sử dụng đất cấp huyện hoặc quy hoạch xây dựng hoặc quy hoạch đô thị;\nd) Khai thác, sử dụng hiệu quả tài nguyên biển; bảo đảm hài hòa lợi ích của tổ chức, cá nhân thực hiện hoạt động lấn biển và tổ chức, cá nhân khác có liên quan; bảo đảm quyền tiếp cận với biển của người dân, cộng đồng;\nđ) Hoạt động lấn biển phải được lập thành dự án đầu tư hoặc hạng mục của dự án đầu tư theo quy định của pháp luật.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 13,
+          "metadata": {
+            "part": 3,
+            "article": "190",
+            "clause": "2"
+          },
+          "score": 20.51461323177561,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "d0c238e70bafc09ad7fe14a0b71d2b6a",
+          "text": "Điều 26. Quyền chung của người sử dụng đất\n1. Được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Hưởng thành quả lao động, kết quả đầu tư trên đất sử dụng hợp pháp.\n3. Hưởng các lợi ích khi Nhà nước đầu tư để bảo vệ, cải tạo và phát triển đất nông nghiệp.\n4. Được Nhà nước hướng dẫn và giúp đỡ trong việc cải tạo, phục hồi đất nông nghiệp.\n5. Được Nhà nước bảo hộ khi người khác xâm phạm quyền, lợi ích hợp pháp về đất đai của mình.\n6. Được quyền chuyển mục đích sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan.\n7. Được bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất theo quy định của Luật này.\n8. Khiếu nại, tố cáo, khởi kiện về những hành vi vi phạm quyền sử dụng đất hợp pháp của mình và những hành vi khác vi phạm pháp luật về đất đai.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 21,
+          "metadata": {
+            "part": 1,
+            "article": "26",
+            "clause": ""
+          },
+          "score": 0.03252247488101534,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03252247488101534,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6530316472053528,
+            "bm25": 29.685140506546684
+          }
+        },
+        {
+          "id": "de107a9bf009e224591a4edb39f588dd",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "6"
+          },
+          "score": 0.01639344262295082,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.01639344262295082,
+          "source_ranks": {
+            "dense": 1
+          },
+          "source_scores": {
+            "dense": 0.6532194018363953
+          }
+        },
+        {
+          "id": "35c207dad6ae169a2abfbf5796955993",
+          "text": "Điều 201. Sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế\n3. Quyền và nghĩa vụ của đối tượng quy định tại khoản 1 Điều này khi sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế được quy định như sau:\na) Được tổ chức sản xuất, kinh doanh theo phương án đã được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\nb) Được hưởng thành quả lao động, kết quả đầu tư trên đất và các lợi ích khác theo quy định của pháp luật;\nc) Không được bồi thường về đất và tài sản gắn liền với đất khi chấm dứt phương án sử dụng đất quốc phòng, an ninh kết hợp với hoạt động lao động sản xuất, xây dựng kinh tế để phục vụ nhiệm vụ quân sự, quốc phòng, an ninh;\nd) Không được chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất;\nđ) Không được thế chấp, góp vốn bằng quyền sử dụng đất;\ne) Không được tự ý chuyển mục đích sử dụng đất;\ng) Đối tượng quy định tại điểm a khoản 1 Điều này không được chuyển nhượng, cho thuê, tặng cho, thế chấp, góp vốn bằng tài sản gắn liền với đất;\nh) Đối tượng quy định tại điểm b khoản 1 Điều này được cho thuê, thế chấp, góp vốn bằng tài sản gắn liền với đất theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt; trường hợp mua, bán tài sản gắn liền với đất, xử lý tài sản thế chấp, tài sản góp vốn thì chỉ được thực hiện trong nội bộ giữa các đối tượng quy định tại khoản 1 Điều này theo phương án được Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an phê duyệt;\ni) Thực hiện đầy đủ nghĩa vụ tài chính theo quy định.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 20,
+          "metadata": {
+            "part": 3,
+            "article": "201",
+            "clause": "3"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 25.076592826769833
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.53080000099726
+  },
+  {
+    "query_id": "q07",
+    "question": "Về mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất được quy định như thế nào?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 25,
+        "evidence_quote": "1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "d5635130acffeddf202b85984ee86a0b",
+          "text": "Điều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 8,
+          "metadata": {
+            "part": 1,
+            "article": "5",
+            "clause": ""
+          },
+          "score": 0.6451526880264282,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "797cef0a41132599509e8ec06210651e",
+          "text": "Điều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 1,
+            "article": "31",
+            "clause": ""
+          },
+          "score": 0.6365483999252319,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "ac3c52a27653ed8ebddd9b88ae0f58dc",
+          "text": "Điều 3. Giải thích từ ngữ\n36. Quy hoạch sử dụng đất là việc phân bổ chỉ tiêu sử dụng đất và khoanh vùng đất đai cho các mục đích phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và thích ứng với biến đổi khí hậu trên cơ sở tiềm năng đất đai và nhu cầu sử dụng đất của các ngành, lĩnh vực đối với từng đơn vị hành chính cho thời kỳ xác định.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "36"
+          },
+          "score": 0.6354020833969116,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "797cef0a41132599509e8ec06210651e",
+          "text": "Điều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 1,
+            "article": "31",
+            "clause": null
+          },
+          "score": 33.098391344250004,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "6c708ade139925f771d36a7764a2ae82",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n2. Khi chuyển mục đích sử dụng đất theo quy định tại khoản 1 Điều này thì người sử dụng đất phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật; chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất được áp dụng theo loại đất sau khi được chuyển mục đích sử dụng.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 26,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "2"
+          },
+          "score": 19.850272959116698,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "6e2258c85410eeec9b8c5cab792153cf",
+          "text": "Điều 204. Đất sử dụng cho khu công nghệ cao\n3. Người sử dụng đất trong khu công nghệ cao phải sử dụng đất đúng mục đích đã được ghi trong quyết định giao đất, hợp đồng thuê đất, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và có các quyền, nghĩa vụ sau đây:\na) Trường hợp thuê lại đất trả tiền thuê đất một lần cho cả thời gian thuê thì có các quyền và nghĩa vụ quy định tại Điều 33 của Luật này;\nb) Trường hợp thuê lại đất trả tiền thuê đất hằng năm thì có các quyền và nghĩa vụ quy định tại Điều 34 của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 23,
+          "metadata": {
+            "part": 3,
+            "article": "204",
+            "clause": "3"
+          },
+          "score": 17.20247206919389,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "797cef0a41132599509e8ec06210651e",
+          "text": "Điều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 1,
+            "article": "31",
+            "clause": ""
+          },
+          "score": 0.03252247488101534,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03252247488101534,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6365483999252319,
+            "bm25": 33.098391344250004
+          }
+        },
+        {
+          "id": "d5635130acffeddf202b85984ee86a0b",
+          "text": "Điều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 8,
+          "metadata": {
+            "part": 1,
+            "article": "5",
+            "clause": ""
+          },
+          "score": 0.01639344262295082,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.01639344262295082,
+          "source_ranks": {
+            "dense": 1
+          },
+          "source_scores": {
+            "dense": 0.6451526880264282
+          }
+        },
+        {
+          "id": "6c708ade139925f771d36a7764a2ae82",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n2. Khi chuyển mục đích sử dụng đất theo quy định tại khoản 1 Điều này thì người sử dụng đất phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật; chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất được áp dụng theo loại đất sau khi được chuyển mục đích sử dụng.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 26,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "2"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 19.850272959116698
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.547900014789775
+  },
+  {
+    "query_id": "q08",
+    "question": "Riêng điều kiện có Giấy chứng nhận tại điểm a khoản 1 Điều 45 có ngoại lệ cho việc thừa kế quyền sử dụng đất không? Không xét các điều kiện khác.",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 40,
+        "evidence_quote": "a) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 41,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "4"
+          },
+          "score": 0.6505401134490967,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "6006926c5ff35baaff4022efc1dd1d9d",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "7"
+          },
+          "score": 0.6412935256958008,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "c03ecb66c0ff16b0e6c689a900b2aa8e",
+          "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n9. Nhà nước có trách nhiệm cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho các trường hợp đã đăng ký và đủ điều kiện theo quy định tại Điều này;\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 55,
+          "metadata": {
+            "part": 2,
+            "article": "138",
+            "clause": "9"
+          },
+          "score": 0.6411348581314087,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất khi có đủ các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự;\nd) Trong thời hạn sử dụng đất;\nđ) Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 40,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "1"
+          },
+          "score": 37.66503156290292,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 41,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "4"
+          },
+          "score": 35.40103628546764,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "c65199a5136781a2ce5f3a39e64750e9",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n2. Trường hợp chủ đầu tư chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án bất động sản thì ngoài các điều kiện quy định tại khoản 1 Điều này còn phải đáp ứng điều kiện khác theo quy định của Luật Kinh doanh bất động sản, Luật Nhà ở.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 41,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "2"
+          },
+          "score": 32.073373006888104,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "4be2717b2b9b1d33dcc59af4cbe7b253",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n4. Trường hợp nhận thừa kế quyền sử dụng đất thì người nhận thừa kế được thực hiện quyền khi có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc đủ điều kiện để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 41,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "4"
+          },
+          "score": 0.03252247488101534,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03252247488101534,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6505401134490967,
+            "bm25": 35.40103628546764
+          }
+        },
+        {
+          "id": "8ca8b881dd1a173f9471a07ffaaaa046",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n1. Người sử dụng đất được thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất khi có đủ các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, trừ trường hợp thừa kế quyền sử dụng đất, chuyển đổi đất nông nghiệp khi dồn điền, đổi thửa, tặng cho quyền sử dụng đất cho Nhà nước, cộng đồng dân cư và trường hợp quy định tại khoản 7 Điều 124 và điểm a khoản 4 Điều 127 của Luật này;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Quyền sử dụng đất không bị kê biên, áp dụng biện pháp khác để bảo đảm thi hành án theo quy định của pháp luật thi hành án dân sự;\nd) Trong thời hạn sử dụng đất;\nđ) Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời theo quy định của pháp luật.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 40,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "1"
+          },
+          "score": 0.031544957774465976,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031544957774465976,
+          "source_ranks": {
+            "dense": 6,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6388697624206543,
+            "bm25": 37.66503156290292
+          }
+        },
+        {
+          "id": "6006926c5ff35baaff4022efc1dd1d9d",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "7"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "dense": 2
+          },
+          "source_scores": {
+            "dense": 0.6412935256958008
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": false
+    },
+    "hit3": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 7.62730001588352
+  },
+  {
+    "query_id": "q09",
+    "question": "Theo nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 53,
+        "evidence_quote": "quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "e4ffaa13606d5cb7478e46fa7151739d",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "4"
+          },
+          "score": 0.7530757188796997,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "78c8913c5c2cf398a7ebe7d7a27cbdbe",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc gia nhằm sử dụng đất tiết kiệm, hiệu quả.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "2"
+          },
+          "score": 0.7359189987182617,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "49a2bfc7e0bc26eec966d6af4d1482a4",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "1"
+          },
+          "score": 0.7342187762260437,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "e4ffaa13606d5cb7478e46fa7151739d",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "4"
+          },
+          "score": 40.34562867010496,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "49a2bfc7e0bc26eec966d6af4d1482a4",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "1"
+          },
+          "score": 32.672215486851094,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "4f4f10277eb42be75376de0eec957964",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n10. Kế hoạch sử dụng đất được lập đồng thời với lập, điều chỉnh quy hoạch sử dụng đất cùng cấp. Kế hoạch sử dụng đất năm đầu của quy hoạch sử dụng cấp huyện được lập đồng thời với lập quy hoạch sử dụng đất cấp huyện.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 54,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "10"
+          },
+          "score": 29.232613719304222,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "e4ffaa13606d5cb7478e46fa7151739d",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "4"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.7530757188796997,
+            "bm25": 40.34562867010496
+          }
+        },
+        {
+          "id": "49a2bfc7e0bc26eec966d6af4d1482a4",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "1"
+          },
+          "score": 0.03200204813108039,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03200204813108039,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.7342187762260437,
+            "bm25": 32.672215486851094
+          }
+        },
+        {
+          "id": "78c8913c5c2cf398a7ebe7d7a27cbdbe",
+          "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc gia nhằm sử dụng đất tiết kiệm, hiệu quả.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 1,
+            "article": "60",
+            "clause": "2"
+          },
+          "score": 0.031754032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031754032258064516,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 4
+          },
+          "source_scores": {
+            "dense": 0.7359189987182617,
+            "bm25": 29.14353956265439
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 6.1024000169709325
+  },
+  {
+    "query_id": "q10",
+    "question": "Quyền đối với thửa đất liền kề bao gồm những nhu cầu hạ tầng nào được nêu trong khoản 1 Điều 29?",
+    "gold": [
+      {
+        "source_id": "luatdat1",
+        "page": 25,
+        "evidence_quote": "1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "f354078c00a1f0756c79d24e1ceb1900",
+          "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 1,
+            "article": "29",
+            "clause": ""
+          },
+          "score": 0.7882170081138611,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "3b324e68f7fd2925de82141c26421a91",
+          "text": "Điều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 24,
+          "metadata": {
+            "part": 1,
+            "article": "28",
+            "clause": "3"
+          },
+          "score": 0.6536477208137512,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "a6591c94f867b5a3454adcd64c68796b",
+          "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "219",
+            "clause": "8"
+          },
+          "score": 0.6113440990447998,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "f354078c00a1f0756c79d24e1ceb1900",
+          "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 1,
+            "article": "29",
+            "clause": null
+          },
+          "score": 37.333791733237284,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e89dff3515d6d03c7fc61536c2fbb9c3",
+          "text": "Điều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 12,
+          "metadata": {
+            "part": 2,
+            "article": "105",
+            "clause": null
+          },
+          "score": 20.151978182336308,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "6c346290ec7bd819bbab14e15ed5d1b0",
+          "text": "Điều 132. Đăng ký lần đầu\n1. Đăng ký lần đầu đối với đất đai, tài sản gắn liền với đất được thực hiện trong các trường hợp sau đây:\na) Thửa đất đang sử dụng mà chưa đăng ký;\nb) Thửa đất được Nhà nước giao, cho thuê để sử dụng;\nc) Thửa đất được giao để quản lý mà chưa đăng ký;\nd) Tài sản gắn liền với đất mà có nhu cầu đăng ký đồng thời với đăng ký đất đai trong các trường hợp quy định tại các điểm a, b và c khoản này.\n2. Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc phổ biến, tuyên truyền và tổ chức thực hiện đăng ký lần đầu cho các trường hợp chưa đăng ký.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 40,
+          "metadata": {
+            "part": 2,
+            "article": "132",
+            "clause": null
+          },
+          "score": 19.32620600265254,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "f354078c00a1f0756c79d24e1ceb1900",
+          "text": "Điều 29. Quyền đối với thửa đất liền kề\n1. Quyền đối với thửa đất liền kề bao gồm quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác; cấp khí ga; lắp đường dây tải điện, thông tin liên lạc và các nhu cầu cần thiết khác theo quy định của pháp luật.\n2. Việc xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề thực hiện theo quy định của pháp luật về dân sự; đồng thời phải thực hiện đăng ký theo quy định tại Điều 133 của Luật này đối với trường hợp quyền về lối đi; cấp nước, thoát nước; tưới nước, tiêu nước trong canh tác.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 1,
+            "article": "29",
+            "clause": ""
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.7882170081138611,
+            "bm25": 37.333791733237284
+          }
+        },
+        {
+          "id": "3b324e68f7fd2925de82141c26421a91",
+          "text": "Điều 28. Nhận quyền sử dụng đất\n3. Đối với khu vực hạn chế tiếp cận đất đai thì việc nhận quyền sử dụng đất quy định tại khoản 1 và khoản 2 Điều này thực hiện theo trình tự, thủ tục do Chính phủ quy định.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 24,
+          "metadata": {
+            "part": 1,
+            "article": "28",
+            "clause": "3"
+          },
+          "score": 0.016129032258064516,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "dense": 2
+          },
+          "source_scores": {
+            "dense": 0.6536477208137512
+          }
+        },
+        {
+          "id": "e89dff3515d6d03c7fc61536c2fbb9c3",
+          "text": "Điều 105. Trường hợp không được bồi thường tài sản gắn liền với đất khi\nNhà nước thu hồi đất\n1. Tài sản gắn liền với đất thuộc một trong các trường hợp thu hồi đất quy định tại các khoản 1, 2, 4, 5 và 8 Điều 81, điểm b và điểm c khoản 1 Điều 82 của Luật này.\n2. Tài sản gắn liền với đất được tạo lập trái quy định của pháp luật hoặc tạo lập trong thời hạn hiệu lực của thông báo thu hồi đất của cơ quan nhà nước có thẩm quyền theo quy định của Luật này.\n3. Tài sản gắn liền với đất là phần công trình xây dựng theo giấy phép xây dựng có thời hạn theo pháp luật về xây dựng mà đến thời điểm thu hồi đất giấy phép đã hết thời hạn. Chủ sở hữu tài sản quy định tại khoản này được hỗ trợ để tháo dỡ, phá dỡ, di dời.\n4. Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 12,
+          "metadata": {
+            "part": 2,
+            "article": "105",
+            "clause": null
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 20.151978182336308
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.671699997037649
+  },
+  {
+    "query_id": "q11",
+    "question": "Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?",
+    "gold": [
+      {
+        "source_id": "luatdat2",
+        "page": 1,
+        "evidence_quote": "Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+          "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n2. Việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi, trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi do Ủy ban nhân dân cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư. Đối với người có đất thu hồi nếu có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở thì được xem xét bồi thường bằng đất khác mục đích sử dụng với loại đất thu hồi hoặc bằng nhà ở.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 2,
+            "article": "91",
+            "clause": "2"
+          },
+          "score": 0.597065806388855,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "1de6992ef6c2e2835365d11d49cf034f",
+          "text": "Điều 111. Bố trí tái định cư\n7. Người có đất ở bị thu hồi để thực hiện dự án đầu tư xây dựng khu đô thị thì được bồi thường bằng đất ở, nhà ở tại chỗ; trong thời gian chờ bố trí tái định cư được bố trí vào nhà ở tạm hoặc hỗ trợ tiền thuê nhà ở; thời gian và mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tế tại địa phương. Trường hợp thu hồi đất ở để thực hiện các mục đích khác thì được bồi thường bằng đất ở, nhà ở tại chỗ nếu tại khu vực thu hồi đất có quỹ đất, quỹ nhà tái định cư. Ưu tiên vị trí thuận lợi cho hộ gia đình, cá nhân sử dụng đất ở kết hợp với kinh doanh dịch vụ, người có đất thu hồi là người có công với cách mạng. Có cơ chế thưởng đối với người có đất thu hồi bàn giao mặt bằng trước thời hạn theo quy định của Ủy ban nhân dân cấp tỉnh.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 19,
+          "metadata": {
+            "part": 2,
+            "article": "111",
+            "clause": "7"
+          },
+          "score": 0.5738881826400757,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "c2372f421576d9caeb43f7228e4d2a3a",
+          "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 2,
+            "article": "94",
+            "clause": "6"
+          },
+          "score": 0.540742039680481,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+          "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n2. Việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi, trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi do Ủy ban nhân dân cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư. Đối với người có đất thu hồi nếu có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở thì được xem xét bồi thường bằng đất khác mục đích sử dụng với loại đất thu hồi hoặc bằng nhà ở.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 2,
+            "article": "91",
+            "clause": "2"
+          },
+          "score": 38.8587457997564,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "4c28c38a87d4498419a9358da074621a",
+          "text": "Điều 3. Giải thích từ ngữ\n39. Tái định cư là việc Nhà nước thực hiện bồi thường bằng đất ở hoặc bằng nhà ở tại khu tái định cư hoặc địa điểm khác phù hợp cho người có đất thu hồi hoặc hỗ trợ bằng giao đất ở, nhà ở tái định cư cho người không đủ điều kiện bồi thường về đất ở theo quy định của Luật này nhưng không còn chỗ ở nào khác.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 6,
+          "metadata": {
+            "part": 1,
+            "article": "3",
+            "clause": "39"
+          },
+          "score": 33.39967047565187,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "cf7f95de5633da7b07ec15a7a553ac3b",
+          "text": "Điều 111. Bố trí tái định cư\n8. Trường hợp người có đất ở thu hồi mà phải di chuyển chỗ ở và được bồi thường bằng giao đất ở hoặc nhà ở tái định cư nhưng tiền bồi thường về đất ở không đủ so với giá trị của một suất tái định cư tối thiểu thì được Nhà nước hỗ trợ tiền đủ để được giao một suất tái định cư tối thiểu.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 19,
+          "metadata": {
+            "part": 2,
+            "article": "111",
+            "clause": "8"
+          },
+          "score": 29.19434316626699,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+          "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n2. Việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi, trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi do Ủy ban nhân dân cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư. Đối với người có đất thu hồi nếu có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở thì được xem xét bồi thường bằng đất khác mục đích sử dụng với loại đất thu hồi hoặc bằng nhà ở.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 2,
+            "article": "91",
+            "clause": "2"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.597065806388855,
+            "bm25": 38.8587457997564
+          }
+        },
+        {
+          "id": "1de6992ef6c2e2835365d11d49cf034f",
+          "text": "Điều 111. Bố trí tái định cư\n7. Người có đất ở bị thu hồi để thực hiện dự án đầu tư xây dựng khu đô thị thì được bồi thường bằng đất ở, nhà ở tại chỗ; trong thời gian chờ bố trí tái định cư được bố trí vào nhà ở tạm hoặc hỗ trợ tiền thuê nhà ở; thời gian và mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tế tại địa phương. Trường hợp thu hồi đất ở để thực hiện các mục đích khác thì được bồi thường bằng đất ở, nhà ở tại chỗ nếu tại khu vực thu hồi đất có quỹ đất, quỹ nhà tái định cư. Ưu tiên vị trí thuận lợi cho hộ gia đình, cá nhân sử dụng đất ở kết hợp với kinh doanh dịch vụ, người có đất thu hồi là người có công với cách mạng. Có cơ chế thưởng đối với người có đất thu hồi bàn giao mặt bằng trước thời hạn theo quy định của Ủy ban nhân dân cấp tỉnh.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 19,
+          "metadata": {
+            "part": 2,
+            "article": "111",
+            "clause": "7"
+          },
+          "score": 0.030834914611005692,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030834914611005692,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 8
+          },
+          "source_scores": {
+            "dense": 0.5738881826400757,
+            "bm25": 27.106779364092624
+          }
+        },
+        {
+          "id": "efc3d160107509d5f6846cb6b9903f85",
+          "text": "Điều 96. Bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường bằng đất nông nghiệp hoặc bằng tiền hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà ở.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 7,
+          "metadata": {
+            "part": 2,
+            "article": "96",
+            "clause": "1"
+          },
+          "score": 0.029910714285714284,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.029910714285714284,
+          "source_ranks": {
+            "dense": 4,
+            "bm25": 10
+          },
+          "source_scores": {
+            "dense": 0.5358234643936157,
+            "bm25": 26.82152008027272
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 6.0939000104554
+  },
+  {
+    "query_id": "q12",
+    "question": "Chỉ dùng phần 2 của bộ PDF: phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?",
+    "gold": [
+      {
+        "source_id": "luatdat2",
+        "page": 2,
+        "evidence_quote": "Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "9b9324128667b941bf0c4ab3c77c4053",
+          "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 2,
+          "metadata": {
+            "part": 2,
+            "article": "91",
+            "clause": "6"
+          },
+          "score": 0.6178635358810425,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "a2e40e183d2cfdd9d2a2d67a885cf04e",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n3. Việc lập, thẩm định, phê duyệt phương án bồi thường, hỗ trợ, tái định cư được quy định như sau:\na) Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm lập phương án bồi thường, hỗ trợ, tái định cư và phối hợp với\nỦy ban nhân dân cấp xã nơi có đất thu hồi niêm yết công khai phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi trong thời hạn 30 ngày. Ngay sau khi hết thời hạn niêm yết công khai, tổ chức lấy ý kiến về phương án bồi thường, hỗ trợ, tái định cư theo hình thức tổ chức họp trực tiếp với người dân trong khu vực có đất thu hồi. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không tham gia họp trực tiếp có lý do chính đáng thì gửi ý kiến bằng văn bản. Việc tổ chức lấy ý kiến phải được lập thành biên bản, ghi rõ số lượng ý kiến đồng ý, số lượng ý kiến không đồng ý, số lượng ý kiến khác đối với phương án bồi thường, hỗ trợ, tái định cư; tiếp thu, giải trình ý kiến góp ý; có xác nhận của đại diện Ủy ban nhân dân cấp xã, đại diện những người có đất thu hồi. Trong thời hạn 60 ngày kể từ ngày tổ chức lấy ý kiến, đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm phối hợp với Ủy ban nhân dân cấp xã nơi có đất thu hồi tổ chức đối thoại trong trường hợp còn có ý kiến không đồng ý về phương án bồi thường, hỗ trợ, tái định cư; đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư tiếp thu, giải trình ý kiến góp ý về dự thảo phương án bồi thường, hỗ trợ tái định cư; hoàn chỉnh phương án trình cơ quan có thẩm quyền;\nb) Phương án bồi thường, hỗ trợ, tái định cư phải được thẩm định trước khi trình Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất;\nc) Ủy ban nhân dân cấp có thẩm quyền thu hồi đất quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 84,
+          "metadata": {
+            "part": 1,
+            "article": "87",
+            "clause": "3"
+          },
+          "score": 0.5903257131576538,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "cac7c832ca4fdde7c20a32b97186583a",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm sau đây:\na) Phối hợp với Ủy ban nhân dân cấp xã phổ biến, niêm yết công khai quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã và địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi;\nb) Gửi phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt đến từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan trong đó ghi rõ về mức bồi thường, hỗ trợ, bố trí nhà hoặc đất tái định cư (nếu có), thời gian, địa điểm chi trả tiền bồi\nthường, hỗ trợ; thời gian bố trí nhà hoặc đất tái định cư (nếu có) và thời gian bàn giao đất đã thu hồi cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nc) Thực hiện việc bồi thường, hỗ trợ, bố trí tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 85,
+          "metadata": {
+            "part": 1,
+            "article": "87",
+            "clause": "4"
+          },
+          "score": 0.5780696868896484,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "9b9324128667b941bf0c4ab3c77c4053",
+          "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 2,
+          "metadata": {
+            "part": 2,
+            "article": "91",
+            "clause": "6"
+          },
+          "score": 59.54128302887934,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "cac7c832ca4fdde7c20a32b97186583a",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm sau đây:\na) Phối hợp với Ủy ban nhân dân cấp xã phổ biến, niêm yết công khai quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã và địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi;\nb) Gửi phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt đến từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan trong đó ghi rõ về mức bồi thường, hỗ trợ, bố trí nhà hoặc đất tái định cư (nếu có), thời gian, địa điểm chi trả tiền bồi\nthường, hỗ trợ; thời gian bố trí nhà hoặc đất tái định cư (nếu có) và thời gian bàn giao đất đã thu hồi cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nc) Thực hiện việc bồi thường, hỗ trợ, bố trí tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 85,
+          "metadata": {
+            "part": 1,
+            "article": "87",
+            "clause": "4"
+          },
+          "score": 51.490508307314144,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "dc1644167dd5903ed98c76d32fefd7da",
+          "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 2,
+            "article": "94",
+            "clause": "3"
+          },
+          "score": 50.102107957264444,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "9b9324128667b941bf0c4ab3c77c4053",
+          "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 2,
+          "metadata": {
+            "part": 2,
+            "article": "91",
+            "clause": "6"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6178635358810425,
+            "bm25": 59.54128302887934
+          }
+        },
+        {
+          "id": "cac7c832ca4fdde7c20a32b97186583a",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n4. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm sau đây:\na) Phối hợp với Ủy ban nhân dân cấp xã phổ biến, niêm yết công khai quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã và địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi;\nb) Gửi phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt đến từng người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan trong đó ghi rõ về mức bồi thường, hỗ trợ, bố trí nhà hoặc đất tái định cư (nếu có), thời gian, địa điểm chi trả tiền bồi\nthường, hỗ trợ; thời gian bố trí nhà hoặc đất tái định cư (nếu có) và thời gian bàn giao đất đã thu hồi cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nc) Thực hiện việc bồi thường, hỗ trợ, bố trí tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 85,
+          "metadata": {
+            "part": 1,
+            "article": "87",
+            "clause": "4"
+          },
+          "score": 0.03200204813108039,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03200204813108039,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.5780696868896484,
+            "bm25": 51.490508307314144
+          }
+        },
+        {
+          "id": "a2e40e183d2cfdd9d2a2d67a885cf04e",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n3. Việc lập, thẩm định, phê duyệt phương án bồi thường, hỗ trợ, tái định cư được quy định như sau:\na) Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm lập phương án bồi thường, hỗ trợ, tái định cư và phối hợp với\nỦy ban nhân dân cấp xã nơi có đất thu hồi niêm yết công khai phương án bồi thường, hỗ trợ, tái định cư tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi trong thời hạn 30 ngày. Ngay sau khi hết thời hạn niêm yết công khai, tổ chức lấy ý kiến về phương án bồi thường, hỗ trợ, tái định cư theo hình thức tổ chức họp trực tiếp với người dân trong khu vực có đất thu hồi. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không tham gia họp trực tiếp có lý do chính đáng thì gửi ý kiến bằng văn bản. Việc tổ chức lấy ý kiến phải được lập thành biên bản, ghi rõ số lượng ý kiến đồng ý, số lượng ý kiến không đồng ý, số lượng ý kiến khác đối với phương án bồi thường, hỗ trợ, tái định cư; tiếp thu, giải trình ý kiến góp ý; có xác nhận của đại diện Ủy ban nhân dân cấp xã, đại diện những người có đất thu hồi. Trong thời hạn 60 ngày kể từ ngày tổ chức lấy ý kiến, đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư có trách nhiệm phối hợp với Ủy ban nhân dân cấp xã nơi có đất thu hồi tổ chức đối thoại trong trường hợp còn có ý kiến không đồng ý về phương án bồi thường, hỗ trợ, tái định cư; đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư tiếp thu, giải trình ý kiến góp ý về dự thảo phương án bồi thường, hỗ trợ tái định cư; hoàn chỉnh phương án trình cơ quan có thẩm quyền;\nb) Phương án bồi thường, hỗ trợ, tái định cư phải được thẩm định trước khi trình Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất;\nc) Ủy ban nhân dân cấp có thẩm quyền thu hồi đất quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 84,
+          "metadata": {
+            "part": 1,
+            "article": "87",
+            "clause": "3"
+          },
+          "score": 0.030621785881252923,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030621785881252923,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 9
+          },
+          "source_scores": {
+            "dense": 0.5903257131576538,
+            "bm25": 46.35994537382277
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.874299997230992
+  },
+  {
+    "query_id": "q13",
+    "question": "Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?",
+    "gold": [
+      {
+        "source_id": "luatdat2",
+        "page": 5,
+        "evidence_quote": "6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "c2372f421576d9caeb43f7228e4d2a3a",
+          "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 2,
+            "article": "94",
+            "clause": "6"
+          },
+          "score": 0.7093774676322937,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "92bbb0b136a58d47e3c0e2af4d61e385",
+          "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 77,
+          "metadata": {
+            "part": 1,
+            "article": "81",
+            "clause": "6"
+          },
+          "score": 0.6404985189437866,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "db7e07ef6912e5edbf70ac3146f29376",
+          "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật này;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 13,
+          "metadata": {
+            "part": 2,
+            "article": "107",
+            "clause": "1"
+          },
+          "score": 0.6182665228843689,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "c2372f421576d9caeb43f7228e4d2a3a",
+          "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 2,
+            "article": "94",
+            "clause": "6"
+          },
+          "score": 44.40976922647002,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "65b7f7b5816fdb4c560ab3fa4566d3cb",
+          "text": "Điều 254. Quy định chuyển tiếp về thu hồi đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất khi Luật này có hiệu lực thi hành\n2. Đối với trường hợp đã có quyết định thu hồi đất và quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đất đai trước ngày Luật này có hiệu lực thi hành nhưng chưa thực hiện thì tiếp tục thực hiện phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt; việc xử lý chi trả bồi thường chậm được thực hiện theo quy định của pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 58,
+          "metadata": {
+            "part": 3,
+            "article": "254",
+            "clause": "2"
+          },
+          "score": 33.065955723516986,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "89921b62e386c2716686bfc1e9bfd8b5",
+          "text": "Điều 92. Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt\n3. Trường hợp tổ chức bị thu hồi đất nhưng không được bồi thường về đất, tổ chức có tài sản do Nhà nước giao quản lý, sử dụng thì được thực hiện như sau:\na) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê mà tiền sử dụng đất, tiền thuê đất đã nộp có nguồn gốc từ ngân sách nhà nước và tổ chức được Nhà nước giao đất không thu tiền sử dụng đất khi Nhà nước thu hồi đất thì không được bồi thường về đất nhưng được hỗ trợ bằng tiền nếu phải di dời đến cơ sở mới do cơ quan nhà nước có thẩm quyền quyết định; mức hỗ trợ tối đa không quá mức bồi thường về đất;\nb) Đơn vị vũ trang nhân dân đang sử dụng đất khi Nhà nước thu hồi đất theo quy định tại Điều 79 của Luật này thì được bố trí vị trí mới hoặc chuyển đổi vị trí đất phù hợp;\nc) Khi Nhà nước thu hồi đất, tổ chức bị thiệt hại về tài sản do Nhà nước giao quản lý, sử dụng và phải di dời đến cơ sở mới thì tổ chức đó được sử dụng tiền bồi thường tài sản để đầu tư tại cơ sở mới theo dự án đầu tư được cấp có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 2,
+            "article": "92",
+            "clause": "3"
+          },
+          "score": 31.310102205156372,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "c2372f421576d9caeb43f7228e4d2a3a",
+          "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 2,
+            "article": "94",
+            "clause": "6"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.7093774676322937,
+            "bm25": 44.40976922647002
+          }
+        },
+        {
+          "id": "db7e07ef6912e5edbf70ac3146f29376",
+          "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật này;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 13,
+          "metadata": {
+            "part": 2,
+            "article": "107",
+            "clause": "1"
+          },
+          "score": 0.03149801587301587,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03149801587301587,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 4
+          },
+          "source_scores": {
+            "dense": 0.6182665228843689,
+            "bm25": 31.149597492876033
+          }
+        },
+        {
+          "id": "65b7f7b5816fdb4c560ab3fa4566d3cb",
+          "text": "Điều 254. Quy định chuyển tiếp về thu hồi đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất khi Luật này có hiệu lực thi hành\n2. Đối với trường hợp đã có quyết định thu hồi đất và quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đất đai trước ngày Luật này có hiệu lực thi hành nhưng chưa thực hiện thì tiếp tục thực hiện phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt; việc xử lý chi trả bồi thường chậm được thực hiện theo quy định của pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 58,
+          "metadata": {
+            "part": 3,
+            "article": "254",
+            "clause": "2"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "bm25": 2
+          },
+          "source_scores": {
+            "bm25": 33.065955723516986
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 6.683699990389869
+  },
+  {
+    "query_id": "q14",
+    "question": "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không?",
+    "gold": [
+      {
+        "source_id": "luatdat2",
+        "page": 25,
+        "evidence_quote": "Điều 121. Chuyển mục đích sử dụng đất 1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm: a) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp; b) Chuyển đất nông nghiệp sang đất phi nông nghiệp;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "d52c33c813be4714f35fd7543a6ba8ea",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "1"
+          },
+          "score": 0.628635048866272,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "cdfac5fe99565a61a74b3dbb40b5c10a",
+          "text": "Điều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 44,
+          "metadata": {
+            "part": 1,
+            "article": "47",
+            "clause": ""
+          },
+          "score": 0.6176081299781799,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "2f9e9b400892a5aa95ef181c22f0919b",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 26,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "3"
+          },
+          "score": 0.6166055202484131,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "d52c33c813be4714f35fd7543a6ba8ea",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "1"
+          },
+          "score": 43.47950167329354,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "dc33347e4d8bef3940a0b609ee731140",
+          "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n5. Căn cứ cho phép chuyển mục đích sử dụng đất nông nghiệp trong khu dân cư, đất nông nghiệp trong cùng thửa đất có đất ở sang đất ở hoặc chuyển mục đích sử dụng các loại đất phi nông nghiệp không phải là đất ở sang đất ở đối với hộ gia đình, cá nhân là quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu theo quy định của pháp luật về quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 23,
+          "metadata": {
+            "part": 2,
+            "article": "116",
+            "clause": "5"
+          },
+          "score": 37.831598439217615,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "2f9e9b400892a5aa95ef181c22f0919b",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 26,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "3"
+          },
+          "score": 35.152574956379425,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "d52c33c813be4714f35fd7543a6ba8ea",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 25,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "1"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.628635048866272,
+            "bm25": 43.47950167329354
+          }
+        },
+        {
+          "id": "2f9e9b400892a5aa95ef181c22f0919b",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 26,
+          "metadata": {
+            "part": 2,
+            "article": "121",
+            "clause": "3"
+          },
+          "score": 0.031746031746031744,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031746031746031744,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6166055202484131,
+            "bm25": 35.152574956379425
+          }
+        },
+        {
+          "id": "cdfac5fe99565a61a74b3dbb40b5c10a",
+          "text": "Điều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 44,
+          "metadata": {
+            "part": 1,
+            "article": "47",
+            "clause": ""
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "dense": 2
+          },
+          "source_scores": {
+            "dense": 0.6176081299781799
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.7422000099904835
+  },
+  {
+    "query_id": "q15",
+    "question": "Người dùng nhiều thửa đất nông nghiệp trong cùng một xã, phường hoặc thị trấn có thể yêu cầu cấp chung một Giấy chứng nhận không?",
+    "gold": [
+      {
+        "source_id": "luatdat2",
+        "page": 43,
+        "evidence_quote": "Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "beefbbeafd19e107d38e596514c22ccc",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 43,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "1"
+          },
+          "score": 0.6653435230255127,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "464dd540d68c99955c1279546a384b77",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 43,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "2"
+          },
+          "score": 0.6434279680252075,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "d234f920262f1ffd4bffe01ff7bba092",
+          "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n9. Cộng đồng dân cư đang sử dụng đất có công trình là đình, đền, miếu, am, nhà thờ họ, công trình tín ngưỡng khác; chùa không thuộc quy định tại khoản 1 Điều 213 của Luật này; đất nông nghiệp quy định tại khoản 4 Điều 178 của\nLuật này và đất đó không có tranh chấp, có giấy tờ xác nhận của Ủy ban nhân dân cấp xã nơi có đất là đất sử dụng chung cho cộng đồng dân cư thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 50,
+          "metadata": {
+            "part": 2,
+            "article": "137",
+            "clause": "9"
+          },
+          "score": 0.6351599097251892,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "beefbbeafd19e107d38e596514c22ccc",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 43,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "1"
+          },
+          "score": 51.405943316450426,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "07bd74bbc919a731d0b53354ad7a1be0",
+          "text": "Điều 147. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất thuộc phạm vi nhiều đơn vị hành chính cấp xã\n1. Trường hợp thửa đất thuộc phạm vi nhiều xã, phường, thị trấn nhưng cùng thuộc thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của một cơ quan thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất; trong đó phải xác định từng phần diện tích thuộc phạm vi từng đơn vị hành chính cấp xã.\n2. Trường hợp thửa đất thuộc phạm vi nhiều xã, phường, thị trấn thuộc thẩm quyền cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất của các cơ quan khác nhau thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo từng thửa đất thuộc thẩm quyền của từng cơ quan cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 67,
+          "metadata": {
+            "part": 2,
+            "article": "147",
+            "clause": null
+          },
+          "score": 47.46201416641713,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "464dd540d68c99955c1279546a384b77",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 43,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "2"
+          },
+          "score": 34.19639628070629,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "beefbbeafd19e107d38e596514c22ccc",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n1. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp theo từng thửa đất cho người có quyền sử dụng đất, chủ sở hữu tài sản gắn liền với đất có nhu cầu và đủ điều kiện theo quy định của Luật này. Trường hợp người sử dụng đất đang sử dụng nhiều thửa đất nông nghiệp tại cùng 01 xã, phường, thị trấn mà có yêu cầu thì được cấp 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chung cho các thửa đất đó.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 43,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "1"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6653435230255127,
+            "bm25": 51.405943316450426
+          }
+        },
+        {
+          "id": "464dd540d68c99955c1279546a384b77",
+          "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n2. Thửa đất có nhiều người chung quyền sử dụng đất, nhiều người sở hữu chung tài sản gắn liền với đất thì cấp cho mỗi người 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp những người có chung quyền sử dụng đất, chung quyền sở hữu tài sản gắn liền với đất có yêu cầu thì cấp chung 01 Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và trao cho người đại diện.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 43,
+          "metadata": {
+            "part": 2,
+            "article": "135",
+            "clause": "2"
+          },
+          "score": 0.03200204813108039,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03200204813108039,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6434279680252075,
+            "bm25": 34.19639628070629
+          }
+        },
+        {
+          "id": "a9f40f70da919be4040d473b4abf502f",
+          "text": "Điều 143. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau\n2. Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 64,
+          "metadata": {
+            "part": 2,
+            "article": "143",
+            "clause": "2"
+          },
+          "score": 0.029411764705882353,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.029411764705882353,
+          "source_ranks": {
+            "dense": 8,
+            "bm25": 8
+          },
+          "source_scores": {
+            "dense": 0.6217617988586426,
+            "bm25": 29.69570360889616
+          }
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true
+    },
+    "elapsed_ms": 5.082499992568046
+  }
+]

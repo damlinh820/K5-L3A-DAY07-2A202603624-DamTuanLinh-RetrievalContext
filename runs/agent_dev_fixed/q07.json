@@ -1,0 +1,146 @@
+{
+  "query_id": "q07",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Về mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất được quy định như thế nào?",
+  "result": {
+    "status": "answered",
+    "answer": "[797cef0a41132599509e8ec06210651e] Người sử dụng đất có nghĩa vụ sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.",
+    "citations": [
+      "797cef0a41132599509e8ec06210651e"
+    ],
+    "abstained": false,
+    "context": "[797cef0a41132599509e8ec06210651e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 25 | Điều 31 | Khoản \nĐiều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n\n\n[d5635130acffeddf202b85984ee86a0b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 8 | Điều 5 | Khoản \nĐiều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n\n\n[6c708ade139925f771d36a7764a2ae82] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 26 | Điều 121 | Khoản 2\nĐiều 121. Chuyển mục đích sử dụng đất\n2. Khi chuyển mục đích sử dụng đất theo quy định tại khoản 1 Điều này thì người sử dụng đất phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật; chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất được áp dụng theo loại đất sau khi được chuyển mục đích sử dụng.\n",
+    "context_ids": [
+      "797cef0a41132599509e8ec06210651e",
+      "d5635130acffeddf202b85984ee86a0b",
+      "6c708ade139925f771d36a7764a2ae82"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "797cef0a41132599509e8ec06210651e",
+            "text": "Điều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 25,
+            "metadata": {
+              "clause": "",
+              "article": "31",
+              "page": 25,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "document_id": "luatdat1",
+              "part": 1,
+              "page_end": 26
+            },
+            "score": 0.03252247488101534,
+            "rrf_score": 0.03252247488101534,
+            "source_ranks": {
+              "dense": 2,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.6364923119544983,
+              "bm25": 33.098391344250004
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "d5635130acffeddf202b85984ee86a0b",
+            "text": "Điều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 8,
+            "metadata": {
+              "part": 1,
+              "article": "5",
+              "clause": "",
+              "document_id": "luatdat1",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "page": 8,
+              "page_end": 8
+            },
+            "score": 0.01639344262295082,
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "dense": 1
+            },
+            "source_scores": {
+              "dense": 0.6450493335723877
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "6c708ade139925f771d36a7764a2ae82",
+            "text": "Điều 121. Chuyển mục đích sử dụng đất\n2. Khi chuyển mục đích sử dụng đất theo quy định tại khoản 1 Điều này thì người sử dụng đất phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật; chế độ sử dụng đất, quyền và nghĩa vụ của người sử dụng đất được áp dụng theo loại đất sau khi được chuyển mục đích sử dụng.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 26,
+            "metadata": {
+              "part": 2,
+              "article": "121",
+              "clause": "2"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 19.850272959116698
+            }
+          }
+        ],
+        "context_ids": [
+          "797cef0a41132599509e8ec06210651e",
+          "d5635130acffeddf202b85984ee86a0b",
+          "6c708ade139925f771d36a7764a2ae82"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "797cef0a41132599509e8ec06210651e",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 911,
+      "completion_tokens": 121,
+      "total_tokens": 1032,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 3793.1663999916054
+  }
+}

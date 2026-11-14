@@ -1,0 +1,8 @@
+# Verified on Windows, Python 3.11.9. Full transitive lock: requirements.lock.txt
+chromadb==1.5.9
+httpx==0.28.1
+python-dotenv==1.2.4
+tiktoken==0.14.0
+fastapi==0.162.7
+uvicorn==0.54.0
+pytest==9.2.0

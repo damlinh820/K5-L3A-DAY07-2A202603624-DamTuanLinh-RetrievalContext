@@ -1,0 +1,802 @@
+{
+  "query_id": "q24",
+  "question": "Theo một công văn địa phương không có trong bộ tài liệu, thời hạn giải quyết hồ sơ cụ thể của huyện X là bao lâu?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "reason": "Thiếu thông tin cụ thể về thời hạn giải quyết hồ sơ của huyện X trong tài liệu.",
+    "evidence_quotes": [],
+    "attempts": [
+      {
+        "attempt": 1,
+        "response_id": "chatcmpl-Ek6VgENTnXHlaTMtlXYjrsJznRAai",
+        "model": "gpt-4o-mini-2024-07-18",
+        "raw_content": "{\"answer\":\"Tài liệu không cung cấp thông tin về thời hạn giải quyết hồ sơ cụ thể của huyện X. Do đó, không thể xác định thời hạn này từ các nguồn đã cho.\",\"citations\":[],\"abstained\":true,\"reason\":\"Thiếu thông tin cụ thể về thời hạn giải quyết hồ sơ của huyện X trong tài liệu.\",\"evidence_quotes\":[]}",
+        "finish_reason": "stop",
+        "refusal": null,
+        "validation_errors": [],
+        "format_normalizations": [],
+        "usage": {
+          "prompt_tokens": 2186,
+          "completion_tokens": 77,
+          "total_tokens": 2263,
+          "prompt_tokens_details": {
+            "cached_tokens": 2048,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        }
+      }
+    ],
+    "context": "[41b7c976aaf012cc8b4d1781d3f2b6ee] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 2 | Điều 172 | Khoản 3\nĐiều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n\n\n[d4c2e002b43e999bc2dfeaa79cc662d8] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 47 | Điều 236 | Khoản 3\nĐiều 236. Thẩm quyền giải quyết tranh chấp đất đai\n3. Trường hợp các bên tranh chấp lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền thì việc giải quyết tranh chấp đất đai được thực hiện như sau:\na) Trường hợp tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau thì Chủ tịch Ủy ban nhân dân cấp huyện giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết tranh chấp của Chủ tịch Ủy ban nhân dân cấp huyện có hiệu lực thi hành. Trường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Chủ tịch Ủy ban nhân dân cấp tỉnh. Quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nb) Trường hợp tranh chấp mà một bên tranh chấp là tổ chức, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài thì Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nTrường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Bộ trưởng Bộ Tài nguyên và Môi trường. Quyết định giải quyết của Bộ trưởng Bộ Tài nguyên và Môi trường có hiệu lực thi hành.\n\n\n[2d0ea81ebac7b52b081e0fd12055a490] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 86 | Điều 87 | Khoản 6\nĐiều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n6. Trường hợp cơ quan nhà nước có thẩm quyền tổ chức thực hiện phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà người có đất thu hồi không đồng ý hoặc không phối hợp thì thực hiện như sau:\na) Ủy ban nhân dân cấp xã chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi có đất thu hồi và đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư vận động, thuyết phục để tạo sự đồng thuận trong thực hiện;\nb) Việc tổ chức vận động, thuyết phục được tiến hành trong thời gian 10 ngày và phải được thể hiện bằng văn bản. Quá thời hạn 10 ngày kể từ ngày kết thúc vận động, thuyết phục mà người có đất thu hồi vẫn không đồng ý hoặc không phối hợp thực hiện thì Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định thu hồi đất.\n\n\n[bffc46a7c83914660421035867004576] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 2 | Điều 172 | Khoản 2\nĐiều 172. Đất sử dụng có thời hạn\n2. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền.\n\n\n[cbf0ac7b202679906bc6d89a7d61cb4e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 2 | Điều 172 | Khoản 4\nĐiều 172. Đất sử dụng có thời hạn\n4. Trường hợp không được gia hạn sử dụng đất, người sử dụng đất có trách nhiệm xử lý tài sản gắn liền với đất để hoàn trả mặt bằng cho Nhà nước. Quá thời\nhạn 24 tháng kể từ thời điểm hết thời hạn sử dụng đất mà người sử dụng đất không xử lý tài sản thì Nhà nước thu hồi đất mà không bồi thường về đất và tài sản gắn liền với đất; trường hợp phải phá dỡ, chủ sở hữu tài sản phải chịu chi phí phá dỡ.\n\n\n[4ccccfce77dbf6b09aaa20ae86ded510] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 47 | Điều 236 | Khoản 2\nĐiều 236. Thẩm quyền giải quyết tranh chấp đất đai\n2. Tranh chấp đất đai mà các bên tranh chấp không có Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hoặc không có một trong các loại giấy tờ quy định tại Điều 137 của Luật này thì các bên tranh chấp được lựa chọn một trong hai hình thức giải quyết tranh chấp đất đai theo quy định sau đây:\na) Nộp đơn yêu cầu giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền theo quy định tại khoản 3 Điều này;\nb) Khởi kiện tại Tòa án có thẩm quyền theo quy định của pháp luật về tố tụng dân sự.\n",
+    "context_ids": [
+      "41b7c976aaf012cc8b4d1781d3f2b6ee",
+      "d4c2e002b43e999bc2dfeaa79cc662d8",
+      "2d0ea81ebac7b52b081e0fd12055a490",
+      "bffc46a7c83914660421035867004576",
+      "cbf0ac7b202679906bc6d89a7d61cb4e",
+      "4ccccfce77dbf6b09aaa20ae86ded510"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "query": "Theo một công văn địa phương không có trong bộ tài liệu, thời hạn giải quyết hồ sơ cụ thể của huyện X là bao lâu?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+            "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 2,
+            "page_end": 2,
+            "provenance": [
+              {
+                "start": 367457,
+                "end": 368019,
+                "document_id": "luatdat3",
+                "page": 2,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 367457,
+            "metadata": {
+              "article": "172",
+              "clause": "3",
+              "part": 3
+            },
+            "score": 0.03131881575727918,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03131881575727918,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 7
+            },
+            "source_scores": {
+              "dense_0": 0.541507363319397,
+              "bm25_0": 22.74104055215073
+            },
+            "rank": 1
+          },
+          {
+            "id": "d4c2e002b43e999bc2dfeaa79cc662d8",
+            "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n3. Trường hợp các bên tranh chấp lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền thì việc giải quyết tranh chấp đất đai được thực hiện như sau:\na) Trường hợp tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau thì Chủ tịch Ủy ban nhân dân cấp huyện giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết tranh chấp của Chủ tịch Ủy ban nhân dân cấp huyện có hiệu lực thi hành. Trường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Chủ tịch Ủy ban nhân dân cấp tỉnh. Quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nb) Trường hợp tranh chấp mà một bên tranh chấp là tổ chức, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài thì Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nTrường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Bộ trưởng Bộ Tài nguyên và Môi trường. Quyết định giải quyết của Bộ trưởng Bộ Tài nguyên và Môi trường có hiệu lực thi hành.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 47,
+            "page_end": 48,
+            "provenance": [
+              {
+                "start": 474356,
+                "end": 475832,
+                "document_id": "luatdat3",
+                "page": 47,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              },
+              {
+                "start": 475832,
+                "end": 476234,
+                "document_id": "luatdat3",
+                "page": 48,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 474356,
+            "metadata": {
+              "article": "236",
+              "clause": "3",
+              "part": 3
+            },
+            "score": 0.016129032258064516,
+            "rank": 2,
+            "strategy": "hybrid_improved",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "bm25_0": 24.76360203030273
+            }
+          },
+          {
+            "id": "2d0ea81ebac7b52b081e0fd12055a490",
+            "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n6. Trường hợp cơ quan nhà nước có thẩm quyền tổ chức thực hiện phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà người có đất thu hồi không đồng ý hoặc không phối hợp thì thực hiện như sau:\na) Ủy ban nhân dân cấp xã chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi có đất thu hồi và đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư vận động, thuyết phục để tạo sự đồng thuận trong thực hiện;\nb) Việc tổ chức vận động, thuyết phục được tiến hành trong thời gian 10 ngày và phải được thể hiện bằng văn bản. Quá thời hạn 10 ngày kể từ ngày kết thúc vận động, thuyết phục mà người có đất thu hồi vẫn không đồng ý hoặc không phối hợp thực hiện thì Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định thu hồi đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 86,
+            "page_end": 86,
+            "provenance": [
+              {
+                "start": 164853,
+                "end": 165633,
+                "document_id": "luatdat1",
+                "page": 86,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 164853,
+            "metadata": {
+              "article": "87",
+              "clause": "6",
+              "part": 1
+            },
+            "score": 0.015625,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.015625,
+            "source_ranks": {
+              "dense_0": 4
+            },
+            "source_scores": {
+              "dense_0": 0.5038480162620544
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "d4c2e002b43e999bc2dfeaa79cc662d8",
+          "2d0ea81ebac7b52b081e0fd12055a490",
+          "bffc46a7c83914660421035867004576",
+          "cbf0ac7b202679906bc6d89a7d61cb4e",
+          "4ccccfce77dbf6b09aaa20ae86ded510"
+        ],
+        "dropped_ids": [],
+        "expanded_ids": [
+          "bffc46a7c83914660421035867004576",
+          "cbf0ac7b202679906bc6d89a7d61cb4e",
+          "4ccccfce77dbf6b09aaa20ae86ded510"
+        ]
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        },
+        "validation_errors": []
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "usage": {
+      "prompt_tokens": 2186,
+      "completion_tokens": 77,
+      "total_tokens": 2263
+    },
+    "prompt_version": "grounded_answer_v2",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 2962.169399979757
+  },
+  "retrieval_trace": {
+    "original_query": "Theo một công văn địa phương không có trong bộ tài liệu, thời hạn giải quyết hồ sơ cụ thể của huyện X là bao lâu?",
+    "variants": [
+      "Theo một công văn địa phương không có trong bộ tài liệu, thời hạn giải quyết hồ sơ cụ thể của huyện X là bao lâu?"
+    ],
+    "filters": null,
+    "source_rankings": {
+      "dense_0": [
+        {
+          "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367457,
+              "end": 368019,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367457,
+          "metadata": {
+            "article": "172",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.541507363319397,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "bffc46a7c83914660421035867004576",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n2. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367309,
+              "end": 367457,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367309,
+          "metadata": {
+            "article": "172",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 0.539852499961853,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "7d63c91928a2a0d27942d467f424ee6f",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n5. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368418,
+              "end": 368459,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368418,
+          "metadata": {
+            "article": "172",
+            "clause": "5",
+            "part": 3
+          },
+          "score": 0.5124885439872742,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "2d0ea81ebac7b52b081e0fd12055a490",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n6. Trường hợp cơ quan nhà nước có thẩm quyền tổ chức thực hiện phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà người có đất thu hồi không đồng ý hoặc không phối hợp thì thực hiện như sau:\na) Ủy ban nhân dân cấp xã chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi có đất thu hồi và đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư vận động, thuyết phục để tạo sự đồng thuận trong thực hiện;\nb) Việc tổ chức vận động, thuyết phục được tiến hành trong thời gian 10 ngày và phải được thể hiện bằng văn bản. Quá thời hạn 10 ngày kể từ ngày kết thúc vận động, thuyết phục mà người có đất thu hồi vẫn không đồng ý hoặc không phối hợp thực hiện thì Ủy ban nhân dân cấp có thẩm quyền ban hành quyết định thu hồi đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 86,
+          "page_end": 86,
+          "provenance": [
+            {
+              "start": 164853,
+              "end": 165633,
+              "document_id": "luatdat1",
+              "page": 86,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 164853,
+          "metadata": {
+            "article": "87",
+            "clause": "6",
+            "part": 1
+          },
+          "score": 0.5038480162620544,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "d8f6115afacd42a91592e546bf961618",
+          "text": "Điều 258. Giải quyết về thời hạn sử dụng đất khi Luật này có hiệu lực thi hành\n1. Đối với đất được Nhà nước giao cho tổ chức kinh tế để tạo vốn xây dựng cơ sở hạ tầng theo dự án, đất có nguồn gốc trúng đấu giá quyền sử dụng đất trước ngày 01 tháng 7 năm 2004 của các tổ chức kinh tế sử dụng thì thời hạn sử dụng đất được xác định theo thời hạn được ghi trên quyết định giao đất. Trường hợp trong quyết định giao đất không ghi thời hạn thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất được pháp luật quy định tại thời điểm giao đất.\n2. Trường hợp đất đã được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất mà đã hết thời hạn sử dụng đất nhưng đến trước ngày Luật này có hiệu lực thi hành cơ quan nhà nước có thẩm quyền chưa thu hồi đất thì được xem xét gia hạn sử dụng đất hoặc thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 63,
+          "page_end": 63,
+          "provenance": [
+            {
+              "start": 512030,
+              "end": 512878,
+              "document_id": "luatdat3",
+              "page": 63,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 512030,
+          "metadata": {
+            "article": "258",
+            "clause": null,
+            "part": 3
+          },
+          "score": 0.4994364380836487,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "b6e9e2a352a02d51afaadcaf6b1f69ad",
+          "text": "Điều 90. Trưng dụng đất\n4. Thời hạn trưng dụng đất là không quá 30 ngày kể từ khi quyết định trưng dụng đất có hiệu lực thi hành. Trường hợp hết thời hạn trưng dụng đất mà mục đích của việc trưng dụng chưa hoàn thành thì được gia hạn nhưng không quá 30 ngày. Quyết định gia hạn trưng dụng đất phải được thể hiện bằng văn bản và gửi cho người có đất trưng dụng, chủ sở hữu tài sản gắn liền với đất trưng dụng trước khi kết thúc thời hạn trưng dụng. Trường hợp trong tình trạng chiến tranh, tình trạng khẩn cấp thì thời hạn trưng dụng được tính từ ngày ra quyết định đến không quá 30 ngày kể từ ngày bãi bỏ tình trạng chiến tranh, tình trạng khẩn cấp.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 92,
+          "page_end": 92,
+          "provenance": [
+            {
+              "start": 176316,
+              "end": 176942,
+              "document_id": "luatdat1",
+              "page": 92,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 176316,
+          "metadata": {
+            "article": "90",
+            "clause": "4",
+            "part": 1
+          },
+          "score": 0.4993484616279602,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "cbf0ac7b202679906bc6d89a7d61cb4e",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n4. Trường hợp không được gia hạn sử dụng đất, người sử dụng đất có trách nhiệm xử lý tài sản gắn liền với đất để hoàn trả mặt bằng cho Nhà nước. Quá thời\nhạn 24 tháng kể từ thời điểm hết thời hạn sử dụng đất mà người sử dụng đất không xử lý tài sản thì Nhà nước thu hồi đất mà không bồi thường về đất và tài sản gắn liền với đất; trường hợp phải phá dỡ, chủ sở hữu tài sản phải chịu chi phí phá dỡ.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368019,
+              "end": 368173,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 368173,
+              "end": 368418,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368019,
+          "metadata": {
+            "article": "172",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 0.49864041805267334,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 365500,
+              "end": 365672,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 365672,
+              "end": 367309,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 365500,
+          "metadata": {
+            "article": "172",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 0.4919295310974121,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 372268,
+              "end": 372443,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 372268,
+          "metadata": {
+            "article": "176",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 0.4818440079689026,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "588c03e17aa98fa89da87ad04e394be0",
+          "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n7. Trường hợp người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan không bàn giao đất cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư thì thực hiện như sau:\na) Ủy ban nhân dân cấp xã chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã nơi có đất thu hồi và đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư vận động, thuyết phục để người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan bàn giao đất cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư;\nb) Việc tổ chức vận động, thuyết phục được tiến hành trong thời gian 10 ngày và phải được thể hiện bằng văn bản. Quá thời hạn 10 ngày kể từ ngày kết thúc vận động, thuyết phục mà người có đất thu hồi vẫn không chấp hành việc bàn giao đất cho đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư thì Chủ tịch Ủy ban nhân dân cấp huyện ban hành quyết định cưỡng chế thu hồi đất và tổ chức thực hiện việc cưỡng chế theo quy định tại Điều 89 của Luật này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 87,
+          "page_end": 87,
+          "provenance": [
+            {
+              "start": 165633,
+              "end": 166713,
+              "document_id": "luatdat1",
+              "page": 87,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 165633,
+          "metadata": {
+            "article": "87",
+            "clause": "7",
+            "part": 1
+          },
+          "score": 0.4800369143486023,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        }
+      ],
+      "bm25_0": [
+        {
+          "id": "ba44790bb3742a31dae3bc98b4976a0d",
+          "text": "Điều 129. Hồ sơ địa chính\n1. Hồ sơ địa chính bao gồm các tài liệu thể hiện thông tin chi tiết về từng thửa đất, người được giao quản lý đất, người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, tình trạng pháp lý của thửa đất và tài sản gắn liền với đất, phản ánh đầy đủ tình hình quản lý, sử dụng đất trên địa bàn.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 38,
+          "page_end": 38,
+          "provenance": [
+            {
+              "start": 250929,
+              "end": 251222,
+              "document_id": "luatdat2",
+              "page": 38,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 250929,
+          "metadata": {
+            "article": "129",
+            "clause": "1",
+            "part": 2
+          },
+          "score": 25.221019228456903,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "d4c2e002b43e999bc2dfeaa79cc662d8",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n3. Trường hợp các bên tranh chấp lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền thì việc giải quyết tranh chấp đất đai được thực hiện như sau:\na) Trường hợp tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau thì Chủ tịch Ủy ban nhân dân cấp huyện giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết tranh chấp của Chủ tịch Ủy ban nhân dân cấp huyện có hiệu lực thi hành. Trường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Chủ tịch Ủy ban nhân dân cấp tỉnh. Quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nb) Trường hợp tranh chấp mà một bên tranh chấp là tổ chức, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài thì Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nTrường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Bộ trưởng Bộ Tài nguyên và Môi trường. Quyết định giải quyết của Bộ trưởng Bộ Tài nguyên và Môi trường có hiệu lực thi hành.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 47,
+          "page_end": 48,
+          "provenance": [
+            {
+              "start": 474356,
+              "end": 475832,
+              "document_id": "luatdat3",
+              "page": 47,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 475832,
+              "end": 476234,
+              "document_id": "luatdat3",
+              "page": 48,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 474356,
+          "metadata": {
+            "article": "236",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 24.76360203030273,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "9862d1c97b932d9203b3a4733a8d72c3",
+          "text": "Điều 225. Công bố, công khai thủ tục hành chính về đất đai\n2. Nội dung công khai thủ tục hành chính về đất đai bao gồm:\na) Cơ quan có thẩm quyền tiếp nhận hồ sơ và trả kết quả; cơ quan giải quyết thủ tục hành chính; đối tượng thực hiện thủ tục hành chính;\nb) Thời gian giải quyết đối với từng thủ tục hành chính;\nc) Thành phần, số lượng hồ sơ đối với từng thủ tục hành chính;\nd) Quy trình và trách nhiệm giải quyết từng thủ tục hành chính;\nđ) Nghĩa vụ tài chính, phí và lệ phí phải nộp đối với từng thủ tục hành chính;\ne) Nội dung khác của bộ thủ tục hành chính (nếu có).\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 38,
+          "page_end": 38,
+          "provenance": [
+            {
+              "start": 451948,
+              "end": 452461,
+              "document_id": "luatdat3",
+              "page": 38,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 451948,
+          "metadata": {
+            "article": "225",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 24.33937283813835,
+          "rank": 3,
+          "strategy": "bm25"
+        },
+        {
+          "id": "ce53965feb3285b83f3342a29891cf6f",
+          "text": "Điều 256. Giải quyết về hồ sơ địa chính, đăng ký đất đai, cấp giấy chứng nhận khi Luật này có hiệu lực thi hành\n1. Hồ sơ địa chính dạng giấy đã xây dựng trước ngày Luật này có hiệu lực thi hành thì được tiếp tục sử dụng để phục vụ cho công tác quản lý đất đai và phải được số hóa trong quá trình xây dựng cơ sở dữ liệu quốc gia về đất đai theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 61,
+          "page_end": 61,
+          "provenance": [
+            {
+              "start": 506506,
+              "end": 506761,
+              "document_id": "luatdat3",
+              "page": 61,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 506506,
+          "metadata": {
+            "article": "256",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 23.89856412079375,
+          "rank": 4,
+          "strategy": "bm25"
+        },
+        {
+          "id": "1614e6052a17a3140f6f0cbdcbef4d01",
+          "text": "Điều 49. Địa giới đơn vị hành chính\n5. Trường hợp phạm vi quản lý đất đai cấp huyện, cấp xã chưa xác định được do chưa xác định được địa giới đơn vị hành chính cấp huyện, cấp xã thì Ủy ban nhân dân cấp trên trực tiếp chỉ đạo Ủy ban nhân dân cấp dưới có liên quan phối hợp giải quyết; trong thời gian chưa có quyết định về xác định địa giới đơn vị hành chính cấp huyện, cấp xã thì Ủy ban nhân dân cấp trên trực tiếp thực hiện các nội dung quản lý nhà nước về đất đai đối với khu vực chưa thống nhất. Trường hợp không thống nhất được phương án giải quyết thì Ủy ban nhân dân cấp tỉnh lập hồ sơ trình Chính phủ.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 45,
+          "page_end": 45,
+          "provenance": [
+            {
+              "start": 85413,
+              "end": 85986,
+              "document_id": "luatdat1",
+              "page": 45,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 85413,
+          "metadata": {
+            "article": "49",
+            "clause": "5",
+            "part": 1
+          },
+          "score": 23.439531585574354,
+          "rank": 5,
+          "strategy": "bm25"
+        },
+        {
+          "id": "0522ed5847b5c59179d64b9a124ef289",
+          "text": "Điều 257. Giải quyết về tài chính đất đai, giá đất khi Luật này có hiệu lực thi hành\n3. Trường hợp phương án giá đất đã trình Ủy ban nhân dân cấp có thẩm quyền quyết định giá đất cụ thể theo quy định của pháp luật trước ngày Luật này có hiệu lực thi hành thì Ủy ban nhân dân cấp có thẩm quyền quyết định giá đất cụ thể theo phương án đã trình mà không áp dụng quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 62,
+          "page_end": 62,
+          "provenance": [
+            {
+              "start": 511732,
+              "end": 512030,
+              "document_id": "luatdat3",
+              "page": 62,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 511732,
+          "metadata": {
+            "article": "257",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 23.238466210041175,
+          "rank": 6,
+          "strategy": "bm25"
+        },
+        {
+          "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367457,
+              "end": 368019,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367457,
+          "metadata": {
+            "article": "172",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 22.74104055215073,
+          "rank": 7,
+          "strategy": "bm25"
+        },
+        {
+          "id": "3b658e5235b79ae5fab40d558b3afa06",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n4. Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tài nguyên và Môi trường khi giải quyết tranh chấp đất đai quy định tại khoản 3 Điều này phải ra quyết định giải quyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên nghiêm chỉnh chấp hành. Sau thời hạn 30 ngày kể từ ngày quyết định giải quyết tranh chấp có hiệu lực thi hành mà các bên hoặc một trong các bên không chấp hành sẽ bị cưỡng chế thi hành. Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất tranh chấp ban hành quyết định cưỡng chế thực hiện quyết định giải quyết tranh chấp đất đai và tổ chức thực hiện quyết định cưỡng chế.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 48,
+          "page_end": 48,
+          "provenance": [
+            {
+              "start": 476234,
+              "end": 476891,
+              "document_id": "luatdat3",
+              "page": 48,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 476234,
+          "metadata": {
+            "article": "236",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 22.696289929513554,
+          "rank": 8,
+          "strategy": "bm25"
+        },
+        {
+          "id": "4e08ecf8989b0964814650e76d36ea00",
+          "text": "Điều 224. Nguyên tắc thực hiện thủ tục hành chính về đất đai\n5. Cơ quan giải quyết thủ tục hành chính về đất đai chịu trách nhiệm thực hiện đúng thẩm quyền và thời gian theo quy định của pháp luật, không chịu trách nhiệm về những nội dung trong các văn bản, giấy tờ có trong hồ sơ đã được cơ quan, người có thẩm quyền khác chấp thuận, thẩm định, phê duyệt hoặc giải quyết trước đó.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 37,
+          "page_end": 37,
+          "provenance": [
+            {
+              "start": 451411,
+              "end": 451732,
+              "document_id": "luatdat3",
+              "page": 37,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 451411,
+          "metadata": {
+            "article": "224",
+            "clause": "5",
+            "part": 3
+          },
+          "score": 22.48111115753404,
+          "rank": 9,
+          "strategy": "bm25"
+        },
+        {
+          "id": "a8305c96e2519703d293d0df7d0b4943",
+          "text": "Điều 21. Nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, các Bộ, cơ quan ngang Bộ và chính quyền địa phương các cấp\n1. Chính phủ thống nhất quản lý nhà nước về đất đai trong phạm vi cả nước.\n2. Thủ tướng Chính phủ thực hiện nhiệm vụ quản lý nhà nước về đất đai theo quy định của Luật này.\n3. Bộ Tài nguyên và Môi trường là cơ quan đầu mối giúp Chính phủ, Thủ tướng Chính phủ thực hiện quản lý nhà nước về đất đai.\n4. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm giúp Chính phủ, Thủ tướng Chính phủ trong quản lý nhà nước về đất đai.\n5. Chính quyền địa phương các cấp có trách nhiệm quản lý nhà nước về đất đai tại địa phương theo thẩm quyền quy định của Luật này. Ở đơn vị hành chính cấp huyện không thành lập đơn vị hành chính cấp xã thì Hội đồng nhân dân, Ủy ban nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn của Hội đồng nhân dân, Ủy ban nhân dân cấp xã quy định của Luật này.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 18,
+          "page_end": 19,
+          "provenance": [
+            {
+              "start": 32750,
+              "end": 32949,
+              "document_id": "luatdat1",
+              "page": 18,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            },
+            {
+              "start": 32949,
+              "end": 33677,
+              "document_id": "luatdat1",
+              "page": 19,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 32750,
+          "metadata": {
+            "article": "21",
+            "clause": null,
+            "part": 1
+          },
+          "score": 21.672890950306012,
+          "rank": 10,
+          "strategy": "bm25"
+        }
+      ]
+    },
+    "mode": "hybrid_improved",
+    "requested_fields": [
+      "duration"
+    ]
+  },
+  "evidence_audit": {
+    "gold_chunk_ids": [],
+    "gold_in_top3": false,
+    "gold_in_context": false,
+    "semantic_support": "pending_human_review"
+  }
+}

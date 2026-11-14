@@ -1,0 +1,843 @@
+{
+  "query_id": "h06",
+  "question": "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?",
+  "split": "test",
+  "answerability": "insufficient_evidence",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "reason": "Tài liệu không có thông tin về mức phí đo đạc địa phương cho năm 2026 tại Đà Nẵng.",
+    "evidence_quotes": [],
+    "context": "[64d3c45e3843c75c90a5cb965f6ab707] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 46 | Điều 50 | Khoản None\nĐiều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n\n\n[fef75877838d45a6d4934502dc689e1d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 25 | Điều 120 | Khoản 3\nĐiều 120. Cho thuê đất\n3. Nhà nước cho thuê đất thu tiền thuê đất hằng năm trong các trường hợp sau đây:\na) Các trường hợp không thuộc quy định tại khoản 2 Điều này;\nb) Các trường hợp quy định tại khoản 2 Điều này mà có nhu cầu trả tiền thuê đất hằng năm;\nc) Đơn vị sự nghiệp công lập lựa chọn hình thức thuê đất theo quy định tại khoản 3 Điều 30 của Luật này.\n\n\n[2449bb2d303c690f842b9a1cf375d0f2] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 15 | Điều 192 | Khoản 3\nĐiều 192. Tập trung đất nông nghiệp\n3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân thực hiện tập trung đất để sản xuất nông nghiệp; ứng dụng khoa học, công nghệ để sử dụng tiết kiệm, hiệu quả quỹ đất đã tập trung. Kinh phí cho công tác đo đạc, chỉnh lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất để thực hiện dồn điền, đổi thửa nhằm tập trung đất để sản xuất nông nghiệp do ngân sách nhà nước bảo đảm.\n\n\n[334d747afc884d77685bc97147efd65d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 25 | Điều 120 | Khoản 2\nĐiều 120. Cho thuê đất\n2. Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê trong các trường hợp sau đây:\na) Sử dụng đất để thực hiện dự án đầu tư sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\nb) Sử dụng đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao, nhà lưu trú công nhân trong khu công nghiệp; đất sử dụng vào mục đích công cộng có mục đích kinh doanh; sử dụng đất thương mại, dịch vụ để hoạt động du lịch, kinh doanh văn phòng;\nc) Sử dụng đất để xây dựng nhà ở xã hội cho thuê theo quy định của pháp luật về nhà ở.\n\n\n[2f2bacc89f24b549a325b1d3d5e8e121] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 25 | Điều 120 | Khoản 4\nĐiều 120. Cho thuê đất\n4. Việc cho thuê đất quy định tại Điều này được thực hiện theo quy định tại các điều 124, 125 và 126 của Luật này.\n\n\n[334aad170c9999f56be830b96408cf80] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 15 | Điều 192 | Khoản 2\nĐiều 192. Tập trung đất nông nghiệp\n2. Việc tập trung đất nông nghiệp phải bảo đảm các nguyên tắc sau đây:\na) Bảo đảm công khai, minh bạch, tự nguyện, dân chủ, công bằng;\nb) Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, người sử dụng đất và của tổ chức, cá nhân có liên quan; không ảnh hưởng đến quốc phòng, an ninh;\nc) Tuân thủ quy định của pháp luật về đất đai, pháp luật về dân sự và quy định khác của pháp luật có liên quan; phù hợp với quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt;\nd) Phù hợp với đặc điểm về đất đai, địa hình, khí hậu, văn hóa, quá trình chuyển dịch lao động, chuyển đổi nghề, việc làm ở nông thôn của từng vùng, từng khu vực, từng địa phương và phù hợp với nhu cầu của thị trường.\n",
+    "context_ids": [
+      "64d3c45e3843c75c90a5cb965f6ab707",
+      "fef75877838d45a6d4934502dc689e1d",
+      "2449bb2d303c690f842b9a1cf375d0f2",
+      "334d747afc884d77685bc97147efd65d",
+      "2f2bacc89f24b549a325b1d3d5e8e121",
+      "334aad170c9999f56be830b96408cf80"
+    ],
+    "context_chars": 3902,
+    "context_tokens": 1954,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_jLsQPvM8bZmb1mngCIGhOVzX",
+        "round": 1,
+        "arguments": {
+          "query": "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "64d3c45e3843c75c90a5cb965f6ab707",
+            "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 46,
+            "page_end": 46,
+            "provenance": [
+              {
+                "start": 86287,
+                "end": 87095,
+                "document_id": "luatdat1",
+                "page": 46,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 86287,
+            "metadata": {
+              "article": "50",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.01639344262295082,
+            "rank": 1,
+            "strategy": "hybrid_improved",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "bm25_0": 27.81380750776427
+            }
+          },
+          {
+            "id": "fef75877838d45a6d4934502dc689e1d",
+            "text": "Điều 120. Cho thuê đất\n3. Nhà nước cho thuê đất thu tiền thuê đất hằng năm trong các trường hợp sau đây:\na) Các trường hợp không thuộc quy định tại khoản 2 Điều này;\nb) Các trường hợp quy định tại khoản 2 Điều này mà có nhu cầu trả tiền thuê đất hằng năm;\nc) Đơn vị sự nghiệp công lập lựa chọn hình thức thuê đất theo quy định tại khoản 3 Điều 30 của Luật này.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 25,
+            "page_end": 25,
+            "provenance": [
+              {
+                "start": 226785,
+                "end": 227123,
+                "document_id": "luatdat2",
+                "page": 25,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 226785,
+            "metadata": {
+              "article": "120",
+              "clause": "3",
+              "part": 2
+            },
+            "score": 0.01639344262295082,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "dense_0": 1
+            },
+            "source_scores": {
+              "dense_0": 0.49669313430786133
+            },
+            "rank": 2
+          },
+          {
+            "id": "2449bb2d303c690f842b9a1cf375d0f2",
+            "text": "Điều 192. Tập trung đất nông nghiệp\n3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân thực hiện tập trung đất để sản xuất nông nghiệp; ứng dụng khoa học, công nghệ để sử dụng tiết kiệm, hiệu quả quỹ đất đã tập trung. Kinh phí cho công tác đo đạc, chỉnh lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất để thực hiện dồn điền, đổi thửa nhằm tập trung đất để sản xuất nông nghiệp do ngân sách nhà nước bảo đảm.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 15,
+            "page_end": 15,
+            "provenance": [
+              {
+                "start": 398430,
+                "end": 398856,
+                "document_id": "luatdat3",
+                "page": 15,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 398430,
+            "metadata": {
+              "article": "192",
+              "clause": "3",
+              "part": 3
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_improved",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "bm25_0": 21.46800514638387
+            }
+          }
+        ],
+        "context_ids": [
+          "64d3c45e3843c75c90a5cb965f6ab707",
+          "fef75877838d45a6d4934502dc689e1d",
+          "2449bb2d303c690f842b9a1cf375d0f2",
+          "334d747afc884d77685bc97147efd65d",
+          "2f2bacc89f24b549a325b1d3d5e8e121",
+          "334aad170c9999f56be830b96408cf80"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?",
+          "variants": [
+            "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "fef75877838d45a6d4934502dc689e1d",
+                "text": "Điều 120. Cho thuê đất\n3. Nhà nước cho thuê đất thu tiền thuê đất hằng năm trong các trường hợp sau đây:\na) Các trường hợp không thuộc quy định tại khoản 2 Điều này;\nb) Các trường hợp quy định tại khoản 2 Điều này mà có nhu cầu trả tiền thuê đất hằng năm;\nc) Đơn vị sự nghiệp công lập lựa chọn hình thức thuê đất theo quy định tại khoản 3 Điều 30 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 226785,
+                    "end": 227123,
+                    "document_id": "luatdat2",
+                    "page": 25,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 226785,
+                "metadata": {
+                  "article": "120",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.49669313430786133,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "2876ba33699f2bc0d2166189304075de",
+                "text": "Điều 120. Cho thuê đất\n1. Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê hoặc thu tiền thuê đất hằng năm đối với các trường hợp không thuộc trường hợp quy định tại Điều 118 và Điều 119 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 226042,
+                    "end": 226241,
+                    "document_id": "luatdat2",
+                    "page": 25,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 226042,
+                "metadata": {
+                  "article": "120",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.49517524242401123,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "9ab3e7f2153612731c73cc5bebea0a2f",
+                "text": "Điều 257. Giải quyết về tài chính đất đai, giá đất khi Luật này có hiệu lực thi hành\n1. Bảng giá đất do Ủy ban nhân dân cấp tỉnh ban hành theo quy định của Luật Đất đai số 45/2013/QH13 được tiếp tục áp dụng đến hết ngày 31 tháng 12 năm 2025;\ntrường hợp cần thiết Ủy ban nhân dân cấp tỉnh quyết định điều chỉnh bảng giá đất theo quy định của Luật này cho phù hợp với tình hình thực tế về giá đất tại địa phương.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 61,
+                "page_end": 62,
+                "provenance": [
+                  {
+                    "start": 509004,
+                    "end": 509161,
+                    "document_id": "luatdat3",
+                    "page": 61,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  },
+                  {
+                    "start": 509161,
+                    "end": 509330,
+                    "document_id": "luatdat3",
+                    "page": 62,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 509004,
+                "metadata": {
+                  "article": "257",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 0.49282318353652954,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "fc709d5a381087c60ba157703a01a13b",
+                "text": "Điều 249. Sửa đổi, bổ sung khoản 3 Điều 6 của Luật Thuế sử dụng đất phi nông nghiệp số 48/2010/QH12 Sửa đổi, bổ sung khoản 3 Điều 6 như sau: “3. Giá của 01 m2 đất là giá đất theo bảng giá đất tương ứng với mục đích sử dụng và được ổn định theo chu kỳ 05 năm.”.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 56,
+                "page_end": 56,
+                "provenance": [
+                  {
+                    "start": 495198,
+                    "end": 495459,
+                    "document_id": "luatdat3",
+                    "page": 56,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 495198,
+                "metadata": {
+                  "article": "249",
+                  "clause": null,
+                  "part": 3
+                },
+                "score": 0.4895840287208557,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a3a74074948545f797fd093ec1060d8b",
+                "text": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n3. Có chính sách hỗ trợ đất đai để bảo đảm ổn định cuộc sống cho cá nhân là người dân tộc thiểu số đã được Nhà nước giao đất, cho thuê đất quy định tại khoản 2 Điều này nhưng nay không còn đất hoặc thiếu đất so với hạn mức mà thuộc diện hộ nghèo, hộ cận nghèo tại vùng đồng bào dân tộc thiểu số và miền núi như sau:\na) Trường hợp không còn đất ở thì được giao tiếp đất ở, cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất. Trường hợp thiếu đất ở thì cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất;\nb) Trường hợp không còn hoặc thiếu đất nông nghiệp thì được giao tiếp đất nông nghiệp trong hạn mức không thu tiền hoặc cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và được miễn, giảm tiền thuê đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 15,
+                "page_end": 15,
+                "provenance": [
+                  {
+                    "start": 25949,
+                    "end": 26795,
+                    "document_id": "luatdat1",
+                    "page": 15,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 25949,
+                "metadata": {
+                  "article": "16",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.486503005027771,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "887f1629d09f6cb251113170be592bd2",
+                "text": "Điều 160. Giá đất cụ thể\n4. Đối với khu vực đã có bảng giá đất tới từng thửa đất trên cơ sở vùng giá trị, thửa đất chuẩn thì giá đất cụ thể được xác định theo bảng giá đất tại thời điểm định giá đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 86,
+                "page_end": 86,
+                "provenance": [
+                  {
+                    "start": 349405,
+                    "end": 349580,
+                    "document_id": "luatdat2",
+                    "page": 86,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 349405,
+                "metadata": {
+                  "article": "160",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.4811028242111206,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "676b794fb04181cc2f2443d733b0884c",
+                "text": "Điều 111. Bố trí tái định cư\n3. Giá đất tính tiền sử dụng đất tại nơi tái định cư đối với người được bồi thường về đất ở, người được giao đất ở tái định cư trong trường hợp không đủ điều kiện bồi thường về đất ở là giá đất được xác định theo bảng giá đất tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp chưa có giá đất trong bảng giá đất thì phải bổ sung bảng giá đất để làm căn cứ tính tiền sử dụng đất cho người được bố trí tái định cư. Người được bố trí tái định cư được ghi nợ nghĩa vụ tài chính về đất đai nếu đáp ứng các điều kiện theo quy định của Chính phủ. Giá bán nhà ở tái định cư trong địa bàn cấp huyện do Ủy ban nhân dân cấp huyện quyết định. Trường hợp bố trí nhà ở tái định cư tại đơn vị hành chính cấp huyện khác thì giá bán nhà ở tái định cư do Ủy ban nhân dân cấp tỉnh quyết định.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 212317,
+                    "end": 213118,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 212317,
+                "metadata": {
+                  "article": "111",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.480273962020874,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "2f2bacc89f24b549a325b1d3d5e8e121",
+                "text": "Điều 120. Cho thuê đất\n4. Việc cho thuê đất quy định tại Điều này được thực hiện theo quy định tại các điều 124, 125 và 126 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 227123,
+                    "end": 227238,
+                    "document_id": "luatdat2",
+                    "page": 25,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 227123,
+                "metadata": {
+                  "article": "120",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.4794938564300537,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "288de0153e0fca5465dfc1164afef715",
+                "text": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n2. Có chính sách hỗ trợ đất đai lần đầu cho cá nhân là người dân tộc thiểu số thuộc diện hộ nghèo, hộ cận nghèo tại vùng đồng bào dân tộc thiểu số và miền núi, phù hợp với phong tục, tập quán, tín ngưỡng, bản sắc văn hóa và điều kiện thực tế của từng vùng để bảo đảm ổn định cuộc sống như sau:\na) Giao đất ở trong hạn mức và được miễn, giảm tiền sử dụng đất;\nb) Cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất đối với đất có nguồn gốc được Nhà nước giao, cho thuê, công nhận hoặc được thừa kế, tặng cho, nhận chuyển nhượng quyền sử dụng đất theo quy định của pháp luật;\nc) Giao đất nông nghiệp trong hạn mức không thu tiền sử dụng đất;\nd) Cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và được miễn, giảm tiền thuê đất;\nđ) Diện tích giao đất, cho phép chuyển mục đích sử dụng đất quy định tại điểm a và điểm b khoản này được tính cho tổng diện tích đất được Nhà nước giao, cho phép chuyển mục đích sử dụng đất trong quá trình thực hiện các chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 14,
+                "page_end": 15,
+                "provenance": [
+                  {
+                    "start": 24865,
+                    "end": 25159,
+                    "document_id": "luatdat1",
+                    "page": 14,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 25159,
+                    "end": 25949,
+                    "document_id": "luatdat1",
+                    "page": 15,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 24865,
+                "metadata": {
+                  "article": "16",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.47922515869140625,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "334d747afc884d77685bc97147efd65d",
+                "text": "Điều 120. Cho thuê đất\n2. Nhà nước cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê trong các trường hợp sau đây:\na) Sử dụng đất để thực hiện dự án đầu tư sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\nb) Sử dụng đất khu công nghiệp, cụm công nghiệp, khu công nghệ cao, nhà lưu trú công nhân trong khu công nghiệp; đất sử dụng vào mục đích công cộng có mục đích kinh doanh; sử dụng đất thương mại, dịch vụ để hoạt động du lịch, kinh doanh văn phòng;\nc) Sử dụng đất để xây dựng nhà ở xã hội cho thuê theo quy định của pháp luật về nhà ở.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 226241,
+                    "end": 226785,
+                    "document_id": "luatdat2",
+                    "page": 25,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 226241,
+                "metadata": {
+                  "article": "120",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.47739243507385254,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "64d3c45e3843c75c90a5cb965f6ab707",
+                "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 46,
+                "page_end": 46,
+                "provenance": [
+                  {
+                    "start": 86287,
+                    "end": 87095,
+                    "document_id": "luatdat1",
+                    "page": 46,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 86287,
+                "metadata": {
+                  "article": "50",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 27.81380750776427,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "2449bb2d303c690f842b9a1cf375d0f2",
+                "text": "Điều 192. Tập trung đất nông nghiệp\n3. Nhà nước có chính sách khuyến khích tổ chức, cá nhân thực hiện tập trung đất để sản xuất nông nghiệp; ứng dụng khoa học, công nghệ để sử dụng tiết kiệm, hiệu quả quỹ đất đã tập trung. Kinh phí cho công tác đo đạc, chỉnh lý hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất để thực hiện dồn điền, đổi thửa nhằm tập trung đất để sản xuất nông nghiệp do ngân sách nhà nước bảo đảm.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 15,
+                "page_end": 15,
+                "provenance": [
+                  {
+                    "start": 398430,
+                    "end": 398856,
+                    "document_id": "luatdat3",
+                    "page": 15,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 398430,
+                "metadata": {
+                  "article": "192",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 21.46800514638387,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "dc1644167dd5903ed98c76d32fefd7da",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 185856,
+                    "end": 186948,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 185856,
+                "metadata": {
+                  "article": "94",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 19.855031870587577,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "d296111227f270b89aeeb390b640f0de",
+                "text": "Điều 85. Thông báo thu hồi đất và chấp hành quyết định thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Trước khi ban hành quyết định thu hồi đất, cơ quan nhà nước có thẩm quyền phải gửi văn bản thông báo thu hồi đất cho người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất, người có quyền lợi và nghĩa vụ liên quan (nếu có) biết chậm nhất là 90 ngày đối với đất nông nghiệp và 180 ngày đối với đất phi nông nghiệp. Nội dung thông báo thu hồi đất bao gồm: lý do thu hồi đất; diện tích, vị trí khu đất thu hồi; tiến độ thu hồi đất; kế hoạch điều tra, khảo sát, đo đạc, kiểm đếm; kế hoạch di dời người dân khỏi khu vực thu hồi đất; kế hoạch bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 81,
+                "page_end": 81,
+                "provenance": [
+                  {
+                    "start": 153820,
+                    "end": 154396,
+                    "document_id": "luatdat1",
+                    "page": 81,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 153820,
+                "metadata": {
+                  "article": "85",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 19.461880216491117,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "b8ad8af5c2f5ac732306c9bfa8f84761",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n3. Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất chỉ được cấp sau khi người sử dụng đất, chủ sở hữu tài sản gắn liền với đất hoàn thành nghĩa vụ tài chính theo quy định của pháp luật. Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất không thuộc đối tượng phải thực hiện nghĩa vụ tài chính hoặc được miễn, được ghi nợ nghĩa vụ\ntài chính thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp sau khi cơ quan có thẩm quyền xác định không phải thực hiện nghĩa vụ tài chính hoặc được miễn, được ghi nợ nghĩa vụ tài chính; trường hợp thuê đất trả tiền thuê đất hằng năm thì Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được cấp sau khi cơ quan có thẩm quyền ban hành quyết định cho thuê đất, ký hợp đồng thuê đất. Trường hợp người sử dụng đất tặng cho quyền sử dụng đất cho Nhà nước hoặc tặng cho quyền sử dụng đất cho cộng đồng dân cư để xây dựng các công trình phục vụ lợi ích chung của cộng đồng hoặc mở rộng đường giao thông theo quy hoạch hoặc tặng cho quyền sử dụng đất để làm nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất theo quy định của pháp luật thì Nhà nước có trách nhiệm bố trí kinh phí thực hiện việc đo đạc, chỉnh lý, cập nhật hồ sơ địa chính và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất theo quy định của Luật này; người sử dụng đất không phải trả chi phí đối với trường hợp này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 43,
+                "page_end": 44,
+                "provenance": [
+                  {
+                    "start": 261575,
+                    "end": 261945,
+                    "document_id": "luatdat2",
+                    "page": 43,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 261945,
+                    "end": 263048,
+                    "document_id": "luatdat2",
+                    "page": 44,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 261575,
+                "metadata": {
+                  "article": "135",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 19.256442863381174,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "e11d743b85e30001b5d6665606f586de",
+                "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n6. Trường hợp có sự chênh lệch diện tích giữa số liệu đo đạc thực tế với số liệu ghi trên giấy tờ quy định tại Điều 137 của Luật này hoặc Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đã cấp mà ranh giới thửa đất đang sử dụng không thay đổi so với ranh giới thửa đất tại thời điểm có giấy tờ về quyền sử dụng đất, Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đã cấp, không có tranh chấp với những người sử dụng đất liền kề thì khi cấp hoặc cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, diện tích đất được xác định theo số liệu đo đạc thực tế. Trường hợp đo đạc lại mà ranh giới thửa đất có thay đổi so với ranh giới thửa đất tại thời điểm có giấy tờ về quyền sử dụng đất hoặc Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đã cấp và diện tích đất đo đạc thực tế nhiều hơn diện tích ghi trên giấy tờ về quyền sử dụng đất hoặc Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận\nquyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đã cấp thì phần diện tích chênh lệch nhiều hơn được xem xét cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất. Trường hợp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đã cấp mà vị trí không chính xác thì rà soát, cấp đổi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người sử dụng đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 45,
+                "page_end": 46,
+                "provenance": [
+                  {
+                    "start": 265007,
+                    "end": 266705,
+                    "document_id": "luatdat2",
+                    "page": 45,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 266705,
+                    "end": 267316,
+                    "document_id": "luatdat2",
+                    "page": 46,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 265007,
+                "metadata": {
+                  "article": "135",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 19.04957577937651,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "20d48d2e6c664515fb152734d4d95d84",
+                "text": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n8. Kinh phí thực hiện bồi thường, hỗ trợ, tái định cư để thu hồi đất theo quy định tại khoản 29 Điều 79 của Luật này; kinh phí đo đạc, lập hồ sơ địa chính, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và các chi phí khác để thực hiện chính sách về đất đai đối với đồng bào dân tộc thiểu số được bố trí từ ngân sách nhà nước và nguồn vốn hợp pháp khác theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 16,
+                "page_end": 16,
+                "provenance": [
+                  {
+                    "start": 28005,
+                    "end": 28417,
+                    "document_id": "luatdat1",
+                    "page": 16,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 28005,
+                "metadata": {
+                  "article": "16",
+                  "clause": "8",
+                  "part": 1
+                },
+                "score": 18.98969853731192,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "1605fc54289b23da42302929c4410c22",
+                "text": "Điều 154. Các khoản thu từ dịch vụ công về đất đai\n1. Dịch vụ cung cấp thông tin, dữ liệu về đất đai.\n2. Dịch vụ đo đạc địa chính.\n3. Dịch vụ đăng ký đất đai, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.\n4. Dịch vụ tư vấn xác định giá đất.\n5. Dịch vụ khác theo quy định của pháp luật.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 331887,
+                    "end": 332205,
+                    "document_id": "luatdat2",
+                    "page": 77,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 331887,
+                "metadata": {
+                  "article": "154",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 18.10578549816549,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "ad15d59e72c9cd5b6bc155edce62fd24",
+                "text": "Điều 158. Nguyên tắc, căn cứ, phương pháp định giá đất\n5. Các phương pháp định giá đất bao gồm:\na) Phương pháp so sánh được thực hiện bằng cách điều chỉnh mức giá của các thửa đất có cùng mục đích sử dụng đất, tương đồng nhất định về các yếu tố có ảnh hưởng đến giá đất đã chuyển nhượng trên thị trường, đã trúng đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa vụ tài chính theo quyết định trúng đấu giá thông qua việc phân tích, so sánh các yếu tố ảnh hưởng đến giá đất sau khi đã loại trừ giá trị tài sản gắn liền với đất (nếu có) để xác định giá của thửa đất cần định giá;\nb) Phương pháp thu nhập được thực hiện bằng cách lấy thu nhập ròng bình quân năm trên một diện tích đất chia cho lãi suất tiền gửi tiết kiệm bình quân của loại tiền gửi bằng tiền Việt Nam kỳ hạn 12 tháng tại các ngân hàng thương mại do Nhà nước nắm giữ trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết trên địa bàn cấp tỉnh của 03 năm liền kề tính đến hết quý gần nhất có số liệu trước thời điểm định giá đất;\nc) Phương pháp thặng dư được thực hiện bằng cách lấy tổng doanh thu phát triển ước tính trừ đi tổng chi phí phát triển ước tính của thửa đất, khu đất trên cơ sở sử dụng đất có hiệu quả cao nhất (hệ số sử dụng đất, mật độ xây dựng, số tầng cao tối đa của công trình) theo quy hoạch sử dụng đất, quy hoạch chi tiết xây dựng đã được cơ quan có thẩm quyền phê duyệt;\nd) Phương pháp hệ số điều chỉnh giá đất được thực hiện bằng cách lấy giá đất trong bảng giá đất nhân với hệ số điều chỉnh giá đất. Hệ số điều chỉnh giá đất được xác định thông qua việc so sánh giá đất trong bảng giá đất với giá đất thị trường;\nđ) Chính phủ quy định phương pháp định giá đất khác chưa được quy định tại các điểm a, b, c và d khoản này sau khi được sự đồng ý của Ủy ban Thường vụ Quốc hội.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 82,
+                "page_end": 83,
+                "provenance": [
+                  {
+                    "start": 341149,
+                    "end": 342114,
+                    "document_id": "luatdat2",
+                    "page": 82,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 342114,
+                    "end": 342882,
+                    "document_id": "luatdat2",
+                    "page": 83,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 341149,
+                "metadata": {
+                  "article": "158",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 17.661797056727444,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "507a0c55c2b25259ae6e56ea75cebe2f",
+                "text": "Điều 166. Quản lý, vận hành, khai thác và kết nối liên thông với cơ sở dữ liệu quốc gia về đất đai\n5. Việc khai thác thông tin trong cơ sở dữ liệu quốc gia về đất đai được quy định như sau:\na) Dữ liệu trong cơ sở dữ liệu quốc gia về đất đai có giá trị sử dụng chính thức, tương đương văn bản giấy được cơ quan có thẩm quyền cung cấp;\nb) Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ quan quản lý cơ sở dữ liệu của Bộ, ngành, địa phương, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội được khai thác thông tin trong cơ sở dữ liệu quốc gia về đất đai thuộc phạm vi chức năng, nhiệm vụ, quyền hạn của mình;\nc) Người sử dụng đất được khai thác thông tin của mình trong cơ sở dữ liệu quốc gia về đất đai;\nd) Tổ chức, cá nhân không thuộc quy định tại điểm b và điểm c khoản này có nhu cầu khai thác thông tin trong cơ sở dữ liệu quốc gia về đất đai phải được sự đồng ý của cơ quan quản lý cơ sở dữ liệu quốc gia về đất đai theo quy định của pháp luật;\nđ) Nhà nước tạo điều kiện thuận lợi cho các tổ chức, cá nhân được tiếp cận, khai thác thông tin, dữ liệu về đất đai theo quy định của pháp luật. Khuyến khích các tổ chức, cá nhân phản hồi, cung cấp, bổ sung thông tin cho cơ sở dữ liệu quốc gia về đất đai;\ne) Việc khai thác, sử dụng thông tin, dữ liệu trong cơ sở dữ liệu quốc gia về đất đai phải trả phí khai thác, sử dụng tài liệu đất đai và giá cung cấp dịch vụ thông tin, dữ liệu về đất đai theo quy định;\ng) Bộ trưởng Bộ Tài chính hướng dẫn mức thu, chế độ thu, nộp, quản lý, sử dụng phí khai thác và sử dụng tài liệu đất đai từ Hệ thống thông tin quốc gia về đất đai; Bộ trưởng Bộ Tài nguyên và Môi trường quyết định giá sản phẩm, dịch vụ gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin đất đai theo quy định của pháp luật về giá.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 91,
+                "page_end": 91,
+                "provenance": [
+                  {
+                    "start": 357756,
+                    "end": 359420,
+                    "document_id": "luatdat2",
+                    "page": 91,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 357756,
+                "metadata": {
+                  "article": "166",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 17.62603905921884,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 9.886000014375895
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-EkAOor2Tbr6ohg7bIIowWdQFQiTHv",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_jLsQPvM8bZmb1mngCIGhOVzX",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 537,
+          "completion_tokens": 62,
+          "total_tokens": 599,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00011775,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-EkAOpresp8LUVcszoTzdJfC7AsOPX",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Tài liệu không cung cấp thông tin cụ thể về mức phí đo đạc địa phương năm 2026 cho một thửa đất 120 m² tại Đà Nẵng. Các điều khoản liên quan đến đo đạc và quản lý đất đai không đề cập đến mức phí cụ thể mà chỉ nêu trách nhiệm của các cơ quan quản lý nhà nước trong việc thực hiện đo đạc và lập bản đồ địa chính.\",\"citations\":[],\"abstained\":true,\"reason\":\"Tài liệu không có thông tin về mức phí đo đạc địa phương cho năm 2026 tại Đà Nẵng.\",\"evidence_quotes\":[]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2023,
+          "completion_tokens": 136,
+          "total_tokens": 2159,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00038504999999999995,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "fa14d8b74a474482889a7d8c77f40eac",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2560,
+      "completion_tokens": 198,
+      "total_tokens": 2758
+    },
+    "estimated_chat_cost_usd": 0.0005028,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 3334.7732999827713
+  }
+}

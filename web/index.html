@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="vi">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Luật trong nguồn · Day 7</title><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body>
+<header><a class="brand" href="/">L<span>·</span></a><div><div class="eyebrow">AI20K / DAY 07</div><h1>Luật trong nguồn</h1></div><span id="health" class="badge">Đang kiểm tra kết nối</span></header>
+<main>
+<section class="hero"><div class="eyebrow">AGENTIC RAG · LUẬT ĐẤT ĐAI</div><h2>Hỏi có căn cứ.<br>Đọc được nguồn.</h2><p>Tra cứu snapshot Luật Đất đai 31/2024/QH15 từ Day 6. Mỗi câu trả lời đi cùng đoạn nguồn để bạn đối chiếu.</p><div class="tags"><span>1.137 chunks</span><span>3 phần tài liệu</span><span>Tiếng Việt</span></div></section>
+<section class="panel ask"><div class="section-title"><h2>Đặt câu hỏi</h2><span class="muted">Chạy trên dữ liệu thật</span></div>
+<form id="question-form"><label for="question">Bạn muốn tìm hiểu điều gì?</label><textarea id="question" maxlength="2000" rows="3" placeholder="Ví dụ: Người sử dụng đất có quyền hưởng thành quả lao động trên loại đất nào?" required></textarea>
+<div class="controls"><label>Phương pháp<select id="mode"><option value="hybrid_improved">Hybrid cải thiện</option><option value="dense">Dense</option><option value="bm25">BM25</option><option value="hybrid_rrf">Hybrid RRF</option><option value="hybrid_rerank">Hybrid + lexical rerank</option></select></label><label class="checkbox"><input id="autonomous" type="checkbox">Cho phép tìm thêm một lượt</label><button id="ask-button" type="submit">Tìm và trả lời <span>↗</span></button><button id="compare-button" type="button" class="secondary">So sánh retrieval</button></div>
+<p class="hint">Hỏi trực tiếp sẽ gọi API theo cấu hình local. Mỗi câu giới hạn tối đa $0,10 chi phí chat ước tính. Đổi giới hạn bằng LAB7_MAX_COST_USD.</p></form>
+<div class="examples"><span>Xem ví dụ đã chạy:</span><button data-example="q01">Có bằng chứng</button><button data-example="q23">Thiếu bằng chứng</button><button data-example="q17_old">Lỗi ban đầu</button><button data-example="q17">Sau cải thiện</button></div>
+<div id="message" role="status" aria-live="polite"></div></section>
+<section id="answer-panel" class="panel" hidden><div class="section-title"><h2>Câu trả lời</h2><span id="answer-status" class="badge"></span></div><p id="answer-question" class="muted"></p><p id="answer" class="answer-text"></p><div id="answer-meta" class="tags"></div><h3>Bằng chứng trong context</h3><div id="evidence"></div><details><summary>Trace: tool calls, context, token và lỗi</summary><pre id="trace"></pre></details></section>
+<section id="comparison-panel" class="panel" hidden><div class="section-title"><h2>Cùng câu hỏi, ba cách tìm</h2></div><p class="hint">Score BM25, cosine và RRF có đơn vị khác nhau; dùng thứ hạng để đối chiếu.</p><div id="comparison" class="comparison"></div></section>
+<section class="panel"><div class="section-title"><div><div class="eyebrow">BENCHMARK</div><h2>Kết quả từ các lần chạy</h2></div><button id="refresh" class="secondary">Tải lại</button></div><p class="hint">Mỗi bảng gắn với đúng run. Test gốc, replay sau sửa và review thủ công được hiển thị riêng.</p><label>Chọn lần chạy retrieval<select id="retrieval-run"></select></label><div id="retrieval-metrics"></div><h3>Đánh giá câu trả lời</h3><div id="agent-metrics" class="agent-metrics"></div><p id="holdout" class="notice"></p></section>
+</main><footer>Đàm Tuấn Linh · 2A202603624 · L3A <span>Snapshot phục vụ bài lab; không xác nhận hiệu lực pháp luật hiện tại.</span></footer>
+</body></html>

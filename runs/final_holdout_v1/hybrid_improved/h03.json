@@ -1,0 +1,870 @@
+{
+  "query_id": "h03",
+  "question": "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?",
+  "split": "test",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm, và tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm. [20cd7c999134f2e340bc8f4b0195a123]",
+    "citations": [
+      "20cd7c999134f2e340bc8f4b0195a123"
+    ],
+    "abstained": false,
+    "reason": "Thông tin đầy đủ về thời kỳ và tầm nhìn quy hoạch sử dụng đất cấp huyện đã được cung cấp trong tài liệu.",
+    "evidence_quotes": [
+      {
+        "id": "20cd7c999134f2e340bc8f4b0195a123",
+        "quote": "Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm."
+      }
+    ],
+    "context": "[20cd7c999134f2e340bc8f4b0195a123] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 55 | Điều 62 | Khoản None\nĐiều 62. Thời kỳ quy hoạch, kế hoạch sử dụng đất\n1. Thời kỳ, tầm nhìn quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an ninh thực hiện theo quy định của Luật Quy hoạch.\n2. Thời kỳ, tầm nhìn quy hoạch sử dụng đất cấp tỉnh thống nhất với thời kỳ, tầm nhìn của quy hoạch tỉnh.\n3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.\n4. Thời kỳ kế hoạch sử dụng đất quốc gia, kế hoạch sử dụng đất cấp tỉnh là 05 năm; kế hoạch sử dụng đất hằng năm cấp huyện được lập hằng năm.\n\n\n[02b619c7f5a0e10ee74b123f01af1a63] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 58 | Điều 66 | Khoản 2\nĐiều 66. Quy hoạch sử dụng đất cấp huyện\n2. Nội dung quy hoạch sử dụng đất cấp huyện bao gồm:\na) Định hướng sử dụng đất, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu; bảo đảm phù hợp, đồng bộ giữa quy hoạch sử dụng đất với quy hoạch giao thông, quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất cấp tỉnh được thể hiện thông tin đến đơn vị hành chính cấp xã;\nc) Xác định chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất của cấp huyện và cấp xã;\nd) Xác định diện tích và khoanh vùng các khu vực đã được phân bổ chỉ tiêu sử dụng đất trong quy hoạch sử dụng đất cấp tỉnh theo quy định tại điểm b và điểm đ khoản 2 Điều 65 của Luật này, trong đó xác định diện tích các loại đất để bảo đảm chính sách hỗ trợ đất đai cho đồng bào dân tộc thiểu số;\nđ) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\ne) Phân kỳ quy hoạch sử dụng đất 05 năm cấp huyện theo các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n\n\n[a2601fb30cc4465d6a55f99f8992a759] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 56 | Điều 65 | Khoản 2\nĐiều 65. Quy hoạch sử dụng đất cấp tỉnh\n2. Nội dung quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Định hướng sử dụng đất được xác định trong quy hoạch tỉnh, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất quốc gia và chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất cấp tỉnh;\nc) Xác định chỉ tiêu sử dụng đất quy định tại điểm b khoản này đến từng đơn vị hành chính cấp huyện;\nd) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\nđ) Khoanh vùng các khu vực sử dụng đất cần quản lý nghiêm ngặt, gồm: đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên;\ne) Phân kỳ quy hoạch sử dụng cho từng kỳ kế hoạch 05 năm theo các nội dung quy định tại các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n\n\n[f1857d0a78a51d09051f3ef4872d6e59] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 57 | Điều 66 | Khoản 1\nĐiều 66. Quy hoạch sử dụng đất cấp huyện\n1. Căn cứ lập quy hoạch sử dụng đất cấp huyện bao gồm:\na) Quy hoạch tỉnh, quy hoạch sử dụng đất cấp tỉnh; quy hoạch đô thị của thành phố trực thuộc Trung ương đối với trường hợp không lập quy hoạch sử dụng đất cấp tỉnh;\nb) Các quy hoạch có tính chất kỹ thuật, chuyên ngành;\nc) Kế hoạch phát triển kinh tế - xã hội cấp huyện;\nd) Điều kiện tự nhiên, kinh tế, xã hội của đơn vị hành chính cấp huyện;\nđ) Hiện trạng sử dụng đất, biến động đất đai, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng đất thời kỳ trước của cấp huyện;\ne) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, Ủy ban nhân dân cấp xã; đối với việc xác định nhu cầu sử dụng đất ở, đất khu đô thị, đất khu dân cư nông thôn được xác định trên cơ sở dự báo dân số, điều kiện hạ tầng, cảnh quan, môi trường theo quy định của pháp luật về xây dựng;\ng) Định mức sử dụng đất, tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n\n\n[81568efbd2029d38db357f514a02323e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 58 | Điều 66 | Khoản 3\nĐiều 66. Quy hoạch sử dụng đất cấp huyện\n3. Lập bản đồ quy hoạch sử dụng đất cấp huyện; xây dựng và cập nhật dữ liệu quy hoạch, kế hoạch sử dụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n\n\n[92a1b5e99611794ef0763d8993533e12] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 56 | Điều 65 | Khoản 1\nĐiều 65. Quy hoạch sử dụng đất cấp tỉnh\n1. Căn cứ lập quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Quy hoạch, kế hoạch sử dụng đất quốc gia;\nb) Các quy hoạch cấp quốc gia, quy hoạch vùng; quy hoạch có tính chất kỹ thuật, chuyên ngành có sử dụng đất cấp quốc gia, liên tỉnh;\nc) Quy hoạch tỉnh;\nd) Điều kiện tự nhiên, kinh tế, xã hội của đơn vị hành chính cấp tỉnh;\nđ) Hiện trạng sử dụng đất, biến động đất đai, chất lượng đất, tiềm năng đất đai và kết quả thực hiện quy hoạch sử dụng đất kỳ trước của tỉnh;\ne) Nhu cầu, khả năng sử dụng đất của các ngành, lĩnh vực, địa phương; nguồn lực đầu tư công và các nguồn lực khác;\ng) Tiến bộ khoa học và công nghệ có liên quan đến việc sử dụng đất.\n",
+    "context_ids": [
+      "20cd7c999134f2e340bc8f4b0195a123",
+      "02b619c7f5a0e10ee74b123f01af1a63",
+      "a2601fb30cc4465d6a55f99f8992a759",
+      "f1857d0a78a51d09051f3ef4872d6e59",
+      "81568efbd2029d38db357f514a02323e",
+      "92a1b5e99611794ef0763d8993533e12"
+    ],
+    "context_chars": 5393,
+    "context_tokens": 2864,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_AlikThI1As0Hd9G2Chdd9CQe",
+        "round": 1,
+        "arguments": {
+          "query": "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "20cd7c999134f2e340bc8f4b0195a123",
+            "text": "Điều 62. Thời kỳ quy hoạch, kế hoạch sử dụng đất\n1. Thời kỳ, tầm nhìn quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an ninh thực hiện theo quy định của Luật Quy hoạch.\n2. Thời kỳ, tầm nhìn quy hoạch sử dụng đất cấp tỉnh thống nhất với thời kỳ, tầm nhìn của quy hoạch tỉnh.\n3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.\n4. Thời kỳ kế hoạch sử dụng đất quốc gia, kế hoạch sử dụng đất cấp tỉnh là 05 năm; kế hoạch sử dụng đất hằng năm cấp huyện được lập hằng năm.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 55,
+            "page_end": 55,
+            "provenance": [
+              {
+                "start": 102629,
+                "end": 103194,
+                "document_id": "luatdat1",
+                "page": 55,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 102629,
+            "metadata": {
+              "article": "62",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "dense_0": 0.6824527978897095,
+              "bm25_0": 53.14780468594425
+            },
+            "rank": 1
+          },
+          {
+            "id": "02b619c7f5a0e10ee74b123f01af1a63",
+            "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n2. Nội dung quy hoạch sử dụng đất cấp huyện bao gồm:\na) Định hướng sử dụng đất, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu; bảo đảm phù hợp, đồng bộ giữa quy hoạch sử dụng đất với quy hoạch giao thông, quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất cấp tỉnh được thể hiện thông tin đến đơn vị hành chính cấp xã;\nc) Xác định chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất của cấp huyện và cấp xã;\nd) Xác định diện tích và khoanh vùng các khu vực đã được phân bổ chỉ tiêu sử dụng đất trong quy hoạch sử dụng đất cấp tỉnh theo quy định tại điểm b và điểm đ khoản 2 Điều 65 của Luật này, trong đó xác định diện tích các loại đất để bảo đảm chính sách hỗ trợ đất đai cho đồng bào dân tộc thiểu số;\nđ) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\ne) Phân kỳ quy hoạch sử dụng đất 05 năm cấp huyện theo các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 58,
+            "page_end": 58,
+            "provenance": [
+              {
+                "start": 108197,
+                "end": 109325,
+                "document_id": "luatdat1",
+                "page": 58,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 108197,
+            "metadata": {
+              "article": "66",
+              "clause": "2",
+              "part": 1
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03225806451612903,
+            "source_ranks": {
+              "dense_0": 2,
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "dense_0": 0.5989049673080444,
+              "bm25_0": 30.136891023700635
+            },
+            "rank": 2
+          },
+          {
+            "id": "a2601fb30cc4465d6a55f99f8992a759",
+            "text": "Điều 65. Quy hoạch sử dụng đất cấp tỉnh\n2. Nội dung quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Định hướng sử dụng đất được xác định trong quy hoạch tỉnh, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất quốc gia và chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất cấp tỉnh;\nc) Xác định chỉ tiêu sử dụng đất quy định tại điểm b khoản này đến từng đơn vị hành chính cấp huyện;\nd) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\nđ) Khoanh vùng các khu vực sử dụng đất cần quản lý nghiêm ngặt, gồm: đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên;\ne) Phân kỳ quy hoạch sử dụng cho từng kỳ kế hoạch 05 năm theo các nội dung quy định tại các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 56,
+            "page_end": 57,
+            "provenance": [
+              {
+                "start": 105370,
+                "end": 105763,
+                "document_id": "luatdat1",
+                "page": 56,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              },
+              {
+                "start": 105763,
+                "end": 106312,
+                "document_id": "luatdat1",
+                "page": 57,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 105370,
+            "metadata": {
+              "article": "65",
+              "clause": "2",
+              "part": 1
+            },
+            "score": 0.03057889822595705,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03057889822595705,
+            "source_ranks": {
+              "dense_0": 8,
+              "bm25_0": 3
+            },
+            "source_scores": {
+              "dense_0": 0.5781378149986267,
+              "bm25_0": 29.292099057558065
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "20cd7c999134f2e340bc8f4b0195a123",
+          "02b619c7f5a0e10ee74b123f01af1a63",
+          "a2601fb30cc4465d6a55f99f8992a759",
+          "f1857d0a78a51d09051f3ef4872d6e59",
+          "81568efbd2029d38db357f514a02323e",
+          "92a1b5e99611794ef0763d8993533e12"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?",
+          "variants": [
+            "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "20cd7c999134f2e340bc8f4b0195a123",
+                "text": "Điều 62. Thời kỳ quy hoạch, kế hoạch sử dụng đất\n1. Thời kỳ, tầm nhìn quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an ninh thực hiện theo quy định của Luật Quy hoạch.\n2. Thời kỳ, tầm nhìn quy hoạch sử dụng đất cấp tỉnh thống nhất với thời kỳ, tầm nhìn của quy hoạch tỉnh.\n3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.\n4. Thời kỳ kế hoạch sử dụng đất quốc gia, kế hoạch sử dụng đất cấp tỉnh là 05 năm; kế hoạch sử dụng đất hằng năm cấp huyện được lập hằng năm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 55,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 102629,
+                    "end": 103194,
+                    "document_id": "luatdat1",
+                    "page": 55,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 102629,
+                "metadata": {
+                  "article": "62",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.6824527978897095,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "02b619c7f5a0e10ee74b123f01af1a63",
+                "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n2. Nội dung quy hoạch sử dụng đất cấp huyện bao gồm:\na) Định hướng sử dụng đất, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu; bảo đảm phù hợp, đồng bộ giữa quy hoạch sử dụng đất với quy hoạch giao thông, quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất cấp tỉnh được thể hiện thông tin đến đơn vị hành chính cấp xã;\nc) Xác định chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất của cấp huyện và cấp xã;\nd) Xác định diện tích và khoanh vùng các khu vực đã được phân bổ chỉ tiêu sử dụng đất trong quy hoạch sử dụng đất cấp tỉnh theo quy định tại điểm b và điểm đ khoản 2 Điều 65 của Luật này, trong đó xác định diện tích các loại đất để bảo đảm chính sách hỗ trợ đất đai cho đồng bào dân tộc thiểu số;\nđ) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\ne) Phân kỳ quy hoạch sử dụng đất 05 năm cấp huyện theo các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 58,
+                "page_end": 58,
+                "provenance": [
+                  {
+                    "start": 108197,
+                    "end": 109325,
+                    "document_id": "luatdat1",
+                    "page": 58,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 108197,
+                "metadata": {
+                  "article": "66",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.5989049673080444,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "26dbed53873a3407f1e7e9cb92b4cc9a",
+                "text": "Điều 64. Quy hoạch, kế hoạch sử dụng đất quốc gia\n4. Nội dung kế hoạch sử dụng đất quốc gia xác định diện tích các loại đất theo chỉ tiêu sử dụng đất trong quy hoạch sử dụng đất quốc gia theo từng thời kỳ kế hoạch sử dụng đất 05 năm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 56,
+                "page_end": 56,
+                "provenance": [
+                  {
+                    "start": 104387,
+                    "end": 104571,
+                    "document_id": "luatdat1",
+                    "page": 56,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 104387,
+                "metadata": {
+                  "article": "64",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.5986373424530029,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4f4f10277eb42be75376de0eec957964",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n10. Kế hoạch sử dụng đất được lập đồng thời với lập, điều chỉnh quy hoạch sử dụng đất cùng cấp. Kế hoạch sử dụng đất năm đầu của quy hoạch sử dụng cấp huyện được lập đồng thời với lập quy hoạch sử dụng đất cấp huyện.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 54,
+                "page_end": 54,
+                "provenance": [
+                  {
+                    "start": 101686,
+                    "end": 101903,
+                    "document_id": "luatdat1",
+                    "page": 54,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 101686,
+                "metadata": {
+                  "article": "60",
+                  "clause": "10",
+                  "part": 1
+                },
+                "score": 0.5945917963981628,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "81568efbd2029d38db357f514a02323e",
+                "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n3. Lập bản đồ quy hoạch sử dụng đất cấp huyện; xây dựng và cập nhật dữ liệu quy hoạch, kế hoạch sử dụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 58,
+                "page_end": 58,
+                "provenance": [
+                  {
+                    "start": 109325,
+                    "end": 109491,
+                    "document_id": "luatdat1",
+                    "page": 58,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 109325,
+                "metadata": {
+                  "article": "66",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.5866038799285889,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "05a30c1d4f555a583de109836e54e698",
+                "text": "Điều 67. Kế hoạch sử dụng đất hằng năm cấp huyện\n5. Xây dựng và cập nhật dữ liệu kế hoạch sử dụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 60,
+                "page_end": 60,
+                "provenance": [
+                  {
+                    "start": 113071,
+                    "end": 113182,
+                    "document_id": "luatdat1",
+                    "page": 60,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 113071,
+                "metadata": {
+                  "article": "67",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5850675106048584,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "3fd992bc353613ad3f831d0ebcb6d9a0",
+                "text": "Điều 3. Giải thích từ ngữ\n28. Kế hoạch sử dụng đất là việc phân kỳ quy hoạch sử dụng đất theo thời gian để thực hiện.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 7088,
+                    "end": 7180,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 7088,
+                "metadata": {
+                  "article": "3",
+                  "clause": "28",
+                  "part": 1
+                },
+                "score": 0.5798642635345459,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a2601fb30cc4465d6a55f99f8992a759",
+                "text": "Điều 65. Quy hoạch sử dụng đất cấp tỉnh\n2. Nội dung quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Định hướng sử dụng đất được xác định trong quy hoạch tỉnh, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất quốc gia và chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất cấp tỉnh;\nc) Xác định chỉ tiêu sử dụng đất quy định tại điểm b khoản này đến từng đơn vị hành chính cấp huyện;\nd) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\nđ) Khoanh vùng các khu vực sử dụng đất cần quản lý nghiêm ngặt, gồm: đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên;\ne) Phân kỳ quy hoạch sử dụng cho từng kỳ kế hoạch 05 năm theo các nội dung quy định tại các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 56,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 105370,
+                    "end": 105763,
+                    "document_id": "luatdat1",
+                    "page": 56,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 105763,
+                    "end": 106312,
+                    "document_id": "luatdat1",
+                    "page": 57,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 105370,
+                "metadata": {
+                  "article": "65",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.5781378149986267,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "44b19090179ef42eaa255900d00ef7d2",
+                "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n5. Đối với những khu vực không thuộc quy định tại khoản 4 Điều này mà đã có quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn được phê duyệt thì việc lập quy hoạch sử dụng đất cấp huyện phải cập nhật định hướng không gian sử dụng đất và hệ thống hạ tầng kỹ thuật, hạ tầng xã hội theo thời kỳ quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 59,
+                "page_end": 59,
+                "provenance": [
+                  {
+                    "start": 109965,
+                    "end": 110288,
+                    "document_id": "luatdat1",
+                    "page": 59,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 109965,
+                "metadata": {
+                  "article": "66",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5768209099769592,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "73bc0d5b17529cc98f36b018639939eb",
+                "text": "Điều 65. Quy hoạch sử dụng đất cấp tỉnh\n4. Các tỉnh không phải là thành phố trực thuộc Trung ương không phải lập kế hoạch sử dụng đất cấp tỉnh nhưng phải phân kỳ quy hoạch sử dụng đất cho từng kỳ kế hoạch 05 năm theo quy định tại điểm e khoản 2 Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 57,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 106457,
+                    "end": 106672,
+                    "document_id": "luatdat1",
+                    "page": 57,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 106457,
+                "metadata": {
+                  "article": "65",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.5701580047607422,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "20cd7c999134f2e340bc8f4b0195a123",
+                "text": "Điều 62. Thời kỳ quy hoạch, kế hoạch sử dụng đất\n1. Thời kỳ, tầm nhìn quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an ninh thực hiện theo quy định của Luật Quy hoạch.\n2. Thời kỳ, tầm nhìn quy hoạch sử dụng đất cấp tỉnh thống nhất với thời kỳ, tầm nhìn của quy hoạch tỉnh.\n3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.\n4. Thời kỳ kế hoạch sử dụng đất quốc gia, kế hoạch sử dụng đất cấp tỉnh là 05 năm; kế hoạch sử dụng đất hằng năm cấp huyện được lập hằng năm.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 55,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 102629,
+                    "end": 103194,
+                    "document_id": "luatdat1",
+                    "page": 55,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 102629,
+                "metadata": {
+                  "article": "62",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 53.14780468594425,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "02b619c7f5a0e10ee74b123f01af1a63",
+                "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n2. Nội dung quy hoạch sử dụng đất cấp huyện bao gồm:\na) Định hướng sử dụng đất, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu; bảo đảm phù hợp, đồng bộ giữa quy hoạch sử dụng đất với quy hoạch giao thông, quy hoạch xây dựng, quy hoạch đô thị, quy hoạch nông thôn;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất cấp tỉnh được thể hiện thông tin đến đơn vị hành chính cấp xã;\nc) Xác định chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất của cấp huyện và cấp xã;\nd) Xác định diện tích và khoanh vùng các khu vực đã được phân bổ chỉ tiêu sử dụng đất trong quy hoạch sử dụng đất cấp tỉnh theo quy định tại điểm b và điểm đ khoản 2 Điều 65 của Luật này, trong đó xác định diện tích các loại đất để bảo đảm chính sách hỗ trợ đất đai cho đồng bào dân tộc thiểu số;\nđ) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\ne) Phân kỳ quy hoạch sử dụng đất 05 năm cấp huyện theo các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 58,
+                "page_end": 58,
+                "provenance": [
+                  {
+                    "start": 108197,
+                    "end": 109325,
+                    "document_id": "luatdat1",
+                    "page": 58,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 108197,
+                "metadata": {
+                  "article": "66",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 30.136891023700635,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a2601fb30cc4465d6a55f99f8992a759",
+                "text": "Điều 65. Quy hoạch sử dụng đất cấp tỉnh\n2. Nội dung quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Định hướng sử dụng đất được xác định trong quy hoạch tỉnh, tầm nhìn đáp ứng yêu cầu phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu;\nb) Xác định chỉ tiêu sử dụng đất đã được phân bổ trong quy hoạch sử dụng đất quốc gia và chỉ tiêu sử dụng đất theo nhu cầu sử dụng đất cấp tỉnh;\nc) Xác định chỉ tiêu sử dụng đất quy định tại điểm b khoản này đến từng đơn vị hành chính cấp huyện;\nd) Xác định ranh giới, vị trí, diện tích khu vực lấn biển để sử dụng vào mục đích nông nghiệp, phi nông nghiệp;\nđ) Khoanh vùng các khu vực sử dụng đất cần quản lý nghiêm ngặt, gồm: đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên;\ne) Phân kỳ quy hoạch sử dụng cho từng kỳ kế hoạch 05 năm theo các nội dung quy định tại các điểm b, c, d và đ khoản này;\ng) Giải pháp, nguồn lực thực hiện quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 56,
+                "page_end": 57,
+                "provenance": [
+                  {
+                    "start": 105370,
+                    "end": 105763,
+                    "document_id": "luatdat1",
+                    "page": 56,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 105763,
+                    "end": 106312,
+                    "document_id": "luatdat1",
+                    "page": 57,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 105370,
+                "metadata": {
+                  "article": "65",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 29.292099057558065,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f824ea4e3e0edf68ff953203416cb5db",
+                "text": "Điều 77. Trách nhiệm báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất\n1. Ủy ban nhân dân cấp huyện báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất đến Ủy ban nhân dân cấp tỉnh trước ngày 15 tháng 10 hằng năm.\n2. Ủy ban nhân dân cấp tỉnh báo cáo kết quả thực hiện quy hoạch, kế hoạch sử dụng đất đến Bộ Tài nguyên và Môi trường trước ngày 15 tháng 10 của năm cuối thời kỳ quy hoạch, kỳ kế hoạch sử dụng đất.\n3. Bộ Quốc phòng báo cáo kết quả thực hiện quy hoạch sử dụng đất quốc phòng, Bộ Công an báo cáo kết quả thực hiện quy hoạch sử dụng đất an ninh đến Bộ Tài nguyên và Môi trường trước ngày 15 tháng 10 của năm cuối thời kỳ kế hoạch sử dụng đất 05 năm và năm cuối thời kỳ quy hoạch sử dụng đất.\n4. Bộ Tài nguyên và Môi trường tổng hợp kết quả thực hiện quy hoạch sử dụng đất của cả nước trình Chính phủ để báo cáo Quốc hội vào năm cuối của thời kỳ quy hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 70,
+                "page_end": 70,
+                "provenance": [
+                  {
+                    "start": 131073,
+                    "end": 131966,
+                    "document_id": "luatdat1",
+                    "page": 70,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 131073,
+                "metadata": {
+                  "article": "77",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 28.310277249463876,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "fd4cb81daa4a91918134ed72e78f1b4e",
+                "text": "Điều 69. Trách nhiệm tổ chức lập quy hoạch, kế hoạch sử dụng đất\n1. Chính phủ tổ chức lập quy hoạch, kế hoạch sử dụng đất quốc gia. Bộ Tài nguyên và Môi trường có trách nhiệm chủ trì giúp Chính phủ lập quy hoạch, kế hoạch sử dụng đất quốc gia.\n2. Ủy ban nhân dân cấp tỉnh tổ chức lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh. Cơ quan có chức năng quản lý đất đai cấp tỉnh có trách nhiệm chủ trì giúp Ủy ban nhân dân cấp tỉnh lập quy hoạch, kế hoạch sử dụng đất cấp tỉnh.\n3. Ủy ban nhân dân cấp huyện tổ chức lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện. Cơ quan có chức năng quản lý đất đai cấp huyện có trách nhiệm chủ trì giúp Ủy ban nhân dân cấp huyện lập quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện.\n4. Quy hoạch sử dụng đất được phê duyệt trong năm đầu tiên của kỳ quy hoạch.\n5. Quy hoạch, kế hoạch sử dụng đất của các địa phương có biển được lập bao gồm cả khu vực lấn biển.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 61,
+                "page_end": 62,
+                "provenance": [
+                  {
+                    "start": 114445,
+                    "end": 115210,
+                    "document_id": "luatdat1",
+                    "page": 61,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 115210,
+                    "end": 115387,
+                    "document_id": "luatdat1",
+                    "page": 62,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 114445,
+                "metadata": {
+                  "article": "69",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 25.181825973469074,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4fa4d67cfc88952a7adc01ace863cd5b",
+                "text": "Điều 3. Giải thích từ ngữ\n3. Bản đồ quy hoạch sử dụng đất là bản đồ được lập tại thời điểm đầu kỳ quy hoạch, thể hiện nội dung phân bố các loại đất tại thời điểm cuối kỳ quy hoạch của quy hoạch đó.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 1356,
+                    "end": 1528,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 1356,
+                "metadata": {
+                  "article": "3",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 24.6086012300587,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "81568efbd2029d38db357f514a02323e",
+                "text": "Điều 66. Quy hoạch sử dụng đất cấp huyện\n3. Lập bản đồ quy hoạch sử dụng đất cấp huyện; xây dựng và cập nhật dữ liệu quy hoạch, kế hoạch sử dụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 58,
+                "page_end": 58,
+                "provenance": [
+                  {
+                    "start": 109325,
+                    "end": 109491,
+                    "document_id": "luatdat1",
+                    "page": 58,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 109325,
+                "metadata": {
+                  "article": "66",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 24.358747439896568,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "b53ca238631de947f8a6c906e44f782b",
+                "text": "Điều 243. Sửa đổi, bổ sung một số điều của Luật Quy hoạch số 21/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số 16/2023/QH15 và Luật số 28/2023/QH15\n1. Sửa đổi, bổ sung khoản 2 Điều 24 như sau: “2. Quy hoạch sử dụng đất quốc gia bao gồm những nội dung chủ yếu sau đây:\na) Phân tích, đánh giá về các yếu tố, điều kiện tự nhiên, nguồn lực, bối cảnh trực tiếp tác động và thực trạng sử dụng đất của các ngành, lĩnh vực;\nb) Dự báo xu thế biến động của việc sử dụng đất;\nc) Xác định các quan điểm và mục tiêu sử dụng đất trong thời kỳ mới;\nd) Định hướng sử dụng đất quốc gia, vùng kinh tế - xã hội, tầm nhìn sử dụng đất đáp ứng nhu cầu sử dụng đất để phát triển kinh tế - xã hội; bảo đảm quốc phòng, an ninh; bảo vệ môi trường, thích ứng với biến đổi khí hậu;\nđ) Xác định các chỉ tiêu sử dụng đất đối với nhóm đất nông nghiệp, nhóm đất phi nông nghiệp; trong đó xác định diện tích một số loại đất gồm đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất là rừng tự nhiên, đất quốc phòng, đất an ninh;\ne) Giải pháp, nguồn lực thực hiện quy hoạch.”.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 51,
+                "page_end": 51,
+                "provenance": [
+                  {
+                    "start": 483353,
+                    "end": 484265,
+                    "document_id": "luatdat3",
+                    "page": 51,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 483353,
+                "metadata": {
+                  "article": "243",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 23.51819907393139,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "3e49ed472e1bcab571497a6798f3c7c0",
+                "text": "Điều 61. Hệ thống quy hoạch, kế hoạch sử dụng đất\n1. Hệ thống quy hoạch, kế hoạch sử dụng đất bao gồm:\na) Quy hoạch, kế hoạch sử dụng đất quốc gia;\nb) Quy hoạch, kế hoạch sử dụng đất cấp tỉnh;\nc) Quy hoạch sử dụng đất cấp huyện, kế hoạch sử dụng đất hằng năm cấp huyện;\nd) Quy hoạch sử dụng đất quốc phòng;\nđ) Quy hoạch sử dụng đất an ninh.\n2. Quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng và quy hoạch sử dụng đất an ninh thuộc hệ thống quy hoạch quốc gia, thực hiện theo quy định của Luật này và pháp luật về quy hoạch.\n3. Quy hoạch sử dụng đất cấp tỉnh và quy hoạch sử dụng đất cấp huyện là quy hoạch có tính chất kỹ thuật, chuyên ngành cụ thể hóa quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 54,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 101903,
+                    "end": 102444,
+                    "document_id": "luatdat1",
+                    "page": 54,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 102444,
+                    "end": 102629,
+                    "document_id": "luatdat1",
+                    "page": 55,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 101903,
+                "metadata": {
+                  "article": "61",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 22.911159176174092,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "05a30c1d4f555a583de109836e54e698",
+                "text": "Điều 67. Kế hoạch sử dụng đất hằng năm cấp huyện\n5. Xây dựng và cập nhật dữ liệu kế hoạch sử dụng đất hằng năm cấp huyện vào cơ sở dữ liệu quốc gia về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 60,
+                "page_end": 60,
+                "provenance": [
+                  {
+                    "start": 113071,
+                    "end": 113182,
+                    "document_id": "luatdat1",
+                    "page": 60,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 113071,
+                "metadata": {
+                  "article": "67",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 22.658015510232126,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": [
+            "duration"
+          ]
+        },
+        "elapsed_ms": 7.0822000270709395
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "20cd7c999134f2e340bc8f4b0195a123",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-EkAOXuvFTPR0rEfqnUL3tnIYuc2e9",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_AlikThI1As0Hd9G2Chdd9CQe",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 515,
+          "completion_tokens": 51,
+          "total_tokens": 566,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00010784999999999999,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-EkAOYZXcC8gn4HB0L8P45rN9z1o59",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm, và tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.\",\"citations\":[\"20cd7c999134f2e340bc8f4b0195a123\"],\"abstained\":false,\"reason\":\"Thông tin đầy đủ về thời kỳ và tầm nhìn quy hoạch sử dụng đất cấp huyện đã được cung cấp trong tài liệu.\",\"evidence_quotes\":[{\"id\":\"20cd7c999134f2e340bc8f4b0195a123\",\"quote\":\"Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2430,
+          "completion_tokens": 153,
+          "total_tokens": 2583,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00045630000000000003,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "c1a09ccf01854b76b4f5607430118cf9",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2945,
+      "completion_tokens": 204,
+      "total_tokens": 3149
+    },
+    "estimated_chat_cost_usd": 0.00056415,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 3699.8053999850526
+  }
+}

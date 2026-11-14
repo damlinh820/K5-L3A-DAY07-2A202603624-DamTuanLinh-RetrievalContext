@@ -1,0 +1,540 @@
+{
+  "query_id": "q02",
+  "question": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã. Bản đồ này phải được cơ quan nhà nước có thẩm quyền xác nhận. [b1d6c1eac664db0f5a23bcb8b2a48412] [64d3c45e3843c75c90a5cb965f6ab707]",
+    "citations": [
+      "b1d6c1eac664db0f5a23bcb8b2a48412",
+      "64d3c45e3843c75c90a5cb965f6ab707"
+    ],
+    "abstained": false,
+    "reason": "Thông tin trong tài liệu cung cấp đầy đủ về đơn vị hành chính lập bản đồ và cơ quan xác nhận.",
+    "evidence_quotes": [
+      {
+        "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+        "quote": "Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận."
+      },
+      {
+        "id": "64d3c45e3843c75c90a5cb965f6ab707",
+        "quote": "Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện."
+      }
+    ],
+    "context": "[b1d6c1eac664db0f5a23bcb8b2a48412] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 1 | Điều 3 | Khoản 1\nĐiều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n\n\n[ee316cd78a033ba57d018ce9fd279721] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 1 | Điều 3 | Khoản 2\nĐiều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n\n\n[64d3c45e3843c75c90a5cb965f6ab707] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 46 | Điều 50 | Khoản None\nĐiều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+    "context_ids": [
+      "b1d6c1eac664db0f5a23bcb8b2a48412",
+      "ee316cd78a033ba57d018ce9fd279721",
+      "64d3c45e3843c75c90a5cb965f6ab707"
+    ],
+    "context_chars": 1708,
+    "context_tokens": 864,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_wRA5zHUdniFn5A0SnQONfgAh",
+        "round": 1,
+        "arguments": {
+          "query": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?",
+          "mode": "bm25",
+          "top_k": 3
+        },
+        "executed_query": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?",
+        "mode": "bm25",
+        "results": [
+          {
+            "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+            "text": "Điều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 1,
+            "page_end": 1,
+            "provenance": [
+              {
+                "start": 919,
+                "end": 1173,
+                "document_id": "luatdat1",
+                "page": 1,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 919,
+            "metadata": {
+              "article": "3",
+              "clause": "1",
+              "part": 1
+            },
+            "score": 44.084684372620174,
+            "rank": 1,
+            "strategy": "bm25"
+          },
+          {
+            "id": "ee316cd78a033ba57d018ce9fd279721",
+            "text": "Điều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 1,
+            "page_end": 1,
+            "provenance": [
+              {
+                "start": 1173,
+                "end": 1356,
+                "document_id": "luatdat1",
+                "page": 1,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 1173,
+            "metadata": {
+              "article": "3",
+              "clause": "2",
+              "part": 1
+            },
+            "score": 35.14658135454861,
+            "rank": 2,
+            "strategy": "bm25"
+          },
+          {
+            "id": "64d3c45e3843c75c90a5cb965f6ab707",
+            "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 46,
+            "page_end": 46,
+            "provenance": [
+              {
+                "start": 86287,
+                "end": 87095,
+                "document_id": "luatdat1",
+                "page": 46,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 86287,
+            "metadata": {
+              "article": "50",
+              "clause": null,
+              "part": 1
+            },
+            "score": 33.95746962746414,
+            "rank": 3,
+            "strategy": "bm25"
+          }
+        ],
+        "context_ids": [
+          "b1d6c1eac664db0f5a23bcb8b2a48412",
+          "ee316cd78a033ba57d018ce9fd279721",
+          "64d3c45e3843c75c90a5cb965f6ab707"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?",
+          "variants": [
+            "Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "bm25_0": [
+              {
+                "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+                "text": "Điều 3. Giải thích từ ngữ\n1. Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 1,
+                "page_end": 1,
+                "provenance": [
+                  {
+                    "start": 919,
+                    "end": 1173,
+                    "document_id": "luatdat1",
+                    "page": 1,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 919,
+                "metadata": {
+                  "article": "3",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 44.084684372620174,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "ee316cd78a033ba57d018ce9fd279721",
+                "text": "Điều 3. Giải thích từ ngữ\n2. Bản đồ hiện trạng sử dụng đất là bản đồ thể hiện sự phân bố các loại đất tại một thời điểm xác định, được lập theo từng đơn vị hành chính các cấp, theo từng vùng kinh tế - xã hội.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 1,
+                "page_end": 1,
+                "provenance": [
+                  {
+                    "start": 1173,
+                    "end": 1356,
+                    "document_id": "luatdat1",
+                    "page": 1,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 1173,
+                "metadata": {
+                  "article": "3",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 35.14658135454861,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "64d3c45e3843c75c90a5cb965f6ab707",
+                "text": "Điều 50. Đo đạc lập bản đồ địa chính\n1. Bản đồ địa chính là cơ sở để phục vụ công tác quản lý nhà nước về đất đai và xây dựng cơ sở dữ liệu quốc gia về đất đai. Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\n2. Bản đồ địa chính phải được chỉnh lý khi có sự thay đổi về hình dạng, kích thước, diện tích thửa đất và các yếu tố khác có liên quan đến nội dung bản đồ địa chính và đồng thời được cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n3. Ủy ban nhân dân cấp tỉnh có trách nhiệm tổ chức thực hiện việc đo đạc lập, chỉnh lý, quản lý bản đồ địa chính ở địa phương và cập nhật vào cơ sở dữ liệu quốc gia về đất đai.\n4. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 46,
+                "page_end": 46,
+                "provenance": [
+                  {
+                    "start": 86287,
+                    "end": 87095,
+                    "document_id": "luatdat1",
+                    "page": 46,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 86287,
+                "metadata": {
+                  "article": "50",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 33.95746962746414,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "fd05f5c8c63b6eabcb7f4e1967f0f3e0",
+                "text": "Điều 49. Địa giới đơn vị hành chính\n1. Địa giới đơn vị hành chính được lập theo đơn vị hành chính cấp xã, cấp huyện, cấp tỉnh. Hồ sơ địa giới đơn vị hành chính thể hiện thông tin về việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính và các mốc địa giới, đường địa giới của đơn vị hành chính đó.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 45,
+                "page_end": 45,
+                "provenance": [
+                  {
+                    "start": 84436,
+                    "end": 84710,
+                    "document_id": "luatdat1",
+                    "page": 45,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 84436,
+                "metadata": {
+                  "article": "49",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 26.13853839569291,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "fb767a18ad14667678b1f2a38d2fee7b",
+                "text": "Mục 1\nĐỊA GIỚI ĐƠN VỊ HÀNH CHÍNH, BẢN ĐỒ ĐỊA CHÍNH\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 45,
+                "page_end": 45,
+                "provenance": [
+                  {
+                    "start": 84349,
+                    "end": 84400,
+                    "document_id": "luatdat1",
+                    "page": 45,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 84349,
+                "metadata": {
+                  "article": null,
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 23.290967282200945,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "904743f81cd72d9c7e0bd07c5826f6e9",
+                "text": "Điều 58. Chỉ tiêu, nội dung, hoạt động thống kê, kiểm kê đất đai\n5. Hoạt động kiểm kê đất đai được thực hiện như sau:\na) Thu thập các hồ sơ, tài liệu, bản đồ, số liệu liên quan đến biến động đất đai trong kỳ kiểm kê đất đai; hồ sơ kết quả kiểm kê đất đai kỳ trước và kết quả thống kê đất đai hằng năm trong kỳ kiểm kê đất đai;\nb) Điều tra, rà soát, cập nhật, chỉnh lý các biến động đất đai trong kỳ kiểm kê;\nc) Xử lý, tổng hợp số liệu và lập các biểu kiểm kê đất đai theo đơn vị hành chính các cấp; xây dựng báo cáo thuyết minh hiện trạng sử dụng đất;\nd) Lập bản đồ hiện trạng sử dụng đất; xây dựng báo cáo thuyết minh bản đồ hiện trạng sử dụng đất;\nđ) Xây dựng báo cáo kết quả kiểm kê đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 52,
+                "page_end": 52,
+                "provenance": [
+                  {
+                    "start": 97161,
+                    "end": 97791,
+                    "document_id": "luatdat1",
+                    "page": 52,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 97161,
+                "metadata": {
+                  "article": "58",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 23.244665872714094,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "868c9a448f5717cb40057d01d0ad0e2e",
+                "text": "Điều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n5. Sửa đổi, bổ sung Điều 129 như sau: “Điều 129. Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính\n1. Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh.\n2. Ủy ban Thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã.\n3. Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 487670,
+                    "end": 488403,
+                    "document_id": "luatdat3",
+                    "page": 53,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 487670,
+                "metadata": {
+                  "article": "245",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 22.93647025623082,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4a53ad88bc71078233a9abe70425a1e1",
+                "text": "Điều 128. Nguyên tắc lập, chỉnh lý, cập nhật hồ sơ địa chính\n1. Hồ sơ địa chính được lập đến từng thửa đất, bảo đảm tính khoa học và thống nhất thông tin trong hồ sơ với hiện trạng quản lý, sử dụng đất; được tập hợp theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã.\n2. Hồ sơ địa chính phải được chỉnh lý, cập nhật biến động đầy đủ, kịp thời khi người sử dụng đất thực hiện thủ tục hành chính về đất đai hoặc do yêu cầu của cơ quan nhà nước có thẩm quyền, bảo đảm phản ánh đầy đủ tình hình quản lý, sử dụng đất trên địa bàn.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 37,
+                "page_end": 38,
+                "provenance": [
+                  {
+                    "start": 250315,
+                    "end": 250645,
+                    "document_id": "luatdat2",
+                    "page": 37,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 250645,
+                    "end": 250903,
+                    "document_id": "luatdat2",
+                    "page": 38,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 250315,
+                "metadata": {
+                  "article": "128",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 21.677500918389217,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "90c121a5cefbe5a9523653e9099f5c82",
+                "text": "Điều 49. Địa giới đơn vị hành chính\n4. Trường hợp phạm vi quản lý đất đai cấp tỉnh chưa xác định được do chưa xác định được địa giới đơn vị hành chính thì Bộ Nội vụ chủ trì phối hợp với Bộ Tài nguyên và Môi trường và các địa phương có liên quan lập hồ sơ trình Chính phủ.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 45,
+                "page_end": 45,
+                "provenance": [
+                  {
+                    "start": 85177,
+                    "end": 85413,
+                    "document_id": "luatdat1",
+                    "page": 45,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 85177,
+                "metadata": {
+                  "article": "49",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 21.256565583241212,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4fa4d67cfc88952a7adc01ace863cd5b",
+                "text": "Điều 3. Giải thích từ ngữ\n3. Bản đồ quy hoạch sử dụng đất là bản đồ được lập tại thời điểm đầu kỳ quy hoạch, thể hiện nội dung phân bố các loại đất tại thời điểm cuối kỳ quy hoạch của quy hoạch đó.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 1356,
+                    "end": 1528,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 1356,
+                "metadata": {
+                  "article": "3",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 20.950703308307602,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "bm25",
+          "requested_fields": []
+        },
+        "elapsed_ms": 6.767599959857762
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "b1d6c1eac664db0f5a23bcb8b2a48412",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            },
+            {
+              "id": "64d3c45e3843c75c90a5cb965f6ab707",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek88nCa7NW98HmuM20qi0oEs27soM",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_wRA5zHUdniFn5A0SnQONfgAh",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính nào và ai xác nhận?\",\"mode\":\"bm25\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 404,
+          "completion_tokens": 44,
+          "total_tokens": 448,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.7e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek88p2H6dFQvgfUs6ObQROabr1aeU",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Bản đồ thể hiện các thửa đất được lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã. Bản đồ này phải được cơ quan nhà nước có thẩm quyền xác nhận.\",\"citations\":[\"b1d6c1eac664db0f5a23bcb8b2a48412\",\"64d3c45e3843c75c90a5cb965f6ab707\"],\"abstained\":false,\"reason\":\"Thông tin trong tài liệu cung cấp đầy đủ về đơn vị hành chính lập bản đồ và cơ quan xác nhận.\",\"evidence_quotes\":[{\"id\":\"b1d6c1eac664db0f5a23bcb8b2a48412\",\"quote\":\"Bản đồ địa chính là bản đồ thể hiện các thửa đất và các đối tượng địa lý có liên quan, lập theo đơn vị hành chính cấp xã hoặc theo đơn vị hành chính cấp huyện nơi không thành lập đơn vị hành chính cấp xã, được cơ quan nhà nước có thẩm quyền xác nhận.\"},{\"id\":\"64d3c45e3843c75c90a5cb965f6ab707\",\"quote\":\"Việc đo đạc lập bản đồ địa chính được thực hiện chi tiết đến từng thửa đất theo đơn vị hành chính cấp xã; nơi không thành lập đơn vị hành chính cấp xã thì được lập theo đơn vị hành chính cấp huyện.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1143,
+          "completion_tokens": 310,
+          "total_tokens": 1453,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00035745,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "bm25",
+    "autonomous": false,
+    "tool_trace_id": "d98aa4bd77f54c658dd0bd0478d7c333",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1547,
+      "completion_tokens": 354,
+      "total_tokens": 1901
+    },
+    "estimated_chat_cost_usd": 0.00044445,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 5219.735999999102
+  }
+}

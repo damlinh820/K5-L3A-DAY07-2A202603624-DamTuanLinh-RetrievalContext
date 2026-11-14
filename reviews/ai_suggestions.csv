@@ -1,0 +1,18 @@
+case_id,run_id,ai_suggested_grounded_answer,ai_suggested_citation_support,ai_suggested_abstention_correct,reason,status
+q01,agent_dev,0,0,false,"Model output contained only a citation marker and no substantive answer; human review required.",ai_suggestion
+q02,agent_dev,2,1,false,"Answer states the two administrative-unit alternatives and authority; verify wording against source.",ai_suggestion
+q03,agent_dev,2,1,false,"Definition is present in answer and cited context; verify exact qualification.",ai_suggestion
+q04,agent_dev,0,0,false,"Model output contained only a citation marker and no substantive answer; human review required.",ai_suggestion
+q05,agent_dev,2,1,false,"Answer identifies prohibited acts and cited evidence; verify completeness.",ai_suggestion
+q06,agent_dev,2,1,false,"Answer matches the legal condition and has structural citation; verify source support.",ai_suggestion
+q07,agent_dev,2,1,false,"Answer lists the main obligations; verify all qualifications and citation.",ai_suggestion
+q08,agent_dev,0,0,false,"Agent abstained although gold evidence was present in final context; false abstention candidate.",ai_suggestion
+q09,agent_dev,0,0,false,"Agent abstained although gold evidence was present in final context; false abstention candidate.",ai_suggestion
+q10,agent_dev,0,0,false,"Agent abstained although gold evidence was present in final context; false abstention candidate.",ai_suggestion
+q11,agent_dev,2,1,false,"Answer states the requested compensation condition; verify all conditions.",ai_suggestion
+q12,agent_dev,2,1,false,"Answer states the required deadline and has structural citation; verify source.",ai_suggestion
+q13,agent_dev,2,1,false,"Answer states the financial-obligation deduction; verify completeness.",ai_suggestion
+q14,agent_dev,2,1,false,"Answer identifies the permission requirement and article; verify citation.",ai_suggestion
+q15,agent_dev,0,0,false,"Agent abstained although gold evidence was present in final context; false abstention candidate.",ai_suggestion
+q21,agent_dev,0,0,true,"Insufficient-evidence case was correctly abstained; confirm corpus scope.",ai_suggestion
+q22,agent_dev,0,0,true,"Insufficient-evidence case was correctly abstained; confirm corpus scope.",ai_suggestion

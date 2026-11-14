@@ -1,0 +1,1425 @@
+{
+  "query_id": "q12",
+  "question": "Chỉ dùng phần 2 của bộ PDF: phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất [9b9324128667b941bf0c4ab3c77c4053].",
+    "citations": [
+      "9b9324128667b941bf0c4ab3c77c4053"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 91 đã nêu rõ thời hạn hoàn thành việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư.",
+    "evidence_quotes": [
+      {
+        "id": "9b9324128667b941bf0c4ab3c77c4053",
+        "quote": "Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất."
+      }
+    ],
+    "context": "[9b9324128667b941bf0c4ab3c77c4053] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 2 | Điều 91 | Khoản 6\nĐiều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n\n\n[dc1644167dd5903ed98c76d32fefd7da] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 4 | Điều 94 | Khoản 3\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n\n\n[0c011815ec9beaecd799d3a0b1350b76] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 2 | Điều 91 | Khoản 5\nĐiều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n5. Khu tái định cư phải hoàn thiện các điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt; đồng thời phải phù hợp với truyền thống văn hóa, phong tục, tập quán của cộng đồng dân cư nơi có đất thu hồi. Khu tái định cư có thể bố trí cho một hoặc nhiều dự án.\n\n\n[f82c671a3e28f7dfdd094149b4fe1fa9] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 2 | Điều 91 | Khoản 7\nĐiều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n7. Khi Nhà nước thu hồi đất theo quy định tại Điều 78 và Điều 79 của Luật này mà phần diện tích còn lại của thửa đất sau khi thu hồi nhỏ hơn diện tích tối thiểu theo quy định của Ủy ban nhân dân cấp tỉnh về diện tích tối thiểu tại khoản 2 Điều 220 của Luật này, nếu người sử dụng đất đồng ý thu hồi đất thì Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất và thực hiện việc bồi thường, hỗ trợ, quản lý diện tích đất này theo quy định của pháp luật. Kinh phí bồi thường, hỗ trợ trong trường hợp thu hồi đất quy định tại khoản này được tính vào kinh phí bồi thường, hỗ trợ, tái định cư của dự án đầu tư.\n\n\n[e73797bacd8e9dc74af952c1afb4850f] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 4 | Điều 94 | Khoản 2\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n2. Trường hợp Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, nếu người thực hiện dự án tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì được ngân sách nhà nước hoàn trả bằng hình thức trừ vào tiền sử dụng đất, tiền thuê đất phải nộp. Số tiền được trừ không vượt quá tiền sử dụng đất, tiền thuê đất phải nộp; số tiền còn lại (nếu có) được tính vào chi phí đầu tư của dự án. Trường hợp Nhà nước giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, mà người thực hiện dự án được miễn tiền sử dụng đất, tiền thuê đất cho toàn bộ thời hạn sử dụng đất nếu tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì kinh phí bồi thường, hỗ trợ, tái định cư được tính vào chi phí đầu tư của dự án.\n\n\n[43a424a370b1157a8e638a4b8387e0bd] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 4 | Điều 94 | Khoản 4\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n4. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không nhận tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt hoặc trường hợp đất thu hồi, tài sản đang có tranh chấp thì tiền\nbồi thường, hỗ trợ được gửi vào tài khoản tiền gửi của đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư mở tại ngân hàng thương mại do Nhà nước nắm giữ cổ phần chi phối theo lãi suất không kỳ hạn. Tiền lãi từ khoản tiền bồi thường, hỗ trợ được trả cho người có quyền sử dụng đất, chủ sở hữu tài sản được bồi thường, hỗ trợ.\n",
+    "context_ids": [
+      "9b9324128667b941bf0c4ab3c77c4053",
+      "dc1644167dd5903ed98c76d32fefd7da",
+      "0c011815ec9beaecd799d3a0b1350b76",
+      "f82c671a3e28f7dfdd094149b4fe1fa9",
+      "e73797bacd8e9dc74af952c1afb4850f",
+      "43a424a370b1157a8e638a4b8387e0bd"
+    ],
+    "context_chars": 5186,
+    "context_tokens": 2583,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_CSSuXfpJRGZ3AGQCNpJBl7DX",
+        "round": 1,
+        "arguments": {
+          "query": "phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Chỉ dùng phần 2 của bộ PDF: phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "9b9324128667b941bf0c4ab3c77c4053",
+            "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 2,
+            "page_end": 2,
+            "provenance": [
+              {
+                "start": 181390,
+                "end": 181721,
+                "document_id": "luatdat2",
+                "page": 2,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 181390,
+            "metadata": {
+              "article": "91",
+              "clause": "6",
+              "part": 2
+            },
+            "score": 0.06557377049180328,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06557377049180328,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 1,
+              "dense_1": 1,
+              "bm25_1": 1
+            },
+            "source_scores": {
+              "dense_0": 0.6179324388504028,
+              "bm25_0": 59.54128302887934,
+              "dense_1": 0.7386689186096191,
+              "bm25_1": 59.54128302887934
+            },
+            "rank": 1
+          },
+          {
+            "id": "dc1644167dd5903ed98c76d32fefd7da",
+            "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 4,
+            "page_end": 4,
+            "provenance": [
+              {
+                "start": 185856,
+                "end": 186948,
+                "document_id": "luatdat2",
+                "page": 4,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 185856,
+            "metadata": {
+              "article": "94",
+              "clause": "3",
+              "part": 2
+            },
+            "score": 0.0637560803891449,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.0637560803891449,
+            "source_ranks": {
+              "dense_0": 3,
+              "bm25_0": 2,
+              "dense_1": 4,
+              "bm25_1": 2
+            },
+            "source_scores": {
+              "dense_0": 0.5533378720283508,
+              "bm25_0": 50.102107957264444,
+              "dense_1": 0.6081383228302002,
+              "bm25_1": 49.642607627065864
+            },
+            "rank": 2
+          },
+          {
+            "id": "0c011815ec9beaecd799d3a0b1350b76",
+            "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n5. Khu tái định cư phải hoàn thiện các điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt; đồng thời phải phù hợp với truyền thống văn hóa, phong tục, tập quán của cộng đồng dân cư nơi có đất thu hồi. Khu tái định cư có thể bố trí cho một hoặc nhiều dự án.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 2,
+            "page_end": 2,
+            "provenance": [
+              {
+                "start": 181069,
+                "end": 181390,
+                "document_id": "luatdat2",
+                "page": 2,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 181069,
+            "metadata": {
+              "article": "91",
+              "clause": "5",
+              "part": 2
+            },
+            "score": 0.06279419505225957,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.06279419505225957,
+            "source_ranks": {
+              "dense_0": 2,
+              "bm25_0": 5,
+              "dense_1": 2,
+              "bm25_1": 6
+            },
+            "source_scores": {
+              "dense_0": 0.5607292056083679,
+              "bm25_0": 47.80687517568067,
+              "dense_1": 0.6773937344551086,
+              "bm25_1": 44.550336461070124
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "9b9324128667b941bf0c4ab3c77c4053",
+          "dc1644167dd5903ed98c76d32fefd7da",
+          "0c011815ec9beaecd799d3a0b1350b76",
+          "f82c671a3e28f7dfdd094149b4fe1fa9",
+          "e73797bacd8e9dc74af952c1afb4850f",
+          "43a424a370b1157a8e638a4b8387e0bd"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Chỉ dùng phần 2 của bộ PDF: phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?",
+          "variants": [
+            "Chỉ dùng phần 2 của bộ PDF: phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?",
+            "phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào?"
+          ],
+          "filters": {
+            "part": 2
+          },
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "9b9324128667b941bf0c4ab3c77c4053",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181390,
+                    "end": 181721,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181390,
+                "metadata": {
+                  "article": "91",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.6179324388504028,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "0c011815ec9beaecd799d3a0b1350b76",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n5. Khu tái định cư phải hoàn thiện các điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt; đồng thời phải phù hợp với truyền thống văn hóa, phong tục, tập quán của cộng đồng dân cư nơi có đất thu hồi. Khu tái định cư có thể bố trí cho một hoặc nhiều dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181069,
+                    "end": 181390,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181069,
+                "metadata": {
+                  "article": "91",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 0.5607292056083679,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "dc1644167dd5903ed98c76d32fefd7da",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 185856,
+                    "end": 186948,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 185856,
+                "metadata": {
+                  "article": "94",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.5533378720283508,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "f82c671a3e28f7dfdd094149b4fe1fa9",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n7. Khi Nhà nước thu hồi đất theo quy định tại Điều 78 và Điều 79 của Luật này mà phần diện tích còn lại của thửa đất sau khi thu hồi nhỏ hơn diện tích tối thiểu theo quy định của Ủy ban nhân dân cấp tỉnh về diện tích tối thiểu tại khoản 2 Điều 220 của Luật này, nếu người sử dụng đất đồng ý thu hồi đất thì Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất và thực hiện việc bồi thường, hỗ trợ, quản lý diện tích đất này theo quy định của pháp luật. Kinh phí bồi thường, hỗ trợ trong trường hợp thu hồi đất quy định tại khoản này được tính vào kinh phí bồi thường, hỗ trợ, tái định cư của dự án đầu tư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181721,
+                    "end": 182331,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181721,
+                "metadata": {
+                  "article": "91",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.5402406454086304,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "0300315614ceae5301d0392f8103211a",
+                "text": "Điều 111. Bố trí tái định cư\n2. Phương án bố trí tái định cư đã được cơ quan có thẩm quyền phê duyệt phải được công bố công khai tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi và tại nơi tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 212099,
+                    "end": 212317,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 212099,
+                "metadata": {
+                  "article": "111",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5306041836738586,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4e5d6141c97c1e094ccc5abc64800f5e",
+                "text": "Điều 93. Việc tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập và việc thu hồi đất, bồi thường, hỗ trợ, tái định cư đối với dự án đầu tư Trường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của pháp luật về đầu tư công thì việc thu hồi đất, bồi thường, hỗ trợ, tái định cư được thực hiện theo quy định của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 184138,
+                    "end": 184514,
+                    "document_id": "luatdat2",
+                    "page": 3,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184138,
+                "metadata": {
+                  "article": "93",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 0.5280498266220093,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "91500f4f59f495ee0d1f2c7734dabee8",
+                "text": "Điều 126. Giao đất, cho thuê đất thông qua đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất\n8. Trong thời hạn 36 tháng kể từ ngày ban hành quyết định công nhận kết quả trúng thầu hoặc thời hạn khác theo hợp đồng đã ký kết với cơ quan nhà nước có thẩm quyền, Ủy ban nhân dân cấp có thẩm quyền phải thực hiện xong việc bồi thường, hỗ trợ, tái định cư để giao đất, cho thuê đất. Tổ chức được giao đất, cho thuê đất quy định tại khoản 6 và điểm d khoản 7 Điều này có trách nhiệm ứng vốn để thực hiện bồi thường, hỗ trợ, tái định cư theo yêu cầu của cơ quan nhà nước có thẩm quyền trên cơ sở phương án bồi thường, hỗ trợ, tái định cư đã được phê duyệt; quá thời hạn 06 tháng kể từ ngày nhận được yêu cầu của cơ quan nhà nước có thẩm quyền mà không ứng đủ vốn để thực hiện bồi thường, hỗ trợ, tái định cư thì cơ quan nhà nước có thẩm quyền quyết định hủy kết quả trúng thầu.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 35,
+                "page_end": 35,
+                "provenance": [
+                  {
+                    "start": 245165,
+                    "end": 245942,
+                    "document_id": "luatdat2",
+                    "page": 35,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 245165,
+                "metadata": {
+                  "article": "126",
+                  "clause": "8",
+                  "part": 2
+                },
+                "score": 0.5253633260726929,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "9d4f87e560251526635c32c080f96e26",
+                "text": "Điều 92. Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt\n1. Đối với dự án đầu tư do Quốc hội, Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư phải thu hồi đất mà làm di chuyển cả cộng đồng dân cư, làm ảnh hưởng đến toàn bộ đời sống, kinh tế, xã hội, truyền thống văn hóa của cộng đồng và cần có chính sách đặc thù về bồi thường, hỗ trợ, tái định cư thì Hội đồng nhân dân cấp tỉnh quyết định chính sách bồi thường, hỗ trợ, tái định cư phù hợp với điều kiện thực tế của địa phương.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 182404,
+                    "end": 182840,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 182404,
+                "metadata": {
+                  "article": "92",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.5233157277107239,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "55bc688f8442d84a404de82d5ad3cb5f",
+                "text": "Điều 110. Lập và thực hiện dự án tái định cư, khu tái định cư\n2. Khu tái định cư bảo đảm các điều kiện sau đây:\na) Hạ tầng kỹ thuật khu tái định cư tối thiểu phải đạt tiêu chuẩn nông thôn mới đối với khu vực nông thôn, đạt tiêu chuẩn đô thị đối với khu vực đô thị, trong đó: đường giao thông bảo đảm kết nối với khu vực lân cận, điện chiếu sáng và điện sinh hoạt, hệ thống cấp, thoát nước, thông tin liên lạc, xử lý môi trường;\nb) Hạ tầng xã hội khu tái định cư phải bảo đảm khả năng tiếp cận dịch vụ y tế, giáo dục, văn hóa, thể thao, chợ, thương mại, dịch vụ, vui chơi, giải trí, nghĩa trang;\nc) Phù hợp với điều kiện, phong tục, tập quán của từng vùng, miền.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 17,
+                "page_end": 17,
+                "provenance": [
+                  {
+                    "start": 209832,
+                    "end": 210432,
+                    "document_id": "luatdat2",
+                    "page": 17,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 209832,
+                "metadata": {
+                  "article": "110",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5148493647575378,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "cfd4f5b00cef8e8f22e52617df32b454",
+                "text": "Điều 142. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức đang sử dụng đất\n2. Trên cơ sở báo cáo hiện trạng sử dụng đất của tổ chức, Ủy ban nhân dân cấp tỉnh nơi có đất kiểm tra thực tế sử dụng đất và xử lý theo quy định sau đây:\na) Diện tích đất của tổ chức có giấy tờ quy định tại Điều 137 của Luật này đang sử dụng đúng mục đích thì cơ quan nhà nước có thẩm quyền xác định hình thức sử dụng đất theo quy định của pháp luật và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; trường hợp sử dụng đất không có giấy tờ quy định tại Điều 137 của Luật này thì thực hiện theo hình thức sử dụng đất quy định tại các điều 118, 119 và 120 của Luật này. Đối với tổ chức đang sử dụng đất thuộc trường hợp Nhà nước cho thuê đất quy định tại Điều 120 của Luật này thì cơ quan có chức năng quản lý đất đai cấp tỉnh làm thủ tục ký hợp đồng thuê đất trước khi cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thời hạn sử dụng đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất quy định tại điểm a khoản này đối với trường hợp có giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này thì được xác định theo giấy tờ đó; trường hợp có giấy tờ về quyền sử dụng đất mà trong giấy tờ không ghi thời hạn sử dụng đất hoặc có ghi thời hạn sử dụng đất nhưng không phù hợp với quy định của pháp luật về đất đai tại thời điểm có giấy tờ đó thì thời hạn sử dụng đất được xác định theo quy định tại Điều 172 của Luật này và được tính từ ngày 15 tháng 10 năm 1993 đối với trường hợp sử dụng đất trước ngày 15 tháng 10 năm 1993, được tính từ ngày có quyết định giao đất, cho thuê đất đối với trường hợp sử dụng đất từ ngày 15 tháng 10 năm 1993 trở về sau;\nc) Diện tích đất sử dụng không đúng mục đích, diện tích đất do bị lấn, bị chiếm; diện tích đất đã cho các tổ chức khác, hộ gia đình, cá nhân thuê hoặc mượn sử dụng; diện tích đất đã liên doanh, liên kết trái pháp luật; diện tích đất không được sử dụng đã quá 12 tháng hoặc tiến độ sử dụng chậm đã quá 24 tháng thì Ủy ban nhân dân cấp tỉnh quyết định thu hồi theo quy định của pháp luật;\nd) Diện tích đất của tổ chức đã bố trí cho hộ gia đình, cá nhân là cán bộ, công nhân viên của tổ chức làm nhà ở trước ngày Luật này có hiệu lực thi hành thì phải bàn giao cho Ủy ban nhân dân cấp huyện nơi có đất để thực hiện việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho\nngười sử dụng đất ở theo quy định của pháp luật; người sử dụng đất ở được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất thì phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật. Trường hợp doanh nghiệp nhà nước sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối đã được Nhà nước giao đất mà doanh nghiệp đó cho hộ gia đình, cá nhân sử dụng một phần quỹ đất làm đất ở trước ngày 01 tháng 7 năm 2004 thì phải lập phương án bố trí lại diện tích đất ở thành khu dân cư trình Ủy ban nhân dân cấp tỉnh nơi có đất phê duyệt trước khi bàn giao cho địa phương quản lý;\nđ) Diện tích đất đang có tranh chấp thì việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện sau khi hoàn thành việc giải quyết tranh chấp theo quy định của pháp luật.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 62,
+                "page_end": 63,
+                "provenance": [
+                  {
+                    "start": 300388,
+                    "end": 302743,
+                    "document_id": "luatdat2",
+                    "page": 62,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 302743,
+                    "end": 303568,
+                    "document_id": "luatdat2",
+                    "page": 63,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 300388,
+                "metadata": {
+                  "article": "142",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5108964443206787,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "9b9324128667b941bf0c4ab3c77c4053",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181390,
+                    "end": 181721,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181390,
+                "metadata": {
+                  "article": "91",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 59.54128302887934,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "dc1644167dd5903ed98c76d32fefd7da",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 185856,
+                    "end": 186948,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 185856,
+                "metadata": {
+                  "article": "94",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 50.102107957264444,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "e73797bacd8e9dc74af952c1afb4850f",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n2. Trường hợp Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, nếu người thực hiện dự án tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì được ngân sách nhà nước hoàn trả bằng hình thức trừ vào tiền sử dụng đất, tiền thuê đất phải nộp. Số tiền được trừ không vượt quá tiền sử dụng đất, tiền thuê đất phải nộp; số tiền còn lại (nếu có) được tính vào chi phí đầu tư của dự án. Trường hợp Nhà nước giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, mà người thực hiện dự án được miễn tiền sử dụng đất, tiền thuê đất cho toàn bộ thời hạn sử dụng đất nếu tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì kinh phí bồi thường, hỗ trợ, tái định cư được tính vào chi phí đầu tư của dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 184850,
+                    "end": 185856,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184850,
+                "metadata": {
+                  "article": "94",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 49.35778718937576,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "3dd664306106d1ed417c5ace6b1d11ae",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n5. Trường hợp phương án bồi thường, hỗ trợ, tái định cư phải chỉnh sửa, bổ sung mà có nội dung chỉnh sửa về giá đất, giá tài sản thì giá đất, giá tài sản để tính bồi thường được xác định tại thời điểm ban hành quyết định điều chỉnh phương án bồi thường, hỗ trợ, tái định cư. Trường hợp tại thời điểm ban hành quyết định điều chỉnh phương án bồi thường, hỗ trợ, tái định cư mà giá đất, giá tài sản thấp hơn so với giá đất, giá tài sản trong phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt thì áp dụng giá bồi thường trong phương án đã được phê duyệt. Các nội dung được chỉnh sửa, bổ sung mà không phải là giá đất, giá tài sản được áp dụng theo quy định của pháp luật về đất đai tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 187525,
+                    "end": 188276,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 187525,
+                "metadata": {
+                  "article": "94",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 48.26327823440677,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0c011815ec9beaecd799d3a0b1350b76",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n5. Khu tái định cư phải hoàn thiện các điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt; đồng thời phải phù hợp với truyền thống văn hóa, phong tục, tập quán của cộng đồng dân cư nơi có đất thu hồi. Khu tái định cư có thể bố trí cho một hoặc nhiều dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181069,
+                    "end": 181390,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181069,
+                "metadata": {
+                  "article": "91",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 47.80687517568067,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "adf5d12a7797e6e0e45a6987a0df9548",
+                "text": "Điều 111. Bố trí tái định cư\n1. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư được Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện giao trách nhiệm bố trí tái định cư phải thông báo cho người có đất ở bị thu hồi, chủ sở hữu nhà ở thuộc đối tượng phải di chuyển chỗ ở về dự kiến phương án bố trí tái định cư và niêm yết công khai ít nhất là 15 ngày tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi và tại nơi tái định cư đã có người dân sinh sống trước khi cơ quan có thẩm quyền phê duyệt phương án bố trí tái định cư.\nNội dung thông báo bao gồm địa điểm, quy mô quỹ đất, quỹ nhà tái định cư, thiết kế, diện tích từng lô đất, căn hộ, giá đất, giá nhà tái định cư; dự kiến bố trí tái định cư cho người có đất thu hồi.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 17,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 211342,
+                    "end": 211901,
+                    "document_id": "luatdat2",
+                    "page": 17,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 211901,
+                    "end": 212099,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 211342,
+                "metadata": {
+                  "article": "111",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 46.25074255837649,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "676b794fb04181cc2f2443d733b0884c",
+                "text": "Điều 111. Bố trí tái định cư\n3. Giá đất tính tiền sử dụng đất tại nơi tái định cư đối với người được bồi thường về đất ở, người được giao đất ở tái định cư trong trường hợp không đủ điều kiện bồi thường về đất ở là giá đất được xác định theo bảng giá đất tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp chưa có giá đất trong bảng giá đất thì phải bổ sung bảng giá đất để làm căn cứ tính tiền sử dụng đất cho người được bố trí tái định cư. Người được bố trí tái định cư được ghi nợ nghĩa vụ tài chính về đất đai nếu đáp ứng các điều kiện theo quy định của Chính phủ. Giá bán nhà ở tái định cư trong địa bàn cấp huyện do Ủy ban nhân dân cấp huyện quyết định. Trường hợp bố trí nhà ở tái định cư tại đơn vị hành chính cấp huyện khác thì giá bán nhà ở tái định cư do Ủy ban nhân dân cấp tỉnh quyết định.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 212317,
+                    "end": 213118,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 212317,
+                "metadata": {
+                  "article": "111",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 43.536062246977785,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "43a424a370b1157a8e638a4b8387e0bd",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n4. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không nhận tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt hoặc trường hợp đất thu hồi, tài sản đang có tranh chấp thì tiền\nbồi thường, hỗ trợ được gửi vào tài khoản tiền gửi của đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư mở tại ngân hàng thương mại do Nhà nước nắm giữ cổ phần chi phối theo lãi suất không kỳ hạn. Tiền lãi từ khoản tiền bồi thường, hỗ trợ được trả cho người có quyền sử dụng đất, chủ sở hữu tài sản được bồi thường, hỗ trợ.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 186948,
+                    "end": 187183,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 187183,
+                    "end": 187525,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 186948,
+                "metadata": {
+                  "article": "94",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 41.97229422230248,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0300315614ceae5301d0392f8103211a",
+                "text": "Điều 111. Bố trí tái định cư\n2. Phương án bố trí tái định cư đã được cơ quan có thẩm quyền phê duyệt phải được công bố công khai tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi và tại nơi tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 212099,
+                    "end": 212317,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 212099,
+                "metadata": {
+                  "article": "111",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 41.580171022718744,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4e5d6141c97c1e094ccc5abc64800f5e",
+                "text": "Điều 93. Việc tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập và việc thu hồi đất, bồi thường, hỗ trợ, tái định cư đối với dự án đầu tư Trường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của pháp luật về đầu tư công thì việc thu hồi đất, bồi thường, hỗ trợ, tái định cư được thực hiện theo quy định của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 184138,
+                    "end": 184514,
+                    "document_id": "luatdat2",
+                    "page": 3,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184138,
+                "metadata": {
+                  "article": "93",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 41.57632665757421,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ],
+            "dense_1": [
+              {
+                "id": "9b9324128667b941bf0c4ab3c77c4053",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181390,
+                    "end": 181721,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181390,
+                "metadata": {
+                  "article": "91",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.7386689186096191,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "0c011815ec9beaecd799d3a0b1350b76",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n5. Khu tái định cư phải hoàn thiện các điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt; đồng thời phải phù hợp với truyền thống văn hóa, phong tục, tập quán của cộng đồng dân cư nơi có đất thu hồi. Khu tái định cư có thể bố trí cho một hoặc nhiều dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181069,
+                    "end": 181390,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181069,
+                "metadata": {
+                  "article": "91",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 0.6773937344551086,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "1de6992ef6c2e2835365d11d49cf034f",
+                "text": "Điều 111. Bố trí tái định cư\n7. Người có đất ở bị thu hồi để thực hiện dự án đầu tư xây dựng khu đô thị thì được bồi thường bằng đất ở, nhà ở tại chỗ; trong thời gian chờ bố trí tái định cư được bố trí vào nhà ở tạm hoặc hỗ trợ tiền thuê nhà ở; thời gian và mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tế tại địa phương. Trường hợp thu hồi đất ở để thực hiện các mục đích khác thì được bồi thường bằng đất ở, nhà ở tại chỗ nếu tại khu vực thu hồi đất có quỹ đất, quỹ nhà tái định cư. Ưu tiên vị trí thuận lợi cho hộ gia đình, cá nhân sử dụng đất ở kết hợp với kinh doanh dịch vụ, người có đất thu hồi là người có công với cách mạng. Có cơ chế thưởng đối với người có đất thu hồi bàn giao mặt bằng trước thời hạn theo quy định của Ủy ban nhân dân cấp tỉnh.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 19,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 214769,
+                    "end": 215524,
+                    "document_id": "luatdat2",
+                    "page": 19,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 214769,
+                "metadata": {
+                  "article": "111",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.6082965731620789,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "dc1644167dd5903ed98c76d32fefd7da",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 185856,
+                    "end": 186948,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 185856,
+                "metadata": {
+                  "article": "94",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.6081383228302002,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "91500f4f59f495ee0d1f2c7734dabee8",
+                "text": "Điều 126. Giao đất, cho thuê đất thông qua đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất\n8. Trong thời hạn 36 tháng kể từ ngày ban hành quyết định công nhận kết quả trúng thầu hoặc thời hạn khác theo hợp đồng đã ký kết với cơ quan nhà nước có thẩm quyền, Ủy ban nhân dân cấp có thẩm quyền phải thực hiện xong việc bồi thường, hỗ trợ, tái định cư để giao đất, cho thuê đất. Tổ chức được giao đất, cho thuê đất quy định tại khoản 6 và điểm d khoản 7 Điều này có trách nhiệm ứng vốn để thực hiện bồi thường, hỗ trợ, tái định cư theo yêu cầu của cơ quan nhà nước có thẩm quyền trên cơ sở phương án bồi thường, hỗ trợ, tái định cư đã được phê duyệt; quá thời hạn 06 tháng kể từ ngày nhận được yêu cầu của cơ quan nhà nước có thẩm quyền mà không ứng đủ vốn để thực hiện bồi thường, hỗ trợ, tái định cư thì cơ quan nhà nước có thẩm quyền quyết định hủy kết quả trúng thầu.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 35,
+                "page_end": 35,
+                "provenance": [
+                  {
+                    "start": 245165,
+                    "end": 245942,
+                    "document_id": "luatdat2",
+                    "page": 35,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 245165,
+                "metadata": {
+                  "article": "126",
+                  "clause": "8",
+                  "part": 2
+                },
+                "score": 0.6042298674583435,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4e5d6141c97c1e094ccc5abc64800f5e",
+                "text": "Điều 93. Việc tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập và việc thu hồi đất, bồi thường, hỗ trợ, tái định cư đối với dự án đầu tư Trường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của pháp luật về đầu tư công thì việc thu hồi đất, bồi thường, hỗ trợ, tái định cư được thực hiện theo quy định của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 184138,
+                    "end": 184514,
+                    "document_id": "luatdat2",
+                    "page": 3,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184138,
+                "metadata": {
+                  "article": "93",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 0.6014630794525146,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "55bc688f8442d84a404de82d5ad3cb5f",
+                "text": "Điều 110. Lập và thực hiện dự án tái định cư, khu tái định cư\n2. Khu tái định cư bảo đảm các điều kiện sau đây:\na) Hạ tầng kỹ thuật khu tái định cư tối thiểu phải đạt tiêu chuẩn nông thôn mới đối với khu vực nông thôn, đạt tiêu chuẩn đô thị đối với khu vực đô thị, trong đó: đường giao thông bảo đảm kết nối với khu vực lân cận, điện chiếu sáng và điện sinh hoạt, hệ thống cấp, thoát nước, thông tin liên lạc, xử lý môi trường;\nb) Hạ tầng xã hội khu tái định cư phải bảo đảm khả năng tiếp cận dịch vụ y tế, giáo dục, văn hóa, thể thao, chợ, thương mại, dịch vụ, vui chơi, giải trí, nghĩa trang;\nc) Phù hợp với điều kiện, phong tục, tập quán của từng vùng, miền.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 17,
+                "page_end": 17,
+                "provenance": [
+                  {
+                    "start": 209832,
+                    "end": 210432,
+                    "document_id": "luatdat2",
+                    "page": 17,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 209832,
+                "metadata": {
+                  "article": "110",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5986399054527283,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "9d4f87e560251526635c32c080f96e26",
+                "text": "Điều 92. Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt\n1. Đối với dự án đầu tư do Quốc hội, Thủ tướng Chính phủ quyết định, chấp thuận chủ trương đầu tư phải thu hồi đất mà làm di chuyển cả cộng đồng dân cư, làm ảnh hưởng đến toàn bộ đời sống, kinh tế, xã hội, truyền thống văn hóa của cộng đồng và cần có chính sách đặc thù về bồi thường, hỗ trợ, tái định cư thì Hội đồng nhân dân cấp tỉnh quyết định chính sách bồi thường, hỗ trợ, tái định cư phù hợp với điều kiện thực tế của địa phương.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 182404,
+                    "end": 182840,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 182404,
+                "metadata": {
+                  "article": "92",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.5909106731414795,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8d0cc3d6ab6ffb7ceba75ce32973b9a4",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n1. Việc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất phải bảo đảm dân chủ, khách quan, công bằng, công khai, minh bạch, kịp thời và đúng quy định của pháp luật; vì lợi ích chung, sự phát triển bền vững, văn minh và hiện đại của cộng đồng, của địa phương; quan tâm đến đối tượng chính sách xã hội, đối tượng trực tiếp sản xuất nông nghiệp.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 1,
+                "page_end": 1,
+                "provenance": [
+                  {
+                    "start": 179557,
+                    "end": 179908,
+                    "document_id": "luatdat2",
+                    "page": 1,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 179557,
+                "metadata": {
+                  "article": "91",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.5906723141670227,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "f82c671a3e28f7dfdd094149b4fe1fa9",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n7. Khi Nhà nước thu hồi đất theo quy định tại Điều 78 và Điều 79 của Luật này mà phần diện tích còn lại của thửa đất sau khi thu hồi nhỏ hơn diện tích tối thiểu theo quy định của Ủy ban nhân dân cấp tỉnh về diện tích tối thiểu tại khoản 2 Điều 220 của Luật này, nếu người sử dụng đất đồng ý thu hồi đất thì Ủy ban nhân dân cấp có thẩm quyền quyết định thu hồi đất và thực hiện việc bồi thường, hỗ trợ, quản lý diện tích đất này theo quy định của pháp luật. Kinh phí bồi thường, hỗ trợ trong trường hợp thu hồi đất quy định tại khoản này được tính vào kinh phí bồi thường, hỗ trợ, tái định cư của dự án đầu tư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181721,
+                    "end": 182331,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181721,
+                "metadata": {
+                  "article": "91",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.5857046246528625,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_1": [
+              {
+                "id": "9b9324128667b941bf0c4ab3c77c4053",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n6. Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện có trách nhiệm tổ chức lập và thực hiện dự án tái định cư để bảo đảm chủ động trong việc bố trí tái định cư cho người có đất thu hồi. Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181390,
+                    "end": 181721,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181390,
+                "metadata": {
+                  "article": "91",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 59.54128302887934,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "dc1644167dd5903ed98c76d32fefd7da",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 185856,
+                    "end": 186948,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 185856,
+                "metadata": {
+                  "article": "94",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 49.642607627065864,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "3dd664306106d1ed417c5ace6b1d11ae",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n5. Trường hợp phương án bồi thường, hỗ trợ, tái định cư phải chỉnh sửa, bổ sung mà có nội dung chỉnh sửa về giá đất, giá tài sản thì giá đất, giá tài sản để tính bồi thường được xác định tại thời điểm ban hành quyết định điều chỉnh phương án bồi thường, hỗ trợ, tái định cư. Trường hợp tại thời điểm ban hành quyết định điều chỉnh phương án bồi thường, hỗ trợ, tái định cư mà giá đất, giá tài sản thấp hơn so với giá đất, giá tài sản trong phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt thì áp dụng giá bồi thường trong phương án đã được phê duyệt. Các nội dung được chỉnh sửa, bổ sung mà không phải là giá đất, giá tài sản được áp dụng theo quy định của pháp luật về đất đai tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 187525,
+                    "end": 188276,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 187525,
+                "metadata": {
+                  "article": "94",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 47.90475780067862,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "e73797bacd8e9dc74af952c1afb4850f",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n2. Trường hợp Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, nếu người thực hiện dự án tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì được ngân sách nhà nước hoàn trả bằng hình thức trừ vào tiền sử dụng đất, tiền thuê đất phải nộp. Số tiền được trừ không vượt quá tiền sử dụng đất, tiền thuê đất phải nộp; số tiền còn lại (nếu có) được tính vào chi phí đầu tư của dự án. Trường hợp Nhà nước giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, mà người thực hiện dự án được miễn tiền sử dụng đất, tiền thuê đất cho toàn bộ thời hạn sử dụng đất nếu tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì kinh phí bồi thường, hỗ trợ, tái định cư được tính vào chi phí đầu tư của dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 184850,
+                    "end": 185856,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184850,
+                "metadata": {
+                  "article": "94",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 46.16800622105695,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "adf5d12a7797e6e0e45a6987a0df9548",
+                "text": "Điều 111. Bố trí tái định cư\n1. Đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư được Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện giao trách nhiệm bố trí tái định cư phải thông báo cho người có đất ở bị thu hồi, chủ sở hữu nhà ở thuộc đối tượng phải di chuyển chỗ ở về dự kiến phương án bố trí tái định cư và niêm yết công khai ít nhất là 15 ngày tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi và tại nơi tái định cư đã có người dân sinh sống trước khi cơ quan có thẩm quyền phê duyệt phương án bố trí tái định cư.\nNội dung thông báo bao gồm địa điểm, quy mô quỹ đất, quỹ nhà tái định cư, thiết kế, diện tích từng lô đất, căn hộ, giá đất, giá nhà tái định cư; dự kiến bố trí tái định cư cho người có đất thu hồi.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 17,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 211342,
+                    "end": 211901,
+                    "document_id": "luatdat2",
+                    "page": 17,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 211901,
+                    "end": 212099,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 211342,
+                "metadata": {
+                  "article": "111",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 45.898724042395344,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0c011815ec9beaecd799d3a0b1350b76",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n5. Khu tái định cư phải hoàn thiện các điều kiện về hạ tầng kỹ thuật, hạ tầng xã hội đồng bộ theo quy hoạch chi tiết được cơ quan có thẩm quyền phê duyệt; đồng thời phải phù hợp với truyền thống văn hóa, phong tục, tập quán của cộng đồng dân cư nơi có đất thu hồi. Khu tái định cư có thể bố trí cho một hoặc nhiều dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 181069,
+                    "end": 181390,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 181069,
+                "metadata": {
+                  "article": "91",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 44.550336461070124,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "676b794fb04181cc2f2443d733b0884c",
+                "text": "Điều 111. Bố trí tái định cư\n3. Giá đất tính tiền sử dụng đất tại nơi tái định cư đối với người được bồi thường về đất ở, người được giao đất ở tái định cư trong trường hợp không đủ điều kiện bồi thường về đất ở là giá đất được xác định theo bảng giá đất tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp chưa có giá đất trong bảng giá đất thì phải bổ sung bảng giá đất để làm căn cứ tính tiền sử dụng đất cho người được bố trí tái định cư. Người được bố trí tái định cư được ghi nợ nghĩa vụ tài chính về đất đai nếu đáp ứng các điều kiện theo quy định của Chính phủ. Giá bán nhà ở tái định cư trong địa bàn cấp huyện do Ủy ban nhân dân cấp huyện quyết định. Trường hợp bố trí nhà ở tái định cư tại đơn vị hành chính cấp huyện khác thì giá bán nhà ở tái định cư do Ủy ban nhân dân cấp tỉnh quyết định.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 212317,
+                    "end": 213118,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 212317,
+                "metadata": {
+                  "article": "111",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 43.19031401945181,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "4e5d6141c97c1e094ccc5abc64800f5e",
+                "text": "Điều 93. Việc tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập và việc thu hồi đất, bồi thường, hỗ trợ, tái định cư đối với dự án đầu tư Trường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của pháp luật về đầu tư công thì việc thu hồi đất, bồi thường, hỗ trợ, tái định cư được thực hiện theo quy định của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 184138,
+                    "end": 184514,
+                    "document_id": "luatdat2",
+                    "page": 3,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184138,
+                "metadata": {
+                  "article": "93",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 40.8870169617247,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0300315614ceae5301d0392f8103211a",
+                "text": "Điều 111. Bố trí tái định cư\n2. Phương án bố trí tái định cư đã được cơ quan có thẩm quyền phê duyệt phải được công bố công khai tại trụ sở Ủy ban nhân dân cấp xã, địa điểm sinh hoạt chung của khu dân cư nơi có đất thu hồi và tại nơi tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 212099,
+                    "end": 212317,
+                    "document_id": "luatdat2",
+                    "page": 18,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 212099,
+                "metadata": {
+                  "article": "111",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 39.43051274079454,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "c239c40e0a08c06cd776a5ccf7727a56",
+                "text": "Điều 125. Giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất\n2. Điều kiện để tiến hành đấu giá quyền sử dụng đất bao gồm:\na) Đất đã được thu hồi và hoàn thành bồi thường, hỗ trợ, tái định cư hoặc không phải bồi thường, hỗ trợ, tái định cư; trong khu vực dự án có hạ tầng giao thông đã được kết nối;\nb) Có trong kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt vào mục đích sử dụng để đấu giá quyền sử dụng đất, trừ trường hợp đấu giá quyền sử dụng đất đối với đất quy định tại điểm e khoản 1 Điều 217 của Luật này;\nc) Có quy hoạch chi tiết 1/500 được cơ quan nhà nước có thẩm quyền tổ chức lập và phê duyệt đối với dự án đầu tư xây dựng nhà ở;\nd) Có phương án đấu giá quyền sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 31,
+                "page_end": 32,
+                "provenance": [
+                  {
+                    "start": 238787,
+                    "end": 239025,
+                    "document_id": "luatdat2",
+                    "page": 31,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 239025,
+                    "end": 239462,
+                    "document_id": "luatdat2",
+                    "page": 32,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 238787,
+                "metadata": {
+                  "article": "125",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 39.00422038277486,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 27.743800019379705
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "9b9324128667b941bf0c4ab3c77c4053",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek8EZpzzoOy9b5pCCiq9dDQT1HEqG",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_CSSuXfpJRGZ3AGQCNpJBl7DX",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"phê duyệt phương án bồi thường, hỗ trợ, tái định cư và bố trí tái định cư phải hoàn thành trước mốc nào\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 504,
+          "completion_tokens": 55,
+          "total_tokens": 559,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0001086,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek8Ebq6zbqVkl61m6hl0br42Xavp1",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất [9b9324128667b941bf0c4ab3c77c4053].\",\"citations\":[\"9b9324128667b941bf0c4ab3c77c4053\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 91 đã nêu rõ thời hạn hoàn thành việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\",\"evidence_quotes\":[{\"id\":\"9b9324128667b941bf0c4ab3c77c4053\",\"quote\":\"Việc phê duyệt phương án bồi thường, hỗ trợ, tái định cư và việc bố trí tái định cư phải được hoàn thành trước khi có quyết định thu hồi đất.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2411,
+          "completion_tokens": 201,
+          "total_tokens": 2612,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00048225,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "36f546d76da4404da3b13271bc65037a",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2915,
+      "completion_tokens": 256,
+      "total_tokens": 3171
+    },
+    "estimated_chat_cost_usd": 0.00059085,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4305.452000000514
+  }
+}

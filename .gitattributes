@@ -1,0 +1,2 @@
+# Preserve exact bytes of frozen source, benchmark, trace and checksum artifacts.
+* -text

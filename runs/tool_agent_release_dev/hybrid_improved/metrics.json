@@ -1,0 +1,86 @@
+{
+  "run_id": "tool_agent_release_dev/hybrid_improved",
+  "cases": 17,
+  "errors": 0,
+  "tool_use": {
+    "n": 17,
+    "N": 17,
+    "rate": 1.0
+  },
+  "tool_call_distribution": {
+    "0": 0,
+    "1": 17,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "grounded": {
+    "reviewed": 0,
+    "total": 15,
+    "counts": {
+      "0": 0,
+      "1": 0,
+      "2": 0
+    },
+    "mean_out_of_2": null
+  },
+  "citation_id_validity": {
+    "n": 16,
+    "N": 16,
+    "rate": 1.0
+  },
+  "citation_support": {
+    "n": 0,
+    "N": 0,
+    "rate": null
+  },
+  "answers_with_citations": {
+    "n": 15,
+    "N": 17,
+    "rate": 0.8823529411764706
+  },
+  "abstention_recall": {
+    "n": 2,
+    "N": 2,
+    "rate": 1.0
+  },
+  "abstention_precision": {
+    "n": 2,
+    "N": 2,
+    "rate": 1.0
+  },
+  "false_abstention": {
+    "n": 0,
+    "N": 15,
+    "rate": 0.0
+  },
+  "abstention_confusion": {
+    "true_abstention": 2,
+    "false_abstention": 0,
+    "false_answer_on_absent": 0
+  },
+  "reviewed_context_evidence_rate": {
+    "n": 0,
+    "N": 0,
+    "rate": null
+  },
+  "latency_ms": {
+    "p50": 4491.522900003474,
+    "p95": 8599.126220017199
+  },
+  "tokens": {
+    "prompt_tokens": 43707,
+    "completion_tokens": 5681,
+    "total_tokens": 49388
+  },
+  "actual_chat_cost_usd": null,
+  "semantic_review_status": "pending",
+  "retrieval": {
+    "hit1": 15,
+    "hit3": 15,
+    "n": 15,
+    "context_exact_evidence": 15,
+    "label": "mechanical provenance-aware; semantic review separate"
+  },
+  "estimated_chat_cost_usd": 0.009964649999999999
+}

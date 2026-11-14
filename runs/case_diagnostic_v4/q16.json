@@ -1,0 +1,850 @@
+{
+  "query_id": "q16",
+  "question": "Đất ở thuộc nhóm sử dụng ổn định lâu dài hay nhóm sử dụng có thời hạn trong bản luật được cung cấp?",
+  "result": {
+    "status": "error",
+    "answer": "Đất ở thuộc nhóm sử dụng ổn định lâu dài theo quy định tại Điều 171 của Luật này. Cụ thể, Điều 171 nêu rõ rằng \"Đất ở\" là một trong những loại đất được sử dụng ổn định lâu dài.",
+    "citations": [
+      "0bdc591d4a3757a7bcd740e6f887eedf"
+    ],
+    "abstained": false,
+    "reason": "output_validation_failed",
+    "evidence_quotes": [
+      {
+        "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+        "quote": "1. Đất ở."
+      }
+    ],
+    "attempts": [
+      {
+        "attempt": 1,
+        "response_id": "chatcmpl-Ek6Tp9nsZqQB86RTV89vINKnOf7Li",
+        "model": "gpt-4o-mini-2024-07-18",
+        "raw_content": "{\"answer\":\"Đất ở thuộc nhóm sử dụng ổn định lâu dài theo quy định tại Điều 171 của Luật này. Cụ thể, Điều 171 nêu rõ rằng \\\"Đất ở\\\" là một trong những loại đất được sử dụng ổn định lâu dài.\",\"citations\":[\"0bdc591d4a3757a7bcd740e6f887eedf\"],\"abstained\":false,\"reason\":\"Thông tin trong Điều 171 xác định rõ đất ở thuộc nhóm sử dụng ổn định lâu dài.\",\"evidence_quotes\":[{\"id\":\"0bdc591d4a3757a7bcd740e6f887eedf\",\"quote\":\"1. Đất ở.\"}]}",
+        "finish_reason": "stop",
+        "refusal": null,
+        "validation_errors": [
+          "citations must occur in answer and context",
+          "answer markers and citations must match"
+        ],
+        "usage": {
+          "prompt_tokens": 1380,
+          "completion_tokens": 150,
+          "total_tokens": 1530,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        }
+      },
+      {
+        "attempt": 2,
+        "response_id": "chatcmpl-Ek6TrhzMKbQucpAxZ5yVHTAE9kcuY",
+        "model": "gpt-4o-mini-2024-07-18",
+        "raw_content": "{\"answer\":\"Đất ở thuộc nhóm sử dụng ổn định lâu dài theo quy định tại Điều 171 của Luật này. Cụ thể, Điều 171 nêu rõ rằng \\\"Đất ở\\\" là một trong những loại đất được sử dụng ổn định lâu dài.\",\"citations\":[\"0bdc591d4a3757a7bcd740e6f887eedf\"],\"abstained\":false,\"reason\":\"Có đủ thông tin trong tài liệu để xác định nhóm sử dụng của đất ở.\",\"evidence_quotes\":[{\"id\":\"0bdc591d4a3757a7bcd740e6f887eedf\",\"quote\":\"1. Đất ở.\"}]}",
+        "finish_reason": "stop",
+        "refusal": null,
+        "validation_errors": [
+          "citations must occur in answer and context",
+          "answer markers and citations must match"
+        ],
+        "usage": {
+          "prompt_tokens": 1464,
+          "completion_tokens": 146,
+          "total_tokens": 1610,
+          "prompt_tokens_details": {
+            "cached_tokens": 1280,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        }
+      }
+    ],
+    "context": "[0a578009d8e2485dd78fa3d85d9bd0bc] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 3 | Điều 173 | Khoản 3\nĐiều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n\n\n[e8edf6b70851f8e1b78af2b84636c407] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 3 | Điều 174 | Khoản None\nĐiều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n\n\n[0bdc591d4a3757a7bcd740e6f887eedf] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 1 | Điều 171 | Khoản None\nĐiều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n\n\n[da4ad9397ef5186daf24c4ef63d7c6e0] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 3 | Điều 173 | Khoản 2\nĐiều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n2. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất để thực hiện dự án đầu tư được xác định theo quy định tại điểm c khoản 1 Điều 172 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này.\n",
+    "context_ids": [
+      "0a578009d8e2485dd78fa3d85d9bd0bc",
+      "e8edf6b70851f8e1b78af2b84636c407",
+      "0bdc591d4a3757a7bcd740e6f887eedf",
+      "da4ad9397ef5186daf24c4ef63d7c6e0"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "query": "Đất ở thuộc nhóm sử dụng ổn định lâu dài hay nhóm sử dụng có thời hạn trong bản luật được cung cấp?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+            "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 3,
+            "page_end": 3,
+            "provenance": [
+              {
+                "start": 369776,
+                "end": 370052,
+                "document_id": "luatdat3",
+                "page": 3,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 369776,
+            "metadata": {
+              "article": "173",
+              "clause": "3",
+              "part": 3
+            },
+            "score": 0.03131881575727918,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03131881575727918,
+            "source_ranks": {
+              "dense_0": 7,
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "dense_0": 0.6179357767105103,
+              "bm25_0": 33.23541981810206
+            },
+            "rank": 1
+          },
+          {
+            "id": "e8edf6b70851f8e1b78af2b84636c407",
+            "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 3,
+            "page_end": 4,
+            "provenance": [
+              {
+                "start": 370052,
+                "end": 370621,
+                "document_id": "luatdat3",
+                "page": 3,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              },
+              {
+                "start": 370621,
+                "end": 370968,
+                "document_id": "luatdat3",
+                "page": 4,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 370052,
+            "metadata": {
+              "article": "174",
+              "clause": null,
+              "part": 3
+            },
+            "score": 0.030834914611005692,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.030834914611005692,
+            "source_ranks": {
+              "dense_0": 8,
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "dense_0": 0.6116824150085449,
+              "bm25_0": 29.518953286029436
+            },
+            "rank": 2
+          },
+          {
+            "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+            "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 1,
+            "page_end": 1,
+            "provenance": [
+              {
+                "start": 364558,
+                "end": 365466,
+                "document_id": "luatdat3",
+                "page": 1,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 364558,
+            "metadata": {
+              "article": "171",
+              "clause": null,
+              "part": 3
+            },
+            "score": 0.030158730158730156,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.030158730158730156,
+            "source_ranks": {
+              "dense_0": 3,
+              "bm25_0": 10
+            },
+            "source_scores": {
+              "dense_0": 0.6496976017951965,
+              "bm25_0": 19.531696809372267
+            },
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "e8edf6b70851f8e1b78af2b84636c407",
+          "0bdc591d4a3757a7bcd740e6f887eedf",
+          "da4ad9397ef5186daf24c4ef63d7c6e0"
+        ],
+        "dropped_ids": [],
+        "expanded_ids": [
+          "da4ad9397ef5186daf24c4ef63d7c6e0"
+        ]
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [
+            {
+              "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+              "in_context": true,
+              "marked_in_answer": false,
+              "excerpt_present": true,
+              "syntactically_valid": false
+            }
+          ],
+          "semantic_support": "human_review_required"
+        },
+        "validation_errors": [
+          "citations must occur in answer and context",
+          "answer markers and citations must match"
+        ]
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "usage": {
+      "prompt_tokens": 2844,
+      "completion_tokens": 296,
+      "total_tokens": 3140
+    },
+    "prompt_version": "grounded_answer_v2",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 6215.530600020429
+  },
+  "retrieval_trace": {
+    "original_query": "Đất ở thuộc nhóm sử dụng ổn định lâu dài hay nhóm sử dụng có thời hạn trong bản luật được cung cấp?",
+    "variants": [
+      "Đất ở thuộc nhóm sử dụng ổn định lâu dài hay nhóm sử dụng có thời hạn trong bản luật được cung cấp?"
+    ],
+    "filters": null,
+    "source_rankings": {
+      "dense_0": [
+        {
+          "id": "7d63c91928a2a0d27942d467f424ee6f",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n5. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368418,
+              "end": 368459,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368418,
+          "metadata": {
+            "article": "172",
+            "clause": "5",
+            "part": 3
+          },
+          "score": 0.6565569639205933,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367457,
+              "end": 368019,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367457,
+          "metadata": {
+            "article": "172",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.6508538722991943,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+          "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 1,
+          "provenance": [
+            {
+              "start": 364558,
+              "end": 365466,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 364558,
+          "metadata": {
+            "article": "171",
+            "clause": null,
+            "part": 3
+          },
+          "score": 0.6496976017951965,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "bffc46a7c83914660421035867004576",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n2. Thời hạn giao đất, cho thuê đất quy định tại Điều này được tính từ ngày có quyết định giao đất, cho thuê đất của cơ quan nhà nước có thẩm quyền.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 367309,
+              "end": 367457,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 367309,
+          "metadata": {
+            "article": "172",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 0.6374720931053162,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "cbf0ac7b202679906bc6d89a7d61cb4e",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n4. Trường hợp không được gia hạn sử dụng đất, người sử dụng đất có trách nhiệm xử lý tài sản gắn liền với đất để hoàn trả mặt bằng cho Nhà nước. Quá thời\nhạn 24 tháng kể từ thời điểm hết thời hạn sử dụng đất mà người sử dụng đất không xử lý tài sản thì Nhà nước thu hồi đất mà không bồi thường về đất và tài sản gắn liền với đất; trường hợp phải phá dỡ, chủ sở hữu tài sản phải chịu chi phí phá dỡ.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368019,
+              "end": 368173,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 368173,
+              "end": 368418,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368019,
+          "metadata": {
+            "article": "172",
+            "clause": "4",
+            "part": 3
+          },
+          "score": 0.6349640488624573,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 2,
+          "provenance": [
+            {
+              "start": 365500,
+              "end": 365672,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 365672,
+              "end": 367309,
+              "document_id": "luatdat3",
+              "page": 2,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 365500,
+          "metadata": {
+            "article": "172",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 0.6297569870948792,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 369776,
+              "end": 370052,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 369776,
+          "metadata": {
+            "article": "173",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 0.6179357767105103,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 370052,
+              "end": 370621,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 370621,
+              "end": 370968,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 370052,
+          "metadata": {
+            "article": "174",
+            "clause": null,
+            "part": 3
+          },
+          "score": 0.6116824150085449,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "d8f6115afacd42a91592e546bf961618",
+          "text": "Điều 258. Giải quyết về thời hạn sử dụng đất khi Luật này có hiệu lực thi hành\n1. Đối với đất được Nhà nước giao cho tổ chức kinh tế để tạo vốn xây dựng cơ sở hạ tầng theo dự án, đất có nguồn gốc trúng đấu giá quyền sử dụng đất trước ngày 01 tháng 7 năm 2004 của các tổ chức kinh tế sử dụng thì thời hạn sử dụng đất được xác định theo thời hạn được ghi trên quyết định giao đất. Trường hợp trong quyết định giao đất không ghi thời hạn thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất được pháp luật quy định tại thời điểm giao đất.\n2. Trường hợp đất đã được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất mà đã hết thời hạn sử dụng đất nhưng đến trước ngày Luật này có hiệu lực thi hành cơ quan nhà nước có thẩm quyền chưa thu hồi đất thì được xem xét gia hạn sử dụng đất hoặc thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 63,
+          "page_end": 63,
+          "provenance": [
+            {
+              "start": 512030,
+              "end": 512878,
+              "document_id": "luatdat3",
+              "page": 63,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 512030,
+          "metadata": {
+            "article": "258",
+            "clause": null,
+            "part": 3
+          },
+          "score": 0.6002846956253052,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        },
+        {
+          "id": "ba8c03a2faae03de61e994cb5614ac1c",
+          "text": "Điều 204. Đất sử dụng cho khu công nghệ cao\n2. Nhà nước cho thuê đất thu tiền thuê đất hằng năm hoặc thu tiền thuê đất một lần cho cả thời gian thuê để đầu tư xây dựng kinh doanh kết cấu hạ tầng khu công nghệ cao. Thời hạn sử dụng đất trong khu công nghệ cao theo thời hạn hoạt động của dự án đầu tư nhưng không quá 70 năm.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 23,
+          "page_end": 23,
+          "provenance": [
+            {
+              "start": 417342,
+              "end": 417622,
+              "document_id": "luatdat3",
+              "page": 23,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 417342,
+          "metadata": {
+            "article": "204",
+            "clause": "2",
+            "part": 3
+          },
+          "score": 0.5937960147857666,
+          "strategy": "dense",
+          "score_type": "cosine_similarity"
+        }
+      ],
+      "bm25_0": [
+        {
+          "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 369776,
+              "end": 370052,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 369776,
+          "metadata": {
+            "article": "173",
+            "clause": "3",
+            "part": 3
+          },
+          "score": 33.23541981810206,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 4,
+          "provenance": [
+            {
+              "start": 370052,
+              "end": 370621,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            {
+              "start": 370621,
+              "end": 370968,
+              "document_id": "luatdat3",
+              "page": 4,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 370052,
+          "metadata": {
+            "article": "174",
+            "clause": null,
+            "part": 3
+          },
+          "score": 29.518953286029436,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "3601f68bf042cae686dd47a88a2b823d",
+          "text": "Điều 148. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là nhà ở\n6. Trường hợp công trình có mục đích hỗn hợp theo quy định của pháp luật và được tạo lập trên đất ở thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là hạng mục công trình hoặc toàn bộ công trình đó; thời hạn sử dụng đất là ổn định lâu dài.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 69,
+          "page_end": 69,
+          "provenance": [
+            {
+              "start": 317097,
+              "end": 317391,
+              "document_id": "luatdat2",
+              "page": 69,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 317097,
+          "metadata": {
+            "article": "148",
+            "clause": "6",
+            "part": 2
+          },
+          "score": 26.472117523390708,
+          "rank": 3,
+          "strategy": "bm25"
+        },
+        {
+          "id": "2f9e9b400892a5aa95ef181c22f0919b",
+          "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 26,
+          "page_end": 26,
+          "provenance": [
+            {
+              "start": 228462,
+              "end": 228912,
+              "document_id": "luatdat2",
+              "page": 26,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 228462,
+          "metadata": {
+            "article": "121",
+            "clause": "3",
+            "part": 2
+          },
+          "score": 25.35357814858213,
+          "rank": 4,
+          "strategy": "bm25"
+        },
+        {
+          "id": "0079b0f83ff5841e09c74762faac5dd3",
+          "text": "Điều 27. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân theo quy định của Luật này. Trường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ như quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng thành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử dụng đất của mình thì phải thực hiện đăng ký biến động hoặc tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và được thực hiện quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này. Trường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì các thành viên cùng nhau thực hiện hoặc ủy quyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 22,
+          "page_end": 22,
+          "provenance": [
+            {
+              "start": 37875,
+              "end": 38955,
+              "document_id": "luatdat1",
+              "page": 22,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 37875,
+          "metadata": {
+            "article": "27",
+            "clause": "2",
+            "part": 1
+          },
+          "score": 23.821614278281626,
+          "rank": 5,
+          "strategy": "bm25"
+        },
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "page_end": 3,
+          "provenance": [
+            {
+              "start": 368522,
+              "end": 369578,
+              "document_id": "luatdat3",
+              "page": 3,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 368522,
+          "metadata": {
+            "article": "173",
+            "clause": "1",
+            "part": 3
+          },
+          "score": 23.182871433953345,
+          "rank": 6,
+          "strategy": "bm25"
+        },
+        {
+          "id": "82669cd2825f7d1fd9a91516b79b3721",
+          "text": "Điều 145. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất\n3. Diện tích đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sau khi đã xử lý theo quy định tại khoản 2 Điều này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất với thời hạn sử dụng đất ổn định lâu dài và hình thức giao đất không thu tiền sử dụng đất theo quy định tại khoản 2 Điều 213 của Luật này khi có đủ các điều kiện sau đây:\na) Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Không phải là đất nhận chuyển nhượng, nhận tặng cho từ ngày 01 tháng 7 năm 2004 trở về sau.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 66,
+          "page_end": 66,
+          "provenance": [
+            {
+              "start": 309050,
+              "end": 309800,
+              "document_id": "luatdat2",
+              "page": 66,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 309050,
+          "metadata": {
+            "article": "145",
+            "clause": "3",
+            "part": 2
+          },
+          "score": 22.695489478958912,
+          "rank": 7,
+          "strategy": "bm25"
+        },
+        {
+          "id": "f7d7ab1f0624e7184bd88b9bd82be5e7",
+          "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n6. Hộ gia đình, cá nhân đang sử dụng đất ổn định vào mục đích thuộc nhóm đất nông nghiệp, nay được Ủy ban nhân dân cấp xã nơi có đất xác nhận không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo hình thức Nhà nước giao đất không thu tiền sử dụng đất đối với diện tích đất đang sử dụng nhưng không vượt quá hạn mức giao đất nông nghiệp cho cá nhân quy định tại Điều 176 của Luật này; thời hạn sử dụng đất tính từ ngày được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; diện tích đất nông nghiệp còn lại (nếu có) phải chuyển sang thuê đất của Nhà nước;\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 55,
+          "page_end": 55,
+          "provenance": [
+            {
+              "start": 285681,
+              "end": 286322,
+              "document_id": "luatdat2",
+              "page": 55,
+              "part": 2,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            }
+          ],
+          "body_start": 285681,
+          "metadata": {
+            "article": "138",
+            "clause": "6",
+            "part": 2
+          },
+          "score": 22.041726919463688,
+          "rank": 8,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e768fa75598da2a2f436f39ae47e54af",
+          "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 10,
+          "page_end": 10,
+          "provenance": [
+            {
+              "start": 16930,
+              "end": 17064,
+              "document_id": "luatdat1",
+              "page": 10,
+              "part": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+            }
+          ],
+          "body_start": 16930,
+          "metadata": {
+            "article": "9",
+            "clause": "1",
+            "part": 1
+          },
+          "score": 21.3608644995511,
+          "rank": 9,
+          "strategy": "bm25"
+        },
+        {
+          "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+          "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "page_end": 1,
+          "provenance": [
+            {
+              "start": 364558,
+              "end": 365466,
+              "document_id": "luatdat3",
+              "page": 1,
+              "part": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            }
+          ],
+          "body_start": 364558,
+          "metadata": {
+            "article": "171",
+            "clause": null,
+            "part": 3
+          },
+          "score": 19.531696809372267,
+          "rank": 10,
+          "strategy": "bm25"
+        }
+      ]
+    },
+    "mode": "hybrid_improved",
+    "requested_fields": [
+      "duration"
+    ]
+  },
+  "evidence_audit": {
+    "gold_chunk_ids": [
+      "0bdc591d4a3757a7bcd740e6f887eedf"
+    ],
+    "gold_in_top3": true,
+    "gold_in_context": true,
+    "semantic_support": "pending_human_review"
+  }
+}

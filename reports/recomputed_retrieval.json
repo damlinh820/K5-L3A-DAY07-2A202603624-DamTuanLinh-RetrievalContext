@@ -1,0 +1,1537 @@
+{
+  "phase2_dev": {
+    "source_artifact": "runs\\phase2_dev\\traces.json",
+    "calculation": "source + normalized quote + original page provenance",
+    "methods": {
+      "dense": {
+        "n": 15,
+        "hit1": 10,
+        "hit3": 13,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "bm25": {
+        "n": 15,
+        "hit1": 14,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf": {
+        "n": 15,
+        "hit1": 14,
+        "hit3": 15,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      }
+    },
+    "semantic_review": "not inferred from exact match"
+  },
+  "phase3_dev_improvements": {
+    "source_artifact": "runs\\phase3_dev_improvements\\traces.json",
+    "calculation": "source + normalized quote + original page provenance",
+    "methods": {
+      "dense": {
+        "n": 15,
+        "hit1": 10,
+        "hit3": 13,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "bm25": {
+        "n": 15,
+        "hit1": 14,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf": {
+        "n": 15,
+        "hit1": 14,
+        "hit3": 15,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_candidate20": {
+        "n": 15,
+        "hit1": 13,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_lexical_rerank": {
+        "n": 15,
+        "hit1": 12,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      }
+    },
+    "semantic_review": "not inferred from exact match"
+  },
+  "phase3_dev_all5": {
+    "source_artifact": "runs\\phase3_dev_all5\\traces.json",
+    "calculation": "source + normalized quote + original page provenance",
+    "methods": {
+      "dense": {
+        "n": 15,
+        "hit1": 10,
+        "hit3": 13,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "bm25": {
+        "n": 15,
+        "hit1": 14,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf": {
+        "n": 15,
+        "hit1": 14,
+        "hit3": 15,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_candidate20": {
+        "n": 15,
+        "hit1": 13,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_lexical_rerank": {
+        "n": 15,
+        "hit1": 12,
+        "hit3": 14,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_improved_all5": {
+        "n": 15,
+        "hit1": 15,
+        "hit3": 15,
+        "per_case": [
+          {
+            "query_id": "q01",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q02",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q03",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q04",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q05",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q06",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q07",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q08",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q09",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q10",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q11",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q12",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q13",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q14",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q15",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      }
+    },
+    "semantic_review": "not inferred from exact match"
+  },
+  "phase2_test_frozen": {
+    "source_artifact": "runs\\phase2_test_frozen\\traces.json",
+    "calculation": "source + normalized quote + original page provenance",
+    "methods": {
+      "dense": {
+        "n": 5,
+        "hit1": 1,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      },
+      "bm25": {
+        "n": 5,
+        "hit1": 4,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q17",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_candidate20": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_lexical_rerank": {
+        "n": 5,
+        "hit1": 4,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q17",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      }
+    },
+    "semantic_review": "not inferred from exact match"
+  },
+  "phase3_test_all5": {
+    "source_artifact": "runs\\phase3_test_all5\\traces.json",
+    "calculation": "source + normalized quote + original page provenance",
+    "methods": {
+      "dense": {
+        "n": 5,
+        "hit1": 1,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      },
+      "bm25": {
+        "n": 5,
+        "hit1": 4,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q17",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_candidate20": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_rrf_lexical_rerank": {
+        "n": 5,
+        "hit1": 4,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q17",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": true,
+            "hit3": true
+          }
+        ]
+      },
+      "hybrid_improved_all5": {
+        "n": 5,
+        "hit1": 2,
+        "hit3": 4,
+        "per_case": [
+          {
+            "query_id": "q16",
+            "hit1": false,
+            "hit3": true
+          },
+          {
+            "query_id": "q17",
+            "hit1": false,
+            "hit3": false
+          },
+          {
+            "query_id": "q18",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q19",
+            "hit1": true,
+            "hit3": true
+          },
+          {
+            "query_id": "q20",
+            "hit1": false,
+            "hit3": true
+          }
+        ]
+      }
+    },
+    "semantic_review": "not inferred from exact match"
+  }
+}

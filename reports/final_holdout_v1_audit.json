@@ -1,0 +1,1246 @@
+{
+  "run_directory": "runs/final_holdout_v1",
+  "actual_model_versions": ["gpt-4o-mini-2024-07-18"],
+  "offline_locator_diagnostic": {
+    "case_id": "h04",
+    "mode": "hybrid_improved",
+    "query_article_references": ["179", "151"],
+    "selected_first_locator": "179",
+    "fused_before_locator_top3": ["1401e3850d480530c51b4788310c72a4", "945704113975ee2976bc7f88d55ee93f", "4c80cb76914432cd27c83fe93e76d31b"],
+    "final_top3": ["945704113975ee2976bc7f88d55ee93f", "a7cdce738aaa59e30fcd4c1dfb41f960", "4c80cb76914432cd27c83fe93e76d31b"],
+    "method": "Recomputed the existing fusion stage from saved source_rankings only; no new search/API call and no inference code change."
+  },
+  "manifest": {
+    "started_at_utc": "2026-11-14T15:54:52.778980+00:00",
+    "completed_at_utc": "2026-11-14T15:56:18.601113+00:00",
+    "evaluation_type": "fresh_holdout",
+    "status": "finished",
+    "benchmark_sha256": "9edd6c89d87eeab7cc8420cfa0cae65c570caae906abbc7b5b090105c6c42360",
+    "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+    "estimated_chat_cost_usd": 0.008207399999999998
+  },
+  "metrics": {
+    "dense": {
+      "run_id": "final_holdout_v1/dense",
+      "cases": 7,
+      "errors": 0,
+      "tool_use": {
+        "n": 7,
+        "N": 7,
+        "rate": 1
+      },
+      "tool_call_distribution": {
+        "0": 0,
+        "1": 7,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "grounded": {
+        "reviewed": 0,
+        "total": 5,
+        "counts": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        },
+        "mean_out_of_2": null
+      },
+      "citation_id_validity": {
+        "n": 7,
+        "N": 7,
+        "rate": 1
+      },
+      "citation_support": {
+        "n": 0,
+        "N": 7,
+        "rate": null,
+        "reviewed": 0,
+        "unreviewed": 7,
+        "complete": false
+      },
+      "answers_with_citations": {
+        "n": 6,
+        "N": 6,
+        "rate": 1
+      },
+      "abstention_recall": {
+        "n": 1,
+        "N": 2,
+        "rate": 0.5
+      },
+      "abstention_precision": {
+        "n": 1,
+        "N": 1,
+        "rate": 1
+      },
+      "false_abstention": {
+        "n": 0,
+        "N": 5,
+        "rate": 0
+      },
+      "abstention_confusion": {
+        "true_abstention": 1,
+        "false_abstention": 0,
+        "false_answer_on_absent": 1
+      },
+      "reviewed_context_evidence_rate": {
+        "n": 0,
+        "N": 0,
+        "rate": null
+      },
+      "context_grades": {
+        "reviewed": 0,
+        "total": 5,
+        "counts": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "human_abstention_correct": {
+        "n": 0,
+        "N": 0,
+        "rate": null
+      },
+      "stale_review_case_ids": [],
+      "latency_ms": {
+        "p50": 6053.941700025462,
+        "p95": 11098.1027100177
+      },
+      "tokens": {
+        "prompt_tokens": 15588,
+        "completion_tokens": 2694,
+        "total_tokens": 18282
+      },
+      "estimated_chat_cost_usd": 0.003954599999999999,
+      "actual_chat_cost_usd": null,
+      "semantic_review_status": "pending",
+      "retrieval": {
+        "hit1": 4,
+        "hit3": 4,
+        "n": 5,
+        "context_exact_evidence": 4,
+        "label": "mechanical provenance-aware; semantic review separate"
+      }
+    },
+    "hybrid_improved": {
+      "run_id": "final_holdout_v1/hybrid_improved",
+      "cases": 7,
+      "errors": 1,
+      "tool_use": {
+        "n": 6,
+        "N": 6,
+        "rate": 1
+      },
+      "tool_call_distribution": {
+        "0": 0,
+        "1": 7,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "grounded": {
+        "reviewed": 0,
+        "total": 5,
+        "counts": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        },
+        "mean_out_of_2": null
+      },
+      "citation_id_validity": {
+        "n": 6,
+        "N": 6,
+        "rate": 1
+      },
+      "citation_support": {
+        "n": 0,
+        "N": 6,
+        "rate": null,
+        "reviewed": 0,
+        "unreviewed": 6,
+        "complete": false
+      },
+      "answers_with_citations": {
+        "n": 5,
+        "N": 5,
+        "rate": 1
+      },
+      "abstention_recall": {
+        "n": 1,
+        "N": 2,
+        "rate": 0.5
+      },
+      "abstention_precision": {
+        "n": 1,
+        "N": 1,
+        "rate": 1
+      },
+      "false_abstention": {
+        "n": 0,
+        "N": 5,
+        "rate": 0
+      },
+      "abstention_confusion": {
+        "true_abstention": 1,
+        "false_abstention": 0,
+        "false_answer_on_absent": 1
+      },
+      "reviewed_context_evidence_rate": {
+        "n": 0,
+        "N": 0,
+        "rate": null
+      },
+      "context_grades": {
+        "reviewed": 0,
+        "total": 5,
+        "counts": {
+          "0": 0,
+          "1": 0,
+          "2": 0
+        }
+      },
+      "human_abstention_correct": {
+        "n": 0,
+        "N": 0,
+        "rate": null
+      },
+      "stale_review_case_ids": [],
+      "latency_ms": {
+        "p50": 4393.073700019158,
+        "p95": 8095.466690015743
+      },
+      "tokens": {
+        "prompt_tokens": 18292,
+        "completion_tokens": 2515,
+        "total_tokens": 20807
+      },
+      "estimated_chat_cost_usd": 0.004252799999999999,
+      "actual_chat_cost_usd": null,
+      "semantic_review_status": "pending",
+      "retrieval": {
+        "hit1": 3,
+        "hit3": 4,
+        "n": 5,
+        "context_exact_evidence": 4,
+        "label": "mechanical provenance-aware; semantic review separate"
+      }
+    }
+  },
+  "rows": [
+    {
+      "mode": "dense",
+      "id": "h01",
+      "question": "Theo snapshot, đất đai thuộc sở hữu của ai và ai đại diện chủ sở hữu?",
+      "answerability": "answerable",
+      "reference_answer": "Đất đai thuộc sở hữu toàn dân; Nhà nước đại diện chủ sở hữu và thống nhất quản lý.",
+      "gold": [
+        {
+          "source_id": "luatdat1",
+          "page": 12,
+          "evidence_quote": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này [8bbcd717a4161a19f9a2bbea3100e0e0].",
+      "reason": "Nội dung trong tài liệu rõ ràng nêu ai là chủ sở hữu đất đai và ai đại diện cho chủ sở hữu.",
+      "context_ids": [
+        "8bbcd717a4161a19f9a2bbea3100e0e0",
+        "191489264dd8c2ccd21af5e48226cada",
+        "45a66a98421decc2d0092cd9a0bac388"
+      ],
+      "context_gold_ids": [
+        "8bbcd717a4161a19f9a2bbea3100e0e0"
+      ],
+      "ranked": [
+        {
+          "id": "8bbcd717a4161a19f9a2bbea3100e0e0",
+          "article": "12",
+          "gold_hit": true
+        },
+        {
+          "id": "191489264dd8c2ccd21af5e48226cada",
+          "article": "13",
+          "gold_hit": false
+        },
+        {
+          "id": "45a66a98421decc2d0092cd9a0bac388",
+          "article": "13",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "8bbcd717a4161a19f9a2bbea3100e0e0",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "source_id": "luatdat1",
+          "page": 12,
+          "page_end": 12,
+          "article": "12",
+          "clause": null,
+          "quote": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "25b29dddec4d2f66075a27c18cdc2ba60b73e3ac189c045b8d69220d7b43945c",
+      "trace_artifact": "runs/final_holdout_v1/dense/h01.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true
+        ],
+        "reason": "Trả lời đúng sở hữu toàn dân và Nhà nước đại diện, thống nhất quản lý; Điều 12 trong context hỗ trợ cả câu bổ sung về trao quyền sử dụng đất."
+      }
+    },
+    {
+      "mode": "dense",
+      "id": "h02",
+      "question": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?",
+      "answerability": "answerable",
+      "reference_answer": "Không; khoản 2 Điều 32 quy định không có các quyền này.",
+      "gold": [
+        {
+          "source_id": "luatdat1",
+          "page": 26,
+          "evidence_quote": "2. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất không được cho thuê hoặc thế chấp quyền sử dụng đất. Theo quy định tại Điều 118, tổ chức chỉ được giao đất không thu tiền sử dụng đất để phục vụ cho các mục đích cụ thể như xây dựng nhà ở phục vụ tái định cư, mà không có quyền cho thuê hoặc thế chấp quyền sử dụng đất. [d20384d135d7396f2536234329669aef]",
+      "reason": "Nội dung trong Điều 118 quy định rõ về việc giao đất không thu tiền sử dụng đất và không đề cập đến quyền cho thuê hoặc thế chấp quyền sử dụng đất.",
+      "context_ids": [
+        "7d2bb05e53ba50d65db82fd6e3b9871b",
+        "859cddd88c86343038524f710ad77cd1",
+        "d20384d135d7396f2536234329669aef"
+      ],
+      "context_gold_ids": [],
+      "ranked": [
+        {
+          "id": "7d2bb05e53ba50d65db82fd6e3b9871b",
+          "article": "33",
+          "gold_hit": false
+        },
+        {
+          "id": "859cddd88c86343038524f710ad77cd1",
+          "article": "33",
+          "gold_hit": false
+        },
+        {
+          "id": "d20384d135d7396f2536234329669aef",
+          "article": "118",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "d20384d135d7396f2536234329669aef",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "source_id": "luatdat2",
+          "page": 24,
+          "page_end": 24,
+          "article": "118",
+          "clause": "8",
+          "quote": "Tổ chức sử dụng đất để xây dựng nhà ở phục vụ tái định cư theo dự án của Nhà nước.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "aa9ec2af85656e34c58b35bd597209a3261c305498cb03c0748dc8d4adca32be",
+      "trace_artifact": "runs/final_holdout_v1/dense/h02.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 0,
+        "grounded": 0,
+        "citations": [
+          false
+        ],
+        "reason": "Kết luận Không trùng gold nhưng không được context chứng minh. Context có Điều 33 về giao đất có thu tiền và khoản 8 Điều 118 về đất tái định cư; thiếu khoản 2 Điều 32 cấm cho thuê/thế chấp của nhóm không thu tiền. Không thể suy cấm quyền từ việc Điều 118 không đề cập."
+      }
+    },
+    {
+      "mode": "dense",
+      "id": "h03",
+      "question": "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?",
+      "answerability": "answerable",
+      "reference_answer": "Thời kỳ 10 năm; tầm nhìn 20 năm.",
+      "gold": [
+        {
+          "source_id": "luatdat1",
+          "page": 55,
+          "evidence_quote": "3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm, và tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm. [20cd7c999134f2e340bc8f4b0195a123]",
+      "reason": "Thông tin đầy đủ về thời kỳ và tầm nhìn quy hoạch sử dụng đất cấp huyện đã được cung cấp trong tài liệu.",
+      "context_ids": [
+        "20cd7c999134f2e340bc8f4b0195a123",
+        "02b619c7f5a0e10ee74b123f01af1a63",
+        "26dbed53873a3407f1e7e9cb92b4cc9a"
+      ],
+      "context_gold_ids": [
+        "20cd7c999134f2e340bc8f4b0195a123"
+      ],
+      "ranked": [
+        {
+          "id": "20cd7c999134f2e340bc8f4b0195a123",
+          "article": "62",
+          "gold_hit": true
+        },
+        {
+          "id": "02b619c7f5a0e10ee74b123f01af1a63",
+          "article": "66",
+          "gold_hit": false
+        },
+        {
+          "id": "26dbed53873a3407f1e7e9cb92b4cc9a",
+          "article": "64",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "20cd7c999134f2e340bc8f4b0195a123",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "source_id": "luatdat1",
+          "page": 55,
+          "page_end": 55,
+          "article": "62",
+          "clause": null,
+          "quote": "Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "8f66f01052b2c5f2daa84ad02d294e9ca27b3274d652d5630ca3a59753ec4fab",
+      "trace_artifact": "runs/final_holdout_v1/dense/h03.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true
+        ],
+        "reason": "Đúng cả thời kỳ 10 năm và tầm nhìn 20 năm; khoản 3 Điều 62 có trong context."
+      }
+    },
+    {
+      "mode": "dense",
+      "id": "h04",
+      "question": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?",
+      "answerability": "answerable",
+      "reference_answer": "Có; điểm a khoản 1 Điều 151.",
+      "gold": [
+        {
+          "source_id": "luatdat2",
+          "page": 71,
+          "evidence_quote": "a) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;"
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 thuộc trường hợp không cấp Giấy chứng nhận quyền sử dụng đất theo Điều 151. Cụ thể, Điều 151 quy định rằng \"Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này\" là một trong những trường hợp không được cấp Giấy chứng nhận quyền sử dụng đất. [1401e3850d480530c51b4788310c72a4] [4c80cb76914432cd27c83fe93e76d31b]",
+      "reason": "Evidence đủ để xác định rằng đất nông nghiệp sử dụng vào mục đích công ích không được cấp Giấy chứng nhận.",
+      "context_ids": [
+        "1401e3850d480530c51b4788310c72a4",
+        "4c80cb76914432cd27c83fe93e76d31b",
+        "39f891be7c1d4e2f74cd2e18317083f2"
+      ],
+      "context_gold_ids": [
+        "1401e3850d480530c51b4788310c72a4"
+      ],
+      "ranked": [
+        {
+          "id": "1401e3850d480530c51b4788310c72a4",
+          "article": "151",
+          "gold_hit": true
+        },
+        {
+          "id": "4c80cb76914432cd27c83fe93e76d31b",
+          "article": "179",
+          "gold_hit": false
+        },
+        {
+          "id": "39f891be7c1d4e2f74cd2e18317083f2",
+          "article": "179",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "1401e3850d480530c51b4788310c72a4",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "source_id": "luatdat2",
+          "page": 71,
+          "page_end": 72,
+          "article": "151",
+          "clause": "1",
+          "quote": "a) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        },
+        {
+          "citation_index": 1,
+          "citation_id": "4c80cb76914432cd27c83fe93e76d31b",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "source_id": "luatdat3",
+          "page": 6,
+          "page_end": 6,
+          "article": "179",
+          "clause": "1",
+          "quote": "Quỹ đất nông nghiệp sử dụng vào mục đích công ích đã được lập theo quy định của pháp luật về đất đai qua các thời kỳ thì tiếp tục được sử dụng để phục vụ cho các nhu cầu công ích của địa phương.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "72c67f0e1facebcf09d3ea77bee9dbf750e36b80f22dd73375dac20d80fd6903",
+      "trace_artifact": "runs/final_holdout_v1/dense/h04.json",
+      "model_requests": 3,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true,
+          false
+        ],
+        "reason": "Kết luận Có được điểm a khoản 1 Điều 151 trong context hỗ trợ đầy đủ. Citation Điều 179 khoản 1 là bối cảnh về quỹ đất công ích, không trực tiếp chứng minh mệnh đề không cấp GCN; đề xuất không tính citation phụ này là hỗ trợ kết luận.",
+        "attention": "Đối chiếu riêng citation thứ hai: nguồn có liên quan nhưng không phải evidence trực tiếp cho không cấp GCN."
+      }
+    },
+    {
+      "mode": "dense",
+      "id": "h05",
+      "question": "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?",
+      "answerability": "answerable",
+      "reference_answer": "Có; khoản 1 Điều 199 có liệt kê.",
+      "gold": [
+        {
+          "source_id": "luatdat3",
+          "page": 18,
+          "evidence_quote": "1. Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Có, Điều 199 khoản 1 liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong danh sách đất xây dựng trụ sở cơ quan. [95b05da1e503db293e4a14d5c2f267d4]",
+      "reason": "Nội dung trong Điều 199 khoản 1 rõ ràng liệt kê Mặt trận Tổ quốc Việt Nam là một trong những cơ quan được đề cập.",
+      "context_ids": [
+        "95b05da1e503db293e4a14d5c2f267d4",
+        "9925c5c4e08b5c0d33f2caa81256c304",
+        "8c0dcb4832652ed08990801ef1d1bf31"
+      ],
+      "context_gold_ids": [
+        "95b05da1e503db293e4a14d5c2f267d4"
+      ],
+      "ranked": [
+        {
+          "id": "95b05da1e503db293e4a14d5c2f267d4",
+          "article": "199",
+          "gold_hit": true
+        },
+        {
+          "id": "9925c5c4e08b5c0d33f2caa81256c304",
+          "article": "199",
+          "gold_hit": false
+        },
+        {
+          "id": "8c0dcb4832652ed08990801ef1d1bf31",
+          "article": "199",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "95b05da1e503db293e4a14d5c2f267d4",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "source_id": "luatdat3",
+          "page": 18,
+          "page_end": 18,
+          "article": "199",
+          "clause": "1",
+          "quote": "Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "67c71d29ef82fe194de8d50d807bccf7e20491ce7cc1bc3adaf3a37ebe2bb93d",
+      "trace_artifact": "runs/final_holdout_v1/dense/h05.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true
+        ],
+        "reason": "Khoản 1 Điều 199 liệt kê rõ Mặt trận Tổ quốc Việt Nam; câu trả lời và nguồn khớp."
+      }
+    },
+    {
+      "mode": "dense",
+      "id": "h06",
+      "question": "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?",
+      "answerability": "insufficient_evidence",
+      "reference_answer": null,
+      "gold": [],
+      "absence_reason": "Snapshot là luật, không có biểu phí địa phương năm 2026 hay hồ sơ đo đạc của thửa đất cụ thể.",
+      "status": "abstain",
+      "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+      "reason": "Tài liệu không có thông tin về mức phí đo đạc địa phương năm 2026 cho thửa đất 120 m² tại Đà Nẵng.",
+      "context_ids": [
+        "fef75877838d45a6d4934502dc689e1d",
+        "2876ba33699f2bc0d2166189304075de",
+        "9ab3e7f2153612731c73cc5bebea0a2f"
+      ],
+      "context_gold_ids": [],
+      "ranked": [
+        {
+          "id": "fef75877838d45a6d4934502dc689e1d",
+          "article": "120",
+          "gold_hit": false
+        },
+        {
+          "id": "2876ba33699f2bc0d2166189304075de",
+          "article": "120",
+          "gold_hit": false
+        },
+        {
+          "id": "9ab3e7f2153612731c73cc5bebea0a2f",
+          "article": "257",
+          "gold_hit": false
+        }
+      ],
+      "citations": [],
+      "trace_sha256": "ae3f60f6ebe8fa2876b4ce6242e0f2ea9ff8a610fb9411f3ed8cc0a7e857548d",
+      "trace_artifact": "runs/final_holdout_v1/dense/h06.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": null,
+        "grounded": null,
+        "abstention": true,
+        "citations": [],
+        "reason": "Từ chối rõ vì không có biểu phí địa phương năm 2026 cho thửa đất cụ thể; không bịa mức phí."
+      }
+    },
+    {
+      "mode": "dense",
+      "id": "h07",
+      "question": "Hồ sơ xin cấp Giấy chứng nhận riêng của một người dân đã được cơ quan địa phương phê duyệt hay chưa?",
+      "answerability": "insufficient_evidence",
+      "reference_answer": null,
+      "gold": [],
+      "absence_reason": "Corpus không có dữ liệu hồ sơ cá nhân hoặc quyết định xử lý hồ sơ cụ thể.",
+      "status": "answered",
+      "answer": "Hồ sơ xin cấp Giấy chứng nhận riêng của một người dân đã được cơ quan địa phương phê duyệt hay chưa phụ thuộc vào quy trình cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất. Cơ quan có thẩm quyền sẽ thực hiện việc cấp giấy chứng nhận theo quy định của pháp luật sau khi đã kiểm tra hồ sơ và xác nhận các thông tin liên quan. Nếu hồ sơ đáp ứng đủ điều kiện, cơ quan sẽ phê duyệt cấp Giấy chứng nhận cho người dân [4724f3253d3733f0be04bbb527a67311].",
+      "reason": "Evidence đủ để xác định quy trình cấp Giấy chứng nhận quyền sử dụng đất và điều kiện phê duyệt hồ sơ.",
+      "context_ids": [
+        "2ea8bc094e56234b0c45e20a99715669",
+        "32b919c282dd7f00772b5709f3ff4155",
+        "4724f3253d3733f0be04bbb527a67311"
+      ],
+      "context_gold_ids": [],
+      "ranked": [
+        {
+          "id": "2ea8bc094e56234b0c45e20a99715669",
+          "article": "152",
+          "gold_hit": false
+        },
+        {
+          "id": "32b919c282dd7f00772b5709f3ff4155",
+          "article": "152",
+          "gold_hit": false
+        },
+        {
+          "id": "4724f3253d3733f0be04bbb527a67311",
+          "article": "137",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "4724f3253d3733f0be04bbb527a67311",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "source_id": "luatdat2",
+          "page": 50,
+          "page_end": 50,
+          "article": "137",
+          "clause": "7",
+          "quote": "Hộ gia đình, cá nhân có bản sao một trong các loại giấy tờ quy định tại các khoản 1, 2, 3, 4, 5 và 6 Điều này mà bản gốc giấy tờ đã bị thất lạc và cơ quan nhà nước không còn lưu giữ hồ sơ quản lý việc cấp loại giấy tờ này, được Ủy ban nhân dân cấp xã nơi có đất xác nhận là đất sử dụng ổn định, không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; việc thực hiện nghĩa vụ tài chính theo quy định của pháp luật.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "1ae41e8c962cb3563596027d409e17b5864dfd5ce1c2826e8a410f11a524954e",
+      "trace_artifact": "runs/final_holdout_v1/dense/h07.json",
+      "model_requests": 3,
+      "suggestion": {
+        "context": null,
+        "grounded": null,
+        "abstention": false,
+        "citations": [
+          false
+        ],
+        "reason": "Không từ chối xác định tình trạng hồ sơ riêng mà chuyển sang giải thích quy trình/đủ điều kiện sẽ phê duyệt. Khoản 7 Điều 137 chỉ nói trường hợp bản sao giấy tờ, bản gốc thất lạc và xác nhận của cấp xã; không chứng minh tình trạng phê duyệt hồ sơ hay toàn bộ quy trình được trả lời."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h01",
+      "question": "Theo snapshot, đất đai thuộc sở hữu của ai và ai đại diện chủ sở hữu?",
+      "answerability": "answerable",
+      "reference_answer": "Đất đai thuộc sở hữu toàn dân; Nhà nước đại diện chủ sở hữu và thống nhất quản lý.",
+      "gold": [
+        {
+          "source_id": "luatdat1",
+          "page": 12,
+          "evidence_quote": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này. Chính phủ và Ủy ban nhân dân các cấp thực hiện quyền đại diện chủ sở hữu về đất đai theo thẩm quyền quy định của Luật. [8bbcd717a4161a19f9a2bbea3100e0e0] [f67a988687986dee62de9a3e04af90c1]",
+      "reason": "Nội dung trong tài liệu cung cấp đầy đủ thông tin về sở hữu đất đai và đại diện chủ sở hữu.",
+      "context_ids": [
+        "8bbcd717a4161a19f9a2bbea3100e0e0",
+        "191489264dd8c2ccd21af5e48226cada",
+        "f67a988687986dee62de9a3e04af90c1",
+        "45a66a98421decc2d0092cd9a0bac388",
+        "26f9aa0e46fb07057eae48faea0575ee",
+        "1e1cb28b29e105a0a5772f8e009dec26"
+      ],
+      "context_gold_ids": [
+        "8bbcd717a4161a19f9a2bbea3100e0e0"
+      ],
+      "ranked": [
+        {
+          "id": "8bbcd717a4161a19f9a2bbea3100e0e0",
+          "article": "12",
+          "gold_hit": true
+        },
+        {
+          "id": "191489264dd8c2ccd21af5e48226cada",
+          "article": "13",
+          "gold_hit": false
+        },
+        {
+          "id": "f67a988687986dee62de9a3e04af90c1",
+          "article": "14",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "8bbcd717a4161a19f9a2bbea3100e0e0",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "source_id": "luatdat1",
+          "page": 12,
+          "page_end": 12,
+          "article": "12",
+          "clause": null,
+          "quote": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        },
+        {
+          "citation_index": 1,
+          "citation_id": "f67a988687986dee62de9a3e04af90c1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "source_id": "luatdat1",
+          "page": 14,
+          "page_end": 14,
+          "article": "14",
+          "clause": "3",
+          "quote": "Chính phủ, Ủy ban nhân dân các cấp thực hiện quyền đại diện chủ sở hữu về đất đai theo thẩm quyền quy định của Luật này và luật khác có liên quan.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "bcb6014a89ae81cad9d69aee56ae7d5ce942df83a6658baeeb2e76cefa15f4e8",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h01.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true,
+          true
+        ],
+        "reason": "Điều 12 hỗ trợ sở hữu toàn dân/Nhà nước đại diện; khoản 3 Điều 14 hỗ trợ phần bổ sung về Chính phủ và UBND thực hiện theo thẩm quyền."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h02",
+      "question": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất có được cho thuê hoặc thế chấp quyền sử dụng đất không?",
+      "answerability": "answerable",
+      "reference_answer": "Không; khoản 2 Điều 32 quy định không có các quyền này.",
+      "gold": [
+        {
+          "source_id": "luatdat1",
+          "page": 26,
+          "evidence_quote": "2. Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Tổ chức trong nước được Nhà nước giao đất không thu tiền sử dụng đất không có quyền cho thuê hoặc thế chấp quyền sử dụng đất. Cụ thể, theo Điều 32 của Luật Đất đai, tổ chức này không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, hoặc góp vốn bằng quyền sử dụng đất. [c16144e5dc20f4c53f83cffa10f4322b]",
+      "reason": "Nội dung trong Điều 32 quy định rõ quyền và nghĩa vụ của tổ chức được giao đất không thu tiền sử dụng đất, trong đó nêu rõ không có quyền cho thuê hoặc thế chấp quyền sử dụng đất.",
+      "context_ids": [
+        "859cddd88c86343038524f710ad77cd1",
+        "c16144e5dc20f4c53f83cffa10f4322b",
+        "3a6996f1479e2d4d9876efe82abcb1b8",
+        "7d2bb05e53ba50d65db82fd6e3b9871b"
+      ],
+      "context_gold_ids": [
+        "c16144e5dc20f4c53f83cffa10f4322b"
+      ],
+      "ranked": [
+        {
+          "id": "859cddd88c86343038524f710ad77cd1",
+          "article": "33",
+          "gold_hit": false
+        },
+        {
+          "id": "c16144e5dc20f4c53f83cffa10f4322b",
+          "article": "32",
+          "gold_hit": true
+        },
+        {
+          "id": "3a6996f1479e2d4d9876efe82abcb1b8",
+          "article": "33",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "c16144e5dc20f4c53f83cffa10f4322b",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "source_id": "luatdat1",
+          "page": 26,
+          "page_end": 26,
+          "article": "32",
+          "clause": null,
+          "quote": "Tổ chức trong nước, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước giao đất không thu tiền sử dụng đất không có quyền chuyển đổi, chuyển nhượng, tặng cho, cho thuê quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "61c15669d4f6d58a42e95d4ac4af9254e06e8b9ff23e333bcedc9c8f68fffe6d",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h02.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true
+        ],
+        "reason": "Dù gold ở rank 2, context có khoản 2 Điều 32 và câu trả lời nêu đúng cấm cho thuê/thế chấp với tổ chức được giao đất không thu tiền."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h03",
+      "question": "Thời kỳ quy hoạch sử dụng đất cấp huyện và tầm nhìn của quy hoạch đó là bao nhiêu năm theo tài liệu?",
+      "answerability": "answerable",
+      "reference_answer": "Thời kỳ 10 năm; tầm nhìn 20 năm.",
+      "gold": [
+        {
+          "source_id": "luatdat1",
+          "page": 55,
+          "evidence_quote": "3. Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm, và tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm. [20cd7c999134f2e340bc8f4b0195a123]",
+      "reason": "Thông tin đầy đủ về thời kỳ và tầm nhìn quy hoạch sử dụng đất cấp huyện đã được cung cấp trong tài liệu.",
+      "context_ids": [
+        "20cd7c999134f2e340bc8f4b0195a123",
+        "02b619c7f5a0e10ee74b123f01af1a63",
+        "a2601fb30cc4465d6a55f99f8992a759",
+        "f1857d0a78a51d09051f3ef4872d6e59",
+        "81568efbd2029d38db357f514a02323e",
+        "92a1b5e99611794ef0763d8993533e12"
+      ],
+      "context_gold_ids": [
+        "20cd7c999134f2e340bc8f4b0195a123"
+      ],
+      "ranked": [
+        {
+          "id": "20cd7c999134f2e340bc8f4b0195a123",
+          "article": "62",
+          "gold_hit": true
+        },
+        {
+          "id": "02b619c7f5a0e10ee74b123f01af1a63",
+          "article": "66",
+          "gold_hit": false
+        },
+        {
+          "id": "a2601fb30cc4465d6a55f99f8992a759",
+          "article": "65",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "20cd7c999134f2e340bc8f4b0195a123",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "source_id": "luatdat1",
+          "page": 55,
+          "page_end": 55,
+          "article": "62",
+          "clause": null,
+          "quote": "Thời kỳ quy hoạch sử dụng đất cấp huyện là 10 năm. Tầm nhìn quy hoạch sử dụng đất cấp huyện là 20 năm.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "00bf47c4207c7aa0bcd5001ba54d980a59e5b6bdf169462bcbb9c67b47a8ffee",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h03.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true
+        ],
+        "reason": "Đúng thời kỳ 10 năm, tầm nhìn 20 năm; nguồn khoản 3 Điều 62 trực tiếp hỗ trợ."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h04",
+      "question": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 có thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151 không?",
+      "answerability": "answerable",
+      "reference_answer": "Có; điểm a khoản 1 Điều 151.",
+      "gold": [
+        {
+          "source_id": "luatdat2",
+          "page": 71,
+          "evidence_quote": "a) Đất nông nghiệp sử dụng vào mục đích công ích theo quy định tại Điều 179 của Luật này;"
+        }
+      ],
+      "absence_reason": null,
+      "status": "error",
+      "answer": "",
+      "reason": "output_validation_failed",
+      "context_ids": [
+        "945704113975ee2976bc7f88d55ee93f",
+        "a7cdce738aaa59e30fcd4c1dfb41f960",
+        "4c80cb76914432cd27c83fe93e76d31b",
+        "39f891be7c1d4e2f74cd2e18317083f2"
+      ],
+      "context_gold_ids": [],
+      "ranked": [
+        {
+          "id": "945704113975ee2976bc7f88d55ee93f",
+          "article": "179",
+          "gold_hit": false
+        },
+        {
+          "id": "a7cdce738aaa59e30fcd4c1dfb41f960",
+          "article": "179",
+          "gold_hit": false
+        },
+        {
+          "id": "4c80cb76914432cd27c83fe93e76d31b",
+          "article": "179",
+          "gold_hit": false
+        }
+      ],
+      "citations": [],
+      "trace_sha256": "0bb005038aa5c76f1bd29b8e50b517104dfd0e5a5ff1e3b04e43f77cf7e64d97",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h04.json",
+      "model_requests": 3,
+      "validation_errors": [
+        "citations must occur in answer and context",
+        "answer markers and citations must match",
+        "quote does not occur in its cited evidence block",
+        "each citation needs a verified excerpt"
+      ],
+      "rejected_model_output": {
+        "answer": "Đất nông nghiệp sử dụng vào mục đích công ích theo Điều 179 không thuộc trường hợp không cấp Giấy chứng nhận nêu ở Điều 151. Theo Điều 179, quỹ đất nông nghiệp sử dụng vào mục đích công ích được quản lý và sử dụng theo quy hoạch, kế hoạch đã được phê duyệt, và không nằm trong các trường hợp không được cấp Giấy chứng nhận quyền sử dụng đất được quy định tại Điều 151.",
+        "citations": [
+          "945704113975ee2976bc7f88d55ee93f",
+          "39f891be7c1d4e2f74cd2e18317083f2"
+        ],
+        "abstained": false,
+        "reason": "Evidence đủ để xác định rằng đất nông nghiệp sử dụng vào mục đích công ích không thuộc trường hợp không cấp Giấy chứng nhận.",
+        "evidence_quotes": [
+          {
+            "id": "945704113975ee2976bc7f88d55ee93f",
+            "quote": "Quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn do Ủy ban nhân dân cấp xã nơi có đất quản lý, sử dụng theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt."
+          },
+          {
+            "id": "39f891be7c1d4e2f74cd2e18317083f2",
+            "quote": "Đối với diện tích đất chưa sử dụng vào các mục đích quy định tại khoản 2 Điều này thì Ủy ban nhân dân cấp xã cho cá nhân tại địa phương thuê để sản xuất nông nghiệp, nuôi trồng thủy sản theo hình thức đấu giá."
+          }
+        ]
+      },
+      "suggestion": {
+        "context": 0,
+        "grounded": 0,
+        "citations": [],
+        "reason": "Top-3 và context đều chỉ chứa Điều 179, thiếu Điều 151. Raw model còn kết luận ngược gold; hai lần validation thất bại nên output cuối là error, answer trống. Chấm grounded 0, ghi lỗi riêng; không coi đây là abstain đúng.",
+        "attention": "Raw model bị chặn, không phải câu trả lời đã xuất. Hai citation raw không nằm trong mẫu số citation output cuối."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h05",
+      "question": "Điều 199 khoản 1 có liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong đất xây dựng trụ sở cơ quan không?",
+      "answerability": "answerable",
+      "reference_answer": "Có; khoản 1 Điều 199 có liệt kê.",
+      "gold": [
+        {
+          "source_id": "luatdat3",
+          "page": 18,
+          "evidence_quote": "1. Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên."
+        }
+      ],
+      "absence_reason": null,
+      "status": "answered",
+      "answer": "Có, Điều 199 khoản 1 liệt kê đất trụ sở Mặt trận Tổ quốc Việt Nam trong danh sách đất xây dựng trụ sở cơ quan. [95b05da1e503db293e4a14d5c2f267d4]",
+      "reason": "Nội dung trong Điều 199 khoản 1 rõ ràng liệt kê Mặt trận Tổ quốc Việt Nam là một trong các cơ quan được đề cập.",
+      "context_ids": [
+        "95b05da1e503db293e4a14d5c2f267d4",
+        "9925c5c4e08b5c0d33f2caa81256c304",
+        "d00bf4d9aa3e429cba6326952fa85cbc",
+        "95ed2800050b804e0c36b5ba3b99f2af",
+        "8c0dcb4832652ed08990801ef1d1bf31"
+      ],
+      "context_gold_ids": [
+        "95b05da1e503db293e4a14d5c2f267d4"
+      ],
+      "ranked": [
+        {
+          "id": "95b05da1e503db293e4a14d5c2f267d4",
+          "article": "199",
+          "gold_hit": true
+        },
+        {
+          "id": "9925c5c4e08b5c0d33f2caa81256c304",
+          "article": "199",
+          "gold_hit": false
+        },
+        {
+          "id": "d00bf4d9aa3e429cba6326952fa85cbc",
+          "article": "199",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "95b05da1e503db293e4a14d5c2f267d4",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "source_id": "luatdat3",
+          "page": 18,
+          "page_end": 18,
+          "article": "199",
+          "clause": "1",
+          "quote": "Đất xây dựng trụ sở cơ quan gồm đất trụ sở cơ quan Đảng Cộng sản Việt Nam, cơ quan nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, tổ chức khác được thành lập theo quy định của pháp luật và được Nhà nước giao nhiệm vụ, hỗ trợ kinh phí hoạt động thường xuyên.",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "44c685df3c3b91ab904592414a3783c7dd1876695c11e7f2f577051162b1cd41",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h05.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": 2,
+        "grounded": 2,
+        "citations": [
+          true
+        ],
+        "reason": "Điều 199 khoản 1 nằm trong context và liệt kê đúng Mặt trận Tổ quốc Việt Nam."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h06",
+      "question": "Tài liệu cho biết mức phí đo đạc địa phương năm 2026 phải trả cho một thửa đất 120 m² tại Đà Nẵng là bao nhiêu?",
+      "answerability": "insufficient_evidence",
+      "reference_answer": null,
+      "gold": [],
+      "absence_reason": "Snapshot là luật, không có biểu phí địa phương năm 2026 hay hồ sơ đo đạc của thửa đất cụ thể.",
+      "status": "abstain",
+      "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+      "reason": "Tài liệu không có thông tin về mức phí đo đạc địa phương cho năm 2026 tại Đà Nẵng.",
+      "context_ids": [
+        "64d3c45e3843c75c90a5cb965f6ab707",
+        "fef75877838d45a6d4934502dc689e1d",
+        "2449bb2d303c690f842b9a1cf375d0f2",
+        "334d747afc884d77685bc97147efd65d",
+        "2f2bacc89f24b549a325b1d3d5e8e121",
+        "334aad170c9999f56be830b96408cf80"
+      ],
+      "context_gold_ids": [],
+      "ranked": [
+        {
+          "id": "64d3c45e3843c75c90a5cb965f6ab707",
+          "article": "50",
+          "gold_hit": false
+        },
+        {
+          "id": "fef75877838d45a6d4934502dc689e1d",
+          "article": "120",
+          "gold_hit": false
+        },
+        {
+          "id": "2449bb2d303c690f842b9a1cf375d0f2",
+          "article": "192",
+          "gold_hit": false
+        }
+      ],
+      "citations": [],
+      "trace_sha256": "065f08cff10e7a365ba956eff5ee1610724311b5d1e624bb3518f53157620301",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h06.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": null,
+        "grounded": null,
+        "abstention": true,
+        "citations": [],
+        "reason": "Từ chối rõ do corpus không có mức phí địa phương được hỏi; không đưa con số hoặc khẳng định ngoài nguồn."
+      }
+    },
+    {
+      "mode": "hybrid_improved",
+      "id": "h07",
+      "question": "Hồ sơ xin cấp Giấy chứng nhận riêng của một người dân đã được cơ quan địa phương phê duyệt hay chưa?",
+      "answerability": "insufficient_evidence",
+      "reference_answer": null,
+      "gold": [],
+      "absence_reason": "Corpus không có dữ liệu hồ sơ cá nhân hoặc quyết định xử lý hồ sơ cụ thể.",
+      "status": "answered",
+      "answer": "Hồ sơ xin cấp Giấy chứng nhận quyền sử dụng đất của một người dân sẽ được cơ quan có thẩm quyền xem xét và phê duyệt nếu người đó đang sử dụng đất ổn định và có các loại giấy tờ hợp lệ theo quy định. Cụ thể, Điều 137 quy định rằng hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ được lập trước ngày 15 tháng 10 năm 1993 thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà không phải nộp tiền sử dụng đất [476da231d78b9d10e7dff1be91a48479].",
+      "reason": "Thông tin trong Điều 137 đủ để xác định điều kiện cấp Giấy chứng nhận quyền sử dụng đất cho người dân.",
+      "context_ids": [
+        "32b919c282dd7f00772b5709f3ff4155",
+        "476da231d78b9d10e7dff1be91a48479",
+        "4724f3253d3733f0be04bbb527a67311"
+      ],
+      "context_gold_ids": [],
+      "ranked": [
+        {
+          "id": "32b919c282dd7f00772b5709f3ff4155",
+          "article": "152",
+          "gold_hit": false
+        },
+        {
+          "id": "476da231d78b9d10e7dff1be91a48479",
+          "article": "137",
+          "gold_hit": false
+        },
+        {
+          "id": "4724f3253d3733f0be04bbb527a67311",
+          "article": "137",
+          "gold_hit": false
+        }
+      ],
+      "citations": [
+        {
+          "citation_index": 0,
+          "citation_id": "476da231d78b9d10e7dff1be91a48479",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "source_id": "luatdat2",
+          "page": 47,
+          "page_end": 49,
+          "article": "137",
+          "clause": "1",
+          "quote": "Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ được lập trước ngày 15 tháng 10 năm 1993 sau đây thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và không phải nộp tiền sử dụng đất:",
+          "in_context": true,
+          "marker_in_answer": true,
+          "quote_matches_original_chunk": true
+        }
+      ],
+      "trace_sha256": "ab99f816d43f0b66e866311144ef84f34cedb45e8b9f9b6f95762ea5bc2e267f",
+      "trace_artifact": "runs/final_holdout_v1/hybrid_improved/h07.json",
+      "model_requests": 2,
+      "suggestion": {
+        "context": null,
+        "grounded": null,
+        "abstention": false,
+        "citations": [
+          true
+        ],
+        "reason": "Câu trả lời chuyển sang điều kiện cấp GCN nói chung thay vì nói không thể xác định hồ sơ riêng đã phê duyệt chưa. Citation khoản 1 Điều 137 hỗ trợ đúng mệnh đề pháp luật chung thực sự được viết (đất ổn định, giấy tờ trước 15/10/1993, không nộp tiền), nhưng không giải quyết tình trạng hồ sơ. Vì vậy citation đề xuất hỗ trợ phần điều kiện, abstention vẫn sai.",
+        "attention": "Phân biệt hỗ trợ mệnh đề pháp luật chung với trả lời đúng câu hỏi hồ sơ riêng. Citation đúng không làm abstention thành đúng."
+      }
+    }
+  ],
+  "query_embedding_usage": {
+    "requests": 7,
+    "tokens": 361,
+    "provider_reported_cost_usd": 0.00000722
+  },
+  "semantic_review_status": "pending_human_review",
+  "suggestions_summary": {
+    "dense": {
+      "status": "pending_human_review",
+      "context_counts": {
+        "0": 1,
+        "1": 0,
+        "2": 4
+      },
+      "grounded_counts": {
+        "0": 1,
+        "1": 0,
+        "2": 4
+      },
+      "grounded_mean_out_of_2": 1.6,
+      "citations_supported": 4,
+      "citations_total": 7,
+      "correct_abstention": 1,
+      "insufficient": 2
+    },
+    "hybrid_improved": {
+      "status": "pending_human_review",
+      "context_counts": {
+        "0": 1,
+        "1": 0,
+        "2": 4
+      },
+      "grounded_counts": {
+        "0": 1,
+        "1": 0,
+        "2": 4
+      },
+      "grounded_mean_out_of_2": 1.6,
+      "citations_supported": 6,
+      "citations_total": 6,
+      "correct_abstention": 1,
+      "insufficient": 2
+    }
+  }
+}

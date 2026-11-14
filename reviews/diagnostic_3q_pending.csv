@@ -1,0 +1,4 @@
+case_id,run_id,suggested_context_grade_0_2,suggested_grounded_answer_0_2,suggested_citation_support_0_2,notes,status
+q16,case_diagnostic_final,2,2,2,"Đã trả lời đất ở thuộc nhóm ổn định lâu dài; trích Điều 171 khoản 1.",pending_human_review
+q17,case_diagnostic_final,2,2,2,"Đã lấy đúng Điều 172 khoản 1 điểm a: 50 năm và không phải làm thủ tục gia hạn.",pending_human_review
+q19,case_diagnostic_final,2,2,2,"Đã liệt kê đủ bốn loại Giấy chứng nhận ở khoản 1 Điều 220; nguồn phần 3.",pending_human_review

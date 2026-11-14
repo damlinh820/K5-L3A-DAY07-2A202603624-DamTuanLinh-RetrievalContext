@@ -1,0 +1,113 @@
+{
+  "verified_on": "2026-11-14",
+  "tests": {
+    "command": ".venv/Scripts/python.exe -m pytest -q",
+    "passed": 56,
+    "failed": 0
+  },
+  "dependency_check": "No broken requirements found",
+  "compileall": "passed",
+  "submission_check": {
+    "missing_required_files": [],
+    "possible_secret_files": [],
+    "original_benchmark_hash_valid": true,
+    "review_run_case_ids_unique": true
+  },
+  "http_checks": {
+    "GET_root": 200,
+    "GET_app_js": 200,
+    "GET_style_css": 200,
+    "GET_health": 200,
+    "GET_dashboard": 200,
+    "GET_example_q17": 200,
+    "POST_compare": {
+      "http": 200,
+      "modes": [
+        "dense",
+        "bm25",
+        "hybrid_rrf"
+      ],
+      "results_per_mode": 3
+    },
+    "POST_query_q06": {
+      "http": 200,
+      "status": "answered",
+      "search_calls": 1,
+      "citations": 1,
+      "trace_id": "2229cacb2967403083388d48ccf91d3e",
+      "artifact": "runs/demo_queries/2229cacb2967403083388d48ccf91d3e.json"
+    }
+  },
+  "earlier_smoke_errors": "Two PowerShell stdin smoke queries lost Vietnamese characters to ASCII question marks; retained in demo_queries. Correct UTF-8 file-based request passed.",
+  "browser_visual_qa": {
+    "status": "unavailable",
+    "reason": "Computer-use/browser kernel failed to initialize; no screenshots claimed."
+  },
+  "fresh_holdout": {
+    "approved": true,
+    "executed": true,
+    "required_next_gate": null,
+    "run_directory": "runs/final_holdout_v1",
+    "H3": "human_verified"
+  },
+  "no_git_commit_or_push": true,
+  "followup_after_audit": {
+    "tests_passed": 56,
+    "dependency_check": "No broken requirements found",
+    "compileall": "passed",
+    "javascript_syntax": "passed using V8 Function compilation; DOM execution not performed",
+    "http_fixture_checks": {
+      "GET_root": 200,
+      "GET_app_js": 200,
+      "GET_style_css": 200,
+      "GET_dashboard": 200,
+      "GET_example_q17": 200,
+      "q17_context_ids": 5,
+      "q17_context_cards": 5
+    },
+    "artifact_issues": [],
+    "runtime_hash_mismatches": [],
+    "broken_local_markdown_links": [],
+    "index_configuration_and_identity": "verified without search or embedding calls",
+    "inference_core_unchanged_from_latest_dev": true,
+    "fresh_holdout_preflight": "blocked as expected: H1/H2 human approval required",
+    "fresh_holdout_output_directory_created": false,
+    "new_paid_model_api_calls": 0,
+    "review_proposals": {
+      "latest_dev": 17,
+      "historical_context_corrections": 4,
+      "status": "pending_human_review"
+    },
+    "original_benchmark_gold_metadata": {
+      "pending_inherited": 20,
+      "human_verified_insufficient": 4
+    },
+    "visual_browser_qa": "not performed in this follow-up; no screenshots claimed"
+  },
+  "final_holdout_execution": {
+    "approval_receipt": "benchmarks/h1_h2_confirmation.json",
+    "run_directory": "runs/final_holdout_v1",
+    "modes": [
+      "dense",
+      "hybrid_improved"
+    ],
+    "outputs": 14,
+    "execution_count": 1,
+    "model_responses": 31,
+    "actual_model_version": "gpt-4o-mini-2024-07-18",
+    "processing_errors": {
+      "dense": 0,
+      "hybrid_improved": 1
+    },
+    "estimated_chat_cost_usd": 0.0082074,
+    "provider_reported_query_embedding_cost_usd": 0.00000722,
+    "actual_chat_invoice_cost_usd": null,
+    "H1": "confirmed_by_user",
+    "H2": "confirmed_by_user",
+    "H3": "human_verified",
+    "semantic_review_document": "reviews/final_holdout_v1_H3.md",
+    "inference_code_changed_after_test": false,
+    "test_rerun": false,
+    "verified_cases": 14
+  }
+}

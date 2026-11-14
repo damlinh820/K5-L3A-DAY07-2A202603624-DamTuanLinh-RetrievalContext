@@ -1,0 +1,1728 @@
+[
+  {
+    "query_id": "q16",
+    "question": "Đất ở thuộc nhóm sử dụng ổn định lâu dài hay nhóm sử dụng có thời hạn trong bản luật được cung cấp?",
+    "gold": [
+      {
+        "source_id": "luatdat3",
+        "page": 1,
+        "evidence_quote": "Điều 171. Đất sử dụng ổn định lâu dài 1. Đất ở."
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "7d63c91928a2a0d27942d467f424ee6f",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n5. Chính phủ quy định chi tiết Điều này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "172",
+            "clause": "5"
+          },
+          "score": 0.6566002368927002,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "41b7c976aaf012cc8b4d1781d3f2b6ee",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n3. Việc gia hạn sử dụng đất được thực hiện trong năm cuối của thời hạn sử dụng đất, trừ trường hợp quy định tại điểm a khoản 1 Điều này. Người sử dụng đất có nhu cầu gia hạn sử dụng đất phải nộp hồ sơ đề nghị gia hạn chậm nhất là 06 tháng trước khi hết thời hạn sử dụng đất. Quá thời hạn phải nộp hồ sơ đề nghị gia hạn mà người sử dụng đất không nộp hồ sơ đề nghị gia hạn thì không được gia hạn sử dụng đất, trừ trường hợp bất khả kháng. Trường hợp không được gia hạn sử dụng đất, cơ quan nhà nước có thẩm quyền thực hiện thu hồi đất theo quy định của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 2,
+          "metadata": {
+            "part": 3,
+            "article": "172",
+            "clause": "3"
+          },
+          "score": 0.6509345769882202,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+          "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 3,
+            "article": "171",
+            "clause": ""
+          },
+          "score": 0.6496809720993042,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "3"
+          },
+          "score": 33.23541981810206,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "174",
+            "clause": null
+          },
+          "score": 29.518953286029436,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "3601f68bf042cae686dd47a88a2b823d",
+          "text": "Điều 148. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là nhà ở\n6. Trường hợp công trình có mục đích hỗn hợp theo quy định của pháp luật và được tạo lập trên đất ở thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là hạng mục công trình hoặc toàn bộ công trình đó; thời hạn sử dụng đất là ổn định lâu dài.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 69,
+          "metadata": {
+            "part": 2,
+            "article": "148",
+            "clause": "6"
+          },
+          "score": 26.472117523390708,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "3"
+          },
+          "score": 0.03131881575727918,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03131881575727918,
+          "source_ranks": {
+            "dense": 7,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6179783940315247,
+            "bm25": 33.23541981810206
+          }
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "174",
+            "clause": ""
+          },
+          "score": 0.030834914611005692,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030834914611005692,
+          "source_ranks": {
+            "dense": 8,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6117518544197083,
+            "bm25": 29.518953286029436
+          }
+        },
+        {
+          "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+          "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 3,
+            "article": "171",
+            "clause": ""
+          },
+          "score": 0.030158730158730156,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030158730158730156,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 10
+          },
+          "source_scores": {
+            "dense": 0.6496809720993042,
+            "bm25": 19.531696809372267
+          }
+        }
+      ],
+      "hybrid_rrf_candidate20": [
+        {
+          "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "3"
+          },
+          "score": 0.03131881575727918,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03131881575727918,
+          "source_ranks": {
+            "dense": 7,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6179783940315247,
+            "bm25": 33.23541981810206
+          }
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "174",
+            "clause": ""
+          },
+          "score": 0.030834914611005692,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030834914611005692,
+          "source_ranks": {
+            "dense": 8,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6117518544197083,
+            "bm25": 29.518953286029436
+          }
+        },
+        {
+          "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+          "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 3,
+            "article": "171",
+            "clause": ""
+          },
+          "score": 0.030158730158730156,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.030158730158730156,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 10
+          },
+          "source_scores": {
+            "dense": 0.6496809720993042,
+            "bm25": 19.531696809372267
+          }
+        }
+      ],
+      "hybrid_rrf_lexical_rerank": [
+        {
+          "id": "4ff82daf69fa019b8e9e00ae56531c2e",
+          "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n1. Hộ gia đình, cá nhân sử dụng đất trước ngày 18 tháng 12 năm 1980, nay được Ủy ban nhân dân cấp xã nơi có đất xác nhận không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất như sau:\na) Đối với thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống nếu diện tích thửa đất bằng hoặc lớn hơn hạn mức công nhận đất ở theo quy định tại khoản 5 Điều 141 của Luật này thì diện tích đất ở được công nhận bằng hạn mức công nhận đất ở và không phải nộp tiền sử dụng đất. Trường hợp diện tích đất đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống lớn hơn hạn mức công nhận đất ở quy định tại điểm này thì diện tích đất ở được công nhận theo diện tích thực tế đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống đó; người sử dụng đất phải nộp tiền sử dụng đất đối với diện tích vượt hạn mức công nhận đất ở tại điểm này;\nb) Đối với thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống nếu diện tích thửa đất nhỏ hơn hạn mức công nhận đất ở quy định tại khoản 5 Điều 141 của Luật này thì diện tích đất ở được xác định là toàn bộ diện tích thửa đất đó và không phải nộp tiền sử dụng đất;\nc) Đối với thửa đất có sử dụng vào mục đích sản xuất, kinh doanh phi nông nghiệp, thương mại, dịch vụ thì công nhận đất cơ sở sản xuất phi nông nghiệp,\nđất thương mại, dịch vụ theo diện tích thực tế đã sử dụng; hình thức sử dụng đất được công nhận như hình thức giao đất có thu tiền sử dụng đất, thời hạn sử dụng đất là ổn định lâu dài;\nd) Đối với phần diện tích đất còn lại sau khi đã được xác định theo quy định tại điểm a và điểm c khoản này thì được xác định theo hiện trạng sử dụng đất. Trường hợp hiện trạng sử dụng là đất phi nông nghiệp không phải là đất ở thì được công nhận theo quy định tại điểm c khoản này. Trường hợp hiện trạng sử dụng là đất nông nghiệp thì được công nhận theo hình thức Nhà nước giao đất không thu tiền sử dụng đất; nếu người sử dụng đất có nhu cầu công nhận vào mục đích đất phi nông nghiệp mà phù hợp với quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu hoặc quy hoạch xây dựng hoặc quy hoạch nông thôn thì được công nhận vào mục đích đó và phải nộp tiền sử dụng đất theo quy định của pháp luật;\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 51,
+          "metadata": {
+            "part": 2,
+            "article": "138",
+            "clause": "1"
+          },
+          "score": 0.8,
+          "rank": 1,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.014084507042253521,
+          "source_ranks": {
+            "bm25": 11
+          },
+          "source_scores": {
+            "bm25": 19.08560126512249
+          },
+          "rerank_score": 0.8,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "82669cd2825f7d1fd9a91516b79b3721",
+          "text": "Điều 145. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất\n3. Diện tích đất của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc sau khi đã xử lý theo quy định tại khoản 2 Điều này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất với thời hạn sử dụng đất ổn định lâu dài và hình thức giao đất không thu tiền sử dụng đất theo quy định tại khoản 2 Điều 213 của Luật này khi có đủ các điều kiện sau đây:\na) Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động;\nb) Đất không có tranh chấp hoặc tranh chấp đã được giải quyết bởi cơ quan nhà nước có thẩm quyền, bản án, quyết định của Tòa án, quyết định hoặc phán quyết của Trọng tài đã có hiệu lực pháp luật;\nc) Không phải là đất nhận chuyển nhượng, nhận tặng cho từ ngày 01 tháng 7 năm 2004 trở về sau.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 66,
+          "metadata": {
+            "part": 2,
+            "article": "145",
+            "clause": "3"
+          },
+          "score": 0.75,
+          "rank": 2,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.014925373134328358,
+          "source_ranks": {
+            "bm25": 7
+          },
+          "source_scores": {
+            "bm25": 22.695489478958912
+          },
+          "rerank_score": 0.75,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "3601f68bf042cae686dd47a88a2b823d",
+          "text": "Điều 148. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là nhà ở\n6. Trường hợp công trình có mục đích hỗn hợp theo quy định của pháp luật và được tạo lập trên đất ở thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là hạng mục công trình hoặc toàn bộ công trình đó; thời hạn sử dụng đất là ổn định lâu dài.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 69,
+          "metadata": {
+            "part": 2,
+            "article": "148",
+            "clause": "6"
+          },
+          "score": 0.7,
+          "rank": 3,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.015873015873015872,
+          "source_ranks": {
+            "bm25": 3
+          },
+          "source_scores": {
+            "bm25": 26.472117523390708
+          },
+          "rerank_score": 0.7,
+          "rerank_reason": "query term coverage + exact article bonus"
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": false,
+      "hybrid_rrf": false,
+      "hybrid_rrf_candidate20": false,
+      "hybrid_rrf_lexical_rerank": false
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": false,
+      "hybrid_rrf": true,
+      "hybrid_rrf_candidate20": true,
+      "hybrid_rrf_lexical_rerank": false
+    },
+    "elapsed_ms": 37.61780000058934
+  },
+  {
+    "query_id": "q17",
+    "question": "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm trong hạn mức Điều 176 có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?",
+    "gold": [
+      {
+        "source_id": "luatdat3",
+        "page": 2,
+        "evidence_quote": "a) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "2"
+          },
+          "score": 0.7615513801574707,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 0.7564194202423096,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "1"
+          },
+          "score": 0.7281771898269653,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 3,
+            "article": "172",
+            "clause": "1"
+          },
+          "score": 75.57756851972864,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 69.18655359486432,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "1"
+          },
+          "score": 62.25153447863593,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 0.03225806451612903,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03225806451612903,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.7564194202423096,
+            "bm25": 69.18655359486432
+          }
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "1"
+          },
+          "score": 0.031746031746031744,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031746031746031744,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.7281771898269653,
+            "bm25": 62.25153447863593
+          }
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "2"
+          },
+          "score": 0.031544957774465976,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031544957774465976,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 6
+          },
+          "source_scores": {
+            "dense": 0.7615513801574707,
+            "bm25": 55.070810079795045
+          }
+        }
+      ],
+      "hybrid_rrf_candidate20": [
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 0.03225806451612903,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03225806451612903,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.7564194202423096,
+            "bm25": 69.18655359486432
+          }
+        },
+        {
+          "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "1"
+          },
+          "score": 0.031746031746031744,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031746031746031744,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.7281771898269653,
+            "bm25": 62.25153447863593
+          }
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "2"
+          },
+          "score": 0.031544957774465976,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031544957774465976,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 6
+          },
+          "source_scores": {
+            "dense": 0.7615513801574707,
+            "bm25": 55.070810079795045
+          }
+        }
+      ],
+      "hybrid_rrf_lexical_rerank": [
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 3,
+            "article": "172",
+            "clause": "1"
+          },
+          "score": 0.9714285714285714,
+          "rank": 1,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.031099324975891997,
+          "source_ranks": {
+            "dense": 8,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6336404085159302,
+            "bm25": 75.57756851972864
+          },
+          "rerank_score": 0.9714285714285714,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "e8edf6b70851f8e1b78af2b84636c407",
+          "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "174",
+            "clause": null
+          },
+          "score": 0.8,
+          "rank": 2,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.015625,
+          "source_ranks": {
+            "bm25": 4
+          },
+          "source_scores": {
+            "bm25": 61.15250311799916
+          },
+          "rerank_score": 0.8,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "95312ce8339c89a83ff213d6a3eab795",
+          "text": "Điều 109. Hỗ trợ đào tạo, chuyển đổi nghề và tìm kiếm việc làm cho hộ gia đình, cá nhân khi Nhà nước thu hồi đất\n1. Hỗ trợ bằng tiền không quá 05 lần giá đất nông nghiệp cùng loại trong bảng giá đất của địa phương đối với toàn bộ diện tích đất nông nghiệp thu hồi nhưng không vượt quá hạn mức giao đất nông nghiệp tại địa phương theo quy định tại Điều 176 của Luật này đối với các đối tượng sau đây:\na) Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp đang sử dụng đất nông nghiệp do được Nhà nước giao, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho, được công nhận quyền sử dụng đất khi Nhà nước thu hồi đất không có đất để bồi thường và đã được bồi thường bằng tiền;\nb) Cá nhân thuộc đối tượng bảo trợ xã hội, đối tượng được hưởng chế độ trợ cấp xã hội hằng tháng theo quy định của pháp luật, thương binh, bệnh binh, gia đình liệt sĩ khi Nhà nước thu hồi đất nông nghiệp mà không có đất để bồi thường và đã được bồi thường bằng tiền;\nc) Hộ gia đình, cá nhân sử dụng đất do nhận giao khoán đất để sử dụng vào mục đích nông nghiệp, lâm nghiệp, nuôi trồng thủy sản từ các nông, lâm trường quốc doanh hoặc công ty nông, lâm nghiệp được chuyển đổi từ các nông, lâm trường quốc doanh đang trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó, trừ trường hợp cá nhân là cán bộ, công nhân viên của nông, lâm trường quốc doanh, của công ty nông, lâm nghiệp được chuyển đổi từ các nông, lâm trường quốc doanh đã nghỉ hưu, nghỉ mất sức lao động, thôi việc được hưởng trợ cấp;\nd) Hộ gia đình, cá nhân đang sử dụng đất do nhận giao khoán đất của tập đoàn sản xuất nông nghiệp, hợp tác xã nông nghiệp đang trực tiếp sản xuất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 15,
+          "metadata": {
+            "part": 2,
+            "article": "109",
+            "clause": "1"
+          },
+          "score": 0.7428571428571429,
+          "rank": 3,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.014285714285714285,
+          "source_ranks": {
+            "bm25": 10
+          },
+          "source_scores": {
+            "bm25": 47.86513555341798
+          },
+          "rerank_score": 0.7428571428571429,
+          "rerank_reason": "query term coverage + exact article bonus"
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": false,
+      "hybrid_rrf": false,
+      "hybrid_rrf_candidate20": false,
+      "hybrid_rrf_lexical_rerank": false
+    },
+    "hit3": {
+      "dense": false,
+      "bm25": false,
+      "hybrid_rrf": false,
+      "hybrid_rrf_candidate20": false,
+      "hybrid_rrf_lexical_rerank": false
+    },
+    "elapsed_ms": 13.986899983137846
+  },
+  {
+    "query_id": "q18",
+    "question": "Cá nhân chuyển đất trồng cây hằng năm sang đất rừng đặc dụng thì thời hạn sử dụng được xác định như thế nào?",
+    "gold": [
+      {
+        "source_id": "luatdat3",
+        "page": 3,
+        "evidence_quote": "b) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "1"
+          },
+          "score": 0.6808197498321533,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "2"
+          },
+          "score": 0.6728371381759644,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 0.6726277470588684,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "1"
+          },
+          "score": 47.30729911021447,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 33.3556888368017,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "1da2f935acc4396e28719f5160ae6fa1",
+          "text": "Điều 9. Phân loại đất\n2. Nhóm đất nông nghiệp bao gồm các loại đất sau đây:\na) Đất trồng cây hằng năm, gồm đất trồng lúa và đất trồng cây hằng năm khác;\nb) Đất trồng cây lâu năm;\nc) Đất lâm nghiệp, gồm đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất;\nd) Đất nuôi trồng thủy sản;\nđ) Đất chăn nuôi tập trung;\ne) Đất làm muối;\ng) Đất nông nghiệp khác.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 10,
+          "metadata": {
+            "part": 1,
+            "article": "9",
+            "clause": "2"
+          },
+          "score": 31.36275902954008,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "1"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6808197498321533,
+            "bm25": 47.30729911021447
+          }
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 0.03200204813108039,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03200204813108039,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6726277470588684,
+            "bm25": 33.3556888368017
+          }
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "2"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "dense": 2
+          },
+          "source_scores": {
+            "dense": 0.6728371381759644
+          }
+        }
+      ],
+      "hybrid_rrf_candidate20": [
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "1"
+          },
+          "score": 0.03278688524590164,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6808197498321533,
+            "bm25": 47.30729911021447
+          }
+        },
+        {
+          "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 5,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "4"
+          },
+          "score": 0.03200204813108039,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03200204813108039,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6726277470588684,
+            "bm25": 33.3556888368017
+          }
+        },
+        {
+          "id": "581b44265b24f7bef27e483fd0e9e64d",
+          "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 4,
+          "metadata": {
+            "part": 3,
+            "article": "176",
+            "clause": "2"
+          },
+          "score": 0.016129032258064516,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.016129032258064516,
+          "source_ranks": {
+            "dense": 2
+          },
+          "source_scores": {
+            "dense": 0.6728371381759644
+          }
+        }
+      ],
+      "hybrid_rrf_lexical_rerank": [
+        {
+          "id": "2da66fb0a33cf936ec939efa1be116bc",
+          "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 3,
+          "metadata": {
+            "part": 3,
+            "article": "173",
+            "clause": "1"
+          },
+          "score": 0.9090909090909091,
+          "rank": 1,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.03278688524590164,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6808197498321533,
+            "bm25": 47.30729911021447
+          },
+          "rerank_score": 0.9090909090909091,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "8f9858b390b20bbbd00836d99647486c",
+          "text": "Điều 172. Đất sử dụng có thời hạn\n1. Trừ các trường hợp quy định tại Điều 171 của Luật này, thời hạn sử dụng đất khi được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất được quy định như sau:\na) Thời hạn giao đất, công nhận quyền sử dụng đất nông nghiệp đối với cá nhân trực tiếp sản xuất nông nghiệp sử dụng đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối, đất trồng cây lâu năm, đất rừng sản xuất là rừng trồng trong hạn mức quy định tại Điều 176 của Luật này là 50 năm. Khi hết thời hạn sử dụng đất, thì được tiếp tục sử dụng đất theo thời hạn quy định tại điểm này mà không phải làm thủ tục gia hạn;\nb) Thời hạn cho thuê đất nông nghiệp đối với cá nhân không quá 50 năm. Khi hết thời hạn thuê đất, cá nhân nếu có nhu cầu thì được Nhà nước xem xét tiếp tục cho thuê đất nhưng không quá 50 năm;\nc) Thời hạn giao đất, cho thuê đất để thực hiện các dự án đầu tư có sử dụng đất được xem xét, quyết định theo thời hạn hoạt động của dự án đầu tư hoặc đơn xin giao đất, thuê đất nhưng không quá 50 năm. Đối với các dự án có thời hạn hoạt động trên 50 năm theo quy định của Luật Đầu tư thì thời hạn giao đất, cho thuê đất theo thời hạn của dự án nhưng không quá 70 năm. Khi hết thời hạn, người sử dụng đất nếu có nhu cầu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất nhưng không quá thời hạn quy định tại khoản này. Trường hợp không phải lập dự án đầu tư thì thời hạn sử dụng đất được xem xét trên cơ sở đơn xin giao đất, cho thuê đất nhưng không quá 50 năm;\nd) Thời hạn cho thuê đất xây dựng trụ sở làm việc của tổ chức nước ngoài có chức năng ngoại giao không quá 99 năm. Khi hết thời hạn, tổ chức nước ngoài có chức năng ngoại giao nếu có nhu cầu sử dụng đất thì được Nhà nước xem xét gia hạn hoặc cho thuê đất khác; thời hạn gia hạn hoặc cho thuê đất khác không quá thời hạn quy định tại khoản này.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 1,
+          "metadata": {
+            "part": 3,
+            "article": "172",
+            "clause": "1"
+          },
+          "score": 0.7272727272727273,
+          "rank": 2,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.015625,
+          "source_ranks": {
+            "bm25": 4
+          },
+          "source_scores": {
+            "bm25": 30.16173176886969
+          },
+          "rerank_score": 0.7272727272727273,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "38c20445b474242d03da16a256c42a50",
+          "text": "Điều 45. Điều kiện thực hiện các quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất; nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất\n8. Các trường hợp không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất quy định như sau:\na) Tổ chức kinh tế không được nhận chuyển nhượng quyền sử dụng đất rừng phòng hộ, đất rừng đặc dụng của cá nhân, trừ trường hợp được chuyển mục đích sử dụng đất theo quy hoạch, kế hoạch sử dụng đất đã được cơ quan có thẩm quyền phê duyệt;\nb) Cá nhân không sinh sống trong khu vực rừng phòng hộ, rừng đặc dụng thì không được nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất ở và đất khác trong khu vực rừng phòng hộ, trong phân khu bảo vệ nghiêm ngặt, phân khu phục hồi sinh thái thuộc rừng đặc dụng đó;\nc) Tổ chức, cá nhân, cộng đồng dân cư, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài mà pháp luật không cho phép nhận chuyển nhượng, nhận tặng cho quyền sử dụng đất.\n",
+          "source_id": "luatdat1",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+          "page": 42,
+          "metadata": {
+            "part": 1,
+            "article": "45",
+            "clause": "8"
+          },
+          "score": 0.5909090909090909,
+          "rank": 3,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.014492753623188406,
+          "source_ranks": {
+            "bm25": 9
+          },
+          "source_scores": {
+            "bm25": 25.337873827539248
+          },
+          "rerank_score": 0.5909090909090909,
+          "rerank_reason": "query term coverage + exact article bonus"
+        }
+      ]
+    },
+    "hit1": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true,
+      "hybrid_rrf_candidate20": true,
+      "hybrid_rrf_lexical_rerank": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true,
+      "hybrid_rrf_candidate20": true,
+      "hybrid_rrf_lexical_rerank": true
+    },
+    "elapsed_ms": 11.71940000494942
+  },
+  {
+    "query_id": "q19",
+    "question": "Chỉ tra cứu phần 3 của bộ PDF: khi tách hoặc hợp thửa, khoản 1 Điều 220 yêu cầu thửa đất đã có những loại Giấy chứng nhận nào?",
+    "gold": [
+      {
+        "source_id": "luatdat3",
+        "page": 34,
+        "evidence_quote": "Điều 220. Tách thửa đất, hợp thửa đất 1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây: a) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "ffaf93f72e9e9c4de9261e10151f4e53",
+          "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n3. Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ sau đây thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và không phải nộp tiền sử dụng đất:\na) Giấy tờ hợp pháp về thừa kế, tặng cho quyền sử dụng đất hoặc tài sản gắn liền với đất; giấy tờ giao nhà tình nghĩa, nhà tình thương, nhà đại đoàn kết gắn liền với đất;\nb) Giấy tờ thanh lý, hóa giá nhà ở gắn liền với đất ở; giấy tờ mua nhà ở thuộc sở hữu nhà nước theo quy định của pháp luật.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 49,
+          "metadata": {
+            "part": 2,
+            "article": "137",
+            "clause": "3"
+          },
+          "score": 0.643378734588623,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "0ae418ae8fa3b9803a1f381a3da4a0ef",
+          "text": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo quy định tại Điều 220 của Luật này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 67,
+          "metadata": {
+            "part": 2,
+            "article": "146",
+            "clause": "3"
+          },
+          "score": 0.6426035761833191,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "c036e6ec6d93a0b2900ebb12804a7505",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây:\na) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thửa đất còn trong thời hạn sử dụng đất;\nc) Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền. Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất;\nd) Việc tách thửa đất, hợp thửa đất phải bảo đảm có lối đi; được kết nối với đường giao thông công cộng hiện có; bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý. Trường hợp người sử dụng đất dành một phần diện tích của thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất để làm lối đi, khi thực hiện việc tách thửa đất hoặc hợp thửa đất thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đất để làm lối đi đó.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "1"
+          },
+          "score": 0.6370256543159485,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "c036e6ec6d93a0b2900ebb12804a7505",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây:\na) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thửa đất còn trong thời hạn sử dụng đất;\nc) Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền. Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất;\nd) Việc tách thửa đất, hợp thửa đất phải bảo đảm có lối đi; được kết nối với đường giao thông công cộng hiện có; bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý. Trường hợp người sử dụng đất dành một phần diện tích của thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất để làm lối đi, khi thực hiện việc tách thửa đất hoặc hợp thửa đất thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đất để làm lối đi đó.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "1"
+          },
+          "score": 43.774950524964034,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "0ae418ae8fa3b9803a1f381a3da4a0ef",
+          "text": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo quy định tại Điều 220 của Luật này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 67,
+          "metadata": {
+            "part": 2,
+            "article": "146",
+            "clause": "3"
+          },
+          "score": 42.412455189968725,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "f2917c5e3b102e9d2618b19b8e5e0af8",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n2. Trường hợp tách thửa đất thì ngoài các nguyên tắc, điều kiện quy định tại khoản 1 Điều này còn phải bảo đảm các điều kiện sau đây:\na) Các thửa đất sau khi tách thửa phải bảo đảm diện tích tối thiểu với loại đất đang sử dụng theo quy định của Ủy ban nhân dân cấp tỉnh; Trường hợp thửa đất được tách có diện tích nhỏ hơn diện tích tối thiểu được phép tách thửa thì phải thực hiện đồng thời việc hợp thửa với thửa đất liền kề;\nb) Trường hợp chuyển mục đích sử dụng một phần thửa đất thì thực hiện tách thửa, diện tích tối thiểu của thửa đất sau khi tách phải bằng hoặc lớn hơn diện tích tối thiểu của loại đất sau khi chuyển mục đích sử dụng. Đối với thửa đất có đất ở và đất khác thì không bắt buộc thực hiện tách thửa khi chuyển mục đích sử dụng một phần thửa đất, trừ trường hợp người sử dụng đất có nhu cầu tách thửa;\nc) Trường hợp phân chia quyền sử dụng đất theo bản án, quyết định của Tòa án mà việc phân chia không bảo đảm các điều kiện, diện tích, kích thước tách thửa theo quy định thì không thực hiện tách thửa.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 35,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "2"
+          },
+          "score": 40.71299684868065,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "c036e6ec6d93a0b2900ebb12804a7505",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây:\na) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thửa đất còn trong thời hạn sử dụng đất;\nc) Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền. Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất;\nd) Việc tách thửa đất, hợp thửa đất phải bảo đảm có lối đi; được kết nối với đường giao thông công cộng hiện có; bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý. Trường hợp người sử dụng đất dành một phần diện tích của thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất để làm lối đi, khi thực hiện việc tách thửa đất hoặc hợp thửa đất thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đất để làm lối đi đó.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "1"
+          },
+          "score": 0.032266458495966696,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6370256543159485,
+            "bm25": 43.774950524964034
+          }
+        },
+        {
+          "id": "0ae418ae8fa3b9803a1f381a3da4a0ef",
+          "text": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo quy định tại Điều 220 của Luật này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 67,
+          "metadata": {
+            "part": 2,
+            "article": "146",
+            "clause": "3"
+          },
+          "score": 0.03225806451612903,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03225806451612903,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6426035761833191,
+            "bm25": 42.412455189968725
+          }
+        },
+        {
+          "id": "f2917c5e3b102e9d2618b19b8e5e0af8",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n2. Trường hợp tách thửa đất thì ngoài các nguyên tắc, điều kiện quy định tại khoản 1 Điều này còn phải bảo đảm các điều kiện sau đây:\na) Các thửa đất sau khi tách thửa phải bảo đảm diện tích tối thiểu với loại đất đang sử dụng theo quy định của Ủy ban nhân dân cấp tỉnh; Trường hợp thửa đất được tách có diện tích nhỏ hơn diện tích tối thiểu được phép tách thửa thì phải thực hiện đồng thời việc hợp thửa với thửa đất liền kề;\nb) Trường hợp chuyển mục đích sử dụng một phần thửa đất thì thực hiện tách thửa, diện tích tối thiểu của thửa đất sau khi tách phải bằng hoặc lớn hơn diện tích tối thiểu của loại đất sau khi chuyển mục đích sử dụng. Đối với thửa đất có đất ở và đất khác thì không bắt buộc thực hiện tách thửa khi chuyển mục đích sử dụng một phần thửa đất, trừ trường hợp người sử dụng đất có nhu cầu tách thửa;\nc) Trường hợp phân chia quyền sử dụng đất theo bản án, quyết định của Tòa án mà việc phân chia không bảo đảm các điều kiện, diện tích, kích thước tách thửa theo quy định thì không thực hiện tách thửa.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 35,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "2"
+          },
+          "score": 0.03125763125763126,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03125763125763126,
+          "source_ranks": {
+            "dense": 5,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6310220956802368,
+            "bm25": 40.71299684868065
+          }
+        }
+      ],
+      "hybrid_rrf_candidate20": [
+        {
+          "id": "c036e6ec6d93a0b2900ebb12804a7505",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây:\na) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thửa đất còn trong thời hạn sử dụng đất;\nc) Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền. Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất;\nd) Việc tách thửa đất, hợp thửa đất phải bảo đảm có lối đi; được kết nối với đường giao thông công cộng hiện có; bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý. Trường hợp người sử dụng đất dành một phần diện tích của thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất để làm lối đi, khi thực hiện việc tách thửa đất hoặc hợp thửa đất thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đất để làm lối đi đó.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "1"
+          },
+          "score": 0.032266458495966696,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6370256543159485,
+            "bm25": 43.774950524964034
+          }
+        },
+        {
+          "id": "0ae418ae8fa3b9803a1f381a3da4a0ef",
+          "text": "Điều 146. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp thửa đất có diện tích nhỏ hơn diện tích tối thiểu\n3. Trường hợp thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà người sử dụng đất có nhu cầu tách thửa, hợp thửa nếu đáp ứng đủ điều kiện theo quy định tại Điều 220 của Luật này thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất sau khi tách thửa, hợp thửa.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 67,
+          "metadata": {
+            "part": 2,
+            "article": "146",
+            "clause": "3"
+          },
+          "score": 0.03225806451612903,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03225806451612903,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 2
+          },
+          "source_scores": {
+            "dense": 0.6426035761833191,
+            "bm25": 42.412455189968725
+          }
+        },
+        {
+          "id": "f2917c5e3b102e9d2618b19b8e5e0af8",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n2. Trường hợp tách thửa đất thì ngoài các nguyên tắc, điều kiện quy định tại khoản 1 Điều này còn phải bảo đảm các điều kiện sau đây:\na) Các thửa đất sau khi tách thửa phải bảo đảm diện tích tối thiểu với loại đất đang sử dụng theo quy định của Ủy ban nhân dân cấp tỉnh; Trường hợp thửa đất được tách có diện tích nhỏ hơn diện tích tối thiểu được phép tách thửa thì phải thực hiện đồng thời việc hợp thửa với thửa đất liền kề;\nb) Trường hợp chuyển mục đích sử dụng một phần thửa đất thì thực hiện tách thửa, diện tích tối thiểu của thửa đất sau khi tách phải bằng hoặc lớn hơn diện tích tối thiểu của loại đất sau khi chuyển mục đích sử dụng. Đối với thửa đất có đất ở và đất khác thì không bắt buộc thực hiện tách thửa khi chuyển mục đích sử dụng một phần thửa đất, trừ trường hợp người sử dụng đất có nhu cầu tách thửa;\nc) Trường hợp phân chia quyền sử dụng đất theo bản án, quyết định của Tòa án mà việc phân chia không bảo đảm các điều kiện, diện tích, kích thước tách thửa theo quy định thì không thực hiện tách thửa.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 35,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "2"
+          },
+          "score": 0.03125763125763126,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.03125763125763126,
+          "source_ranks": {
+            "dense": 5,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6310220956802368,
+            "bm25": 40.71299684868065
+          }
+        }
+      ],
+      "hybrid_rrf_lexical_rerank": [
+        {
+          "id": "c036e6ec6d93a0b2900ebb12804a7505",
+          "text": "Điều 220. Tách thửa đất, hợp thửa đất\n1. Việc tách thửa đất, hợp thửa đất phải bảo đảm các nguyên tắc, điều kiện sau đây:\na) Thửa đất đã được cấp một trong các loại giấy chứng nhận: Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Thửa đất còn trong thời hạn sử dụng đất;\nc) Đất không có tranh chấp, không bị kê biên để bảo đảm thi hành án, không bị áp dụng biện pháp khẩn cấp tạm thời của cơ quan nhà nước có thẩm quyền. Trường hợp đất có tranh chấp nhưng xác định được phạm vi diện tích, ranh giới đang tranh chấp thì phần diện tích, ranh giới còn lại không tranh chấp của thửa đất đó được phép tách thửa đất, hợp thửa đất;\nd) Việc tách thửa đất, hợp thửa đất phải bảo đảm có lối đi; được kết nối với đường giao thông công cộng hiện có; bảo đảm cấp nước, thoát nước và nhu cầu cần thiết khác một cách hợp lý. Trường hợp người sử dụng đất dành một phần diện tích của thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất để làm lối đi, khi thực hiện việc tách thửa đất hoặc hợp thửa đất thì không phải thực hiện chuyển mục đích sử dụng đất đối với phần diện tích đất để làm lối đi đó.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 34,
+          "metadata": {
+            "part": 3,
+            "article": "220",
+            "clause": "1"
+          },
+          "score": 0.692857142857143,
+          "rank": 1,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6370256543159485,
+            "bm25": 43.774950524964034
+          },
+          "rerank_score": 0.692857142857143,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "0a12d6d8d154f874dc1ac1c232fa406f",
+          "text": "Điều 133. Đăng ký biến động\n1. Đăng ký biến động được thực hiện đối với trường hợp đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sở hữu nhà ở hoặc Giấy chứng nhận quyền sở hữu công trình xây dựng hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà có thay đổi sau đây:\na) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất thực hiện các quyền chuyển đổi, chuyển nhượng, thừa kế, tặng cho quyền sử dụng đất, tài sản gắn liền\nvới đất; góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất; cho thuê, cho thuê lại quyền sử dụng đất trong dự án xây dựng kinh doanh kết cấu hạ tầng; chuyển nhượng dự án có sử dụng đất;\nb) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất được phép đổi tên;\nc) Thay đổi thông tin về người sử dụng đất, chủ sở hữu tài sản gắn liền với đất trên giấy chứng nhận đã cấp không thuộc trường hợp quy định tại điểm b khoản này;\nd) Thay đổi ranh giới, mốc giới, kích thước các cạnh, diện tích, số hiệu và địa chỉ của thửa đất;\nđ) Đăng ký quyền sở hữu tài sản gắn liền với thửa đất đã được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; đăng ký thay đổi về tài sản gắn liền với đất so với nội dung đã đăng ký;\ne) Chuyển mục đích sử dụng đất quy định tại khoản 1 Điều 121 của Luật này; trường hợp quy định tại khoản 3 Điều 121 của Luật này mà người sử dụng đất có nhu cầu đăng ký biến động;\ng) Thay đổi thời hạn sử dụng đất;\nh) Thay đổi hình thức giao đất, cho thuê đất, nộp tiền sử dụng đất, tiền thuê đất theo quy định của Luật này;\ni) Thay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất do chia, tách, hợp nhất, sáp nhập, chuyển đổi mô hình tổ chức hoặc sự thỏa thuận của các thành viên hộ gia đình hoặc của vợ và chồng hoặc của nhóm người sử dụng đất chung, nhóm chủ sở hữu tài sản chung gắn liền với đất;\nk) Thay đổi quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo kết quả hòa giải thành về tranh chấp đất đai được Ủy ban nhân dân cấp có thẩm quyền công nhận; thỏa thuận trong hợp đồng thế chấp để xử lý nợ; quyết định của cơ quan nhà nước có thẩm quyền về giải quyết tranh chấp đất đai, khiếu nại, tố cáo về đất đai; bản án, quyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành; quyết định hoặc phán quyết của Trọng tài thương mại\nViệt Nam về giải quyết tranh chấp giữa các bên phát sinh từ hoạt động thương mại liên quan đến đất đai; văn bản công nhận kết quả đấu giá quyền sử dụng đất phù hợp với pháp luật;\nl) Xác lập, thay đổi hoặc chấm dứt quyền đối với thửa đất liền kề;\nm) Thay đổi về những hạn chế quyền của người sử dụng đất;\nn) Thay đổi về quyền sử dụng đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác sử dụng công trình ngầm, quyền sở hữu công trình ngầm;\no) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất yêu cầu cấp đổi, cấp lại Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sở hữu nhà ở hoặc Giấy chứng nhận quyền sở hữu công trình xây dựng hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\np) Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất thực hiện quyền thế chấp quyền sử dụng đất, tài sản gắn liền với đất;\nq) Bán tài sản, điều chuyển, chuyển nhượng quyền sử dụng đất là tài sản công theo quy định của pháp luật về quản lý, sử dụng tài sản công.\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 40,
+          "metadata": {
+            "part": 2,
+            "article": "133",
+            "clause": "1"
+          },
+          "score": 0.6785714285714286,
+          "rank": 2,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.013157894736842105,
+          "source_ranks": {
+            "bm25": 16
+          },
+          "source_scores": {
+            "bm25": 25.89810865152017
+          },
+          "rerank_score": 0.6785714285714286,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "e7b50c31dcc988465c256bffbbad9d87",
+          "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n3. Hộ gia đình, cá nhân sử dụng đất từ ngày 15 tháng 10 năm 1993 đến trước ngày 01 tháng 7 năm 2014, nay được Ủy ban nhân dân cấp xã nơi có đất xác nhận không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất như sau:\na) Đối với thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống nếu diện tích thửa đất bằng hoặc lớn hơn hạn mức giao đất ở quy định tại khoản 2 Điều 195 và khoản 2 Điều 196 của Luật này thì diện tích đất ở được công nhận bằng hạn mức giao đất ở; trường hợp diện tích đất đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống lớn hơn hạn mức giao đất ở thì công nhận diện tích đất ở theo diện tích thực tế đã xây dựng nhà ở, nhà ở và công trình phục vụ đời sống đó;\nb) Đối với thửa đất có nhà ở, nhà ở và công trình phục vụ đời sống nếu diện tích thửa đất nhỏ hơn hạn mức giao đất ở quy định tại khoản 2 Điều 195 và khoản 2 Điều 196 của Luật này thì toàn bộ diện tích thửa đất được công nhận là đất ở;\nc) Đối với thửa đất có sử dụng vào mục đích sản xuất, kinh doanh phi nông nghiệp, thương mại, dịch vụ thì công nhận đất cơ sở sản xuất phi nông nghiệp, đất thương mại, dịch vụ theo quy định tại điểm c khoản 1 Điều này;\nd) Đối với phần diện tích đất còn lại sau khi đã được xác định theo quy định tại điểm a và điểm c khoản này thì được xác định theo hiện trạng sử dụng đất. Trường hợp hiện trạng sử dụng là đất phi nông nghiệp không phải là đất ở thì được công nhận theo quy định tại điểm c khoản này. Trường hợp hiện trạng sử dụng là đất nông nghiệp thì được công nhận theo hình thức Nhà nước giao đất không thu tiền sử dụng đất; nếu người sử dụng đất có nhu cầu công nhận vào mục đích đất phi nông nghiệp mà phù hợp với quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu hoặc quy hoạch xây dựng hoặc quy hoạch nông thôn thì được công nhận vào mục đích đó và phải nộp tiền sử dụng đất theo quy định của pháp luật;\nđ) Người sử dụng đất được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất quy định tại khoản này thì phải thực hiện nghĩa vụ tài chính theo quy định của pháp luật;\n",
+          "source_id": "luatdat2",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+          "page": 53,
+          "metadata": {
+            "part": 2,
+            "article": "138",
+            "clause": "3"
+          },
+          "score": 0.6785714285714286,
+          "rank": 3,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.0136986301369863,
+          "source_ranks": {
+            "bm25": 13
+          },
+          "source_scores": {
+            "bm25": 26.339623583453484
+          },
+          "rerank_score": 0.6785714285714286,
+          "rerank_reason": "query term coverage + exact article bonus"
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": true,
+      "hybrid_rrf": true,
+      "hybrid_rrf_candidate20": true,
+      "hybrid_rrf_lexical_rerank": true
+    },
+    "hit3": {
+      "dense": true,
+      "bm25": true,
+      "hybrid_rrf": true,
+      "hybrid_rrf_candidate20": true,
+      "hybrid_rrf_lexical_rerank": true
+    },
+    "elapsed_ms": 12.03660000464879
+  },
+  {
+    "query_id": "q20",
+    "question": "Thủ tục hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã có thời hạn tối đa bao lâu và tính từ mốc nào?",
+    "gold": [
+      {
+        "source_id": "luatdat3",
+        "page": 46,
+        "evidence_quote": "c) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá 30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai;"
+      }
+    ],
+    "results": {
+      "dense": [
+        {
+          "id": "3b658e5235b79ae5fab40d558b3afa06",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n4. Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tài nguyên và Môi trường khi giải quyết tranh chấp đất đai quy định tại khoản 3 Điều này phải ra quyết định giải quyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên nghiêm chỉnh chấp hành. Sau thời hạn 30 ngày kể từ ngày quyết định giải quyết tranh chấp có hiệu lực thi hành mà các bên hoặc một trong các bên không chấp hành sẽ bị cưỡng chế thi hành. Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất tranh chấp ban hành quyết định cưỡng chế thực hiện quyết định giải quyết tranh chấp đất đai và tổ chức thực hiện quyết định cưỡng chế.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 48,
+          "metadata": {
+            "part": 3,
+            "article": "236",
+            "clause": "4"
+          },
+          "score": 0.6868821382522583,
+          "rank": 1,
+          "strategy": "dense"
+        },
+        {
+          "id": "2a3446830433b3149d3eac12878d3914",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n4. Đối với trường hợp hòa giải tranh chấp đất đai quy định tại các khoản 1, 2 và 3 Điều này mà hòa giải thành và có thay đổi hiện trạng về ranh giới, diện tích, người sử dụng đất thì trong thời hạn 30 ngày làm việc kể từ ngày nhận được văn bản công nhận kết quả hòa giải thành, các bên tham gia hòa giải phải gửi văn bản công nhận kết quả hòa giải thành đến cơ quan nhà nước có thẩm quyền để thực hiện việc đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "4"
+          },
+          "score": 0.6634055376052856,
+          "rank": 2,
+          "strategy": "dense"
+        },
+        {
+          "id": "7819167913ce521722a44b63483e83bf",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n2. Trước khi cơ quan nhà nước có thẩm quyền giải quyết tranh chấp đất đai quy định tại Điều 236 của Luật này, các bên tranh chấp phải thực hiện hòa giải tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp. Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp được thực hiện như sau:\na) Sau khi nhận được đơn yêu cầu hòa giải tranh chấp đất đai, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thành lập Hội đồng hòa giải tranh chấp đất đai để thực hiện hòa giải tranh chấp đất đai;\nb) Thành phần Hội đồng hòa giải tranh chấp đất đai bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp xã là Chủ tịch Hội đồng, đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, công chức làm công tác địa chính, người sinh sống lâu năm biết rõ về nguồn gốc và quá trình sử dụng đối với thửa đất tranh chấp (nếu có). Tùy từng trường hợp cụ thể, có thể mời đại diện tổ chức, cá nhân khác tham gia Hội đồng hòa giải tranh chấp đất đai;\nc) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá 30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai;\nd) Việc hòa giải phải được lập thành biên bản có chữ ký của các bên tham gia hòa giải và có xác nhận hòa giải thành hoặc hòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến các bên tranh chấp, lưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp;\nđ) Trường hợp hòa giải không thành mà một hoặc các bên tranh chấp không ký vào biên bản thì Chủ tịch Hội đồng, các thành viên tham gia hòa giải phải ký vào biên bản, đóng dấu của Ủy ban nhân dân cấp xã và gửi cho các bên tranh chấp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 45,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "2"
+          },
+          "score": 0.6336372494697571,
+          "rank": 3,
+          "strategy": "dense"
+        }
+      ],
+      "bm25": [
+        {
+          "id": "7819167913ce521722a44b63483e83bf",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n2. Trước khi cơ quan nhà nước có thẩm quyền giải quyết tranh chấp đất đai quy định tại Điều 236 của Luật này, các bên tranh chấp phải thực hiện hòa giải tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp. Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp được thực hiện như sau:\na) Sau khi nhận được đơn yêu cầu hòa giải tranh chấp đất đai, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thành lập Hội đồng hòa giải tranh chấp đất đai để thực hiện hòa giải tranh chấp đất đai;\nb) Thành phần Hội đồng hòa giải tranh chấp đất đai bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp xã là Chủ tịch Hội đồng, đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, công chức làm công tác địa chính, người sinh sống lâu năm biết rõ về nguồn gốc và quá trình sử dụng đối với thửa đất tranh chấp (nếu có). Tùy từng trường hợp cụ thể, có thể mời đại diện tổ chức, cá nhân khác tham gia Hội đồng hòa giải tranh chấp đất đai;\nc) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá 30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai;\nd) Việc hòa giải phải được lập thành biên bản có chữ ký của các bên tham gia hòa giải và có xác nhận hòa giải thành hoặc hòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến các bên tranh chấp, lưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp;\nđ) Trường hợp hòa giải không thành mà một hoặc các bên tranh chấp không ký vào biên bản thì Chủ tịch Hội đồng, các thành viên tham gia hòa giải phải ký vào biên bản, đóng dấu của Ủy ban nhân dân cấp xã và gửi cho các bên tranh chấp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 45,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "2"
+          },
+          "score": 47.92488626057395,
+          "rank": 1,
+          "strategy": "bm25"
+        },
+        {
+          "id": "d4c2e002b43e999bc2dfeaa79cc662d8",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n3. Trường hợp các bên tranh chấp lựa chọn giải quyết tranh chấp tại Ủy ban nhân dân cấp có thẩm quyền thì việc giải quyết tranh chấp đất đai được thực hiện như sau:\na) Trường hợp tranh chấp giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau thì Chủ tịch Ủy ban nhân dân cấp huyện giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết tranh chấp của Chủ tịch Ủy ban nhân dân cấp huyện có hiệu lực thi hành. Trường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp huyện, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Chủ tịch Ủy ban nhân dân cấp tỉnh. Quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nb) Trường hợp tranh chấp mà một bên tranh chấp là tổ chức, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài thì Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết. Sau thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh mà các bên tranh chấp không khởi kiện hoặc khiếu nại theo quy định tại điểm này thì quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh có hiệu lực thi hành.\nTrường hợp không đồng ý với quyết định giải quyết thì trong thời hạn 30 ngày kể từ ngày nhận được quyết định giải quyết của Chủ tịch Ủy ban nhân dân cấp tỉnh, các bên tranh chấp có quyền khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng hành chính hoặc khiếu nại đến Bộ trưởng Bộ Tài nguyên và Môi trường. Quyết định giải quyết của Bộ trưởng Bộ Tài nguyên và Môi trường có hiệu lực thi hành.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 47,
+          "metadata": {
+            "part": 3,
+            "article": "236",
+            "clause": "3"
+          },
+          "score": 35.20085389198557,
+          "rank": 2,
+          "strategy": "bm25"
+        },
+        {
+          "id": "3b658e5235b79ae5fab40d558b3afa06",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n4. Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tài nguyên và Môi trường khi giải quyết tranh chấp đất đai quy định tại khoản 3 Điều này phải ra quyết định giải quyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên nghiêm chỉnh chấp hành. Sau thời hạn 30 ngày kể từ ngày quyết định giải quyết tranh chấp có hiệu lực thi hành mà các bên hoặc một trong các bên không chấp hành sẽ bị cưỡng chế thi hành. Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất tranh chấp ban hành quyết định cưỡng chế thực hiện quyết định giải quyết tranh chấp đất đai và tổ chức thực hiện quyết định cưỡng chế.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 48,
+          "metadata": {
+            "part": 3,
+            "article": "236",
+            "clause": "4"
+          },
+          "score": 33.789878620358905,
+          "rank": 3,
+          "strategy": "bm25"
+        }
+      ],
+      "hybrid_rrf": [
+        {
+          "id": "3b658e5235b79ae5fab40d558b3afa06",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n4. Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tài nguyên và Môi trường khi giải quyết tranh chấp đất đai quy định tại khoản 3 Điều này phải ra quyết định giải quyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên nghiêm chỉnh chấp hành. Sau thời hạn 30 ngày kể từ ngày quyết định giải quyết tranh chấp có hiệu lực thi hành mà các bên hoặc một trong các bên không chấp hành sẽ bị cưỡng chế thi hành. Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất tranh chấp ban hành quyết định cưỡng chế thực hiện quyết định giải quyết tranh chấp đất đai và tổ chức thực hiện quyết định cưỡng chế.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 48,
+          "metadata": {
+            "part": 3,
+            "article": "236",
+            "clause": "4"
+          },
+          "score": 0.032266458495966696,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6868821382522583,
+            "bm25": 33.789878620358905
+          }
+        },
+        {
+          "id": "7819167913ce521722a44b63483e83bf",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n2. Trước khi cơ quan nhà nước có thẩm quyền giải quyết tranh chấp đất đai quy định tại Điều 236 của Luật này, các bên tranh chấp phải thực hiện hòa giải tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp. Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp được thực hiện như sau:\na) Sau khi nhận được đơn yêu cầu hòa giải tranh chấp đất đai, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thành lập Hội đồng hòa giải tranh chấp đất đai để thực hiện hòa giải tranh chấp đất đai;\nb) Thành phần Hội đồng hòa giải tranh chấp đất đai bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp xã là Chủ tịch Hội đồng, đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, công chức làm công tác địa chính, người sinh sống lâu năm biết rõ về nguồn gốc và quá trình sử dụng đối với thửa đất tranh chấp (nếu có). Tùy từng trường hợp cụ thể, có thể mời đại diện tổ chức, cá nhân khác tham gia Hội đồng hòa giải tranh chấp đất đai;\nc) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá 30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai;\nd) Việc hòa giải phải được lập thành biên bản có chữ ký của các bên tham gia hòa giải và có xác nhận hòa giải thành hoặc hòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến các bên tranh chấp, lưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp;\nđ) Trường hợp hòa giải không thành mà một hoặc các bên tranh chấp không ký vào biên bản thì Chủ tịch Hội đồng, các thành viên tham gia hòa giải phải ký vào biên bản, đóng dấu của Ủy ban nhân dân cấp xã và gửi cho các bên tranh chấp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 45,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "2"
+          },
+          "score": 0.032266458495966696,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6336372494697571,
+            "bm25": 47.92488626057395
+          }
+        },
+        {
+          "id": "2a3446830433b3149d3eac12878d3914",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n4. Đối với trường hợp hòa giải tranh chấp đất đai quy định tại các khoản 1, 2 và 3 Điều này mà hòa giải thành và có thay đổi hiện trạng về ranh giới, diện tích, người sử dụng đất thì trong thời hạn 30 ngày làm việc kể từ ngày nhận được văn bản công nhận kết quả hòa giải thành, các bên tham gia hòa giải phải gửi văn bản công nhận kết quả hòa giải thành đến cơ quan nhà nước có thẩm quyền để thực hiện việc đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "4"
+          },
+          "score": 0.031054405392392875,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031054405392392875,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 7
+          },
+          "source_scores": {
+            "dense": 0.6634055376052856,
+            "bm25": 29.74917676210772
+          }
+        }
+      ],
+      "hybrid_rrf_candidate20": [
+        {
+          "id": "3b658e5235b79ae5fab40d558b3afa06",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n4. Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tài nguyên và Môi trường khi giải quyết tranh chấp đất đai quy định tại khoản 3 Điều này phải ra quyết định giải quyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên nghiêm chỉnh chấp hành. Sau thời hạn 30 ngày kể từ ngày quyết định giải quyết tranh chấp có hiệu lực thi hành mà các bên hoặc một trong các bên không chấp hành sẽ bị cưỡng chế thi hành. Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất tranh chấp ban hành quyết định cưỡng chế thực hiện quyết định giải quyết tranh chấp đất đai và tổ chức thực hiện quyết định cưỡng chế.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 48,
+          "metadata": {
+            "part": 3,
+            "article": "236",
+            "clause": "4"
+          },
+          "score": 0.032266458495966696,
+          "rank": 1,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6868821382522583,
+            "bm25": 33.789878620358905
+          }
+        },
+        {
+          "id": "7819167913ce521722a44b63483e83bf",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n2. Trước khi cơ quan nhà nước có thẩm quyền giải quyết tranh chấp đất đai quy định tại Điều 236 của Luật này, các bên tranh chấp phải thực hiện hòa giải tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp. Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp được thực hiện như sau:\na) Sau khi nhận được đơn yêu cầu hòa giải tranh chấp đất đai, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thành lập Hội đồng hòa giải tranh chấp đất đai để thực hiện hòa giải tranh chấp đất đai;\nb) Thành phần Hội đồng hòa giải tranh chấp đất đai bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp xã là Chủ tịch Hội đồng, đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, công chức làm công tác địa chính, người sinh sống lâu năm biết rõ về nguồn gốc và quá trình sử dụng đối với thửa đất tranh chấp (nếu có). Tùy từng trường hợp cụ thể, có thể mời đại diện tổ chức, cá nhân khác tham gia Hội đồng hòa giải tranh chấp đất đai;\nc) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá 30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai;\nd) Việc hòa giải phải được lập thành biên bản có chữ ký của các bên tham gia hòa giải và có xác nhận hòa giải thành hoặc hòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến các bên tranh chấp, lưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp;\nđ) Trường hợp hòa giải không thành mà một hoặc các bên tranh chấp không ký vào biên bản thì Chủ tịch Hội đồng, các thành viên tham gia hòa giải phải ký vào biên bản, đóng dấu của Ủy ban nhân dân cấp xã và gửi cho các bên tranh chấp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 45,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "2"
+          },
+          "score": 0.032266458495966696,
+          "rank": 2,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6336372494697571,
+            "bm25": 47.92488626057395
+          }
+        },
+        {
+          "id": "2a3446830433b3149d3eac12878d3914",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n4. Đối với trường hợp hòa giải tranh chấp đất đai quy định tại các khoản 1, 2 và 3 Điều này mà hòa giải thành và có thay đổi hiện trạng về ranh giới, diện tích, người sử dụng đất thì trong thời hạn 30 ngày làm việc kể từ ngày nhận được văn bản công nhận kết quả hòa giải thành, các bên tham gia hòa giải phải gửi văn bản công nhận kết quả hòa giải thành đến cơ quan nhà nước có thẩm quyền để thực hiện việc đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 46,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "4"
+          },
+          "score": 0.031054405392392875,
+          "rank": 3,
+          "strategy": "hybrid_rrf",
+          "rrf_score": 0.031054405392392875,
+          "source_ranks": {
+            "dense": 2,
+            "bm25": 7
+          },
+          "source_scores": {
+            "dense": 0.6634055376052856,
+            "bm25": 29.74917676210772
+          }
+        }
+      ],
+      "hybrid_rrf_lexical_rerank": [
+        {
+          "id": "7819167913ce521722a44b63483e83bf",
+          "text": "Điều 235. Hòa giải tranh chấp đất đai\n2. Trước khi cơ quan nhà nước có thẩm quyền giải quyết tranh chấp đất đai quy định tại Điều 236 của Luật này, các bên tranh chấp phải thực hiện hòa giải tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp. Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp được thực hiện như sau:\na) Sau khi nhận được đơn yêu cầu hòa giải tranh chấp đất đai, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm thành lập Hội đồng hòa giải tranh chấp đất đai để thực hiện hòa giải tranh chấp đất đai;\nb) Thành phần Hội đồng hòa giải tranh chấp đất đai bao gồm: Chủ tịch hoặc Phó Chủ tịch Ủy ban nhân dân cấp xã là Chủ tịch Hội đồng, đại diện Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, công chức làm công tác địa chính, người sinh sống lâu năm biết rõ về nguồn gốc và quá trình sử dụng đối với thửa đất tranh chấp (nếu có). Tùy từng trường hợp cụ thể, có thể mời đại diện tổ chức, cá nhân khác tham gia Hội đồng hòa giải tranh chấp đất đai;\nc) Việc hòa giải tranh chấp đất đai tại Ủy ban nhân dân cấp xã được thực hiện trong thời hạn không quá 30 ngày kể từ ngày nhận được đơn yêu cầu hòa giải tranh chấp đất đai;\nd) Việc hòa giải phải được lập thành biên bản có chữ ký của các bên tham gia hòa giải và có xác nhận hòa giải thành hoặc hòa giải không thành của Ủy ban nhân dân cấp xã. Biên bản hòa giải được gửi đến các bên tranh chấp, lưu tại Ủy ban nhân dân cấp xã nơi có đất tranh chấp;\nđ) Trường hợp hòa giải không thành mà một hoặc các bên tranh chấp không ký vào biên bản thì Chủ tịch Hội đồng, các thành viên tham gia hòa giải phải ký vào biên bản, đóng dấu của Ủy ban nhân dân cấp xã và gửi cho các bên tranh chấp.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 45,
+          "metadata": {
+            "part": 3,
+            "article": "235",
+            "clause": "2"
+          },
+          "score": 0.7407407407407407,
+          "rank": 1,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 3,
+            "bm25": 1
+          },
+          "source_scores": {
+            "dense": 0.6336372494697571,
+            "bm25": 47.92488626057395
+          },
+          "rerank_score": 0.7407407407407407,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "3b658e5235b79ae5fab40d558b3afa06",
+          "text": "Điều 236. Thẩm quyền giải quyết tranh chấp đất đai\n4. Chủ tịch Ủy ban nhân dân cấp huyện, Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tài nguyên và Môi trường khi giải quyết tranh chấp đất đai quy định tại khoản 3 Điều này phải ra quyết định giải quyết tranh chấp. Quyết định giải quyết tranh chấp có hiệu lực thi hành phải được các bên nghiêm chỉnh chấp hành. Sau thời hạn 30 ngày kể từ ngày quyết định giải quyết tranh chấp có hiệu lực thi hành mà các bên hoặc một trong các bên không chấp hành sẽ bị cưỡng chế thi hành. Chủ tịch Ủy ban nhân dân cấp huyện nơi có đất tranh chấp ban hành quyết định cưỡng chế thực hiện quyết định giải quyết tranh chấp đất đai và tổ chức thực hiện quyết định cưỡng chế.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 48,
+          "metadata": {
+            "part": 3,
+            "article": "236",
+            "clause": "4"
+          },
+          "score": 0.5925925925925926,
+          "rank": 2,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.032266458495966696,
+          "source_ranks": {
+            "dense": 1,
+            "bm25": 3
+          },
+          "source_scores": {
+            "dense": 0.6868821382522583,
+            "bm25": 33.789878620358905
+          },
+          "rerank_score": 0.5925925925925926,
+          "rerank_reason": "query term coverage + exact article bonus"
+        },
+        {
+          "id": "b5dd8782fa2499ae902f046e218b2198",
+          "text": "Điều 242. Tiếp nhận và xử lý vi phạm của thủ trưởng, công chức, viên chức thuộc cơ quan quản lý đất đai các cấp và công chức làm công tác địa chính ở cấp xã\n2. Trong thời hạn 30 ngày kể từ ngày nhận được kiến nghị, Chủ tịch Ủy ban nhân dân hoặc thủ trưởng cơ quan có chức năng quản lý đất đai quy định tại khoản 1 Điều này có trách nhiệm xem xét, giải quyết và thông báo kết quả giải quyết bằng văn bản cho người có kiến nghị biết.\n",
+          "source_id": "luatdat3",
+          "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+          "page": 50,
+          "metadata": {
+            "part": 3,
+            "article": "242",
+            "clause": "2"
+          },
+          "score": 0.5925925925925926,
+          "rank": 3,
+          "strategy": "hybrid_lexical_rerank",
+          "rrf_score": 0.014492753623188406,
+          "source_ranks": {
+            "bm25": 9
+          },
+          "source_scores": {
+            "bm25": 26.614971285975944
+          },
+          "rerank_score": 0.5925925925925926,
+          "rerank_reason": "query term coverage + exact article bonus"
+        }
+      ]
+    },
+    "hit1": {
+      "dense": false,
+      "bm25": false,
+      "hybrid_rrf": false,
+      "hybrid_rrf_candidate20": false,
+      "hybrid_rrf_lexical_rerank": false
+    },
+    "hit3": {
+      "dense": false,
+      "bm25": false,
+      "hybrid_rrf": false,
+      "hybrid_rrf_candidate20": false,
+      "hybrid_rrf_lexical_rerank": false
+    },
+    "elapsed_ms": 11.610499990638345
+  }
+]

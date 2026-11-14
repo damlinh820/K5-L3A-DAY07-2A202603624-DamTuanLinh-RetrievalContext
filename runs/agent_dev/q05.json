@@ -1,0 +1,154 @@
+{
+  "query_id": "q05",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Chỉ tra cứu phần 1 của bộ PDF: lấn đất, chiếm đất và hủy hoại đất có nằm trong các hành vi bị nghiêm cấm không?",
+  "result": {
+    "status": "answered",
+    "answer": "[fdbe051504d74d83dcd190c1ddd9ad01] Lấn đất, chiếm đất, hủy hoại đất là những hành vi bị nghiêm cấm trong lĩnh vực đất đai.",
+    "citations": [
+      "fdbe051504d74d83dcd190c1ddd9ad01"
+    ],
+    "abstained": false,
+    "context": "[fdbe051504d74d83dcd190c1ddd9ad01] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 11 | Điều 11 | Khoản \nĐiều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n\n\n[f9a88b7b0c664b68e453730f8b1d1a69] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 76 | Điều 81 | Khoản 2\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n\n\n[17f8cbaa9684379b9fdd6fc99dd801de] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 5\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+    "context_ids": [
+      "fdbe051504d74d83dcd190c1ddd9ad01",
+      "f9a88b7b0c664b68e453730f8b1d1a69",
+      "17f8cbaa9684379b9fdd6fc99dd801de"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+            "text": "Điều 11. Hành vi bị nghiêm cấm trong lĩnh vực đất đai\n1. Lấn đất, chiếm đất, hủy hoại đất.\n2. Vi phạm quy định của pháp luật về quản lý nhà nước về đất đai.\n3. Vi phạm chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n4. Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về quản lý đất đai.\n5. Không cung cấp thông tin hoặc cung cấp thông tin đất đai không chính xác, không đáp ứng yêu cầu về thời hạn theo quy định của pháp luật.\n6. Không ngăn chặn, không xử lý hành vi vi phạm pháp luật về đất đai.\n7. Không thực hiện đúng quy định của pháp luật khi thực hiện quyền của người sử dụng đất.\n8. Sử dụng đất, thực hiện giao dịch về quyền sử dụng đất mà không đăng ký với cơ quan có thẩm quyền.\n9. Không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ tài chính đối với Nhà nước.\n10. Cản trở, gây khó khăn đối với việc sử dụng đất, việc thực hiện quyền của người sử dụng đất theo quy định của pháp luật.\n11. Phân biệt đối xử về giới trong quản lý, sử dụng đất đai.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 11,
+            "metadata": {
+              "part": 1,
+              "article": "11",
+              "document_id": "luatdat1",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "page_end": 12,
+              "page": 11,
+              "clause": ""
+            },
+            "score": 0.03252247488101534,
+            "rrf_score": 0.03252247488101534,
+            "source_ranks": {
+              "dense": 2,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.5516698360443115,
+              "bm25": 33.96182490440251
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "f9a88b7b0c664b68e453730f8b1d1a69",
+            "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n2. Người sử dụng đất hủy hoại đất và đã bị xử phạt vi phạm hành chính về hành vi hủy hoại đất mà tiếp tục vi phạm.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 76,
+            "metadata": {
+              "page": 76,
+              "article": "81",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "clause": "2",
+              "page_end": 76,
+              "part": 1,
+              "document_id": "luatdat1"
+            },
+            "score": 0.031024531024531024,
+            "rrf_score": 0.031024531024531024,
+            "source_ranks": {
+              "dense": 6,
+              "bm25": 3
+            },
+            "source_scores": {
+              "dense": 0.5350182056427002,
+              "bm25": 30.95348570680613
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "17f8cbaa9684379b9fdd6fc99dd801de",
+            "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n5. Đất được Nhà nước giao quản lý mà để bị lấn đất, chiếm đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 77,
+            "metadata": {
+              "part": 1,
+              "clause": "5",
+              "page_end": 77,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "page": 77,
+              "document_id": "luatdat1",
+              "article": "81"
+            },
+            "score": 0.03057889822595705,
+            "rrf_score": 0.03057889822595705,
+            "source_ranks": {
+              "dense": 3,
+              "bm25": 8
+            },
+            "source_scores": {
+              "dense": 0.5464389324188232,
+              "bm25": 21.130845058493435
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "fdbe051504d74d83dcd190c1ddd9ad01",
+          "f9a88b7b0c664b68e453730f8b1d1a69",
+          "17f8cbaa9684379b9fdd6fc99dd801de"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "fdbe051504d74d83dcd190c1ddd9ad01",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 783,
+      "completion_tokens": 90,
+      "total_tokens": 873,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2900.132999988273
+  }
+}

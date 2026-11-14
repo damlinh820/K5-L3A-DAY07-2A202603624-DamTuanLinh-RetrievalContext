@@ -1,0 +1,21 @@
+case_id,run_id,reviewer,reviewed_at,source_verified,evidence_sufficiency_0_2,grounded_answer_0_2,citation_support_0_2,abstention_correct,notes,status
+q01,agent_dev_fixed,DamTuanLinh,2026-11-14,true,2,2,2,false,"Đáp án đầy đủ và citation hỗ trợ.",human_verified
+q03,agent_dev_fixed,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence nhưng agent abstain.",human_verified
+q04,agent_dev_fixed,DamTuanLinh,2026-11-14,true,2,2,2,false,"Đáp án đủ ba nhóm đất và citation hỗ trợ.",human_verified
+q05,agent_dev_fixed,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence nhưng agent abstain.",human_verified
+q08,agent_dev_fixed,DamTuanLinh,2026-11-14,true,1,1,1,false,"Đúng hướng nhưng thiếu/diễn đạt chưa đủ điều kiện.",human_verified
+q09,agent_dev_fixed,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence nhưng agent abstain.",human_verified
+q10,agent_dev_fixed,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence nhưng agent abstain.",human_verified
+q15,agent_dev_fixed,DamTuanLinh,2026-11-14,true,2,2,2,false,"Đáp án đầy đủ và citation hỗ trợ.",human_verified
+q21,agent_dev_fixed,DamTuanLinh,2026-11-14,true,0,0,0,true,"Từ chối đúng vì ngoài phạm vi corpus.",human_verified
+q22,agent_dev_fixed,DamTuanLinh,2026-11-14,true,0,0,0,true,"Từ chối đúng vì ngoài phạm vi corpus.",human_verified
+q16,agent_test_frozen,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence Điều 171 khoản 1 nhưng agent abstain.",human_verified
+q17,agent_test_frozen,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence về thời hạn 50 năm và không phải gia hạn nhưng agent abstain.",human_verified
+q18,agent_test_frozen,DamTuanLinh,2026-11-14,true,2,2,2,false,"Đáp án đúng và citation hỗ trợ.",human_verified
+q19,agent_test_frozen,DamTuanLinh,2026-11-14,true,0,0,0,false,"Có evidence Điều 220 khoản 1 điểm a nhưng agent abstain.",human_verified
+q20,agent_test_frozen,DamTuanLinh,2026-11-14,true,2,2,2,false,"Đáp án đúng 30 ngày và citation hỗ trợ.",human_verified
+q23,agent_test_frozen,DamTuanLinh,2026-11-14,true,0,0,0,true,"Từ chối đúng vì ngoài phạm vi corpus.",human_verified
+q24,agent_test_frozen,DamTuanLinh,2026-11-14,true,0,0,0,true,"Từ chối đúng vì ngoài phạm vi corpus.",human_verified
+q16,case_diagnostic_final,DamTuanLinh,2026-11-14T19:53:55+07:00,true,2,2,2,,"Đất ở thuộc nhóm ổn định lâu dài; evidence Điều 171 khoản 1.",human_verified
+q17,case_diagnostic_final,DamTuanLinh,2026-11-14T19:53:55+07:00,true,2,2,2,,"50 năm và không phải làm thủ tục gia hạn; evidence Điều 172 khoản 1 điểm a.",human_verified
+q19,case_diagnostic_final,DamTuanLinh,2026-11-14T19:53:55+07:00,true,2,2,2,,"Liệt kê đủ bốn loại Giấy chứng nhận; evidence khoản 1 Điều 220, phần 3.",human_verified

@@ -1,0 +1,38 @@
+{
+  "started_at_utc": "2026-11-14T13:39:48.007246+00:00",
+  "evaluation_type": "dev",
+  "config": {
+    "modes": [
+      "hybrid_improved"
+    ],
+    "split": "dev",
+    "model": "gpt-4o-mini",
+    "top_k": 3,
+    "candidate_k": 10,
+    "rrf_k": 60,
+    "max_rounds": 1,
+    "context_budget_chars": 6000,
+    "max_run_estimated_usd": 0.1
+  },
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "benchmark_sha256": "6c664d5217307e83f02a8a6baa803ab9bd5ec0216f80a17517612be91ff835fd",
+  "code_hashes": {
+    "src\\agent.py": "c2b886ebc5756f431f586a944f715c3edc393eec3359227355e007561908322d",
+    "src\\api.py": "97094f53d3ccec089b6d4ca6be1ec4f02922f337f60f207f2cea4f6807c36d75",
+    "src\\citation.py": "96e8cd3be4034fba26ab7f0817053160256b9a41e93692eacf728ba999985abe",
+    "src\\cli.py": "8e08401de49fdc4f38b3dbfced018ff38e8279d4b8ab0d8e42161513103e5296",
+    "src\\context.py": "b3557c3d2b649b9150e38e1079b11f884504ea7a84f339d7a5f99804b7cc2b92",
+    "src\\evaluation.py": "41593ee15cf1448504c96ece1aa89197e9f1882ba9818bb6a85daa64f5219cec",
+    "src\\pipeline.py": "c46ce4783cd635758e0ab4b439f082f55496010ca82509c4326121157ee06575",
+    "src\\rerank.py": "f7c7298a7bf38ced594fe68640de0cbed26cc436a1202b63a3dcee614ca31c97",
+    "src\\retrieval.py": "356fc5274d19c13f0f1330cbc4ebdfffff4bbcc1c6dc7fb3e0d6656d6aade0a6",
+    "src\\settings.py": "14b3d54f21f9ddcef3ced39f5307b8b92da163fd20d70582b7d88ce111ba5435",
+    "src\\tool_agent.py": "1bcb4b616091e316f898ae2d330b40633c33385d340420f6058448eb53da221b"
+  },
+  "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+  "semantic_review_status": "pending_human_review",
+  "completed_at_utc": "2026-11-14T13:41:17.972442+00:00",
+  "status": "finished",
+  "estimated_chat_cost_usd": 0.009964649999999999,
+  "embedding_usage": []
+}

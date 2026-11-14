@@ -1,0 +1,144 @@
+{
+  "query_id": "q17",
+  "split": "test",
+  "answerability": "answerable",
+  "question": "Cá nhân trực tiếp sản xuất nông nghiệp được giao hoặc công nhận đất trồng cây hằng năm trong hạn mức Điều 176 có thời hạn bao lâu; khi hết hạn có phải làm thủ tục gia hạn không?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[ce84f03d0cb43d67c9a36e9ff3311e90] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 5 | Điều 176 | Khoản 4\nĐiều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n\n\n[a072328b4fe6b9fce9dff1acd3ec99a6] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 4 | Điều 176 | Khoản 1\nĐiều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n\n\n[581b44265b24f7bef27e483fd0e9e64d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 4 | Điều 176 | Khoản 2\nĐiều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+    "context_ids": [
+      "ce84f03d0cb43d67c9a36e9ff3311e90",
+      "a072328b4fe6b9fce9dff1acd3ec99a6",
+      "581b44265b24f7bef27e483fd0e9e64d"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "ce84f03d0cb43d67c9a36e9ff3311e90",
+            "text": "Điều 176. Hạn mức giao đất nông nghiệp\n4. Cá nhân được giao nhiều loại đất trong các loại đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối thì tổng hạn mức giao đất không quá 05 ha; trường hợp được giao thêm đất trồng cây lâu năm thì hạn mức đất trồng cây lâu năm không quá 05 ha đối với xã, phường, thị trấn ở đồng bằng, không quá 25 ha đối với xã, phường, thị trấn ở trung du, miền núi; trường hợp được giao thêm đất rừng sản xuất là rừng trồng thì hạn mức giao đất rừng sản xuất không quá 25 ha.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 5,
+            "metadata": {
+              "clause": "4",
+              "page_end": 5,
+              "article": "176",
+              "part": 3,
+              "page": 5,
+              "document_id": "luatdat3",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            "score": 0.03225806451612903,
+            "rrf_score": 0.03225806451612903,
+            "source_ranks": {
+              "dense": 2,
+              "bm25": 2
+            },
+            "source_scores": {
+              "dense": 0.7564135789871216,
+              "bm25": 69.18655359486432
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "a072328b4fe6b9fce9dff1acd3ec99a6",
+            "text": "Điều 176. Hạn mức giao đất nông nghiệp\n1. Hạn mức giao đất trồng cây hằng năm, đất nuôi trồng thủy sản, đất làm muối cho cá nhân trực tiếp sản xuất nông nghiệp được quy định như sau:\na) Không quá 03 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương thuộc khu vực Đông Nam Bộ và khu vực đồng bằng sông Cửu Long;\nb) Không quá 02 ha cho mỗi loại đất đối với tỉnh, thành phố trực thuộc Trung ương khác.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 4,
+            "metadata": {
+              "document_id": "luatdat3",
+              "page_end": 4,
+              "article": "176",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "clause": "1",
+              "part": 3,
+              "page": 4
+            },
+            "score": 0.031746031746031744,
+            "rrf_score": 0.031746031746031744,
+            "source_ranks": {
+              "dense": 3,
+              "bm25": 3
+            },
+            "source_scores": {
+              "dense": 0.7282211780548096,
+              "bm25": 62.25153447863593
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "581b44265b24f7bef27e483fd0e9e64d",
+            "text": "Điều 176. Hạn mức giao đất nông nghiệp\n2. Hạn mức giao đất trồng cây lâu năm cho cá nhân không quá 10 ha đối với xã, phường, thị trấn ở đồng bằng; không quá 30 ha đối với xã, phường, thị trấn ở trung du, miền núi.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 4,
+            "metadata": {
+              "document_id": "luatdat3",
+              "part": 3,
+              "clause": "2",
+              "page_end": 4,
+              "article": "176",
+              "page": 4,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+            },
+            "score": 0.031544957774465976,
+            "rrf_score": 0.031544957774465976,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 6
+            },
+            "source_scores": {
+              "dense": 0.7615230083465576,
+              "bm25": 55.070810079795045
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "ce84f03d0cb43d67c9a36e9ff3311e90",
+          "a072328b4fe6b9fce9dff1acd3ec99a6",
+          "581b44265b24f7bef27e483fd0e9e64d"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 763,
+      "completion_tokens": 35,
+      "total_tokens": 798,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2796.782699995674
+  }
+}

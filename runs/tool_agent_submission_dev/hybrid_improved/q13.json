@@ -1,0 +1,841 @@
+{
+  "query_id": "q13",
+  "question": "Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Khi Nhà nước thu hồi đất mà người sử dụng đất chưa thực hiện nghĩa vụ tài chính về đất đai, khoản tiền chưa thực hiện nghĩa vụ tài chính sẽ được trừ vào số tiền bồi thường mà người sử dụng đất nhận được. Số tiền này sẽ được hoàn trả cho ngân sách nhà nước. [c2372f421576d9caeb43f7228e4d2a3a]",
+    "citations": [
+      "c2372f421576d9caeb43f7228e4d2a3a"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 94 quy định rõ về việc xử lý khoản tiền chưa thực hiện nghĩa vụ tài chính khi bồi thường đất.",
+    "evidence_quotes": [
+      {
+        "id": "c2372f421576d9caeb43f7228e4d2a3a",
+        "quote": "Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước."
+      }
+    ],
+    "context": "[c2372f421576d9caeb43f7228e4d2a3a] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 5 | Điều 94 | Khoản 6\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n\n\n[db7e07ef6912e5edbf70ac3146f29376] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 13 | Điều 107 | Khoản 1\nĐiều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật này;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này.\n\n\n[65b7f7b5816fdb4c560ab3fa4566d3cb] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 58 | Điều 254 | Khoản 2\nĐiều 254. Quy định chuyển tiếp về thu hồi đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất khi Luật này có hiệu lực thi hành\n2. Đối với trường hợp đã có quyết định thu hồi đất và quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đất đai trước ngày Luật này có hiệu lực thi hành nhưng chưa thực hiện thì tiếp tục thực hiện phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt; việc xử lý chi trả bồi thường chậm được thực hiện theo quy định của pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất.\n\n\n[3dd664306106d1ed417c5ace6b1d11ae] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 5 | Điều 94 | Khoản 5\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n5. Trường hợp phương án bồi thường, hỗ trợ, tái định cư phải chỉnh sửa, bổ sung mà có nội dung chỉnh sửa về giá đất, giá tài sản thì giá đất, giá tài sản để tính bồi thường được xác định tại thời điểm ban hành quyết định điều chỉnh phương án bồi thường, hỗ trợ, tái định cư. Trường hợp tại thời điểm ban hành quyết định điều chỉnh phương án bồi thường, hỗ trợ, tái định cư mà giá đất, giá tài sản thấp hơn so với giá đất, giá tài sản trong phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt thì áp dụng giá bồi thường trong phương án đã được phê duyệt. Các nội dung được chỉnh sửa, bổ sung mà không phải là giá đất, giá tài sản được áp dụng theo quy định của pháp luật về đất đai tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n\n\n[c0bbf8716fa22074298b7b6d3576850f] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 5 | Điều 94 | Khoản 7\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n7. Chính phủ quy định chi tiết Điều này.\n\n\n[9dcfc8bd334866ab8057582aa8b256ce] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 14 | Điều 107 | Khoản 2\nĐiều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n2. Chi phí đầu tư vào đất còn lại bao gồm toàn bộ hoặc một phần của các khoản chi phí sau đây:\na) Chi phí san lấp mặt bằng;\nb) Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với đất sử dụng vào mục đích sản xuất nông nghiệp;\nc) Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh doanh;\nd) Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất phải nộp;\nđ) Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất.\n",
+    "context_ids": [
+      "c2372f421576d9caeb43f7228e4d2a3a",
+      "db7e07ef6912e5edbf70ac3146f29376",
+      "65b7f7b5816fdb4c560ab3fa4566d3cb",
+      "3dd664306106d1ed417c5ace6b1d11ae",
+      "c0bbf8716fa22074298b7b6d3576850f",
+      "9dcfc8bd334866ab8057582aa8b256ce"
+    ],
+    "context_chars": 4559,
+    "context_tokens": 2246,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_2mYjzLoWVWhBcxIqQHsyYVqN",
+        "round": 1,
+        "arguments": {
+          "query": "Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?",
+          "mode": "hybrid_improved",
+          "top_k": 3
+        },
+        "executed_query": "Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?",
+        "mode": "hybrid_improved",
+        "results": [
+          {
+            "id": "c2372f421576d9caeb43f7228e4d2a3a",
+            "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 5,
+            "page_end": 5,
+            "provenance": [
+              {
+                "start": 188276,
+                "end": 188552,
+                "document_id": "luatdat2",
+                "page": 5,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 188276,
+            "metadata": {
+              "article": "94",
+              "clause": "6",
+              "part": 2
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense_0": 1,
+              "bm25_0": 1
+            },
+            "source_scores": {
+              "dense_0": 0.7093806266784668,
+              "bm25_0": 44.40976922647002
+            },
+            "rank": 1
+          },
+          {
+            "id": "db7e07ef6912e5edbf70ac3146f29376",
+            "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật này;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 13,
+            "page_end": 13,
+            "provenance": [
+              {
+                "start": 203591,
+                "end": 204483,
+                "document_id": "luatdat2",
+                "page": 13,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 203591,
+            "metadata": {
+              "article": "107",
+              "clause": "1",
+              "part": 2
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_improved",
+            "score_type": "cosine_similarity",
+            "rrf_score": 0.03149801587301587,
+            "source_ranks": {
+              "dense_0": 3,
+              "bm25_0": 4
+            },
+            "source_scores": {
+              "dense_0": 0.6182636022567749,
+              "bm25_0": 31.149597492876033
+            },
+            "rank": 2
+          },
+          {
+            "id": "65b7f7b5816fdb4c560ab3fa4566d3cb",
+            "text": "Điều 254. Quy định chuyển tiếp về thu hồi đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất khi Luật này có hiệu lực thi hành\n2. Đối với trường hợp đã có quyết định thu hồi đất và quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đất đai trước ngày Luật này có hiệu lực thi hành nhưng chưa thực hiện thì tiếp tục thực hiện phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt; việc xử lý chi trả bồi thường chậm được thực hiện theo quy định của pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 58,
+            "page_end": 58,
+            "provenance": [
+              {
+                "start": 499101,
+                "end": 499532,
+                "document_id": "luatdat3",
+                "page": 58,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 499101,
+            "metadata": {
+              "article": "254",
+              "clause": "2",
+              "part": 3
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_improved",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25_0": 2
+            },
+            "source_scores": {
+              "bm25_0": 33.065955723516986
+            }
+          }
+        ],
+        "context_ids": [
+          "c2372f421576d9caeb43f7228e4d2a3a",
+          "db7e07ef6912e5edbf70ac3146f29376",
+          "65b7f7b5816fdb4c560ab3fa4566d3cb",
+          "3dd664306106d1ed417c5ace6b1d11ae",
+          "c0bbf8716fa22074298b7b6d3576850f",
+          "9dcfc8bd334866ab8057582aa8b256ce"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?",
+          "variants": [
+            "Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "c2372f421576d9caeb43f7228e4d2a3a",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 188276,
+                    "end": 188552,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 188276,
+                "metadata": {
+                  "article": "94",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.7093806266784668,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "92bbb0b136a58d47e3c0e2af4d61e385",
+                "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n6. Người sử dụng đất không thực hiện nghĩa vụ tài chính với Nhà nước.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 77,
+                "page_end": 77,
+                "provenance": [
+                  {
+                    "start": 145491,
+                    "end": 145561,
+                    "document_id": "luatdat1",
+                    "page": 77,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 145491,
+                "metadata": {
+                  "article": "81",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.6405615210533142,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "db7e07ef6912e5edbf70ac3146f29376",
+                "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật này;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 203591,
+                    "end": 204483,
+                    "document_id": "luatdat2",
+                    "page": 13,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 203591,
+                "metadata": {
+                  "article": "107",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.6182636022567749,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "b10c079dc922ba9adbb44bf40321f92e",
+                "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n3. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 14,
+                "page_end": 14,
+                "provenance": [
+                  {
+                    "start": 205151,
+                    "end": 205192,
+                    "document_id": "luatdat2",
+                    "page": 14,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 205151,
+                "metadata": {
+                  "article": "107",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 0.6096022129058838,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "e6d33c4416136dfd19b8c157863cb043",
+                "text": "Điều 3. Giải thích từ ngữ\n5. Bồi thường về đất là việc Nhà nước trả lại giá trị quyền sử dụng đất của diện tích đất thu hồi cho người có đất thu hồi.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 1705,
+                    "end": 1829,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 1705,
+                "metadata": {
+                  "article": "3",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5951768159866333,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "5d08dff52fff0ed3ce1896b223e306cb",
+                "text": "Điều 3. Giải thích từ ngữ\n24. Hỗ trợ khi Nhà nước thu hồi đất là chính sách của Nhà nước nhằm trợ giúp cho người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất để ổn định đời sống, sản xuất và phát triển ngoài các khoản đã bồi thường theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 6096,
+                    "end": 6337,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 6096,
+                "metadata": {
+                  "article": "3",
+                  "clause": "24",
+                  "part": 1
+                },
+                "score": 0.5921879410743713,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "43a424a370b1157a8e638a4b8387e0bd",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n4. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không nhận tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt hoặc trường hợp đất thu hồi, tài sản đang có tranh chấp thì tiền\nbồi thường, hỗ trợ được gửi vào tài khoản tiền gửi của đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư mở tại ngân hàng thương mại do Nhà nước nắm giữ cổ phần chi phối theo lãi suất không kỳ hạn. Tiền lãi từ khoản tiền bồi thường, hỗ trợ được trả cho người có quyền sử dụng đất, chủ sở hữu tài sản được bồi thường, hỗ trợ.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 186948,
+                    "end": 187183,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 187183,
+                    "end": 187525,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 186948,
+                "metadata": {
+                  "article": "94",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.5916593670845032,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "9dcfc8bd334866ab8057582aa8b256ce",
+                "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n2. Chi phí đầu tư vào đất còn lại bao gồm toàn bộ hoặc một phần của các khoản chi phí sau đây:\na) Chi phí san lấp mặt bằng;\nb) Chi phí cải tạo làm tăng độ màu mỡ của đất, thau chua rửa mặn, chống xói mòn, xâm thực đối với đất sử dụng vào mục đích sản xuất nông nghiệp;\nc) Chi phí gia cố khả năng chịu lực chống rung, sụt lún đất đối với đất làm mặt bằng sản xuất, kinh doanh;\nd) Kinh phí bồi thường, hỗ trợ, tái định cư đã ứng trước theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt mà chưa khấu trừ hết vào tiền sử dụng đất, tiền thuê đất phải nộp;\nđ) Chi phí khác có liên quan đã đầu tư vào đất phù hợp với mục đích sử dụng đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 14,
+                "page_end": 14,
+                "provenance": [
+                  {
+                    "start": 204483,
+                    "end": 205151,
+                    "document_id": "luatdat2",
+                    "page": 14,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 204483,
+                "metadata": {
+                  "article": "107",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5893462896347046,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "58eabb7de6867b867772ab7008546c2b",
+                "text": "Điều 85. Thông báo thu hồi đất và chấp hành quyết định thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n3. Người có đất thu hồi, chủ sở hữu tài sản gắn liền với đất có trách nhiệm phối hợp với đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư trong quá trình điều tra, khảo sát, đo đạc, kiểm đếm, xây dựng phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 81,
+                "page_end": 81,
+                "provenance": [
+                  {
+                    "start": 154758,
+                    "end": 155020,
+                    "document_id": "luatdat1",
+                    "page": 81,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 154758,
+                "metadata": {
+                  "article": "85",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.5870089530944824,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "e73797bacd8e9dc74af952c1afb4850f",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n2. Trường hợp Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, nếu người thực hiện dự án tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì được ngân sách nhà nước hoàn trả bằng hình thức trừ vào tiền sử dụng đất, tiền thuê đất phải nộp. Số tiền được trừ không vượt quá tiền sử dụng đất, tiền thuê đất phải nộp; số tiền còn lại (nếu có) được tính vào chi phí đầu tư của dự án. Trường hợp Nhà nước giao đất không thu tiền sử dụng đất, giao đất có thu tiền sử dụng đất, cho thuê đất theo quy định của pháp luật về đất đai, mà người thực hiện dự án được miễn tiền sử dụng đất, tiền thuê đất cho toàn bộ thời hạn sử dụng đất nếu tự nguyện ứng trước kinh phí bồi thường, hỗ trợ, tái định cư theo phương án bồi thường, hỗ trợ, tái định cư đã được cơ quan có thẩm quyền phê duyệt thì kinh phí bồi thường, hỗ trợ, tái định cư được tính vào chi phí đầu tư của dự án.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 184850,
+                    "end": 185856,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 184850,
+                "metadata": {
+                  "article": "94",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5859301686286926,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ],
+            "bm25_0": [
+              {
+                "id": "c2372f421576d9caeb43f7228e4d2a3a",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 188276,
+                    "end": 188552,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 188276,
+                "metadata": {
+                  "article": "94",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 44.40976922647002,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "65b7f7b5816fdb4c560ab3fa4566d3cb",
+                "text": "Điều 254. Quy định chuyển tiếp về thu hồi đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất khi Luật này có hiệu lực thi hành\n2. Đối với trường hợp đã có quyết định thu hồi đất và quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đất đai trước ngày Luật này có hiệu lực thi hành nhưng chưa thực hiện thì tiếp tục thực hiện phương án bồi thường, hỗ trợ, tái định cư đã phê duyệt; việc xử lý chi trả bồi thường chậm được thực hiện theo quy định của pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 58,
+                "page_end": 58,
+                "provenance": [
+                  {
+                    "start": 499101,
+                    "end": 499532,
+                    "document_id": "luatdat3",
+                    "page": 58,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 499101,
+                "metadata": {
+                  "article": "254",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 33.065955723516986,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "89921b62e386c2716686bfc1e9bfd8b5",
+                "text": "Điều 92. Bồi thường, hỗ trợ, tái định cư đối với các trường hợp đặc biệt\n3. Trường hợp tổ chức bị thu hồi đất nhưng không được bồi thường về đất, tổ chức có tài sản do Nhà nước giao quản lý, sử dụng thì được thực hiện như sau:\na) Tổ chức được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê mà tiền sử dụng đất, tiền thuê đất đã nộp có nguồn gốc từ ngân sách nhà nước và tổ chức được Nhà nước giao đất không thu tiền sử dụng đất khi Nhà nước thu hồi đất thì không được bồi thường về đất nhưng được hỗ trợ bằng tiền nếu phải di dời đến cơ sở mới do cơ quan nhà nước có thẩm quyền quyết định; mức hỗ trợ tối đa không quá mức bồi thường về đất;\nb) Đơn vị vũ trang nhân dân đang sử dụng đất khi Nhà nước thu hồi đất theo quy định tại Điều 79 của Luật này thì được bố trí vị trí mới hoặc chuyển đổi vị trí đất phù hợp;\nc) Khi Nhà nước thu hồi đất, tổ chức bị thiệt hại về tài sản do Nhà nước giao quản lý, sử dụng và phải di dời đến cơ sở mới thì tổ chức đó được sử dụng tiền bồi thường tài sản để đầu tư tại cơ sở mới theo dự án đầu tư được cấp có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 183048,
+                    "end": 184097,
+                    "document_id": "luatdat2",
+                    "page": 3,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 183048,
+                "metadata": {
+                  "article": "92",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 31.310102205156372,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "db7e07ef6912e5edbf70ac3146f29376",
+                "text": "Điều 107. Bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n1. Các trường hợp không được bồi thường về đất nhưng được bồi thường chi phí đầu tư vào đất còn lại khi Nhà nước thu hồi đất bao gồm:\na) Đất được Nhà nước giao không thu tiền sử dụng đất, trừ trường hợp đất nông nghiệp của hộ gia đình, cá nhân được bồi thường về đất quy định tại Điều 96 của Luật này;\nb) Đất được Nhà nước giao cho tổ chức thuộc trường hợp có thu tiền sử dụng đất nhưng được miễn tiền sử dụng đất;\nc) Đất được Nhà nước cho thuê trả tiền thuê đất hằng năm; đất thuê trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật này;\nd) Đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích do Ủy ban nhân dân cấp xã cho thuê;\nđ) Đất nhận khoán để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối;\ne) Diện tích đất nông nghiệp được giao vượt hạn mức quy định tại Điều 176 của Luật này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 203591,
+                    "end": 204483,
+                    "document_id": "luatdat2",
+                    "page": 13,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 203591,
+                "metadata": {
+                  "article": "107",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 31.149597492876033,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "dc1644167dd5903ed98c76d32fefd7da",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n3. Việc chi trả tiền bồi thường, hỗ trợ, tái định cư được thực hiện như sau:\na) Trong thời hạn 30 ngày kể từ ngày quyết định phê duyệt phương án bồi thường, hỗ trợ, tái định cư có hiệu lực thi hành, cơ quan, đơn vị, tổ chức thực hiện bồi thường phải chi trả tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản;\nb) Trường hợp cơ quan, đơn vị, tổ chức thực hiện bồi thường chậm chi trả thì khi thanh toán tiền bồi thường, hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản, ngoài tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt thì người có đất thu hồi, chủ sở hữu tài sản còn được thanh toán thêm một khoản tiền bằng mức tiền chậm nộp theo quy định của Luật Quản lý thuế tính trên số tiền chậm trả và thời gian chậm trả. Cơ quan có thẩm quyền phê duyệt phương án bồi thường, hỗ trợ, tái định cư có trách nhiệm phê duyệt phương án chi trả bồi thường chậm cho người có đất thu hồi, chủ sở hữu tài sản. Kinh phí chi trả bồi thường chậm được bố trí từ ngân sách của cấp phê duyệt phương án bồi thường, hỗ trợ, tái định cư.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 185856,
+                    "end": 186948,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 185856,
+                "metadata": {
+                  "article": "94",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 31.048176280257046,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "b66b7089f08abf9285197429e1e08a4b",
+                "text": "Điều 99. Bồi thường về đất khi Nhà nước thu hồi đất phi nông nghiệp không phải là đất ở của hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường bằng đất có cùng mục đích sử dụng với loại đất thu hồi hoặc bằng tiền theo thời hạn sử dụng đất còn lại đối với đất sử dụng có thời hạn hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà ở.\n2. Hộ gia đình, cá nhân đang sử dụng đất phi nông nghiệp không phải là đất ở được Nhà nước cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê nhưng được miễn tiền thuê đất khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường về đất.\n3. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 8,
+                "page_end": 9,
+                "provenance": [
+                  {
+                    "start": 194395,
+                    "end": 194914,
+                    "document_id": "luatdat2",
+                    "page": 8,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 194914,
+                    "end": 195261,
+                    "document_id": "luatdat2",
+                    "page": 9,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 194395,
+                "metadata": {
+                  "article": "99",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 30.94047733681009,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a3a74074948545f797fd093ec1060d8b",
+                "text": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n3. Có chính sách hỗ trợ đất đai để bảo đảm ổn định cuộc sống cho cá nhân là người dân tộc thiểu số đã được Nhà nước giao đất, cho thuê đất quy định tại khoản 2 Điều này nhưng nay không còn đất hoặc thiếu đất so với hạn mức mà thuộc diện hộ nghèo, hộ cận nghèo tại vùng đồng bào dân tộc thiểu số và miền núi như sau:\na) Trường hợp không còn đất ở thì được giao tiếp đất ở, cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất. Trường hợp thiếu đất ở thì cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất;\nb) Trường hợp không còn hoặc thiếu đất nông nghiệp thì được giao tiếp đất nông nghiệp trong hạn mức không thu tiền hoặc cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và được miễn, giảm tiền thuê đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 15,
+                "page_end": 15,
+                "provenance": [
+                  {
+                    "start": 25949,
+                    "end": 26795,
+                    "document_id": "luatdat1",
+                    "page": 15,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 25949,
+                "metadata": {
+                  "article": "16",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 30.824890248426538,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f1664cc1f2b510068f9342957836fb5b",
+                "text": "Điều 104. Bồi thường chi phí di chuyển tài sản khi Nhà nước thu hồi đất\n1. Khi Nhà nước thu hồi đất mà phải di chuyển tài sản thì được Nhà nước bồi thường chi phí để tháo dỡ, di chuyển, lắp đặt; trường hợp phải di chuyển hệ thống máy móc, dây chuyền sản xuất còn được bồi thường đối với thiệt hại khi tháo dỡ, vận chuyển, lắp đặt.\n2. Ủy ban nhân dân cấp tỉnh quy định mức bồi thường tại khoản 1 Điều này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 12,
+                "page_end": 12,
+                "provenance": [
+                  {
+                    "start": 201607,
+                    "end": 202012,
+                    "document_id": "luatdat2",
+                    "page": 12,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 201607,
+                "metadata": {
+                  "article": "104",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 30.569184642343675,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "5aff6494488d1dbdf1d039c7ea6dbde5",
+                "text": "Điều 240. Xử lý đối với người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ\n1. Người có hành vi vi phạm pháp luật trong quản lý đất đai khi thi hành công vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật đối với các hành vi vi phạm sau đây:\na) Lợi dụng hoặc lạm dụng chức vụ, quyền hạn làm trái với quy định của pháp luật trong công tác quy hoạch, kế hoạch sử dụng đất, giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất, trưng dụng đất, bồi thường, hỗ trợ, tái định cư, xác định nghĩa vụ tài chính về đất đai, quản lý hồ sơ địa chính, đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sở hữu nhà ở, Giấy chứng nhận quyền sở hữu công trình xây dựng, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, ra quyết định hành chính trong quản lý đất đai;\nb) Thiếu trách nhiệm trong quản lý để xảy ra vi phạm pháp luật về đất đai hoặc có hành vi khác gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của người sử dụng đất;\nc) Vi phạm quy định về lấy ý kiến, công bố, công khai thông tin; vi phạm quy định về trình tự, thủ tục hành chính; vi phạm quy định về báo cáo trong quản lý đất đai.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 49,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 479145,
+                    "end": 480444,
+                    "document_id": "luatdat3",
+                    "page": 49,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 479145,
+                "metadata": {
+                  "article": "240",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 30.065791195744804,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "e01ee609f59270e7d6027034aa4bddf2",
+                "text": "Điều 254. Quy định chuyển tiếp về thu hồi đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất khi Luật này có hiệu lực thi hành\n3. Trường hợp trước ngày Luật này có hiệu lực thi hành, cơ quan nhà nước có thẩm quyền đã có văn bản xác định hành vi vi phạm của chủ đầu tư đối với việc không đưa đất vào sử dụng hoặc chậm đưa đất vào sử dụng theo quy định tại điểm i khoản 1 Điều 64 của Luật Đất đai số 45/2013/QH13 thì xử lý như sau:\na) Trường hợp chưa có quyết định thu hồi đất thì Ủy ban nhân dân cấp có thẩm quyền xử lý theo quy định tại khoản 8 và khoản 9 Điều 81 của Luật này;\nb) Trường hợp đã ban hành quyết định thu hồi đất thì thực hiện thu hồi đất theo quyết định thu hồi đất và xử lý tiền sử dụng đất, tiền thuê đất, tài sản đã đầu tư trên đất thu hồi theo quy định của pháp luật tại thời điểm Nhà nước ban hành quyết định thu hồi đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 58,
+                "page_end": 58,
+                "provenance": [
+                  {
+                    "start": 499532,
+                    "end": 500247,
+                    "document_id": "luatdat3",
+                    "page": 58,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 499532,
+                "metadata": {
+                  "article": "254",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 29.905094898726457,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "hybrid_improved",
+          "requested_fields": []
+        },
+        "elapsed_ms": 11.448099976405501
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "c2372f421576d9caeb43f7228e4d2a3a",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek8QQDZIbpB0XNXUP55hTimCv4b7O",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_2mYjzLoWVWhBcxIqQHsyYVqN",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Người được bồi thường khi Nhà nước thu hồi đất nhưng còn chưa thực hiện nghĩa vụ tài chính về đất đai thì khoản tiền còn thiếu được xử lý ra sao?\",\"mode\":\"hybrid_improved\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 533,
+          "completion_tokens": 60,
+          "total_tokens": 593,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00011595,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek8QRdm6kQ1jIyJ00qJXbRv4ioG2r",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Khi Nhà nước thu hồi đất mà người sử dụng đất chưa thực hiện nghĩa vụ tài chính về đất đai, khoản tiền chưa thực hiện nghĩa vụ tài chính sẽ được trừ vào số tiền bồi thường mà người sử dụng đất nhận được. Số tiền này sẽ được hoàn trả cho ngân sách nhà nước.\",\"citations\":[\"c2372f421576d9caeb43f7228e4d2a3a\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 94 quy định rõ về việc xử lý khoản tiền chưa thực hiện nghĩa vụ tài chính khi bồi thường đất.\",\"evidence_quotes\":[{\"id\":\"c2372f421576d9caeb43f7228e4d2a3a\",\"quote\":\"Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2217,
+          "completion_tokens": 230,
+          "total_tokens": 2447,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00047055,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_improved",
+    "autonomous": false,
+    "tool_trace_id": "6efa7927ff6a498fa1eb6c3142516c9a",
+    "prompt_version": "grounded_answer_v2+tool_router_v2",
+    "prompt_sha256": "d1d8f86631cdcf0d96aaa18cb8691799e786739280d58b6d1a738699079d765f",
+    "usage": {
+      "prompt_tokens": 2750,
+      "completion_tokens": 290,
+      "total_tokens": 3040
+    },
+    "estimated_chat_cost_usd": 0.0005865,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4406.774300034158
+  }
+}

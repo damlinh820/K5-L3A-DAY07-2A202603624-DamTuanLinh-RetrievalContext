@@ -1,0 +1,576 @@
+{
+  "query_id": "q03",
+  "question": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là \"chiếm đất\". [109c074508d73b0e59564caed899c759]",
+    "citations": [
+      "109c074508d73b0e59564caed899c759"
+    ],
+    "abstained": false,
+    "reason": "Thông tin trong tài liệu đủ để trả lời câu hỏi.",
+    "evidence_quotes": [
+      {
+        "id": "109c074508d73b0e59564caed899c759",
+        "quote": "Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép."
+      }
+    ],
+    "context": "[109c074508d73b0e59564caed899c759] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 2 | Điều 3 | Khoản 9\nĐiều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n\n\n[c4c18c9b09d59b2100eb3f9ae97b08a1] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 5 | Điều 3 | Khoản 31\nĐiều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n\n\n[476da231d78b9d10e7dff1be91a48479] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 47 | Điều 137 | Khoản 1\nĐiều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n1. Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ được lập trước ngày 15 tháng 10 năm 1993 sau đây thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và không phải nộp tiền sử dụng đất:\na) Những giấy tờ về quyền được sử dụng đất do cơ quan có thẩm quyền cấp trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ Cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nb) Một trong các giấy tờ về quyền sử dụng đất do cơ quan có thẩm quyền thuộc chế độ cũ cấp cho người sử dụng đất, gồm: Bằng khoán điền thổ; Văn tự đoạn mãi bất động sản có chứng nhận của cơ quan thuộc chế độ cũ; Văn tự mua bán nhà ở, tặng cho nhà ở, đổi nhà ở, thừa kế nhà ở mà gắn liền với đất ở có chứng nhận của cơ quan thuộc chế độ cũ; Bản di chúc hoặc giấy thỏa thuận tương phân di\nsản về nhà ở được cơ quan thuộc chế độ cũ chứng nhận; Giấy phép cho xây cất nhà ở; Giấy phép hợp thức hóa kiến trúc của cơ quan thuộc chế độ cũ cấp; Bản án của Tòa án thuộc chế độ cũ đã có hiệu lực thi hành;\nc) Giấy chứng nhận quyền sử dụng đất tạm thời được cơ quan nhà nước có thẩm quyền cấp hoặc có tên trong Sổ đăng ký ruộng đất, Sổ địa chính;\nd) Giấy tờ chuyển nhượng quyền sử dụng đất, mua bán nhà ở gắn liền với đất ở, nay được Ủy ban nhân dân cấp xã xác nhận đã sử dụng đất trước ngày 15 tháng 10 năm 1993;\nđ) Sổ mục kê, sổ kiến điền lập trước ngày 18 tháng 12 năm 1980 mà có tên người sử dụng đất;\ne) Một trong các giấy tờ được lập trong quá trình thực hiện đăng ký ruộng đất theo Chỉ thị số 299/TTg ngày 10 tháng 11 năm 1980 của Thủ tướng Chính phủ về công tác đo đạc, phân hạng và đăng ký ruộng đất trong cả nước do cơ quan nhà nước đang quản lý mà có tên người sử dụng đất, bao gồm: Biên bản xét duyệt của Hội đồng đăng ký ruộng đất cấp xã xác định người đang sử dụng đất là hợp pháp; Bản tổng hợp các trường hợp sử dụng đất hợp pháp do Ủy ban nhân dân cấp xã hoặc Hội đồng đăng ký ruộng đất cấp xã hoặc cơ quan quản lý đất đai cấp huyện, cấp tỉnh lập; Đơn xin đăng ký quyền sử dụng ruộng đất; Giấy tờ về việc chứng nhận đã đăng ký quyền sử dụng đất của Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh cấp cho người sử dụng đất;\ng) Giấy tờ về việc kê khai, đăng ký nhà cửa được Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh xác nhận mà trong đó có ghi diện tích đất có nhà;\nh) Giấy tờ của đơn vị quốc phòng giao đất cho cán bộ, chiến sĩ làm nhà ở theo Chỉ thị số 282/CT-QP ngày 11 tháng 7 năm 1991 của Bộ trưởng Bộ Quốc phòng mà việc giao đất đó phù hợp với quy hoạch sử dụng đất làm nhà ở của cán bộ, chiến sĩ trong quy hoạch đất quốc phòng đã được phê duyệt tại thời điểm giao đất;\ni) Dự án hoặc danh sách hoặc văn bản về việc di dân đi xây dựng khu kinh tế mới, di dân tái định cư được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan có thẩm quyền phê duyệt mà có tên người sử dụng đất;\nk) Giấy tờ có nội dung về quyền sở hữu nhà ở, công trình; giấy tờ về việc xây dựng, sửa chữa nhà ở, công trình được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan quản lý nhà nước về nhà ở, xây dựng chứng nhận hoặc cho phép;\nl) Giấy tờ tạm giao đất của Ủy ban nhân dân cấp huyện, cấp tỉnh; Đơn đề nghị được sử dụng đất được Ủy ban nhân dân cấp xã, hợp tác xã nông nghiệp phê duyệt, chấp thuận trước ngày 01 tháng 7 năm 1980 hoặc được Ủy ban nhân dân cấp huyện, cấp tỉnh phê duyệt, chấp thuận;\nm) Giấy tờ của cơ quan nhà nước có thẩm quyền về việc giao đất cho cơ quan, tổ chức để bố trí đất cho cán bộ, công nhân viên tự làm nhà ở hoặc xây dựng nhà ở để phân hoặc cấp cho cán bộ, công nhân viên bằng vốn không thuộc ngân sách nhà nước hoặc do cán bộ, công nhân viên tự đóng góp xây dựng;\nn) Giấy tờ khác về quyền sử dụng đất có trước ngày 15 tháng 10 năm 1993 do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tiễn của địa phương.\n",
+    "context_ids": [
+      "109c074508d73b0e59564caed899c759",
+      "c4c18c9b09d59b2100eb3f9ae97b08a1",
+      "476da231d78b9d10e7dff1be91a48479"
+    ],
+    "context_chars": 4925,
+    "context_tokens": 2558,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_mMjiVW7SngtCdDadLSgz6fRx",
+        "round": 1,
+        "arguments": {
+          "query": "tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép",
+          "mode": "bm25",
+          "top_k": 3
+        },
+        "executed_query": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?",
+        "mode": "bm25",
+        "results": [
+          {
+            "id": "109c074508d73b0e59564caed899c759",
+            "text": "Điều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 2,
+            "page_end": 2,
+            "provenance": [
+              {
+                "start": 2509,
+                "end": 2703,
+                "document_id": "luatdat1",
+                "page": 2,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 2509,
+            "metadata": {
+              "article": "3",
+              "clause": "9",
+              "part": 1
+            },
+            "score": 40.431427830269214,
+            "rank": 1,
+            "strategy": "bm25"
+          },
+          {
+            "id": "c4c18c9b09d59b2100eb3f9ae97b08a1",
+            "text": "Điều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 5,
+            "page_end": 5,
+            "provenance": [
+              {
+                "start": 7538,
+                "end": 7781,
+                "document_id": "luatdat1",
+                "page": 5,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 7538,
+            "metadata": {
+              "article": "3",
+              "clause": "31",
+              "part": 1
+            },
+            "score": 24.832664546875755,
+            "rank": 2,
+            "strategy": "bm25"
+          },
+          {
+            "id": "476da231d78b9d10e7dff1be91a48479",
+            "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n1. Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ được lập trước ngày 15 tháng 10 năm 1993 sau đây thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và không phải nộp tiền sử dụng đất:\na) Những giấy tờ về quyền được sử dụng đất do cơ quan có thẩm quyền cấp trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ Cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nb) Một trong các giấy tờ về quyền sử dụng đất do cơ quan có thẩm quyền thuộc chế độ cũ cấp cho người sử dụng đất, gồm: Bằng khoán điền thổ; Văn tự đoạn mãi bất động sản có chứng nhận của cơ quan thuộc chế độ cũ; Văn tự mua bán nhà ở, tặng cho nhà ở, đổi nhà ở, thừa kế nhà ở mà gắn liền với đất ở có chứng nhận của cơ quan thuộc chế độ cũ; Bản di chúc hoặc giấy thỏa thuận tương phân di\nsản về nhà ở được cơ quan thuộc chế độ cũ chứng nhận; Giấy phép cho xây cất nhà ở; Giấy phép hợp thức hóa kiến trúc của cơ quan thuộc chế độ cũ cấp; Bản án của Tòa án thuộc chế độ cũ đã có hiệu lực thi hành;\nc) Giấy chứng nhận quyền sử dụng đất tạm thời được cơ quan nhà nước có thẩm quyền cấp hoặc có tên trong Sổ đăng ký ruộng đất, Sổ địa chính;\nd) Giấy tờ chuyển nhượng quyền sử dụng đất, mua bán nhà ở gắn liền với đất ở, nay được Ủy ban nhân dân cấp xã xác nhận đã sử dụng đất trước ngày 15 tháng 10 năm 1993;\nđ) Sổ mục kê, sổ kiến điền lập trước ngày 18 tháng 12 năm 1980 mà có tên người sử dụng đất;\ne) Một trong các giấy tờ được lập trong quá trình thực hiện đăng ký ruộng đất theo Chỉ thị số 299/TTg ngày 10 tháng 11 năm 1980 của Thủ tướng Chính phủ về công tác đo đạc, phân hạng và đăng ký ruộng đất trong cả nước do cơ quan nhà nước đang quản lý mà có tên người sử dụng đất, bao gồm: Biên bản xét duyệt của Hội đồng đăng ký ruộng đất cấp xã xác định người đang sử dụng đất là hợp pháp; Bản tổng hợp các trường hợp sử dụng đất hợp pháp do Ủy ban nhân dân cấp xã hoặc Hội đồng đăng ký ruộng đất cấp xã hoặc cơ quan quản lý đất đai cấp huyện, cấp tỉnh lập; Đơn xin đăng ký quyền sử dụng ruộng đất; Giấy tờ về việc chứng nhận đã đăng ký quyền sử dụng đất của Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh cấp cho người sử dụng đất;\ng) Giấy tờ về việc kê khai, đăng ký nhà cửa được Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh xác nhận mà trong đó có ghi diện tích đất có nhà;\nh) Giấy tờ của đơn vị quốc phòng giao đất cho cán bộ, chiến sĩ làm nhà ở theo Chỉ thị số 282/CT-QP ngày 11 tháng 7 năm 1991 của Bộ trưởng Bộ Quốc phòng mà việc giao đất đó phù hợp với quy hoạch sử dụng đất làm nhà ở của cán bộ, chiến sĩ trong quy hoạch đất quốc phòng đã được phê duyệt tại thời điểm giao đất;\ni) Dự án hoặc danh sách hoặc văn bản về việc di dân đi xây dựng khu kinh tế mới, di dân tái định cư được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan có thẩm quyền phê duyệt mà có tên người sử dụng đất;\nk) Giấy tờ có nội dung về quyền sở hữu nhà ở, công trình; giấy tờ về việc xây dựng, sửa chữa nhà ở, công trình được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan quản lý nhà nước về nhà ở, xây dựng chứng nhận hoặc cho phép;\nl) Giấy tờ tạm giao đất của Ủy ban nhân dân cấp huyện, cấp tỉnh; Đơn đề nghị được sử dụng đất được Ủy ban nhân dân cấp xã, hợp tác xã nông nghiệp phê duyệt, chấp thuận trước ngày 01 tháng 7 năm 1980 hoặc được Ủy ban nhân dân cấp huyện, cấp tỉnh phê duyệt, chấp thuận;\nm) Giấy tờ của cơ quan nhà nước có thẩm quyền về việc giao đất cho cơ quan, tổ chức để bố trí đất cho cán bộ, công nhân viên tự làm nhà ở hoặc xây dựng nhà ở để phân hoặc cấp cho cán bộ, công nhân viên bằng vốn không thuộc ngân sách nhà nước hoặc do cán bộ, công nhân viên tự đóng góp xây dựng;\nn) Giấy tờ khác về quyền sử dụng đất có trước ngày 15 tháng 10 năm 1993 do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tiễn của địa phương.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 47,
+            "page_end": 49,
+            "provenance": [
+              {
+                "start": 269798,
+                "end": 270699,
+                "document_id": "luatdat2",
+                "page": 47,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              },
+              {
+                "start": 270699,
+                "end": 272704,
+                "document_id": "luatdat2",
+                "page": 48,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              },
+              {
+                "start": 272704,
+                "end": 273641,
+                "document_id": "luatdat2",
+                "page": 49,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 269798,
+            "metadata": {
+              "article": "137",
+              "clause": "1",
+              "part": 2
+            },
+            "score": 23.905173178211086,
+            "rank": 3,
+            "strategy": "bm25"
+          }
+        ],
+        "context_ids": [
+          "109c074508d73b0e59564caed899c759",
+          "c4c18c9b09d59b2100eb3f9ae97b08a1",
+          "476da231d78b9d10e7dff1be91a48479"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?",
+          "variants": [
+            "Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là gì?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "bm25_0": [
+              {
+                "id": "109c074508d73b0e59564caed899c759",
+                "text": "Điều 3. Giải thích từ ngữ\n9. Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 2509,
+                    "end": 2703,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 2509,
+                "metadata": {
+                  "article": "3",
+                  "clause": "9",
+                  "part": 1
+                },
+                "score": 40.431427830269214,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "c4c18c9b09d59b2100eb3f9ae97b08a1",
+                "text": "Điều 3. Giải thích từ ngữ\n31. Lấn đất là việc người sử dụng đất chuyển dịch mốc giới hoặc ranh giới thửa đất để mở rộng diện tích đất sử dụng mà không được cơ quan nhà nước có thẩm quyền cho phép hoặc không được người sử dụng hợp pháp diện tích đất bị lấn đó cho phép.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 7538,
+                    "end": 7781,
+                    "document_id": "luatdat1",
+                    "page": 5,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 7538,
+                "metadata": {
+                  "article": "3",
+                  "clause": "31",
+                  "part": 1
+                },
+                "score": 24.832664546875755,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "476da231d78b9d10e7dff1be91a48479",
+                "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n1. Hộ gia đình, cá nhân đang sử dụng đất ổn định mà có một trong các loại giấy tờ được lập trước ngày 15 tháng 10 năm 1993 sau đây thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và không phải nộp tiền sử dụng đất:\na) Những giấy tờ về quyền được sử dụng đất do cơ quan có thẩm quyền cấp trong quá trình thực hiện chính sách đất đai của Nhà nước Việt Nam dân chủ Cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam;\nb) Một trong các giấy tờ về quyền sử dụng đất do cơ quan có thẩm quyền thuộc chế độ cũ cấp cho người sử dụng đất, gồm: Bằng khoán điền thổ; Văn tự đoạn mãi bất động sản có chứng nhận của cơ quan thuộc chế độ cũ; Văn tự mua bán nhà ở, tặng cho nhà ở, đổi nhà ở, thừa kế nhà ở mà gắn liền với đất ở có chứng nhận của cơ quan thuộc chế độ cũ; Bản di chúc hoặc giấy thỏa thuận tương phân di\nsản về nhà ở được cơ quan thuộc chế độ cũ chứng nhận; Giấy phép cho xây cất nhà ở; Giấy phép hợp thức hóa kiến trúc của cơ quan thuộc chế độ cũ cấp; Bản án của Tòa án thuộc chế độ cũ đã có hiệu lực thi hành;\nc) Giấy chứng nhận quyền sử dụng đất tạm thời được cơ quan nhà nước có thẩm quyền cấp hoặc có tên trong Sổ đăng ký ruộng đất, Sổ địa chính;\nd) Giấy tờ chuyển nhượng quyền sử dụng đất, mua bán nhà ở gắn liền với đất ở, nay được Ủy ban nhân dân cấp xã xác nhận đã sử dụng đất trước ngày 15 tháng 10 năm 1993;\nđ) Sổ mục kê, sổ kiến điền lập trước ngày 18 tháng 12 năm 1980 mà có tên người sử dụng đất;\ne) Một trong các giấy tờ được lập trong quá trình thực hiện đăng ký ruộng đất theo Chỉ thị số 299/TTg ngày 10 tháng 11 năm 1980 của Thủ tướng Chính phủ về công tác đo đạc, phân hạng và đăng ký ruộng đất trong cả nước do cơ quan nhà nước đang quản lý mà có tên người sử dụng đất, bao gồm: Biên bản xét duyệt của Hội đồng đăng ký ruộng đất cấp xã xác định người đang sử dụng đất là hợp pháp; Bản tổng hợp các trường hợp sử dụng đất hợp pháp do Ủy ban nhân dân cấp xã hoặc Hội đồng đăng ký ruộng đất cấp xã hoặc cơ quan quản lý đất đai cấp huyện, cấp tỉnh lập; Đơn xin đăng ký quyền sử dụng ruộng đất; Giấy tờ về việc chứng nhận đã đăng ký quyền sử dụng đất của Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh cấp cho người sử dụng đất;\ng) Giấy tờ về việc kê khai, đăng ký nhà cửa được Ủy ban nhân dân cấp xã, cấp huyện hoặc cấp tỉnh xác nhận mà trong đó có ghi diện tích đất có nhà;\nh) Giấy tờ của đơn vị quốc phòng giao đất cho cán bộ, chiến sĩ làm nhà ở theo Chỉ thị số 282/CT-QP ngày 11 tháng 7 năm 1991 của Bộ trưởng Bộ Quốc phòng mà việc giao đất đó phù hợp với quy hoạch sử dụng đất làm nhà ở của cán bộ, chiến sĩ trong quy hoạch đất quốc phòng đã được phê duyệt tại thời điểm giao đất;\ni) Dự án hoặc danh sách hoặc văn bản về việc di dân đi xây dựng khu kinh tế mới, di dân tái định cư được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan có thẩm quyền phê duyệt mà có tên người sử dụng đất;\nk) Giấy tờ có nội dung về quyền sở hữu nhà ở, công trình; giấy tờ về việc xây dựng, sửa chữa nhà ở, công trình được Ủy ban nhân dân cấp huyện, cấp tỉnh hoặc cơ quan quản lý nhà nước về nhà ở, xây dựng chứng nhận hoặc cho phép;\nl) Giấy tờ tạm giao đất của Ủy ban nhân dân cấp huyện, cấp tỉnh; Đơn đề nghị được sử dụng đất được Ủy ban nhân dân cấp xã, hợp tác xã nông nghiệp phê duyệt, chấp thuận trước ngày 01 tháng 7 năm 1980 hoặc được Ủy ban nhân dân cấp huyện, cấp tỉnh phê duyệt, chấp thuận;\nm) Giấy tờ của cơ quan nhà nước có thẩm quyền về việc giao đất cho cơ quan, tổ chức để bố trí đất cho cán bộ, công nhân viên tự làm nhà ở hoặc xây dựng nhà ở để phân hoặc cấp cho cán bộ, công nhân viên bằng vốn không thuộc ngân sách nhà nước hoặc do cán bộ, công nhân viên tự đóng góp xây dựng;\nn) Giấy tờ khác về quyền sử dụng đất có trước ngày 15 tháng 10 năm 1993 do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tiễn của địa phương.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 47,
+                "page_end": 49,
+                "provenance": [
+                  {
+                    "start": 269798,
+                    "end": 270699,
+                    "document_id": "luatdat2",
+                    "page": 47,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 270699,
+                    "end": 272704,
+                    "document_id": "luatdat2",
+                    "page": 48,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 272704,
+                    "end": 273641,
+                    "document_id": "luatdat2",
+                    "page": 49,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 269798,
+                "metadata": {
+                  "article": "137",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 23.905173178211086,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "abfa49d9518346cece64ddc5307cb208",
+                "text": "Điều 3. Giải thích từ ngữ\n45. Tiền thuê đất là số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước cho thuê đất, cho phép chuyển mục đích sử dụng đất để cho thuê đất hoặc các trường hợp sử dụng đất mà phải nộp tiền thuê đất theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 6,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 10799,
+                    "end": 11043,
+                    "document_id": "luatdat1",
+                    "page": 6,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 10799,
+                "metadata": {
+                  "article": "3",
+                  "clause": "45",
+                  "part": 1
+                },
+                "score": 22.792030475106525,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "8d4efc5983d7471bce4f84abfaa4ed11",
+                "text": "Điều 3. Giải thích từ ngữ\n44. Tiền sử dụng đất là số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước giao đất có thu tiền sử dụng đất, cho phép chuyển mục đích sử dụng đất hoặc các trường hợp sử dụng đất mà phải nộp tiền sử dụng đất theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 6,
+                "page_end": 6,
+                "provenance": [
+                  {
+                    "start": 10545,
+                    "end": 10799,
+                    "document_id": "luatdat1",
+                    "page": 6,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 10545,
+                "metadata": {
+                  "article": "3",
+                  "clause": "44",
+                  "part": 1
+                },
+                "score": 22.57968302762984,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "38a5a0e631c4faad3cf00ec117ee60af",
+                "text": "Điều 149. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở\n1. Hộ gia đình, cá nhân, cộng đồng dân cư sở hữu công trình xây dựng được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất khi có một trong các loại giấy tờ sau đây:\na) Giấy phép xây dựng công trình hoặc giấy phép xây dựng công trình có thời hạn đối với trường hợp phải xin cấp giấy phép xây dựng theo quy định của pháp luật về xây dựng;\nb) Giấy tờ về sở hữu công trình xây dựng do cơ quan có thẩm quyền cấp qua các thời kỳ, trừ trường hợp Nhà nước đã quản lý, bố trí sử dụng;\nc) Giấy tờ về mua bán hoặc tặng cho hoặc thừa kế công trình xây dựng theo quy định của pháp luật;\nd) Bản án hoặc quyết định của Tòa án hoặc giấy tờ của cơ quan nhà nước có thẩm quyền đã có hiệu lực pháp luật mà có xác định quyền sở hữu công trình xây dựng;\nđ) Một trong những giấy tờ quy định tại các điểm a, b, c và d khoản này mà trên giấy tờ đó ghi tên người khác và đang không có tranh chấp.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 70,
+                "page_end": 70,
+                "provenance": [
+                  {
+                    "start": 317537,
+                    "end": 318438,
+                    "document_id": "luatdat2",
+                    "page": 70,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 317537,
+                "metadata": {
+                  "article": "149",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 22.516994924726976,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "634406573cf81425debc6f0bae17171a",
+                "text": "Điều 124. Các trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất\n3. Giao đất có thu tiền sử dụng đất, cho thuê đất trong các trường hợp sau đây:\na) Giao đất ở cho cán bộ, công chức, viên chức, sĩ quan tại ngũ, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân và viên chức quốc phòng, sĩ quan, hạ sĩ quan, công nhân công an, người làm công tác cơ yếu và người làm công tác khác trong tổ chức cơ yếu hưởng lương từ ngân sách nhà nước mà chưa được giao đất ở, nhà ở;\nb) Giao đất ở cho cá nhân là giáo viên, nhân viên y tế đang công tác tại các xã biên giới, hải đảo thuộc vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn nhưng chưa có đất ở, nhà ở tại nơi công tác hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở;\nc) Giao đất ở cho cá nhân thường trú tại xã mà không có đất ở và chưa được Nhà nước giao đất ở hoặc chưa được hưởng chính sách hỗ trợ về nhà ở theo quy định của pháp luật về nhà ở;\nd) Giao đất ở cho cá nhân thường trú tại thị trấn thuộc vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn mà không có đất ở và chưa được Nhà nước giao đất ở;\nđ) Cho thuê đất làm mặt bằng sản xuất, kinh doanh đối với người được Nhà nước cho thuê đất thu tiền thuê đất hằng năm nhưng phải di dời ra khỏi vị trí cũ do ô nhiễm môi trường theo quy định của pháp luật; hỗ trợ cho thuê đất để tiếp tục sản xuất, kinh doanh đối với trường hợp thu hồi đất cơ sở sản xuất phi nông nghiệp của người đang sử dụng;\ne) Cho thuê đất đối với cá nhân có nhu cầu sử dụng diện tích đất nông nghiệp vượt hạn mức được giao quy định tại Điều 176 của Luật này; cho thuê đất đối với cá nhân là người dân tộc thiểu số theo quy định tại điểm d khoản 2 và điểm b khoản 3 Điều 16 của Luật này;\ng) Cho thuê đất đối với đơn vị sự nghiệp công lập lựa chọn hình thức thuê đất;\nh) Cho thuê đất đối với tổ chức nước ngoài có chức năng ngoại giao sử dụng đất để xây dựng trụ sở làm việc;\ni) Cho thuê đất đối với đơn vị vũ trang nhân dân sử dụng đất để sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối hoặc sản xuất nông nghiệp, lâm nghiệp, nuôi trồng thủy sản, làm muối kết hợp với nhiệm vụ quốc phòng, an ninh;\nk) Cho thuê đất sử dụng vào mục đích hoạt động khoáng sản đối với trường hợp đã được cơ quan nhà nước có thẩm quyền cấp phép;\nl) Giao đất, cho thuê đất cho tổ chức, hộ gia đình, cá nhân, người gốc Việt Nam định cư ở nước ngoài do được bồi thường bằng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan, do được hỗ trợ tái định cư theo quy định của Luật này;\nm) Giao đất, cho thuê đất cho người sử dụng đất bị thu hồi đất sản xuất, kinh doanh theo quy định tại Điều 78 và Điều 79 của Luật này mà tại thời điểm thu hồi đất còn thời hạn sử dụng đất và người sử dụng đất có nhu cầu sử dụng đất tại vị trí khác để tiếp tục sản xuất, kinh doanh;\nn) Giao đất, cho thuê đất đối với các thửa đất nhỏ hẹp, nằm xen kẹt theo quy định của Chính phủ;\no) Giao đất, cho thuê đất theo quyết định giải quyết tranh chấp đất đai, khiếu nại về đất đai của cơ quan có thẩm quyền đã có hiệu lực thi hành;\np) Các trường hợp khác do Thủ tướng Chính phủ quyết định.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 29,
+                "page_end": 31,
+                "provenance": [
+                  {
+                    "start": 234159,
+                    "end": 235080,
+                    "document_id": "luatdat2",
+                    "page": 29,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 235080,
+                    "end": 237081,
+                    "document_id": "luatdat2",
+                    "page": 30,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 237081,
+                    "end": 237284,
+                    "document_id": "luatdat2",
+                    "page": 31,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 234159,
+                "metadata": {
+                  "article": "124",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 22.189256983780037,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "ad281beea388ce5d95f6d391fdb286b0",
+                "text": "Điều 217. Đất do cơ quan, tổ chức của Nhà nước quản lý\n1. Đất do cơ quan, tổ chức của Nhà nước quản lý là đất chưa giao, chưa cho thuê hoặc đã được giao đất để quản lý, bao gồm:\na) Đất sử dụng vào mục đích công cộng;\nb) Đất sông, ngòi, kênh, rạch, suối, ao, hồ, đầm, phá;\nc) Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt;\nd) Đất có mặt nước chuyên dùng;\nđ) Đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất;\ne) Đất do Nhà nước thu hồi và giao cho tổ chức phát triển quỹ đất quản lý;\ng) Đất do Nhà nước thu hồi và giao Ủy ban nhân dân cấp xã quản lý trong các trường hợp tại điểm đ khoản 1 và khoản 3 Điều 82; khoản 2 Điều 82 tại khu vực nông thôn; khoản 5 Điều 86; điểm e khoản 2 Điều 181 của Luật này;\nh) Đất giao lại, chuyển quyền sử dụng đất của tổ chức nước ngoài có chức năng ngoại giao khi không có nhu cầu sử dụng đất thực hiện trên cơ sở điều ước quốc tế, thỏa thuận quốc tế và quy định của pháp luật có liên quan;\ni) Đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn;\nk) Đất chưa sử dụng.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 31,
+                "page_end": 32,
+                "provenance": [
+                  {
+                    "start": 438044,
+                    "end": 438504,
+                    "document_id": "luatdat3",
+                    "page": 31,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  },
+                  {
+                    "start": 438504,
+                    "end": 439040,
+                    "document_id": "luatdat3",
+                    "page": 32,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 438044,
+                "metadata": {
+                  "article": "217",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 22.062525975442817,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "963d4d7c89e5945d37e8cf0e4a7990db",
+                "text": "Điều 36. Quyền và nghĩa vụ của tổ chức kinh tế nhận góp vốn bằng quyền sử dụng đất; quyền sử dụng đất của tổ chức kinh tế khi giải thể, phá sản\n2. Quyền sử dụng đất của hợp tác xã, liên hiệp hợp tác xã khi giải thể, phá sản thực hiện theo quy định sau đây:\na) Đối với đất được Nhà nước giao đất không thu tiền sử dụng đất; được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất, do mua tài sản gắn liền với đất hoặc nhận chuyển nhượng quyền sử dụng đất hợp pháp từ người khác mà tiền sử dụng đất, tiền thuê đất, tiền mua tài sản gắn liền với đất, tiền nhận chuyển nhượng quyền sử dụng đất có nguồn gốc do Nhà nước hỗ trợ thì Nhà nước thu hồi đất đó theo quy định của Luật này và pháp luật về hợp tác xã;\nb) Đối với đất được Nhà nước giao đất có thu tiền sử dụng đất, cho thuê đất thu tiền thuê đất một lần cho cả thời gian thuê, do mua tài sản gắn liền với đất hoặc nhận chuyển nhượng quyền sử dụng đất hợp pháp từ người khác mà tiền sử dụng đất, tiền thuê đất, tiền mua tài sản gắn liền với đất, tiền nhận chuyển nhượng quyền sử dụng đất không có nguồn gốc do Nhà nước hỗ trợ; đất do thành viên góp quyền sử dụng vào hợp tác xã, liên hiệp hợp tác xã thì Nhà nước không thu hồi đất, quyền sử dụng đất đó là của hợp tác xã, liên hiệp hợp tác xã và được xử lý theo điều lệ của hợp tác xã, liên hiệp hợp tác xã, nghị quyết của đại hội thành viên.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 31,
+                "page_end": 31,
+                "provenance": [
+                  {
+                    "start": 56457,
+                    "end": 57663,
+                    "document_id": "luatdat1",
+                    "page": 31,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 56457,
+                "metadata": {
+                  "article": "36",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 21.910626320267703,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "164e5a7368169be38b089ee223bf0bb0",
+                "text": "Điều 145. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho tổ chức tôn giáo, tổ chức tôn giáo trực thuộc đang sử dụng đất\n1. Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được Nhà nước cho phép hoạt động đang sử dụng đất cho hoạt động tôn giáo mà chưa được cấp Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất phải tự rà soát, kê khai việc sử dụng đất và báo cáo Ủy ban nhân dân cấp tỉnh theo các nội dung sau đây:\na) Tổng diện tích đất đang sử dụng;\nb) Diện tích đất được cơ quan nhà nước có thẩm quyền giao; nhận chuyển nhượng; nhận tặng cho; mượn của tổ chức, hộ gia đình, cá nhân; tự tạo lập; hình thức khác;\nc) Diện tích đất đã cho tổ chức, hộ gia đình, cá nhân mượn, ở nhờ, thuê;\nd) Diện tích đất đã bị người khác lấn, chiếm.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 65,
+                "page_end": 65,
+                "provenance": [
+                  {
+                    "start": 307202,
+                    "end": 307967,
+                    "document_id": "luatdat2",
+                    "page": 65,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 307202,
+                "metadata": {
+                  "article": "145",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 21.848386419440182,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "bm25",
+          "requested_fields": []
+        },
+        "elapsed_ms": 9.812400036025792
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "109c074508d73b0e59564caed899c759",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek88sXg4aW8NAeo3EGo1TNykhju8J",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_mMjiVW7SngtCdDadLSgz6fRx",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép\",\"mode\":\"bm25\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 412,
+          "completion_tokens": 46,
+          "total_tokens": 458,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.939999999999999e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek88uaJ4sgB8qoX8zR9SZapvx5GdG",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Việc tự sử dụng đất do Nhà nước quản lý hoặc đất của người sử dụng hợp pháp khác mà chưa được cho phép được gọi là \\\"chiếm đất\\\".\",\"citations\":[\"109c074508d73b0e59564caed899c759\"],\"abstained\":false,\"reason\":\"Thông tin trong tài liệu đủ để trả lời câu hỏi.\",\"evidence_quotes\":[{\"id\":\"109c074508d73b0e59564caed899c759\",\"quote\":\"Chiếm đất là việc sử dụng đất do Nhà nước đã quản lý mà chưa được cơ quan nhà nước có thẩm quyền cho phép hoặc sử dụng đất của người sử dụng đất hợp pháp khác mà chưa được người đó cho phép.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 2106,
+          "completion_tokens": 153,
+          "total_tokens": 2259,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0004077,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "bm25",
+    "autonomous": false,
+    "tool_trace_id": "c331bbe19dff44bcb5f0f527f37f1b48",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 2518,
+      "completion_tokens": 199,
+      "total_tokens": 2717
+    },
+    "estimated_chat_cost_usd": 0.0004971,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 3641.3244000286795
+  }
+}

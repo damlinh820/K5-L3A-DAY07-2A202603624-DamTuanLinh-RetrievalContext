@@ -1,0 +1,523 @@
+{
+  "query_id": "q09",
+  "question": "Theo nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên. [e4ffaa13606d5cb7478e46fa7151739d]",
+    "citations": [
+      "e4ffaa13606d5cb7478e46fa7151739d"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong Điều 60 đã nêu rõ quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên.",
+    "evidence_quotes": [
+      {
+        "id": "e4ffaa13606d5cb7478e46fa7151739d",
+        "quote": "quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên;"
+      }
+    ],
+    "context": "[e4ffaa13606d5cb7478e46fa7151739d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 53 | Điều 60 | Khoản 4\nĐiều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n\n\n[78c8913c5c2cf398a7ebe7d7a27cbdbe] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 53 | Điều 60 | Khoản 2\nĐiều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc gia nhằm sử dụng đất tiết kiệm, hiệu quả.\n\n\n[49a2bfc7e0bc26eec966d6af4d1482a4] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 53 | Điều 60 | Khoản 1\nĐiều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n",
+    "context_ids": [
+      "e4ffaa13606d5cb7478e46fa7151739d",
+      "78c8913c5c2cf398a7ebe7d7a27cbdbe",
+      "49a2bfc7e0bc26eec966d6af4d1482a4"
+    ],
+    "context_chars": 1482,
+    "context_tokens": 790,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_wYswlGyIeMBzNhgwbjjjhED3",
+        "round": 1,
+        "arguments": {
+          "query": "nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Theo nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "e4ffaa13606d5cb7478e46fa7151739d",
+            "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 53,
+            "page_end": 53,
+            "provenance": [
+              {
+                "start": 100024,
+                "end": 100432,
+                "document_id": "luatdat1",
+                "page": 53,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 100024,
+            "metadata": {
+              "article": "60",
+              "clause": "4",
+              "part": 1
+            },
+            "score": 0.753241777420044,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "78c8913c5c2cf398a7ebe7d7a27cbdbe",
+            "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc gia nhằm sử dụng đất tiết kiệm, hiệu quả.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 53,
+            "page_end": 53,
+            "provenance": [
+              {
+                "start": 99585,
+                "end": 99826,
+                "document_id": "luatdat1",
+                "page": 53,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 99585,
+            "metadata": {
+              "article": "60",
+              "clause": "2",
+              "part": 1
+            },
+            "score": 0.7362887263298035,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "49a2bfc7e0bc26eec966d6af4d1482a4",
+            "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 53,
+            "page_end": 53,
+            "provenance": [
+              {
+                "start": 99332,
+                "end": 99585,
+                "document_id": "luatdat1",
+                "page": 53,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 99332,
+            "metadata": {
+              "article": "60",
+              "clause": "1",
+              "part": 1
+            },
+            "score": 0.7338893413543701,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "e4ffaa13606d5cb7478e46fa7151739d",
+          "78c8913c5c2cf398a7ebe7d7a27cbdbe",
+          "49a2bfc7e0bc26eec966d6af4d1482a4"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Theo nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào?",
+          "variants": [
+            "Theo nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "e4ffaa13606d5cb7478e46fa7151739d",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n4. Bảo đảm tính thống nhất, đồng bộ; quy hoạch sử dụng đất của cấp trên bảo đảm nhu cầu sử dụng đất của cấp dưới; quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên; quy hoạch sử dụng đất cấp huyện phải xác định được nội dung sử dụng đất đến cấp xã; kế hoạch sử dụng đất phải phù hợp với quy hoạch sử dụng đất cùng cấp đã được cơ quan có thẩm quyền quyết định, phê duyệt.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 100024,
+                    "end": 100432,
+                    "document_id": "luatdat1",
+                    "page": 53,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 100024,
+                "metadata": {
+                  "article": "60",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.753241777420044,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "78c8913c5c2cf398a7ebe7d7a27cbdbe",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n2. Quy hoạch sử dụng đất quốc gia phải bảo đảm tính đặc thù, liên kết vùng; bảo đảm sự cân bằng giữa nhu cầu sử dụng đất của các ngành, lĩnh vực, địa phương và phù hợp với tiềm năng đất đai của quốc gia nhằm sử dụng đất tiết kiệm, hiệu quả.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 99585,
+                    "end": 99826,
+                    "document_id": "luatdat1",
+                    "page": 53,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 99585,
+                "metadata": {
+                  "article": "60",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.7362887263298035,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "49a2bfc7e0bc26eec966d6af4d1482a4",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n1. Việc lập quy hoạch sử dụng đất các cấp phải tuân thủ nguyên tắc và mối quan hệ giữa các loại quy hoạch theo quy định của Luật Quy hoạch. Quy hoạch sử dụng đất các cấp phải tổng hợp, cân đối nhu cầu sử dụng đất của các ngành, lĩnh vực có sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 99332,
+                    "end": 99585,
+                    "document_id": "luatdat1",
+                    "page": 53,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 99332,
+                "metadata": {
+                  "article": "60",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.7338893413543701,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "551c7ea7b260511e10d44f0836e601d2",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n5. Nội dung quy hoạch sử dụng đất phải kết hợp giữa chỉ tiêu sử dụng đất gắn với không gian, phân vùng sử dụng đất, hệ sinh thái tự nhiên.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 100432,
+                    "end": 100571,
+                    "document_id": "luatdat1",
+                    "page": 53,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 100432,
+                "metadata": {
+                  "article": "60",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.7219283580780029,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "0fa31b90f341e440d39c23888d78362f",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n7. Bảo đảm tính liên tục, kế thừa, ổn định, đặc thù, liên kết của các vùng kinh tế - xã hội; cân đối hài hòa giữa các ngành, lĩnh vực, địa phương, giữa các thế hệ; phù hợp với điều kiện, tiềm năng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 54,
+                "page_end": 54,
+                "provenance": [
+                  {
+                    "start": 100845,
+                    "end": 101051,
+                    "document_id": "luatdat1",
+                    "page": 54,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 100845,
+                "metadata": {
+                  "article": "60",
+                  "clause": "7",
+                  "part": 1
+                },
+                "score": 0.7165464162826538,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "4f4f10277eb42be75376de0eec957964",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n10. Kế hoạch sử dụng đất được lập đồng thời với lập, điều chỉnh quy hoạch sử dụng đất cùng cấp. Kế hoạch sử dụng đất năm đầu của quy hoạch sử dụng cấp huyện được lập đồng thời với lập quy hoạch sử dụng đất cấp huyện.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 54,
+                "page_end": 54,
+                "provenance": [
+                  {
+                    "start": 101686,
+                    "end": 101903,
+                    "document_id": "luatdat1",
+                    "page": 54,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 101686,
+                "metadata": {
+                  "article": "60",
+                  "clause": "10",
+                  "part": 1
+                },
+                "score": 0.6997749209403992,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "941cacfab83ba4cbe64c2dd3eb0db060",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n3. Quy hoạch, kế hoạch sử dụng đất được lập ở cấp quốc gia, cấp tỉnh và cấp huyện phải đáp ứng yêu cầu thực hiện chiến lược phát triển kinh tế - xã hội nhanh, bền vững; bảo đảm quốc phòng, an ninh.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 53,
+                "page_end": 53,
+                "provenance": [
+                  {
+                    "start": 99826,
+                    "end": 100024,
+                    "document_id": "luatdat1",
+                    "page": 53,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 99826,
+                "metadata": {
+                  "article": "60",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 0.6959397792816162,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "bcf077b3caba91c50dff615e717edf37",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n8. Việc lập quy hoạch, kế hoạch sử dụng đất các cấp phải bảo đảm sự tham gia của tổ chức chính trị - xã hội, cộng đồng, cá nhân; bảo đảm công khai, minh bạch.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 54,
+                "page_end": 54,
+                "provenance": [
+                  {
+                    "start": 101051,
+                    "end": 101210,
+                    "document_id": "luatdat1",
+                    "page": 54,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 101051,
+                "metadata": {
+                  "article": "60",
+                  "clause": "8",
+                  "part": 1
+                },
+                "score": 0.6754095554351807,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "86b6ae502046e1955712591e06e70783",
+                "text": "Điều 60. Nguyên tắc lập quy hoạch, kế hoạch sử dụng đất\n6. Sử dụng đất tiết kiệm và có hiệu quả; khai thác hợp lý tài nguyên thiên nhiên và bảo vệ môi trường; thích ứng với biến đổi khí hậu; bảo đảm an ninh lương thực quốc gia, độ che phủ rừng; bảo tồn, tôn tạo và phát huy giá trị di tích lịch sử - văn hóa, danh lam thắng cảnh.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 54,
+                "page_end": 54,
+                "provenance": [
+                  {
+                    "start": 100571,
+                    "end": 100845,
+                    "document_id": "luatdat1",
+                    "page": 54,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 100571,
+                "metadata": {
+                  "article": "60",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.665900468826294,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "9caf605ec8ce070cde663ebca05fe586",
+                "text": "Điều 71. Thẩm định quy hoạch, kế hoạch sử dụng đất\n5. Việc thẩm định quy hoạch sử dụng đất quốc gia, quy hoạch sử dụng đất quốc phòng, quy hoạch sử dụng đất an ninh thực hiện theo quy định của pháp luật về quy hoạch.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 64,
+                "page_end": 64,
+                "provenance": [
+                  {
+                    "start": 120916,
+                    "end": 121082,
+                    "document_id": "luatdat1",
+                    "page": 64,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 120916,
+                "metadata": {
+                  "article": "71",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.6614304780960083,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1226.4437999692746
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "e4ffaa13606d5cb7478e46fa7151739d",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek87cCN4DHmTSdl9HCuQCtgTI82iU",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_wYswlGyIeMBzNhgwbjjjhED3",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"nguyên tắc lập quy hoạch sử dụng đất, quy hoạch của cấp dưới phải phù hợp với quy hoạch nào\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 405,
+          "completion_tokens": 44,
+          "total_tokens": 449,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.715e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek87fQvuQ19ojcEyGu7ElXPbWV8d2",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên.\",\"citations\":[\"e4ffaa13606d5cb7478e46fa7151739d\"],\"abstained\":false,\"reason\":\"Nội dung trong Điều 60 đã nêu rõ quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên.\",\"evidence_quotes\":[{\"id\":\"e4ffaa13606d5cb7478e46fa7151739d\",\"quote\":\"quy hoạch sử dụng đất của cấp dưới phải phù hợp với quy hoạch sử dụng đất của cấp trên;\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1079,
+          "completion_tokens": 138,
+          "total_tokens": 1217,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00024464999999999996,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "daccb77b18544c9b8a7fe8c16ad1e69a",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1484,
+      "completion_tokens": 182,
+      "total_tokens": 1666
+    },
+    "estimated_chat_cost_usd": 0.00033179999999999993,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4580.856600019615
+  }
+}

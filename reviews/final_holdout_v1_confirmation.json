@@ -1,0 +1,12 @@
+{
+  "confirmed_at_utc": "2026-11-14T16:17:45.260872+00:00",
+  "reviewer": "DamTuanLinh",
+  "user_confirmation": "Tôi xác nhận các nhãn H3 trong final_holdout_v1_H3.md cho cả Dense và Hybrid cải thiện.",
+  "run": "final_holdout_v1",
+  "cases_per_mode": 7,
+  "modes": [
+    "dense",
+    "hybrid_improved"
+  ],
+  "confirmed_review_document_sha256": "dcf572230ab2a6a548aef1cf5663583ea075da8cc68907380223c01d98a043ef"
+}

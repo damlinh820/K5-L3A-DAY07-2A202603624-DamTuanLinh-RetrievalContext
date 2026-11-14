@@ -1,0 +1,518 @@
+{
+  "query_id": "q04",
+  "question": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Căn cứ vào mục đích sử dụng, đất đai được chia thành ba nhóm: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, và nhóm đất chưa sử dụng [e768fa75598da2a2f436f39ae47e54af].",
+    "citations": [
+      "e768fa75598da2a2f436f39ae47e54af"
+    ],
+    "abstained": false,
+    "reason": "Thông tin đầy đủ về phân loại đất theo mục đích sử dụng đã được cung cấp trong tài liệu.",
+    "evidence_quotes": [
+      {
+        "id": "e768fa75598da2a2f436f39ae47e54af",
+        "quote": "Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng."
+      }
+    ],
+    "context": "[e768fa75598da2a2f436f39ae47e54af] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 10 | Điều 9 | Khoản 1\nĐiều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n\n\n[0079b0f83ff5841e09c74762faac5dd3] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 22 | Điều 27 | Khoản 2\nĐiều 27. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân theo quy định của Luật này. Trường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ như quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng thành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử dụng đất của mình thì phải thực hiện đăng ký biến động hoặc tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và được thực hiện quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này. Trường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì các thành viên cùng nhau thực hiện hoặc ủy quyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n\n\n[b248e5f0419e5526f423652e03940e1e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 81 | Điều 158 | Khoản 2\nĐiều 158. Nguyên tắc, căn cứ, phương pháp định giá đất\n2. Căn cứ định giá đất bao gồm:\na) Mục đích sử dụng đất được đưa ra định giá;\nb) Thời hạn sử dụng đất. Đối với đất nông nghiệp đã được Nhà nước giao cho hộ gia đình, cá nhân theo hạn mức giao đất nông nghiệp, đất nông nghiệp trong hạn mức nhận chuyển quyền thì không căn cứ vào thời hạn sử dụng đất;\nc) Thông tin đầu vào để định giá đất theo các phương pháp định giá đất;\nd) Yếu tố khác ảnh hưởng đến giá đất;\nđ) Quy định của pháp luật có liên quan tại thời điểm định giá đất.\n",
+    "context_ids": [
+      "e768fa75598da2a2f436f39ae47e54af",
+      "0079b0f83ff5841e09c74762faac5dd3",
+      "b248e5f0419e5526f423652e03940e1e"
+    ],
+    "context_chars": 2324,
+    "context_tokens": 1130,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_06nLjO3IrxfC3OTfUG8HxzfZ",
+        "round": 1,
+        "arguments": {
+          "query": "mục đích sử dụng đất đai được chia thành những nhóm nào",
+          "mode": "bm25",
+          "top_k": 3
+        },
+        "executed_query": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+        "mode": "bm25",
+        "results": [
+          {
+            "id": "e768fa75598da2a2f436f39ae47e54af",
+            "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 10,
+            "page_end": 10,
+            "provenance": [
+              {
+                "start": 16930,
+                "end": 17064,
+                "document_id": "luatdat1",
+                "page": 10,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 16930,
+            "metadata": {
+              "article": "9",
+              "clause": "1",
+              "part": 1
+            },
+            "score": 27.93496599849351,
+            "rank": 1,
+            "strategy": "bm25"
+          },
+          {
+            "id": "0079b0f83ff5841e09c74762faac5dd3",
+            "text": "Điều 27. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân theo quy định của Luật này. Trường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ như quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng thành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử dụng đất của mình thì phải thực hiện đăng ký biến động hoặc tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và được thực hiện quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này. Trường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì các thành viên cùng nhau thực hiện hoặc ủy quyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 22,
+            "page_end": 22,
+            "provenance": [
+              {
+                "start": 37875,
+                "end": 38955,
+                "document_id": "luatdat1",
+                "page": 22,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 37875,
+            "metadata": {
+              "article": "27",
+              "clause": "2",
+              "part": 1
+            },
+            "score": 18.17269406296773,
+            "rank": 2,
+            "strategy": "bm25"
+          },
+          {
+            "id": "b248e5f0419e5526f423652e03940e1e",
+            "text": "Điều 158. Nguyên tắc, căn cứ, phương pháp định giá đất\n2. Căn cứ định giá đất bao gồm:\na) Mục đích sử dụng đất được đưa ra định giá;\nb) Thời hạn sử dụng đất. Đối với đất nông nghiệp đã được Nhà nước giao cho hộ gia đình, cá nhân theo hạn mức giao đất nông nghiệp, đất nông nghiệp trong hạn mức nhận chuyển quyền thì không căn cứ vào thời hạn sử dụng đất;\nc) Thông tin đầu vào để định giá đất theo các phương pháp định giá đất;\nd) Yếu tố khác ảnh hưởng đến giá đất;\nđ) Quy định của pháp luật có liên quan tại thời điểm định giá đất.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 81,
+            "page_end": 81,
+            "provenance": [
+              {
+                "start": 339758,
+                "end": 340235,
+                "document_id": "luatdat2",
+                "page": 81,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 339758,
+            "metadata": {
+              "article": "158",
+              "clause": "2",
+              "part": 2
+            },
+            "score": 16.84886231119433,
+            "rank": 3,
+            "strategy": "bm25"
+          }
+        ],
+        "context_ids": [
+          "e768fa75598da2a2f436f39ae47e54af",
+          "0079b0f83ff5841e09c74762faac5dd3",
+          "b248e5f0419e5526f423652e03940e1e"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+          "variants": [
+            "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "bm25_0": [
+              {
+                "id": "e768fa75598da2a2f436f39ae47e54af",
+                "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 10,
+                "page_end": 10,
+                "provenance": [
+                  {
+                    "start": 16930,
+                    "end": 17064,
+                    "document_id": "luatdat1",
+                    "page": 10,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 16930,
+                "metadata": {
+                  "article": "9",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 27.93496599849351,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0079b0f83ff5841e09c74762faac5dd3",
+                "text": "Điều 27. Quyền chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất; thế chấp, góp vốn bằng quyền sử dụng đất\n2. Nhóm người sử dụng đất mà có chung quyền sử dụng đất thì có các quyền và nghĩa vụ như sau:\na) Nhóm người sử dụng đất bao gồm thành viên hộ gia đình, cá nhân thì có quyền và nghĩa vụ như quyền và nghĩa vụ của cá nhân theo quy định của Luật này. Trường hợp trong nhóm người sử dụng đất có thành viên là tổ chức kinh tế thì có quyền và nghĩa vụ như quyền và nghĩa vụ của tổ chức kinh tế theo quy định của Luật này;\nb) Trường hợp nhóm người sử dụng đất mà quyền sử dụng đất phân chia được theo phần cho từng thành viên trong nhóm, nếu từng thành viên của nhóm muốn thực hiện quyền đối với phần quyền sử dụng đất của mình thì phải thực hiện đăng ký biến động hoặc tách thửa theo quy định, làm thủ tục cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và được thực hiện quyền và nghĩa vụ của người sử dụng đất theo quy định của Luật này. Trường hợp quyền sử dụng đất của nhóm người sử dụng đất không phân chia được theo phần thì các thành viên cùng nhau thực hiện hoặc ủy quyền cho người đại diện để thực hiện quyền và nghĩa vụ của nhóm người sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 22,
+                "page_end": 22,
+                "provenance": [
+                  {
+                    "start": 37875,
+                    "end": 38955,
+                    "document_id": "luatdat1",
+                    "page": 22,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 37875,
+                "metadata": {
+                  "article": "27",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 18.17269406296773,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "b248e5f0419e5526f423652e03940e1e",
+                "text": "Điều 158. Nguyên tắc, căn cứ, phương pháp định giá đất\n2. Căn cứ định giá đất bao gồm:\na) Mục đích sử dụng đất được đưa ra định giá;\nb) Thời hạn sử dụng đất. Đối với đất nông nghiệp đã được Nhà nước giao cho hộ gia đình, cá nhân theo hạn mức giao đất nông nghiệp, đất nông nghiệp trong hạn mức nhận chuyển quyền thì không căn cứ vào thời hạn sử dụng đất;\nc) Thông tin đầu vào để định giá đất theo các phương pháp định giá đất;\nd) Yếu tố khác ảnh hưởng đến giá đất;\nđ) Quy định của pháp luật có liên quan tại thời điểm định giá đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 81,
+                "page_end": 81,
+                "provenance": [
+                  {
+                    "start": 339758,
+                    "end": 340235,
+                    "document_id": "luatdat2",
+                    "page": 81,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 339758,
+                "metadata": {
+                  "article": "158",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 16.84886231119433,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "7f44b1bb3d24ca05dd0b233a9ac5ae27",
+                "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n6. Căn cứ giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với trường hợp không thuộc diện chấp thuận chủ trương đầu tư, chấp thuận nhà đầu tư theo pháp luật về đầu tư được thực hiện theo quy định của Chính phủ.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 23,
+                "page_end": 23,
+                "provenance": [
+                  {
+                    "start": 222533,
+                    "end": 222761,
+                    "document_id": "luatdat2",
+                    "page": 23,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 222533,
+                "metadata": {
+                  "article": "116",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 15.669116191836139,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "096f39a107a5699623c365c05ed9f0b4",
+                "text": "Điều 73. Rà soát, điều chỉnh quy hoạch, kế hoạch sử dụng đất\n5. Căn cứ điều chỉnh quy hoạch sử dụng đất cấp huyện bao gồm:\na) Do điều chỉnh quy hoạch cấp trên trực tiếp làm thay đổi cơ cấu sử dụng đất của cấp huyện;\nb) Do việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính của địa phương;\nc) Do chiến tranh, yêu cầu bảo đảm quốc phòng, an ninh làm thay đổi mục đích, cơ cấu, vị trí, diện tích sử dụng đất;\nd) Do tác động của thiên tai, ứng phó sự cố về môi trường làm thay đổi mục đích sử dụng đất; việc triển khai thực hiện quy hoạch tác động tiêu cực đến an sinh xã hội, môi trường sinh thái và ảnh hưởng đến cộng đồng;\nđ) Có biến động về nguồn lực thực hiện quy hoạch, hình thành dự án trọng điểm phục vụ lợi ích quốc gia, lợi ích công cộng làm thay đổi định hướng sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 66,
+                "page_end": 66,
+                "provenance": [
+                  {
+                    "start": 123881,
+                    "end": 124616,
+                    "document_id": "luatdat1",
+                    "page": 66,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 123881,
+                "metadata": {
+                  "article": "73",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 15.52933049156384,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "148b63f3b3f8cdf7d230915c4bb5899c",
+                "text": "Điều 195. Đất ở tại nông thôn\n1. Đất ở tại nông thôn là đất để làm nhà ở và mục đích khác phục vụ cho đời sống trong cùng một thửa đất thuộc khu vực nông thôn.\n2. Căn cứ vào quỹ đất và tình hình thực tế của địa phương, Ủy ban nhân dân cấp tỉnh quy định hạn mức giao đất ở cho cá nhân tại nông thôn.\n3. Đất ở tại nông thôn phải bố trí đồng bộ với đất sử dụng cho mục đích xây dựng các công trình công cộng, công trình sự nghiệp bảo đảm thuận tiện cho sản xuất, đời sống của nhân dân, vệ sinh môi trường và theo hướng hiện đại hóa nông thôn.\n4. Nhà nước có chính sách tạo điều kiện cho những người sống ở nông thôn có chỗ ở trên cơ sở tận dụng đất trong những khu dân cư sẵn có, hạn chế việc mở rộng khu dân cư trên đất nông nghiệp.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 17,
+                "page_end": 17,
+                "provenance": [
+                  {
+                    "start": 403143,
+                    "end": 403874,
+                    "document_id": "luatdat3",
+                    "page": 17,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 403143,
+                "metadata": {
+                  "article": "195",
+                  "clause": null,
+                  "part": 3
+                },
+                "score": 15.392226404046836,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "bbac661528c32630109f3048062ea28f",
+                "text": "Điều 73. Rà soát, điều chỉnh quy hoạch, kế hoạch sử dụng đất\n4. Căn cứ điều chỉnh quy hoạch sử dụng đất cấp tỉnh bao gồm:\na) Do điều chỉnh quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh, quy hoạch có tính chất kỹ thuật, chuyên ngành có sử dụng đất cấp quốc gia, liên tỉnh làm thay đổi cơ cấu sử dụng đất của cấp tỉnh;\nb) Do việc thành lập, nhập, chia, điều chỉnh địa giới đơn vị hành chính của đơn vị hành chính cấp tỉnh, đơn vị hành chính trực thuộc;\nc) Do tác động của thiên tai, chiến tranh, yêu cầu bảo đảm quốc phòng, an ninh làm thay đổi mục đích, cơ cấu, vị trí, diện tích sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 66,
+                "page_end": 66,
+                "provenance": [
+                  {
+                    "start": 123341,
+                    "end": 123881,
+                    "document_id": "luatdat1",
+                    "page": 66,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 123341,
+                "metadata": {
+                  "article": "73",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 15.364748794965516,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "dc33347e4d8bef3940a0b609ee731140",
+                "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n5. Căn cứ cho phép chuyển mục đích sử dụng đất nông nghiệp trong khu dân cư, đất nông nghiệp trong cùng thửa đất có đất ở sang đất ở hoặc chuyển mục đích sử dụng các loại đất phi nông nghiệp không phải là đất ở sang đất ở đối với hộ gia đình, cá nhân là quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu theo quy định của pháp luật về quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 23,
+                "page_end": 23,
+                "provenance": [
+                  {
+                    "start": 222113,
+                    "end": 222533,
+                    "document_id": "luatdat2",
+                    "page": 23,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 222113,
+                "metadata": {
+                  "article": "116",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 14.626596118310928,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "3dabbcd1fb3ac9044adfaf8577e68471",
+                "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n1. Căn cứ giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất là văn bản phê duyệt kết quả trúng đấu giá quyền sử dụng đất của cơ quan nhà nước có thẩm quyền.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 22,
+                "page_end": 22,
+                "provenance": [
+                  {
+                    "start": 220175,
+                    "end": 220341,
+                    "document_id": "luatdat2",
+                    "page": 22,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 220175,
+                "metadata": {
+                  "article": "116",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 14.382523159053749,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "596e0a34cb5ff0523ed8b7d9a590eda9",
+                "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n7. Chính phủ quy định chi tiết về việc giao đất, cho thuê đất, chuyển mục đích sử dụng đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 23,
+                "page_end": 23,
+                "provenance": [
+                  {
+                    "start": 222761,
+                    "end": 222853,
+                    "document_id": "luatdat2",
+                    "page": 23,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 222761,
+                "metadata": {
+                  "article": "116",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 14.293527782867482,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "bm25",
+          "requested_fields": []
+        },
+        "elapsed_ms": 9.890800050925463
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "e768fa75598da2a2f436f39ae47e54af",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek88w9sHjb57sC3HguSayj8wQmA6m",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_06nLjO3IrxfC3OTfUG8HxzfZ",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"mục đích sử dụng đất đai được chia thành những nhóm nào\",\"mode\":\"bm25\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 402,
+          "completion_tokens": 37,
+          "total_tokens": 439,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.25e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek88xaBY6iw6j4hExx6GWd3vgS3db",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Căn cứ vào mục đích sử dụng, đất đai được chia thành ba nhóm: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, và nhóm đất chưa sử dụng [e768fa75598da2a2f436f39ae47e54af].\",\"citations\":[\"e768fa75598da2a2f436f39ae47e54af\"],\"abstained\":false,\"reason\":\"Thông tin đầy đủ về phân loại đất theo mục đích sử dụng đã được cung cấp trong tài liệu.\",\"evidence_quotes\":[{\"id\":\"e768fa75598da2a2f436f39ae47e54af\",\"quote\":\"Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1275,
+          "completion_tokens": 182,
+          "total_tokens": 1457,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00030045,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "bm25",
+    "autonomous": false,
+    "tool_trace_id": "e7dde4cca8674bd4b95fcc9ea75505ae",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1677,
+      "completion_tokens": 219,
+      "total_tokens": 1896
+    },
+    "estimated_chat_cost_usd": 0.00038295,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 3716.027100046631
+  }
+}

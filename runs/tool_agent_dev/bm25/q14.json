@@ -1,0 +1,544 @@
+{
+  "query_id": "q14",
+  "question": "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Có, việc chuyển đất nông nghiệp sang đất phi nông nghiệp thuộc trường hợp phải được cơ quan có thẩm quyền cho phép. Cụ thể, theo Điều 121, Khoản 1, các trường hợp chuyển mục đích sử dụng đất, bao gồm cả việc chuyển đất nông nghiệp sang đất phi nông nghiệp, đều phải được cơ quan nhà nước có thẩm quyền cho phép. [d52c33c813be4714f35fd7543a6ba8ea]",
+    "citations": [
+      "d52c33c813be4714f35fd7543a6ba8ea"
+    ],
+    "abstained": false,
+    "reason": "Thông tin trong tài liệu rõ ràng quy định rằng việc chuyển đất nông nghiệp sang đất phi nông nghiệp phải được cơ quan có thẩm quyền cho phép.",
+    "evidence_quotes": [
+      {
+        "id": "d52c33c813be4714f35fd7543a6ba8ea",
+        "quote": "b) Chuyển đất nông nghiệp sang đất phi nông nghiệp;"
+      }
+    ],
+    "context": "[d52c33c813be4714f35fd7543a6ba8ea] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 25 | Điều 121 | Khoản 1\nĐiều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n\n\n[dc33347e4d8bef3940a0b609ee731140] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 23 | Điều 116 | Khoản 5\nĐiều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n5. Căn cứ cho phép chuyển mục đích sử dụng đất nông nghiệp trong khu dân cư, đất nông nghiệp trong cùng thửa đất có đất ở sang đất ở hoặc chuyển mục đích sử dụng các loại đất phi nông nghiệp không phải là đất ở sang đất ở đối với hộ gia đình, cá nhân là quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu theo quy định của pháp luật về quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt.\n\n\n[2f9e9b400892a5aa95ef181c22f0919b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 26 | Điều 121 | Khoản 3\nĐiều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+    "context_ids": [
+      "d52c33c813be4714f35fd7543a6ba8ea",
+      "dc33347e4d8bef3940a0b609ee731140",
+      "2f9e9b400892a5aa95ef181c22f0919b"
+    ],
+    "context_chars": 2348,
+    "context_tokens": 1143,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_HXOVD1ocPBXZuGdKnEnu1FbG",
+        "round": 1,
+        "arguments": {
+          "query": "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không",
+          "mode": "bm25",
+          "top_k": 3
+        },
+        "executed_query": "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không?",
+        "mode": "bm25",
+        "results": [
+          {
+            "id": "d52c33c813be4714f35fd7543a6ba8ea",
+            "text": "Điều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 25,
+            "page_end": 26,
+            "provenance": [
+              {
+                "start": 227276,
+                "end": 227561,
+                "document_id": "luatdat2",
+                "page": 25,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              },
+              {
+                "start": 227561,
+                "end": 228182,
+                "document_id": "luatdat2",
+                "page": 26,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 227276,
+            "metadata": {
+              "article": "121",
+              "clause": "1",
+              "part": 2
+            },
+            "score": 43.47950167329354,
+            "rank": 1,
+            "strategy": "bm25"
+          },
+          {
+            "id": "dc33347e4d8bef3940a0b609ee731140",
+            "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n5. Căn cứ cho phép chuyển mục đích sử dụng đất nông nghiệp trong khu dân cư, đất nông nghiệp trong cùng thửa đất có đất ở sang đất ở hoặc chuyển mục đích sử dụng các loại đất phi nông nghiệp không phải là đất ở sang đất ở đối với hộ gia đình, cá nhân là quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu theo quy định của pháp luật về quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 23,
+            "page_end": 23,
+            "provenance": [
+              {
+                "start": 222113,
+                "end": 222533,
+                "document_id": "luatdat2",
+                "page": 23,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 222113,
+            "metadata": {
+              "article": "116",
+              "clause": "5",
+              "part": 2
+            },
+            "score": 37.831598439217615,
+            "rank": 2,
+            "strategy": "bm25"
+          },
+          {
+            "id": "2f9e9b400892a5aa95ef181c22f0919b",
+            "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 26,
+            "page_end": 26,
+            "provenance": [
+              {
+                "start": 228462,
+                "end": 228912,
+                "document_id": "luatdat2",
+                "page": 26,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 228462,
+            "metadata": {
+              "article": "121",
+              "clause": "3",
+              "part": 2
+            },
+            "score": 35.152574956379425,
+            "rank": 3,
+            "strategy": "bm25"
+          }
+        ],
+        "context_ids": [
+          "d52c33c813be4714f35fd7543a6ba8ea",
+          "dc33347e4d8bef3940a0b609ee731140",
+          "2f9e9b400892a5aa95ef181c22f0919b"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không?",
+          "variants": [
+            "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "bm25_0": [
+              {
+                "id": "d52c33c813be4714f35fd7543a6ba8ea",
+                "text": "Điều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 25,
+                "page_end": 26,
+                "provenance": [
+                  {
+                    "start": 227276,
+                    "end": 227561,
+                    "document_id": "luatdat2",
+                    "page": 25,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 227561,
+                    "end": 228182,
+                    "document_id": "luatdat2",
+                    "page": 26,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 227276,
+                "metadata": {
+                  "article": "121",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 43.47950167329354,
+                "rank": 1,
+                "strategy": "bm25"
+              },
+              {
+                "id": "dc33347e4d8bef3940a0b609ee731140",
+                "text": "Điều 116. Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất\n5. Căn cứ cho phép chuyển mục đích sử dụng đất nông nghiệp trong khu dân cư, đất nông nghiệp trong cùng thửa đất có đất ở sang đất ở hoặc chuyển mục đích sử dụng các loại đất phi nông nghiệp không phải là đất ở sang đất ở đối với hộ gia đình, cá nhân là quy hoạch sử dụng đất cấp huyện hoặc quy hoạch chung hoặc quy hoạch phân khu theo quy định của pháp luật về quy hoạch đô thị đã được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 23,
+                "page_end": 23,
+                "provenance": [
+                  {
+                    "start": 222113,
+                    "end": 222533,
+                    "document_id": "luatdat2",
+                    "page": 23,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 222113,
+                "metadata": {
+                  "article": "116",
+                  "clause": "5",
+                  "part": 2
+                },
+                "score": 37.831598439217615,
+                "rank": 2,
+                "strategy": "bm25"
+              },
+              {
+                "id": "2f9e9b400892a5aa95ef181c22f0919b",
+                "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 26,
+                "page_end": 26,
+                "provenance": [
+                  {
+                    "start": 228462,
+                    "end": 228912,
+                    "document_id": "luatdat2",
+                    "page": 26,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 228462,
+                "metadata": {
+                  "article": "121",
+                  "clause": "3",
+                  "part": 2
+                },
+                "score": 35.152574956379425,
+                "rank": 3,
+                "strategy": "bm25"
+              },
+              {
+                "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+                "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 369776,
+                    "end": 370052,
+                    "document_id": "luatdat3",
+                    "page": 3,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 369776,
+                "metadata": {
+                  "article": "173",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 32.20836646045172,
+                "rank": 4,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a3a74074948545f797fd093ec1060d8b",
+                "text": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n3. Có chính sách hỗ trợ đất đai để bảo đảm ổn định cuộc sống cho cá nhân là người dân tộc thiểu số đã được Nhà nước giao đất, cho thuê đất quy định tại khoản 2 Điều này nhưng nay không còn đất hoặc thiếu đất so với hạn mức mà thuộc diện hộ nghèo, hộ cận nghèo tại vùng đồng bào dân tộc thiểu số và miền núi như sau:\na) Trường hợp không còn đất ở thì được giao tiếp đất ở, cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất. Trường hợp thiếu đất ở thì cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất;\nb) Trường hợp không còn hoặc thiếu đất nông nghiệp thì được giao tiếp đất nông nghiệp trong hạn mức không thu tiền hoặc cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và được miễn, giảm tiền thuê đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 15,
+                "page_end": 15,
+                "provenance": [
+                  {
+                    "start": 25949,
+                    "end": 26795,
+                    "document_id": "luatdat1",
+                    "page": 15,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 25949,
+                "metadata": {
+                  "article": "16",
+                  "clause": "3",
+                  "part": 1
+                },
+                "score": 31.316124166481412,
+                "rank": 5,
+                "strategy": "bm25"
+              },
+              {
+                "id": "2da66fb0a33cf936ec939efa1be116bc",
+                "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n1. Thời hạn sử dụng đất đối với cá nhân khi chuyển mục đích sử dụng đất được quy định như sau:\na) Trường hợp chuyển đất rừng đặc dụng, đất rừng phòng hộ sang loại đất khác thì thời hạn được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất;\nb) Trường hợp chuyển đất trồng cây hằng năm, đất trồng cây lâu năm, đất rừng sản xuất, đất nuôi trồng thủy sản, đất làm muối sang đất rừng đặc dụng, đất rừng phòng hộ thì thời hạn sử dụng đất là ổn định lâu dài;\nc) Trường hợp chuyển mục đích sử dụng giữa các loại đất nông nghiệp không thuộc trường hợp quy định tại điểm a và điểm b khoản này thì cá nhân sử dụng đất được tiếp tục sử dụng đất đó theo thời hạn đã được giao, cho thuê;\nd) Trường hợp chuyển đất nông nghiệp sang đất phi nông nghiệp thì thời hạn sử dụng đất được xác định theo thời hạn của loại đất sau khi được chuyển mục đích sử dụng. Thời hạn sử dụng đất được tính từ thời điểm có quyết định cho phép chuyển mục đích sử dụng đất.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 3,
+                "page_end": 3,
+                "provenance": [
+                  {
+                    "start": 368522,
+                    "end": 369578,
+                    "document_id": "luatdat3",
+                    "page": 3,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 368522,
+                "metadata": {
+                  "article": "173",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 30.096267265485693,
+                "rank": 6,
+                "strategy": "bm25"
+              },
+              {
+                "id": "3ca42173cb8836bca339706687d5c95a",
+                "text": "Điều 206. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp\n2. Việc sử dụng đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng đô thị, quy hoạch xây dựng điểm dân cư nông thôn đã được cơ quan có thẩm quyền phê duyệt và các quy định về bảo vệ môi trường.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 24,
+                "page_end": 24,
+                "provenance": [
+                  {
+                    "start": 420377,
+                    "end": 420649,
+                    "document_id": "luatdat3",
+                    "page": 24,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 420377,
+                "metadata": {
+                  "article": "206",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 29.942216355186865,
+                "rank": 7,
+                "strategy": "bm25"
+              },
+              {
+                "id": "a95b32f9894265e34c10cf27ebe0c5e2",
+                "text": "Điều 215. Đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối\n2. Căn cứ vào mục đích sử dụng chủ yếu đã xác định, đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối được quản lý, sử dụng theo quy định sau đây:\na) Nhà nước giao cho tổ chức để quản lý kết hợp sử dụng, khai thác đất có mặt nước chuyên dùng vào mục đích phi nông nghiệp hoặc phi nông nghiệp kết hợp với nuôi trồng, khai thác thủy sản;\nb) Nhà nước cho thuê đất sông, ngòi, kênh, rạch, suối thu tiền thuê đất hằng năm đối với tổ chức kinh tế, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để nuôi trồng thủy sản hoặc sử dụng vào mục đích phi nông nghiệp hoặc sử dụng vào mục đích phi nông nghiệp kết hợp với nuôi trồng thủy sản và phải thực hiện theo quy định của pháp luật về tài nguyên nước;\nc) Nhà nước cho thuê đất có mặt nước là hồ thủy điện, thủy lợi để kết hợp sử dụng với mục đích phi nông nghiệp, nuôi trồng, khai thác thủy sản theo thẩm quyền;\nd) Nhà nước giao, cho thuê đất trong phạm vi bảo vệ và phạm vi phụ cận đập, hồ chứa nước thuộc công trình thủy điện, thủy lợi cho tổ chức, cá nhân để quản lý, kết hợp sử dụng, khai thác đất có mặt nước kết hợp với các mục đích sử dụng đất khác theo quy định của pháp luật có liên quan và phải được cơ quan nhà nước có thẩm quyền cấp phép theo quy định.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 30,
+                "page_end": 30,
+                "provenance": [
+                  {
+                    "start": 433764,
+                    "end": 435029,
+                    "document_id": "luatdat3",
+                    "page": 30,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 433764,
+                "metadata": {
+                  "article": "215",
+                  "clause": "2",
+                  "part": 3
+                },
+                "score": 29.30416471866231,
+                "rank": 8,
+                "strategy": "bm25"
+              },
+              {
+                "id": "288de0153e0fca5465dfc1164afef715",
+                "text": "Điều 16. Trách nhiệm của Nhà nước về đất đai đối với đồng bào dân tộc thiểu số\n2. Có chính sách hỗ trợ đất đai lần đầu cho cá nhân là người dân tộc thiểu số thuộc diện hộ nghèo, hộ cận nghèo tại vùng đồng bào dân tộc thiểu số và miền núi, phù hợp với phong tục, tập quán, tín ngưỡng, bản sắc văn hóa và điều kiện thực tế của từng vùng để bảo đảm ổn định cuộc sống như sau:\na) Giao đất ở trong hạn mức và được miễn, giảm tiền sử dụng đất;\nb) Cho phép chuyển mục đích sử dụng đất sang đất ở trong hạn mức giao đất ở và được miễn, giảm tiền sử dụng đất đối với đất có nguồn gốc được Nhà nước giao, cho thuê, công nhận hoặc được thừa kế, tặng cho, nhận chuyển nhượng quyền sử dụng đất theo quy định của pháp luật;\nc) Giao đất nông nghiệp trong hạn mức không thu tiền sử dụng đất;\nd) Cho thuê đất phi nông nghiệp không phải là đất ở để sản xuất, kinh doanh và được miễn, giảm tiền thuê đất;\nđ) Diện tích giao đất, cho phép chuyển mục đích sử dụng đất quy định tại điểm a và điểm b khoản này được tính cho tổng diện tích đất được Nhà nước giao, cho phép chuyển mục đích sử dụng đất trong quá trình thực hiện các chính sách về đất đai đối với đồng bào dân tộc thiểu số.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 14,
+                "page_end": 15,
+                "provenance": [
+                  {
+                    "start": 24865,
+                    "end": 25159,
+                    "document_id": "luatdat1",
+                    "page": 14,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 25159,
+                    "end": 25949,
+                    "document_id": "luatdat1",
+                    "page": 15,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 24865,
+                "metadata": {
+                  "article": "16",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 25.575327022256715,
+                "rank": 9,
+                "strategy": "bm25"
+              },
+              {
+                "id": "f7d7ab1f0624e7184bd88b9bd82be5e7",
+                "text": "Điều 138. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:\n6. Hộ gia đình, cá nhân đang sử dụng đất ổn định vào mục đích thuộc nhóm đất nông nghiệp, nay được Ủy ban nhân dân cấp xã nơi có đất xác nhận không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo hình thức Nhà nước giao đất không thu tiền sử dụng đất đối với diện tích đất đang sử dụng nhưng không vượt quá hạn mức giao đất nông nghiệp cho cá nhân quy định tại Điều 176 của Luật này; thời hạn sử dụng đất tính từ ngày được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; diện tích đất nông nghiệp còn lại (nếu có) phải chuyển sang thuê đất của Nhà nước;\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 55,
+                "page_end": 55,
+                "provenance": [
+                  {
+                    "start": 285681,
+                    "end": 286322,
+                    "document_id": "luatdat2",
+                    "page": 55,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 285681,
+                "metadata": {
+                  "article": "138",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 25.447249552834144,
+                "rank": 10,
+                "strategy": "bm25"
+              }
+            ]
+          },
+          "mode": "bm25",
+          "requested_fields": []
+        },
+        "elapsed_ms": 9.981299983337522
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [
+          "rendered_model_selected_citation_markers"
+        ],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "d52c33c813be4714f35fd7543a6ba8ea",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek89iK0sQLXoRwWDSb46CmUdK85hd",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_HXOVD1ocPBXZuGdKnEnu1FbG",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không\",\"mode\":\"bm25\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 411,
+          "completion_tokens": 50,
+          "total_tokens": 461,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 9.165e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek89jOMurf9eiq4HC4B6w7TfB0yJC",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Có, việc chuyển đất nông nghiệp sang đất phi nông nghiệp thuộc trường hợp phải được cơ quan có thẩm quyền cho phép. Cụ thể, theo Điều 121, Khoản 1, các trường hợp chuyển mục đích sử dụng đất, bao gồm cả việc chuyển đất nông nghiệp sang đất phi nông nghiệp, đều phải được cơ quan nhà nước có thẩm quyền cho phép.\",\"citations\":[\"d52c33c813be4714f35fd7543a6ba8ea\"],\"abstained\":false,\"reason\":\"Thông tin trong tài liệu rõ ràng quy định rằng việc chuyển đất nông nghiệp sang đất phi nông nghiệp phải được cơ quan có thẩm quyền cho phép.\",\"evidence_quotes\":[{\"id\":\"d52c33c813be4714f35fd7543a6ba8ea\",\"quote\":\"b) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1320,
+          "completion_tokens": 199,
+          "total_tokens": 1519,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00031739999999999996,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "bm25",
+    "autonomous": false,
+    "tool_trace_id": "8a6f449dd507470fafb8a792185286b4",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1731,
+      "completion_tokens": 249,
+      "total_tokens": 1980
+    },
+    "estimated_chat_cost_usd": 0.00040905,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 4074.2746999603696
+  }
+}

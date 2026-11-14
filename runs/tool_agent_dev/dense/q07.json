@@ -1,0 +1,537 @@
+{
+  "query_id": "q07",
+  "question": "Về mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất được quy định như thế nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Mục đích, ranh giới, độ sâu và chiều cao trong nghĩa vụ sử dụng đất được quy định như sau: Người sử dụng đất phải sử dụng đất đúng mục đích, đúng ranh giới thửa đất, và tuân thủ quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không. Điều này cũng bao gồm việc bảo vệ các công trình công cộng trong lòng đất và tuân thủ các quy định khác của pháp luật có liên quan [797cef0a41132599509e8ec06210651e].",
+    "citations": [
+      "797cef0a41132599509e8ec06210651e"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong tài liệu đã cung cấp đầy đủ thông tin về mục đích, ranh giới, độ sâu và chiều cao trong nghĩa vụ sử dụng đất.",
+    "evidence_quotes": [
+      {
+        "id": "797cef0a41132599509e8ec06210651e",
+        "quote": "1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan."
+      }
+    ],
+    "context": "[d5635130acffeddf202b85984ee86a0b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 8 | Điều 5 | Khoản None\nĐiều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n\n\n[797cef0a41132599509e8ec06210651e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 25 | Điều 31 | Khoản None\nĐiều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n\n\n[ac3c52a27653ed8ebddd9b88ae0f58dc] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 5 | Điều 3 | Khoản 36\nĐiều 3. Giải thích từ ngữ\n36. Quy hoạch sử dụng đất là việc phân bổ chỉ tiêu sử dụng đất và khoanh vùng đất đai cho các mục đích phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và thích ứng với biến đổi khí hậu trên cơ sở tiềm năng đất đai và nhu cầu sử dụng đất của các ngành, lĩnh vực đối với từng đơn vị hành chính cho thời kỳ xác định.\n",
+    "context_ids": [
+      "d5635130acffeddf202b85984ee86a0b",
+      "797cef0a41132599509e8ec06210651e",
+      "ac3c52a27653ed8ebddd9b88ae0f58dc"
+    ],
+    "context_chars": 2301,
+    "context_tokens": 1160,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_MjkW5qnU9AHxgqemRNobqJjt",
+        "round": 1,
+        "arguments": {
+          "query": "mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Về mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất được quy định như thế nào?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "d5635130acffeddf202b85984ee86a0b",
+            "text": "Điều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 8,
+            "page_end": 8,
+            "provenance": [
+              {
+                "start": 13344,
+                "end": 13886,
+                "document_id": "luatdat1",
+                "page": 8,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 13344,
+            "metadata": {
+              "article": "5",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.6450493335723877,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "797cef0a41132599509e8ec06210651e",
+            "text": "Điều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 25,
+            "page_end": 26,
+            "provenance": [
+              {
+                "start": 45986,
+                "end": 46260,
+                "document_id": "luatdat1",
+                "page": 25,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              },
+              {
+                "start": 46260,
+                "end": 46970,
+                "document_id": "luatdat1",
+                "page": 26,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 45986,
+            "metadata": {
+              "article": "31",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.6364923119544983,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "ac3c52a27653ed8ebddd9b88ae0f58dc",
+            "text": "Điều 3. Giải thích từ ngữ\n36. Quy hoạch sử dụng đất là việc phân bổ chỉ tiêu sử dụng đất và khoanh vùng đất đai cho các mục đích phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và thích ứng với biến đổi khí hậu trên cơ sở tiềm năng đất đai và nhu cầu sử dụng đất của các ngành, lĩnh vực đối với từng đơn vị hành chính cho thời kỳ xác định.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 5,
+            "page_end": 5,
+            "provenance": [
+              {
+                "start": 8627,
+                "end": 8961,
+                "document_id": "luatdat1",
+                "page": 5,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 8627,
+            "metadata": {
+              "article": "3",
+              "clause": "36",
+              "part": 1
+            },
+            "score": 0.6353597640991211,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "d5635130acffeddf202b85984ee86a0b",
+          "797cef0a41132599509e8ec06210651e",
+          "ac3c52a27653ed8ebddd9b88ae0f58dc"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Về mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất được quy định như thế nào?",
+          "variants": [
+            "Về mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất được quy định như thế nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "d5635130acffeddf202b85984ee86a0b",
+                "text": "Điều 5. Nguyên tắc sử dụng đất\n1. Đúng mục đích sử dụng đất.\n2. Bền vững, tiết kiệm, có hiệu quả đối với đất đai và tài nguyên trên bề mặt, trong lòng đất.\n3. Bảo vệ đất, bảo vệ môi trường, thích ứng với biến đổi khí hậu, không được lạm dụng thuốc bảo vệ thực vật, phân hóa học làm ô nhiễm, thoái hóa đất.\n4. Thực hiện quyền và nghĩa vụ của người sử dụng đất trong thời hạn sử dụng đất theo quy định của Luật này và quy định khác của pháp luật có liên quan; không xâm phạm quyền, lợi ích hợp pháp của người sử dụng đất liền kề và xung quanh.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 8,
+                "page_end": 8,
+                "provenance": [
+                  {
+                    "start": 13344,
+                    "end": 13886,
+                    "document_id": "luatdat1",
+                    "page": 8,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 13344,
+                "metadata": {
+                  "article": "5",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.6450493335723877,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "797cef0a41132599509e8ec06210651e",
+                "text": "Điều 31. Nghĩa vụ chung của người sử dụng đất\n1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\n2. Thực hiện kê khai đăng ký đất đai; thực hiện đầy đủ thủ tục khi chuyển đổi, chuyển nhượng, cho thuê, cho thuê lại, thừa kế, tặng cho quyền sử dụng đất, thế chấp, góp vốn bằng quyền sử dụng đất theo quy định của pháp luật.\n3. Thực hiện nghĩa vụ tài chính về đất đai theo quy định của pháp luật.\n4. Thực hiện biện pháp bảo vệ đất; xử lý, cải tạo và phục hồi đất đối với khu vực đất bị ô nhiễm, thoái hóa do mình gây ra.\n5. Tuân thủ quy định về bảo vệ môi trường, không làm tổn hại đến tài sản và lợi ích hợp pháp của người sử dụng đất có liên quan.\n6. Tuân thủ quy định của pháp luật về việc tìm thấy vật trong lòng đất.\n7. Bàn giao lại đất khi Nhà nước có quyết định thu hồi đất theo quy định của pháp luật.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 25,
+                "page_end": 26,
+                "provenance": [
+                  {
+                    "start": 45986,
+                    "end": 46260,
+                    "document_id": "luatdat1",
+                    "page": 25,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 46260,
+                    "end": 46970,
+                    "document_id": "luatdat1",
+                    "page": 26,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 45986,
+                "metadata": {
+                  "article": "31",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.6364923119544983,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "ac3c52a27653ed8ebddd9b88ae0f58dc",
+                "text": "Điều 3. Giải thích từ ngữ\n36. Quy hoạch sử dụng đất là việc phân bổ chỉ tiêu sử dụng đất và khoanh vùng đất đai cho các mục đích phát triển kinh tế - xã hội, quốc phòng, an ninh, bảo vệ môi trường và thích ứng với biến đổi khí hậu trên cơ sở tiềm năng đất đai và nhu cầu sử dụng đất của các ngành, lĩnh vực đối với từng đơn vị hành chính cho thời kỳ xác định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 8627,
+                    "end": 8961,
+                    "document_id": "luatdat1",
+                    "page": 5,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 8627,
+                "metadata": {
+                  "article": "3",
+                  "clause": "36",
+                  "part": 1
+                },
+                "score": 0.6353597640991211,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "eac5572cfd937adb9b3a2f2f35781606",
+                "text": "Điều 3. Giải thích từ ngữ\n8. Chỉ tiêu sử dụng đất là diện tích đất của từng loại đất được xác định trong quy hoạch, kế hoạch sử dụng đất các cấp do cơ quan nhà nước có thẩm quyền xác định để phân bổ trong quá trình lập quy hoạch, kế hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 2283,
+                    "end": 2509,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 2283,
+                "metadata": {
+                  "article": "3",
+                  "clause": "8",
+                  "part": 1
+                },
+                "score": 0.6217247843742371,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d030e5b5ce8c075792e274d0dcf4c9b1",
+                "text": "Điều 13. Quyền của Nhà nước là đại diện chủ sở hữu về đất đai\n2. Quyết định mục đích sử dụng đất thông qua quy hoạch sử dụng đất, kế hoạch sử dụng đất, giao đất, cho thuê đất, công nhận quyền sử dụng đất và cho phép chuyển mục đích sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 13,
+                "page_end": 13,
+                "provenance": [
+                  {
+                    "start": 21418,
+                    "end": 21601,
+                    "document_id": "luatdat1",
+                    "page": 13,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 21418,
+                "metadata": {
+                  "article": "13",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.611717939376831,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "69d4e3568a28e38bffbeaf4f468f9880",
+                "text": "Điều 3. Giải thích từ ngữ\n11. Chuyển mục đích sử dụng đất là việc người sử dụng đất được thay đổi từ mục đích sử dụng đất này sang mục đích sử dụng đất khác theo quy định của Luật này.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 2996,
+                    "end": 3155,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 2996,
+                "metadata": {
+                  "article": "3",
+                  "clause": "11",
+                  "part": 1
+                },
+                "score": 0.6039864420890808,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "fa342af8b36f6fbb4764b47d3b38e76e",
+                "text": "Điều 215. Đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối\n3. Việc khai thác, sử dụng đất có mặt nước chuyên dùng và đất sông, ngòi, kênh, rạch, suối phải bảo đảm không ảnh hưởng đến mục đích sử dụng chủ yếu đã được xác định; phải tuân theo quy định về kỹ thuật của các ngành, lĩnh vực có liên quan và các quy định về bảo vệ cảnh quan, môi trường; không làm cản trở dòng chảy tự nhiên; không gây cản trở giao thông đường thủy.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 30,
+                "page_end": 30,
+                "provenance": [
+                  {
+                    "start": 435029,
+                    "end": 435397,
+                    "document_id": "luatdat3",
+                    "page": 30,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 435029,
+                "metadata": {
+                  "article": "215",
+                  "clause": "3",
+                  "part": 3
+                },
+                "score": 0.6008428931236267,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "cc312d89cd47b4350297dd3d0c4dc030",
+                "text": "Điều 207. Đất sử dụng vào mục đích công cộng; đất để thực hiện dự án đầu tư theo phương thức đối tác công tư\n1. Việc sử dụng đất vào mục đích công cộng phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch chuyên ngành có sử dụng đất đã được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 25,
+                "page_end": 25,
+                "provenance": [
+                  {
+                    "start": 422173,
+                    "end": 422345,
+                    "document_id": "luatdat3",
+                    "page": 25,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 422173,
+                "metadata": {
+                  "article": "207",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 0.6007975339889526,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "7f2e158707845390f8b493d6fc04a206",
+                "text": "Điều 3. Giải thích từ ngữ\n27. Hủy hoại đất là hành vi làm biến dạng địa hình, làm suy giảm chất lượng đất, gây ô nhiễm đất mà làm mất hoặc giảm khả năng sử dụng đất theo mục đích đã được xác định.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 4,
+                "page_end": 4,
+                "provenance": [
+                  {
+                    "start": 6917,
+                    "end": 7088,
+                    "document_id": "luatdat1",
+                    "page": 4,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 6917,
+                "metadata": {
+                  "article": "3",
+                  "clause": "27",
+                  "part": 1
+                },
+                "score": 0.5968367457389832,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "112838a5173f23f164cc67a7407e0866",
+                "text": "Điều 194. Đất khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung\n6. Người sử dụng đất trong khu nuôi, trồng, sản xuất, chế biến nông sản, lâm sản, thủy sản, hải sản tập trung phải sử dụng đất đúng mục đích đã được xác định, được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 17,
+                "page_end": 17,
+                "provenance": [
+                  {
+                    "start": 402833,
+                    "end": 403102,
+                    "document_id": "luatdat3",
+                    "page": 17,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 402833,
+                "metadata": {
+                  "article": "194",
+                  "clause": "6",
+                  "part": 3
+                },
+                "score": 0.5929707884788513,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1210.6784000061452
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "797cef0a41132599509e8ec06210651e",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek87KUncy2y9ytRJGIam33RFJLoyL",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_MjkW5qnU9AHxgqemRNobqJjt",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"mục đích, ranh giới, độ sâu và chiều cao, nghĩa vụ sử dụng đất\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 409,
+          "completion_tokens": 41,
+          "total_tokens": 450,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 8.594999999999999e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek87NJGTZU3MxPzacMAc8baJKO1Sc",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Mục đích, ranh giới, độ sâu và chiều cao trong nghĩa vụ sử dụng đất được quy định như sau: Người sử dụng đất phải sử dụng đất đúng mục đích, đúng ranh giới thửa đất, và tuân thủ quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không. Điều này cũng bao gồm việc bảo vệ các công trình công cộng trong lòng đất và tuân thủ các quy định khác của pháp luật có liên quan [797cef0a41132599509e8ec06210651e].\",\"citations\":[\"797cef0a41132599509e8ec06210651e\"],\"abstained\":false,\"reason\":\"Nội dung trong tài liệu đã cung cấp đầy đủ thông tin về mục đích, ranh giới, độ sâu và chiều cao trong nghĩa vụ sử dụng đất.\",\"evidence_quotes\":[{\"id\":\"797cef0a41132599509e8ec06210651e\",\"quote\":\"1. Sử dụng đất đúng mục đích, đúng ranh giới thửa đất, đúng quy định về sử dụng độ sâu trong lòng đất và chiều cao trên không, bảo vệ các công trình công cộng trong lòng đất và tuân thủ quy định khác của pháp luật có liên quan.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1317,
+          "completion_tokens": 267,
+          "total_tokens": 1584,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00035775,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "4f1065b8c782413297a043bd4f642cc3",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1726,
+      "completion_tokens": 308,
+      "total_tokens": 2034
+    },
+    "estimated_chat_cost_usd": 0.0004437,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 11400.769800005946
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "started_at_utc": "2026-11-14T15:54:52.778980+00:00",
+  "evaluation_type": "fresh_holdout",
+  "config": {
+    "modes": [
+      "dense",
+      "hybrid_improved"
+    ],
+    "split": "test",
+    "model": "gpt-4o-mini",
+    "top_k": 3,
+    "candidate_k": 10,
+    "rrf_k": 60,
+    "max_rounds": 1,
+    "context_budget_chars": 6000,
+    "max_run_estimated_usd": 0.2
+  },
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "benchmark_sha256": "9edd6c89d87eeab7cc8420cfa0cae65c570caae906abbc7b5b090105c6c42360",
+  "code_hashes": {
+    "src\\agent.py": "c2b886ebc5756f431f586a944f715c3edc393eec3359227355e007561908322d",
+    "src\\api.py": "35e6e72dd440df6ede2b4cd1f8810b262a32db67a0e04b72164d0a37d5d72eca",
+    "src\\citation.py": "96e8cd3be4034fba26ab7f0817053160256b9a41e93692eacf728ba999985abe",
+    "src\\cli.py": "66e397bfe5cf64acb1f1e45fcce4010d41388ea219bebca02fc4b771672f5b67",
+    "src\\context.py": "b3557c3d2b649b9150e38e1079b11f884504ea7a84f339d7a5f99804b7cc2b92",
+    "src\\evaluation.py": "c7689c26ef34bf44f8132a114c9fb79b2fbe9052df734d949c9b6779c7bbe4bc",
+    "src\\holdout.py": "72e57ffafa6c5832a108faf0bb541bb3d55e40aa80fe6e311a8be40c6cdb0b63",
+    "src\\pipeline.py": "c46ce4783cd635758e0ab4b439f082f55496010ca82509c4326121157ee06575",
+    "src\\rerank.py": "f7c7298a7bf38ced594fe68640de0cbed26cc436a1202b63a3dcee614ca31c97",
+    "src\\retrieval.py": "356fc5274d19c13f0f1330cbc4ebdfffff4bbcc1c6dc7fb3e0d6656d6aade0a6",
+    "src\\reviews.py": "d027b7952bbd937a634471148ca2cc48261e1a460b2b96aa9cc5336295bd035a",
+    "src\\settings.py": "14b3d54f21f9ddcef3ced39f5307b8b92da163fd20d70582b7d88ce111ba5435",
+    "src\\tool_agent.py": "436a62a0ee1181a585665202dba8550a75ba2e4eacced7965c03da5290805dd4"
+  },
+  "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+  "semantic_review_status": "human_verified",
+  "benchmark_file": "benchmark.jsonl",
+  "status": "finished",
+  "completed_at_utc": "2026-11-14T15:56:18.601113+00:00",
+  "estimated_chat_cost_usd": 0.008207399999999998,
+  "embedding_usage": [
+    {
+      "query_hash": "7eae5d63f5e0bd5f3fdfda450ca957cbe5c0f8e54030a74ca9fbe47e0df119a2",
+      "usage": {
+        "prompt_tokens": 32,
+        "total_tokens": 32,
+        "cost": 6.4e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 6.4e-07,
+          "upstream_inference_prompt_cost": 6.4e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "0d4fe4e5a1e6663149043d14bd560b5e54801117fced7335d0459cd2267a1b6a",
+      "usage": {
+        "prompt_tokens": 54,
+        "total_tokens": 54,
+        "cost": 1.08e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.08e-06,
+          "upstream_inference_prompt_cost": 1.08e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "7e243b011120b2da3ba85954a94f2e37c4566fd4b3eb08ddb284a670c080d32c",
+      "usage": {
+        "prompt_tokens": 54,
+        "total_tokens": 54,
+        "cost": 1.08e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.08e-06,
+          "upstream_inference_prompt_cost": 1.08e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "23f0746f458c4d38d9778937ce24c3af9c27bb32fa5e954c1e4f9dd70a60611c",
+      "usage": {
+        "prompt_tokens": 63,
+        "total_tokens": 63,
+        "cost": 1.26e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.26e-06,
+          "upstream_inference_prompt_cost": 1.26e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "83d6eb9ccdc1c34f4d5a28af3e3256dfba7f6fe2135c8f9e72ebaac47bff09bd",
+      "usage": {
+        "prompt_tokens": 55,
+        "total_tokens": 55,
+        "cost": 1.1e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.1e-06,
+          "upstream_inference_prompt_cost": 1.1e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "bd954be14a5a45e145d52f256497b1bf39742bf6bf4d43927a3c05572eb9eac8",
+      "usage": {
+        "prompt_tokens": 56,
+        "total_tokens": 56,
+        "cost": 1.12e-06,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 1.12e-06,
+          "upstream_inference_prompt_cost": 1.12e-06,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    },
+    {
+      "query_hash": "875aa5182703181a882117acbc232c8e95da9e0f6b6099c2e845263937a8c9fd",
+      "usage": {
+        "prompt_tokens": 47,
+        "total_tokens": 47,
+        "cost": 9.4e-07,
+        "is_byok": false,
+        "cost_details": {
+          "upstream_inference_cost": 9.4e-07,
+          "upstream_inference_prompt_cost": 9.4e-07,
+          "upstream_inference_completions_cost": 0
+        }
+      }
+    }
+  ]
+}

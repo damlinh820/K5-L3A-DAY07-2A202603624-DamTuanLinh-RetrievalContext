@@ -1,0 +1,132 @@
+{
+  "query_id": "q21",
+  "split": "dev",
+  "answerability": "insufficient_evidence",
+  "question": "Theo một nghị định sửa đổi ban hành năm 2027, mức xử phạt cụ thể đối với hành vi lấn đất là bao nhiêu?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[fd5834c89a3dafaff7c68740b8558542] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 57 | Điều 252 | Khoản \nĐiều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030. Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n\n\n[868c9a448f5717cb40057d01d0ad0e2e] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 53 | Điều 245 | Khoản 5\nĐiều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n5. Sửa đổi, bổ sung Điều 129 như sau: “Điều 129. Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính\n1. Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh.\n2. Ủy ban Thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã.\n3. Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”.\n\n\n[09dc413c4b605a00139468e330270331] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 77 | Điều 81 | Khoản 7\nĐiều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+    "context_ids": [
+      "fd5834c89a3dafaff7c68740b8558542",
+      "868c9a448f5717cb40057d01d0ad0e2e",
+      "09dc413c4b605a00139468e330270331"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "fd5834c89a3dafaff7c68740b8558542",
+            "text": "Điều 252. Hiệu lực thi hành\n1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này.\n2. Điều 190 và Điều 248 của Luật này có hiệu lực thi hành từ ngày 01 tháng 4 năm 2024.\n3. Việc lập, phê duyệt quy hoạch sử dụng đất được tiếp tục thực hiện theo quy định của Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc hội về tiếp tục tăng cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật về quy hoạch và một số giải pháp tháo gỡ khó khăn, vướng mắc, đẩy nhanh tiến độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030. Khoản 9 Điều 60 của Luật này có hiệu lực thi hành từ ngày Nghị quyết số 61/2022/QH15 hết hiệu lực.\n4. Luật Đất đai số 45/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 (sau đây gọi là Luật Đất đai số 45/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 57,
+            "metadata": {
+              "article": "252",
+              "document_id": "luatdat3",
+              "page_end": 57,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "clause": "",
+              "page": 57,
+              "part": 3
+            },
+            "score": 0.031099324975891997,
+            "rrf_score": 0.031099324975891997,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 8
+            },
+            "source_scores": {
+              "dense": 0.5593260526657104,
+              "bm25": 20.857117001037857
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "868c9a448f5717cb40057d01d0ad0e2e",
+            "text": "Điều 245. Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15\n5. Sửa đổi, bổ sung Điều 129 như sau: “Điều 129. Thẩm quyền quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính, đặt tên, đổi tên đơn vị hành chính\n1. Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp tỉnh; đặt tên, đổi tên đơn vị hành chính cấp tỉnh.\n2. Ủy ban Thường vụ Quốc hội quyết định thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính cấp huyện, cấp xã; đặt tên, đổi tên đơn vị hành chính cấp huyện, cấp xã.\n3. Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 53,
+            "metadata": {
+              "part": 3,
+              "article": "245",
+              "clause": "5"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "bm25": 1
+            },
+            "source_scores": {
+              "bm25": 27.247530596194018
+            }
+          },
+          {
+            "id": "09dc413c4b605a00139468e330270331",
+            "text": "Điều 81. Các trường hợp thu hồi đất do vi phạm pháp luật về đất đai\n7. Đất trồng cây hằng năm, đất nuôi trồng thủy sản không được sử dụng trong thời gian 12 tháng liên tục, đất trồng cây lâu năm không được sử dụng trong thời gian 18 tháng liên tục, đất trồng rừng không được sử dụng trong thời gian 24 tháng liên tục và đã bị xử phạt vi phạm hành chính mà không đưa đất vào sử dụng theo thời hạn ghi trong quyết định xử phạt vi phạm hành chính;\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 77,
+            "metadata": {
+              "part": 1,
+              "article": "81",
+              "clause": "7"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "bm25": 2
+            },
+            "source_scores": {
+              "bm25": 24.906119907337636
+            }
+          }
+        ],
+        "context_ids": [
+          "fd5834c89a3dafaff7c68740b8558542",
+          "868c9a448f5717cb40057d01d0ad0e2e",
+          "09dc413c4b605a00139468e330270331"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 1147,
+      "completion_tokens": 35,
+      "total_tokens": 1182,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2483.4798999945633
+  }
+}

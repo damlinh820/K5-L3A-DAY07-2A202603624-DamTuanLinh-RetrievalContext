@@ -1,0 +1,8 @@
+case_id,run_id,grounded_answer_0_2,citation_support_0_2,abstention_correct,review_reason,status
+q16,human_verified,0,0,false,"Context chứa Điều 171 khoản 1 Đất ở nhưng agent abstain.",human_verified
+q17,human_verified,0,0,false,"Context chứa evidence về thời hạn 50 năm/không phải gia hạn nhưng agent abstain.",human_verified
+q18,human_verified,2,2,false,"Đáp án đúng về ổn định lâu dài và citation hỗ trợ.",human_verified
+q19,human_verified,0,0,false,"Context chứa Điều 220 khoản 1 điểm a nhưng agent abstain.",human_verified
+q20,human_verified,2,2,false,"Đáp án đúng 30 ngày kể từ ngày nhận đơn và citation hỗ trợ.",human_verified
+q23,human_verified,0,0,true,"Từ chối đúng vì yêu cầu giá đất địa chỉ cụ thể năm 2027 ngoài corpus.",human_verified
+q24,human_verified,0,0,true,"Từ chối đúng vì công văn địa phương không có trong corpus.",human_verified

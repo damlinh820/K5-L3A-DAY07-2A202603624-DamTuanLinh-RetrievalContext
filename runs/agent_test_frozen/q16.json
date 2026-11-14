@@ -1,0 +1,152 @@
+{
+  "query_id": "q16",
+  "split": "test",
+  "answerability": "answerable",
+  "question": "Đất ở thuộc nhóm sử dụng ổn định lâu dài hay nhóm sử dụng có thời hạn trong bản luật được cung cấp?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[0a578009d8e2485dd78fa3d85d9bd0bc] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 3 | Điều 173 | Khoản 3\nĐiều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n\n\n[e8edf6b70851f8e1b78af2b84636c407] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 3 | Điều 174 | Khoản \nĐiều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n\n\n[0bdc591d4a3757a7bcd740e6f887eedf] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 1 | Điều 171 | Khoản \nĐiều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+    "context_ids": [
+      "0a578009d8e2485dd78fa3d85d9bd0bc",
+      "e8edf6b70851f8e1b78af2b84636c407",
+      "0bdc591d4a3757a7bcd740e6f887eedf"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "0a578009d8e2485dd78fa3d85d9bd0bc",
+            "text": "Điều 173. Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất\n3. Thời hạn sử dụng đất đối với trường hợp chuyển mục đích sử dụng từ đất phi nông nghiệp sử dụng ổn định lâu dài sang đất phi nông nghiệp sử dụng có thời hạn hoặc từ đất phi nông nghiệp sử dụng có thời hạn sang đất phi nông nghiệp sử dụng ổn định lâu dài là ổn định lâu dài.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 3,
+            "metadata": {
+              "document_id": "luatdat3",
+              "part": 3,
+              "article": "173",
+              "clause": "3",
+              "page": 3,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "page_end": 3
+            },
+            "score": 0.03131881575727918,
+            "rrf_score": 0.03131881575727918,
+            "source_ranks": {
+              "dense": 7,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.6179357767105103,
+              "bm25": 33.23541981810206
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "e8edf6b70851f8e1b78af2b84636c407",
+            "text": "Điều 174. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất\n1. Thời hạn sử dụng đất khi nhận chuyển quyền sử dụng đất đối với loại đất có quy định thời hạn là thời gian sử dụng đất còn lại của thời hạn sử dụng đất trước khi nhận chuyển quyền sử dụng đất. Việc gia hạn sử dụng đất thực hiện theo quy định tại khoản 3 Điều 172 của Luật này. Trường hợp nhận quyền sử dụng đất nông nghiệp trong hạn mức giao đất của cá nhân trực tiếp sản xuất nông nghiệp thông qua nhận chuyển quyền sử dụng đất hoặc nhận quyền sử dụng đất trong hợp đồng thế chấp để xử lý nợ, bản án,\nquyết định của Tòa án, quyết định thi hành án của cơ quan thi hành án đã được thi hành mà hết thời hạn sử dụng đất thì được tiếp tục sử dụng đất theo thời hạn quy định tại Điều 172 của Luật này mà không phải làm thủ tục gia hạn.\n2. Người nhận chuyển quyền sử dụng đất đối với loại đất sử dụng ổn định lâu dài thì được sử dụng đất ổn định lâu dài.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 3,
+            "metadata": {
+              "page": 3,
+              "page_end": 4,
+              "article": "174",
+              "document_id": "luatdat3",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "part": 3,
+              "clause": ""
+            },
+            "score": 0.030834914611005692,
+            "rrf_score": 0.030834914611005692,
+            "source_ranks": {
+              "dense": 8,
+              "bm25": 2
+            },
+            "source_scores": {
+              "dense": 0.6116824150085449,
+              "bm25": 29.518953286029436
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+            "text": "Điều 171. Đất sử dụng ổn định lâu dài\n1. Đất ở.\n2. Đất nông nghiệp do cộng đồng dân cư sử dụng quy định tại khoản 4 Điều 178 của Luật này.\n3. Đất rừng đặc dụng; đất rừng phòng hộ; đất rừng sản xuất do tổ chức quản lý.\n4. Đất thương mại, dịch vụ, đất cơ sở sản xuất phi nông nghiệp của cá nhân đang sử dụng ổn định được Nhà nước công nhận mà không phải là đất được Nhà nước giao có thời hạn, cho thuê.\n5. Đất xây dựng trụ sở cơ quan quy định tại khoản 1 Điều 199 của Luật này; đất xây dựng công trình sự nghiệp của đơn vị sự nghiệp công lập quy định tại khoản 2 Điều 199 của Luật này.\n6. Đất quốc phòng, an ninh.\n7. Đất tín ngưỡng.\n8. Đất tôn giáo quy định tại khoản 2 Điều 213 của Luật này.\n9. Đất sử dụng vào mục đích công cộng không có mục đích kinh doanh.\n10. Đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng; đất cơ sở lưu giữ tro cốt.\n11. Đất quy định tại khoản 3 Điều 173 và khoản 2 Điều 174 của Luật này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 1,
+            "metadata": {
+              "part": 3,
+              "document_id": "luatdat3",
+              "clause": "",
+              "page": 1,
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+              "article": "171",
+              "page_end": 1
+            },
+            "score": 0.030158730158730156,
+            "rrf_score": 0.030158730158730156,
+            "source_ranks": {
+              "dense": 3,
+              "bm25": 10
+            },
+            "source_scores": {
+              "dense": 0.6496976017951965,
+              "bm25": 19.531696809372267
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "0a578009d8e2485dd78fa3d85d9bd0bc",
+          "e8edf6b70851f8e1b78af2b84636c407",
+          "0bdc591d4a3757a7bcd740e6f887eedf"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "0bdc591d4a3757a7bcd740e6f887eedf",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 1016,
+      "completion_tokens": 67,
+      "total_tokens": 1083,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 3464.1539999865927
+  }
+}

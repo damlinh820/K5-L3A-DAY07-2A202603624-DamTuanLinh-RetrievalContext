@@ -1,0 +1,136 @@
+{
+  "query_id": "q22",
+  "split": "dev",
+  "answerability": "insufficient_evidence",
+  "question": "Luật trong bộ tài liệu quy định thủ tục cấp giấy chứng nhận quyền sử dụng đất tại một quốc gia khác như thế nào?",
+  "result": {
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng trong bộ dữ liệu hiện có để kết luận.",
+    "citations": [],
+    "abstained": true,
+    "context": "[ee43820c795e9bf039bd300920ed1168] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 50 | Điều 137 | Khoản 5\nĐiều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n5. Hộ gia đình, cá nhân đang sử dụng đất có một trong các loại giấy tờ quy định tại các khoản 1, 2, 3 và 4 Điều này mà trên giấy tờ đó ghi tên người khác, kèm theo giấy tờ về việc chuyển quyền sử dụng đất, nhưng đến trước ngày Luật này có hiệu lực thi hành chưa thực hiện thủ tục chuyển quyền sử dụng đất theo quy định của pháp luật và đất đó không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; việc thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n\n\n[6006926c5ff35baaff4022efc1dd1d9d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 46 | Điều 135 | Khoản 7\nĐiều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n\n\n[e37a24cba7396e94355f40325d241192] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 6 | Điều 95 | Khoản 2\nĐiều 95. Điều kiện được bồi thường về đất khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n2. Các trường hợp quy định tại khoản 1 Điều này được bồi thường về đất khi có một trong các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Có quyết định giao đất hoặc quyết định cho thuê đất hoặc quyết định cho phép chuyển mục đích sử dụng đất của cơ quan nhà nước có thẩm quyền;\nc) Có một trong các giấy tờ về quyền sử dụng đất làm căn cứ để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định tại Điều 137 của Luật này;\nd) Nhận chuyển quyền sử dụng đất theo quy định của pháp luật từ người có quyền sử dụng đất hợp pháp nhưng chưa hoàn thành thủ tục đăng ký đất đai;\nđ) Được sử dụng đất theo thỏa thuận trong hợp đồng thế chấp để xử lý nợ; văn bản công nhận kết quả đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa vụ tài chính theo quy định của pháp luật.\n",
+    "context_ids": [
+      "ee43820c795e9bf039bd300920ed1168",
+      "6006926c5ff35baaff4022efc1dd1d9d",
+      "e37a24cba7396e94355f40325d241192"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "ee43820c795e9bf039bd300920ed1168",
+            "text": "Điều 137. Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với hộ gia đình, cá nhân, cộng đồng dân cư đang sử dụng đất có giấy tờ về quyền sử dụng đất\n5. Hộ gia đình, cá nhân đang sử dụng đất có một trong các loại giấy tờ quy định tại các khoản 1, 2, 3 và 4 Điều này mà trên giấy tờ đó ghi tên người khác, kèm theo giấy tờ về việc chuyển quyền sử dụng đất, nhưng đến trước ngày Luật này có hiệu lực thi hành chưa thực hiện thủ tục chuyển quyền sử dụng đất theo quy định của pháp luật và đất đó không có tranh chấp thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; việc thực hiện nghĩa vụ tài chính theo quy định của pháp luật.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 50,
+            "metadata": {
+              "part": 2,
+              "document_id": "luatdat2",
+              "page_end": 50,
+              "clause": "5",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+              "article": "137",
+              "page": 50
+            },
+            "score": 0.03057889822595705,
+            "rrf_score": 0.03057889822595705,
+            "source_ranks": {
+              "dense": 8,
+              "bm25": 3
+            },
+            "source_scores": {
+              "dense": 0.6993168592453003,
+              "bm25": 27.635466693965814
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "6006926c5ff35baaff4022efc1dd1d9d",
+            "text": "Điều 135. Nguyên tắc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất\n7. Chính phủ quy định chi tiết việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, việc xác định lại diện tích đất ở và việc đính chính, thu hồi, hủy giấy chứng nhận đã cấp.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 46,
+            "metadata": {
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+              "article": "135",
+              "clause": "7",
+              "page_end": 46,
+              "page": 46,
+              "document_id": "luatdat2",
+              "part": 2
+            },
+            "score": 0.01639344262295082,
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "dense": 1
+            },
+            "source_scores": {
+              "dense": 0.7462601065635681
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "e37a24cba7396e94355f40325d241192",
+            "text": "Điều 95. Điều kiện được bồi thường về đất khi Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n2. Các trường hợp quy định tại khoản 1 Điều này được bồi thường về đất khi có một trong các điều kiện sau đây:\na) Có Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất;\nb) Có quyết định giao đất hoặc quyết định cho thuê đất hoặc quyết định cho phép chuyển mục đích sử dụng đất của cơ quan nhà nước có thẩm quyền;\nc) Có một trong các giấy tờ về quyền sử dụng đất làm căn cứ để cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định tại Điều 137 của Luật này;\nd) Nhận chuyển quyền sử dụng đất theo quy định của pháp luật từ người có quyền sử dụng đất hợp pháp nhưng chưa hoàn thành thủ tục đăng ký đất đai;\nđ) Được sử dụng đất theo thỏa thuận trong hợp đồng thế chấp để xử lý nợ; văn bản công nhận kết quả đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa vụ tài chính theo quy định của pháp luật.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 6,
+            "metadata": {
+              "part": 2,
+              "article": "95",
+              "clause": "2"
+            },
+            "score": 0.01639344262295082,
+            "rank": 3,
+            "strategy": "hybrid_rrf",
+            "rrf_score": 0.01639344262295082,
+            "source_ranks": {
+              "bm25": 1
+            },
+            "source_scores": {
+              "bm25": 29.824652635763037
+            }
+          }
+        ],
+        "context_ids": [
+          "ee43820c795e9bf039bd300920ed1168",
+          "6006926c5ff35baaff4022efc1dd1d9d",
+          "e37a24cba7396e94355f40325d241192"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": false,
+          "citations": [],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 997,
+      "completion_tokens": 35,
+      "total_tokens": 1032,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 2074.045000015758
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "human_approved_H1_H2",
+  "approved": true,
+  "benchmark": "benchmarks/fresh_holdout_approved.jsonl",
+  "benchmark_sha256": "9edd6c89d87eeab7cc8420cfa0cae65c570caae906abbc7b5b090105c6c42360",
+  "config": "configs/final_tool_agent.json",
+  "config_sha256": "4c04a51913bf9271fb03b4b507b08a65479717fe6cf62b3bc7a222bad5f19b92",
+  "corpus_sha256": "761c7126c47f6ad81ef3cb7ab034cc7a2c22dd84a42d358ed31b8d75a3d9114e",
+  "counts": {
+    "answerable": 5,
+    "insufficient_evidence": 2,
+    "total": 7
+  },
+  "reviewer": "DamTuanLinh",
+  "approved_at": "2026-11-14T15:54:29.005387+00:00",
+  "executed": true,
+  "source_page_text_validation": "5/5 answerable evidence quotes matched Day 6 pages snapshot",
+  "note": "H1/H2 explicitly confirmed by the user; only approval metadata changed. H3 is pending the actual outputs.",
+  "candidate_benchmark": "benchmarks/fresh_holdout_candidates.jsonl",
+  "candidate_sha256": "572b97e28fe5a98b508dcfa0d9ca902a3fd1628936366ae4e291bf2049b5ca3d",
+  "approval_receipt": "benchmarks/h1_h2_confirmation.json",
+  "execution_status": "finished",
+  "run_directory": "runs/final_holdout_v1",
+  "execution_started_at": "2026-11-14T15:54:52.777474+00:00",
+  "execution_finished_at": "2026-11-14T15:56:18.607119+00:00"
+}

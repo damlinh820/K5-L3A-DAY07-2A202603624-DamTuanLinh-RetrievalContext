@@ -1,0 +1,21 @@
+{
+  "run_id": "case_diagnostic_final",
+  "evaluation_type": "diagnostic_replay_exposed_test",
+  "trace_sha256": "0dab56e1c8beb6c3004b5615a1b913c312524c4e75a7764077f03a25a625bb12",
+  "reviewer": "DamTuanLinh",
+  "reviewed_at": "2026-11-14T19:53:55+07:00",
+  "approval_basis": "User explicitly confirmed the three-case review in chat.",
+  "review_log": "reviews/review_log.csv",
+  "reviewed_case_ids": ["q16", "q17", "q19"],
+  "status": "human_verified",
+  "reviewed_subset_metrics": {
+    "answerable_cases": 3,
+    "context_grades": {"0": 0, "1": 0, "2": 3},
+    "grounded_answer_grades": {"0": 0, "1": 0, "2": 3},
+    "grounded_answer_mean_out_of_2": 2.0,
+    "supported_citations": 3,
+    "reviewed_citations": 3
+  },
+  "unreviewed_in_this_run": ["q23", "q24"],
+  "independent_holdout_result": false
+}

@@ -1,0 +1,152 @@
+{
+  "query_id": "q14",
+  "split": "dev",
+  "answerability": "answerable",
+  "question": "Chuyển đất nông nghiệp sang đất phi nông nghiệp có thuộc trường hợp phải được cơ quan có thẩm quyền cho phép không?",
+  "result": {
+    "status": "answered",
+    "answer": "Có, chuyển đất nông nghiệp sang đất phi nông nghiệp thuộc trường hợp phải được cơ quan có thẩm quyền cho phép [d52c33c813be4714f35fd7543a6ba8ea].",
+    "citations": [
+      "d52c33c813be4714f35fd7543a6ba8ea"
+    ],
+    "abstained": false,
+    "context": "[d52c33c813be4714f35fd7543a6ba8ea] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 25 | Điều 121 | Khoản 1\nĐiều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n\n\n[2f9e9b400892a5aa95ef181c22f0919b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 26 | Điều 121 | Khoản 3\nĐiều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n\n\n[cdfac5fe99565a61a74b3dbb40b5c10a] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 44 | Điều 47 | Khoản \nĐiều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ.\n",
+    "context_ids": [
+      "d52c33c813be4714f35fd7543a6ba8ea",
+      "2f9e9b400892a5aa95ef181c22f0919b",
+      "cdfac5fe99565a61a74b3dbb40b5c10a"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "round": 1,
+        "mode": "hybrid_rrf",
+        "results": [
+          {
+            "id": "d52c33c813be4714f35fd7543a6ba8ea",
+            "text": "Điều 121. Chuyển mục đích sử dụng đất\n1. Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép bao gồm:\na) Chuyển đất trồng lúa, đất rừng đặc dụng, đất rừng phòng hộ, đất rừng sản xuất sang loại đất khác trong nhóm đất nông nghiệp;\nb) Chuyển đất nông nghiệp sang đất phi nông nghiệp;\nc) Chuyển các loại đất khác sang đất chăn nuôi tập trung khi thực hiện dự án chăn nuôi tập trung quy mô lớn;\nd) Chuyển đất phi nông nghiệp được Nhà nước giao đất không thu tiền sử dụng đất sang loại đất phi nông nghiệp khác được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho thuê đất;\nđ) Chuyển đất phi nông nghiệp không phải là đất ở sang đất ở;\ne) Chuyển đất xây dựng công trình sự nghiệp, đất sử dụng vào mục đích công cộng có mục đích kinh doanh sang đất sản xuất, kinh doanh phi nông nghiệp;\ng) Chuyển đất sản xuất, kinh doanh phi nông nghiệp không phải là đất thương mại, dịch vụ sang đất thương mại, dịch vụ.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 25,
+            "metadata": {
+              "page": 25,
+              "part": 2,
+              "page_end": 26,
+              "document_id": "luatdat2",
+              "clause": "1",
+              "article": "121",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+            },
+            "score": 0.03278688524590164,
+            "rrf_score": 0.03278688524590164,
+            "source_ranks": {
+              "dense": 1,
+              "bm25": 1
+            },
+            "source_scores": {
+              "dense": 0.628635048866272,
+              "bm25": 43.47950167329354
+            },
+            "rank": 1,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "2f9e9b400892a5aa95ef181c22f0919b",
+            "text": "Điều 121. Chuyển mục đích sử dụng đất\n3. Việc chuyển mục đích sử dụng đất không thuộc các trường hợp quy định tại khoản 1 Điều này thì không phải xin phép của cơ quan nhà nước có thẩm quyền. Trường hợp sử dụng đất có nguồn gốc là đất ở hoặc đất phi nông nghiệp có thời hạn sử dụng đất ổn định lâu dài phù hợp quy định của pháp luật đã chuyển sang sử dụng vào mục đích khác mà nay có nhu cầu chuyển lại thành đất ở và phù hợp với quy hoạch sử dụng đất thì không phải nộp tiền sử dụng đất.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 26,
+            "metadata": {
+              "article": "121",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+              "clause": "3",
+              "page": 26,
+              "page_end": 26,
+              "part": 2,
+              "document_id": "luatdat2"
+            },
+            "score": 0.031746031746031744,
+            "rrf_score": 0.031746031746031744,
+            "source_ranks": {
+              "dense": 3,
+              "bm25": 3
+            },
+            "source_scores": {
+              "dense": 0.6166055202484131,
+              "bm25": 35.152574956379425
+            },
+            "rank": 2,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "cdfac5fe99565a61a74b3dbb40b5c10a",
+            "text": "Điều 47. Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp\nCá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 44,
+            "metadata": {
+              "clause": "",
+              "page": 44,
+              "part": 1,
+              "page_end": 44,
+              "document_id": "luatdat1",
+              "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+              "article": "47"
+            },
+            "score": 0.016129032258064516,
+            "rrf_score": 0.016129032258064516,
+            "source_ranks": {
+              "dense": 2
+            },
+            "source_scores": {
+              "dense": 0.6176081299781799
+            },
+            "rank": 3,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context_ids": [
+          "d52c33c813be4714f35fd7543a6ba8ea",
+          "2f9e9b400892a5aa95ef181c22f0919b",
+          "cdfac5fe99565a61a74b3dbb40b5c10a"
+        ],
+        "dropped_ids": []
+      },
+      {
+        "event": "answer",
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "d52c33c813be4714f35fd7543a6ba8ea",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "hybrid_rrf",
+    "usage": {
+      "prompt_tokens": 905,
+      "completion_tokens": 89,
+      "total_tokens": 994,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "elapsed_ms": 3041.2681000016164
+  }
+}

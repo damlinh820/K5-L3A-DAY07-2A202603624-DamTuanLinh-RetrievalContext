@@ -1,0 +1,529 @@
+{
+  "query_id": "q11",
+  "question": "Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Người bị thu hồi đất có thể được bồi thường bằng tiền nếu họ có nguyện vọng như vậy. Cụ thể, nếu người có đất thu hồi được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền, thì họ sẽ được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư [ecbdce38b6ff1bd6fe30c9a26fe628fa].",
+    "citations": [
+      "ecbdce38b6ff1bd6fe30c9a26fe628fa"
+    ],
+    "abstained": false,
+    "reason": "Thông tin trong Điều 91 đã nêu rõ quyền lợi của người bị thu hồi đất trong việc chọn hình thức bồi thường.",
+    "evidence_quotes": [
+      {
+        "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+        "quote": "Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư."
+      }
+    ],
+    "context": "[ecbdce38b6ff1bd6fe30c9a26fe628fa] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 1 | Điều 91 | Khoản 2\nĐiều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n2. Việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi, trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi do Ủy ban nhân dân cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư. Đối với người có đất thu hồi nếu có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở thì được xem xét bồi thường bằng đất khác mục đích sử dụng với loại đất thu hồi hoặc bằng nhà ở.\n\n\n[1de6992ef6c2e2835365d11d49cf034f] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 19 | Điều 111 | Khoản 7\nĐiều 111. Bố trí tái định cư\n7. Người có đất ở bị thu hồi để thực hiện dự án đầu tư xây dựng khu đô thị thì được bồi thường bằng đất ở, nhà ở tại chỗ; trong thời gian chờ bố trí tái định cư được bố trí vào nhà ở tạm hoặc hỗ trợ tiền thuê nhà ở; thời gian và mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tế tại địa phương. Trường hợp thu hồi đất ở để thực hiện các mục đích khác thì được bồi thường bằng đất ở, nhà ở tại chỗ nếu tại khu vực thu hồi đất có quỹ đất, quỹ nhà tái định cư. Ưu tiên vị trí thuận lợi cho hộ gia đình, cá nhân sử dụng đất ở kết hợp với kinh doanh dịch vụ, người có đất thu hồi là người có công với cách mạng. Có cơ chế thưởng đối với người có đất thu hồi bàn giao mặt bằng trước thời hạn theo quy định của Ủy ban nhân dân cấp tỉnh.\n\n\n[c2372f421576d9caeb43f7228e4d2a3a] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf | page 5 | Điều 94 | Khoản 6\nĐiều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+    "context_ids": [
+      "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+      "1de6992ef6c2e2835365d11d49cf034f",
+      "c2372f421576d9caeb43f7228e4d2a3a"
+    ],
+    "context_chars": 2353,
+    "context_tokens": 1201,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_bVVcrgzwbC90OWjobjvJR96d",
+        "round": 1,
+        "arguments": {
+          "query": "Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+            "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n2. Việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi, trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi do Ủy ban nhân dân cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư. Đối với người có đất thu hồi nếu có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở thì được xem xét bồi thường bằng đất khác mục đích sử dụng với loại đất thu hồi hoặc bằng nhà ở.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 1,
+            "page_end": 1,
+            "provenance": [
+              {
+                "start": 179908,
+                "end": 180647,
+                "document_id": "luatdat2",
+                "page": 1,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 179908,
+            "metadata": {
+              "article": "91",
+              "clause": "2",
+              "part": 2
+            },
+            "score": 0.5970069766044617,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "1de6992ef6c2e2835365d11d49cf034f",
+            "text": "Điều 111. Bố trí tái định cư\n7. Người có đất ở bị thu hồi để thực hiện dự án đầu tư xây dựng khu đô thị thì được bồi thường bằng đất ở, nhà ở tại chỗ; trong thời gian chờ bố trí tái định cư được bố trí vào nhà ở tạm hoặc hỗ trợ tiền thuê nhà ở; thời gian và mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tế tại địa phương. Trường hợp thu hồi đất ở để thực hiện các mục đích khác thì được bồi thường bằng đất ở, nhà ở tại chỗ nếu tại khu vực thu hồi đất có quỹ đất, quỹ nhà tái định cư. Ưu tiên vị trí thuận lợi cho hộ gia đình, cá nhân sử dụng đất ở kết hợp với kinh doanh dịch vụ, người có đất thu hồi là người có công với cách mạng. Có cơ chế thưởng đối với người có đất thu hồi bàn giao mặt bằng trước thời hạn theo quy định của Ủy ban nhân dân cấp tỉnh.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 19,
+            "page_end": 19,
+            "provenance": [
+              {
+                "start": 214769,
+                "end": 215524,
+                "document_id": "luatdat2",
+                "page": 19,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 214769,
+            "metadata": {
+              "article": "111",
+              "clause": "7",
+              "part": 2
+            },
+            "score": 0.5738744139671326,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "c2372f421576d9caeb43f7228e4d2a3a",
+            "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+            "source_id": "luatdat2",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+            "page": 5,
+            "page_end": 5,
+            "provenance": [
+              {
+                "start": 188276,
+                "end": 188552,
+                "document_id": "luatdat2",
+                "page": 5,
+                "part": 2,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+              }
+            ],
+            "body_start": 188276,
+            "metadata": {
+              "article": "94",
+              "clause": "6",
+              "part": 2
+            },
+            "score": 0.5406659245491028,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+          "1de6992ef6c2e2835365d11d49cf034f",
+          "c2372f421576d9caeb43f7228e4d2a3a"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?",
+          "variants": [
+            "Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n2. Việc bồi thường về đất được thực hiện bằng việc giao đất có cùng mục đích sử dụng với loại đất thu hồi, trường hợp không có đất để bồi thường thì được bồi thường bằng tiền theo giá đất cụ thể của loại đất thu hồi do Ủy ban nhân dân cấp có thẩm quyền quyết định tại thời điểm phê duyệt phương án bồi thường, hỗ trợ, tái định cư. Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư. Đối với người có đất thu hồi nếu có nhu cầu và địa phương có điều kiện về quỹ đất, quỹ nhà ở thì được xem xét bồi thường bằng đất khác mục đích sử dụng với loại đất thu hồi hoặc bằng nhà ở.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 1,
+                "page_end": 1,
+                "provenance": [
+                  {
+                    "start": 179908,
+                    "end": 180647,
+                    "document_id": "luatdat2",
+                    "page": 1,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 179908,
+                "metadata": {
+                  "article": "91",
+                  "clause": "2",
+                  "part": 2
+                },
+                "score": 0.5970069766044617,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "1de6992ef6c2e2835365d11d49cf034f",
+                "text": "Điều 111. Bố trí tái định cư\n7. Người có đất ở bị thu hồi để thực hiện dự án đầu tư xây dựng khu đô thị thì được bồi thường bằng đất ở, nhà ở tại chỗ; trong thời gian chờ bố trí tái định cư được bố trí vào nhà ở tạm hoặc hỗ trợ tiền thuê nhà ở; thời gian và mức hỗ trợ cụ thể do Ủy ban nhân dân cấp tỉnh quy định phù hợp với thực tế tại địa phương. Trường hợp thu hồi đất ở để thực hiện các mục đích khác thì được bồi thường bằng đất ở, nhà ở tại chỗ nếu tại khu vực thu hồi đất có quỹ đất, quỹ nhà tái định cư. Ưu tiên vị trí thuận lợi cho hộ gia đình, cá nhân sử dụng đất ở kết hợp với kinh doanh dịch vụ, người có đất thu hồi là người có công với cách mạng. Có cơ chế thưởng đối với người có đất thu hồi bàn giao mặt bằng trước thời hạn theo quy định của Ủy ban nhân dân cấp tỉnh.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 19,
+                "page_end": 19,
+                "provenance": [
+                  {
+                    "start": 214769,
+                    "end": 215524,
+                    "document_id": "luatdat2",
+                    "page": 19,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 214769,
+                "metadata": {
+                  "article": "111",
+                  "clause": "7",
+                  "part": 2
+                },
+                "score": 0.5738744139671326,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "c2372f421576d9caeb43f7228e4d2a3a",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n6. Người sử dụng đất được bồi thường khi Nhà nước thu hồi đất mà chưa thực hiện nghĩa vụ tài chính về đất đai đối với Nhà nước theo quy định của pháp luật thì phải trừ đi khoản tiền chưa thực hiện nghĩa vụ tài chính vào số tiền được bồi thường để hoàn trả ngân sách nhà nước.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 5,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 188276,
+                    "end": 188552,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 188276,
+                "metadata": {
+                  "article": "94",
+                  "clause": "6",
+                  "part": 2
+                },
+                "score": 0.5406659245491028,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "efc3d160107509d5f6846cb6b9903f85",
+                "text": "Điều 96. Bồi thường về đất khi Nhà nước thu hồi đất nông nghiệp của hộ gia đình, cá nhân\n1. Hộ gia đình, cá nhân đang sử dụng đất nông nghiệp khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường bằng đất nông nghiệp hoặc bằng tiền hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi hoặc bằng nhà ở.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 7,
+                "page_end": 7,
+                "provenance": [
+                  {
+                    "start": 191811,
+                    "end": 192093,
+                    "document_id": "luatdat2",
+                    "page": 7,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 191811,
+                "metadata": {
+                  "article": "96",
+                  "clause": "1",
+                  "part": 2
+                },
+                "score": 0.5358374118804932,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "e6d33c4416136dfd19b8c157863cb043",
+                "text": "Điều 3. Giải thích từ ngữ\n5. Bồi thường về đất là việc Nhà nước trả lại giá trị quyền sử dụng đất của diện tích đất thu hồi cho người có đất thu hồi.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 1705,
+                    "end": 1829,
+                    "document_id": "luatdat1",
+                    "page": 2,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 1705,
+                "metadata": {
+                  "article": "3",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5318082571029663,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "07484f3c39ffdcb16b69ad3340a58e6a",
+                "text": "Điều 82. Thu hồi đất do chấm dứt việc sử dụng đất theo pháp luật, tự nguyện trả lại đất, có nguy cơ đe dọa tính mạng con người, không còn khả năng tiếp tục sử dụng\n2. Người sử dụng đất giảm hoặc không còn nhu cầu sử dụng đất và có đơn tự nguyện trả lại đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 78,
+                "page_end": 78,
+                "provenance": [
+                  {
+                    "start": 147691,
+                    "end": 147785,
+                    "document_id": "luatdat1",
+                    "page": 78,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 147691,
+                "metadata": {
+                  "article": "82",
+                  "clause": "2",
+                  "part": 1
+                },
+                "score": 0.5307686924934387,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "43a424a370b1157a8e638a4b8387e0bd",
+                "text": "Điều 94. Kinh phí và chi trả tiền bồi thường, hỗ trợ, tái định cư\n4. Trường hợp người có đất thu hồi, chủ sở hữu tài sản không nhận tiền bồi thường, hỗ trợ theo phương án bồi thường, hỗ trợ, tái định cư được cấp có thẩm quyền phê duyệt hoặc trường hợp đất thu hồi, tài sản đang có tranh chấp thì tiền\nbồi thường, hỗ trợ được gửi vào tài khoản tiền gửi của đơn vị, tổ chức thực hiện nhiệm vụ bồi thường, hỗ trợ, tái định cư mở tại ngân hàng thương mại do Nhà nước nắm giữ cổ phần chi phối theo lãi suất không kỳ hạn. Tiền lãi từ khoản tiền bồi thường, hỗ trợ được trả cho người có quyền sử dụng đất, chủ sở hữu tài sản được bồi thường, hỗ trợ.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 4,
+                "page_end": 5,
+                "provenance": [
+                  {
+                    "start": 186948,
+                    "end": 187183,
+                    "document_id": "luatdat2",
+                    "page": 4,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  },
+                  {
+                    "start": 187183,
+                    "end": 187525,
+                    "document_id": "luatdat2",
+                    "page": 5,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 186948,
+                "metadata": {
+                  "article": "94",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.5303497314453125,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a6506b2b6ea17189d421a937127137f4",
+                "text": "Điều 91. Nguyên tắc bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất\n4. Nhà nước có trách nhiệm hỗ trợ cho người có đất thu hồi, chủ sở hữu tài sản để tạo điều kiện cho người có đất thu hồi, chủ sở hữu tài sản có việc làm, có thu nhập, ổn định đời sống, sản xuất.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 2,
+                "page_end": 2,
+                "provenance": [
+                  {
+                    "start": 180874,
+                    "end": 181069,
+                    "document_id": "luatdat2",
+                    "page": 2,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 180874,
+                "metadata": {
+                  "article": "91",
+                  "clause": "4",
+                  "part": 2
+                },
+                "score": 0.525104284286499,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "f116675a62c850744a433d2754d73495",
+                "text": "Điều 98. Bồi thường về đất khi Nhà nước thu hồi đất ở\n1. Hộ gia đình, cá nhân, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế đang sử dụng đất ở, đang sở hữu nhà ở gắn liền với quyền sử dụng đất tại Việt Nam khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường bằng đất ở hoặc bằng nhà ở hoặc bằng tiền hoặc bằng đất có mục đích sử dụng khác với loại đất thu hồi.\n2. Tổ chức kinh tế, người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đang sử dụng đất để thực hiện dự án đầu tư xây dựng nhà ở khi Nhà nước thu hồi đất, nếu có đủ điều kiện được bồi thường quy định tại Điều 95 của Luật này thì được bồi thường bằng tiền hoặc bằng đất.\n3. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat2",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf",
+                "page": 8,
+                "page_end": 8,
+                "provenance": [
+                  {
+                    "start": 193616,
+                    "end": 194395,
+                    "document_id": "luatdat2",
+                    "page": 8,
+                    "part": 2,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_2.pdf"
+                  }
+                ],
+                "body_start": 193616,
+                "metadata": {
+                  "article": "98",
+                  "clause": null,
+                  "part": 2
+                },
+                "score": 0.5243103504180908,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "dbdf51743cf09a369d18d400d2be12e8",
+                "text": "Điều 87. Trình tự, thủ tục bồi thường, hỗ trợ, tái định cư, thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng\n5. Ủy ban nhân dân cấp có thẩm quyền thu hồi đất ban hành quyết định thu hồi đất trong thời hạn 10 ngày kể từ ngày:\na) Phê duyệt phương án bồi thường, hỗ trợ, tái định cư đối với trường hợp không phải bố trí tái định cư;\nb) Người có đất thu hồi được bố trí tái định cư tại chỗ và đồng ý nhận tiền bồi thường chi phí tạm cư;\nc) Người có đất thu hồi đã được cơ quan có thẩm quyền giao đất, bàn giao đất trên thực địa để tự xây dựng nhà ở tái định cư;\nd) Người có đất thu hồi đã được cơ quan nhà nước có thẩm quyền bàn giao nhà ở tái định cư;\nđ) Người có đất thu hồi đã được cơ quan nhà nước có thẩm quyền bàn giao đất ở gắn liền với nhà ở tái định cư;\ne) Người có đất thu hồi đồng ý và đã nhận tiền bồi thường để tự lo chỗ ở;\ng) Người có đất thu hồi tự nguyện bàn giao đất cho Nhà nước và đã được bố trí tạm cư hoặc được chi trả kinh phí tạm cư.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 86,
+                "page_end": 86,
+                "provenance": [
+                  {
+                    "start": 164009,
+                    "end": 164853,
+                    "document_id": "luatdat1",
+                    "page": 86,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 164009,
+                "metadata": {
+                  "article": "87",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5205348134040833,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1211.8192000198178
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "ecbdce38b6ff1bd6fe30c9a26fe628fa",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek87odMbg6TlwfhOsXotsEFX8GCRu",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_bVVcrgzwbC90OWjobjvJR96d",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Người bị thu hồi đất được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền thì xử lý theo nguyện vọng nào?\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 409,
+          "completion_tokens": 49,
+          "total_tokens": 458,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 9.075e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek87qnHjycGM6ghrJsEOzFdj1YJ3i",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Người bị thu hồi đất có thể được bồi thường bằng tiền nếu họ có nguyện vọng như vậy. Cụ thể, nếu người có đất thu hồi được bồi thường bằng đất hoặc nhà ở nhưng muốn nhận tiền, thì họ sẽ được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư [ecbdce38b6ff1bd6fe30c9a26fe628fa].\",\"citations\":[\"ecbdce38b6ff1bd6fe30c9a26fe628fa\"],\"abstained\":false,\"reason\":\"Thông tin trong Điều 91 đã nêu rõ quyền lợi của người bị thu hồi đất trong việc chọn hình thức bồi thường.\",\"evidence_quotes\":[{\"id\":\"ecbdce38b6ff1bd6fe30c9a26fe628fa\",\"quote\":\"Trường hợp người có đất thu hồi được bồi thường bằng đất, bằng nhà ở mà có nhu cầu được bồi thường bằng tiền thì được bồi thường bằng tiền theo nguyện vọng đã đăng ký khi lập phương án bồi thường, hỗ trợ, tái định cư.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1334,
+          "completion_tokens": 251,
+          "total_tokens": 1585,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.0003507,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "b140af174c564d52afea6247549d13bf",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1743,
+      "completion_tokens": 300,
+      "total_tokens": 2043
+    },
+    "estimated_chat_cost_usd": 0.00044145,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 7147.036500042304
+  }
+}

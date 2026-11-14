@@ -1,0 +1,521 @@
+{
+  "query_id": "q01",
+  "question": "Luật Đất đai trong bộ tài liệu này điều chỉnh những nội dung nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Luật Đất đai điều chỉnh các nội dung liên quan đến chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước trong việc quản lý đất đai, chế độ quản lý và sử dụng đất đai, cũng như quyền và nghĩa vụ của công dân và người sử dụng đất đối với đất đai thuộc lãnh thổ Việt Nam [1910c8cd89dd864e3d19b4bea6880b0d].",
+    "citations": [
+      "1910c8cd89dd864e3d19b4bea6880b0d"
+    ],
+    "abstained": false,
+    "reason": "Nội dung trong luật đã được nêu rõ và đầy đủ trong tài liệu.",
+    "evidence_quotes": [
+      {
+        "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+        "quote": "Luật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+      }
+    ],
+    "context": "[1910c8cd89dd864e3d19b4bea6880b0d] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 1 | Điều 1 | Khoản None\nĐiều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n\n\n[a6591c94f867b5a3454adcd64c68796b] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 34 | Điều 219 | Khoản 8\nĐiều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n\n\n[bf12a26555ff54353b6a3c25e652b556] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 18 | Điều 20 | Khoản 13\nĐiều 20. Nội dung quản lý nhà nước về đất đai\n13. Thống kê, kiểm kê đất đai.\n",
+    "context_ids": [
+      "1910c8cd89dd864e3d19b4bea6880b0d",
+      "a6591c94f867b5a3454adcd64c68796b",
+      "bf12a26555ff54353b6a3c25e652b556"
+    ],
+    "context_chars": 933,
+    "context_tokens": 485,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_oMB9cWVIdqcfrZDkgv0zPrFW",
+        "round": 1,
+        "arguments": {
+          "query": "Luật Đất đai",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Luật Đất đai trong bộ tài liệu này điều chỉnh những nội dung nào?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+            "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 1,
+            "page_end": 1,
+            "provenance": [
+              {
+                "start": 221,
+                "end": 565,
+                "document_id": "luatdat1",
+                "page": 1,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 221,
+            "metadata": {
+              "article": "1",
+              "clause": null,
+              "part": 1
+            },
+            "score": 0.6342139840126038,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "a6591c94f867b5a3454adcd64c68796b",
+            "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 34,
+            "page_end": 34,
+            "provenance": [
+              {
+                "start": 444611,
+                "end": 444652,
+                "document_id": "luatdat3",
+                "page": 34,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 444611,
+            "metadata": {
+              "article": "219",
+              "clause": "8",
+              "part": 3
+            },
+            "score": 0.6236864924430847,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "bf12a26555ff54353b6a3c25e652b556",
+            "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n13. Thống kê, kiểm kê đất đai.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 18,
+            "page_end": 18,
+            "provenance": [
+              {
+                "start": 32283,
+                "end": 32314,
+                "document_id": "luatdat1",
+                "page": 18,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 32283,
+            "metadata": {
+              "article": "20",
+              "clause": "13",
+              "part": 1
+            },
+            "score": 0.6078008413314819,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "1910c8cd89dd864e3d19b4bea6880b0d",
+          "a6591c94f867b5a3454adcd64c68796b",
+          "bf12a26555ff54353b6a3c25e652b556"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Luật Đất đai trong bộ tài liệu này điều chỉnh những nội dung nào?",
+          "variants": [
+            "Luật Đất đai trong bộ tài liệu này điều chỉnh những nội dung nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+                "text": "Điều 1. Phạm vi điều chỉnh\nLuật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 1,
+                "page_end": 1,
+                "provenance": [
+                  {
+                    "start": 221,
+                    "end": 565,
+                    "document_id": "luatdat1",
+                    "page": 1,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 221,
+                "metadata": {
+                  "article": "1",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.6342139840126038,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a6591c94f867b5a3454adcd64c68796b",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 444611,
+                    "end": 444652,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 444611,
+                "metadata": {
+                  "article": "219",
+                  "clause": "8",
+                  "part": 3
+                },
+                "score": 0.6236864924430847,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "bf12a26555ff54353b6a3c25e652b556",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n13. Thống kê, kiểm kê đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 32283,
+                    "end": 32314,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 32283,
+                "metadata": {
+                  "article": "20",
+                  "clause": "13",
+                  "part": 1
+                },
+                "score": 0.6078008413314819,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "76b5bd3792dd4aca491836cabb1ea61a",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n4. Đo đạc, chỉnh lý, lập bản đồ địa chính, bản đồ hiện trạng sử dụng đất, bản đồ quy hoạch sử dụng đất và các bản đồ chuyên ngành về quản lý, sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 31567,
+                    "end": 31722,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 31567,
+                "metadata": {
+                  "article": "20",
+                  "clause": "4",
+                  "part": 1
+                },
+                "score": 0.6072441935539246,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "b234303013326a4847354d341275ab52",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã hội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình hạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất đai.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 442963,
+                    "end": 443512,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 442963,
+                "metadata": {
+                  "article": "219",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.6059714555740356,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8cb3579d6e479b3e902163d4299c572c",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n1. Góp quyền sử dụng đất, điều chỉnh lại đất đai là phương thức sắp xếp lại đất đai trong một khu vực đất nhất định trên cơ sở sự đồng thuận của người sử dụng đất để điều chỉnh lại toàn bộ hoặc một phần diện tích đất thuộc quyền sử dụng của mình trong khu vực đó theo phương án được cơ quan có thẩm quyền phê duyệt.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 33,
+                "page_end": 33,
+                "provenance": [
+                  {
+                    "start": 441685,
+                    "end": 442001,
+                    "document_id": "luatdat3",
+                    "page": 33,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 441685,
+                "metadata": {
+                  "article": "219",
+                  "clause": "1",
+                  "part": 3
+                },
+                "score": 0.5969032049179077,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "00f1816ec93b300531f064a3f361e75b",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n6. Lập, điều chỉnh, quản lý quy hoạch, kế hoạch sử dụng đất.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 31782,
+                    "end": 31843,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 31782,
+                "metadata": {
+                  "article": "20",
+                  "clause": "6",
+                  "part": 1
+                },
+                "score": 0.5961906909942627,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "414a4021dbd535bc0ac7eae296db70d8",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n16. Giải quyết tranh chấp đất đai; giải quyết khiếu nại, tố cáo về đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 32475,
+                    "end": 32551,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 32475,
+                "metadata": {
+                  "article": "20",
+                  "clause": "16",
+                  "part": 1
+                },
+                "score": 0.5865498781204224,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8375ab0c4097a4a14f3db3ac052e850e",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n5. Điều tra, đánh giá và bảo vệ, cải tạo, phục hồi đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 31722,
+                    "end": 31782,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 31722,
+                "metadata": {
+                  "article": "20",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.5821838974952698,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "202235ef80e1095c79dcec8073b61973",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n1. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 31248,
+                    "end": 31341,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 31248,
+                "metadata": {
+                  "article": "20",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.579300045967102,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1821.6321999789216
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "1910c8cd89dd864e3d19b4bea6880b0d",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek86iSQijhJA8qYTTGKCdpopW7qhi",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_oMB9cWVIdqcfrZDkgv0zPrFW",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"Luật Đất đai\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 399,
+          "completion_tokens": 27,
+          "total_tokens": 426,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 7.604999999999999e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek86mQyuoaE4OUrrnm6mmvq0PDX4q",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Luật Đất đai điều chỉnh các nội dung liên quan đến chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước trong việc quản lý đất đai, chế độ quản lý và sử dụng đất đai, cũng như quyền và nghĩa vụ của công dân và người sử dụng đất đối với đất đai thuộc lãnh thổ Việt Nam [1910c8cd89dd864e3d19b4bea6880b0d].\",\"citations\":[\"1910c8cd89dd864e3d19b4bea6880b0d\"],\"abstained\":false,\"reason\":\"Nội dung trong luật đã được nêu rõ và đầy đủ trong tài liệu.\",\"evidence_quotes\":[{\"id\":\"1910c8cd89dd864e3d19b4bea6880b0d\",\"quote\":\"Luật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 912,
+          "completion_tokens": 271,
+          "total_tokens": 1183,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00029939999999999996,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "28d97259a88a423ab0bbed5a2c74bfb7",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1311,
+      "completion_tokens": 298,
+      "total_tokens": 1609
+    },
+    "estimated_chat_cost_usd": 0.00037544999999999994,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 8611.125600000378
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "query_id": "q04",
+  "question": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+  "split": "dev",
+  "answerability": "answerable",
+  "result": {
+    "status": "answered",
+    "answer": "Căn cứ vào mục đích sử dụng, đất đai được chia thành ba nhóm: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, và nhóm đất chưa sử dụng [e768fa75598da2a2f436f39ae47e54af].",
+    "citations": [
+      "e768fa75598da2a2f436f39ae47e54af"
+    ],
+    "abstained": false,
+    "reason": "Thông tin đầy đủ về phân loại đất theo mục đích sử dụng đã được cung cấp trong tài liệu.",
+    "evidence_quotes": [
+      {
+        "id": "e768fa75598da2a2f436f39ae47e54af",
+        "quote": "Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng."
+      }
+    ],
+    "context": "[e768fa75598da2a2f436f39ae47e54af] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf | page 10 | Điều 9 | Khoản 1\nĐiều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n\n\n[b234303013326a4847354d341275ab52] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 34 | Điều 219 | Khoản 4\nĐiều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã hội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình hạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất đai.\n\n\n[ad6bdcff5f061a528a6c6b5c20a748e1] https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf | page 34 | Điều 219 | Khoản 5\nĐiều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n5. Đối với diện tích đất do cơ quan, tổ chức của Nhà nước quản lý có trong khu vực thực hiện góp quyền sử dụng đất, điều chỉnh lại đất đai được sử dụng như sau:\na) Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư;\nb) Đấu giá quyền sử dụng đất đối với phần diện tích đất còn lại sau khi sử dụng đất theo điểm a khoản này. Tiền thu được từ việc đấu giá quyền sử dụng đất được sử dụng để thực hiện dự án.\n",
+    "context_ids": [
+      "e768fa75598da2a2f436f39ae47e54af",
+      "b234303013326a4847354d341275ab52",
+      "ad6bdcff5f061a528a6c6b5c20a748e1"
+    ],
+    "context_chars": 1660,
+    "context_tokens": 832,
+    "events": [
+      {
+        "event": "search",
+        "tool_call_id": "call_IwajMCmZlbEbHhf5U8C2WkJ6",
+        "round": 1,
+        "arguments": {
+          "query": "mục đích sử dụng đất đai",
+          "mode": "dense",
+          "top_k": 3
+        },
+        "executed_query": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+        "mode": "dense",
+        "results": [
+          {
+            "id": "e768fa75598da2a2f436f39ae47e54af",
+            "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+            "source_id": "luatdat1",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+            "page": 10,
+            "page_end": 10,
+            "provenance": [
+              {
+                "start": 16930,
+                "end": 17064,
+                "document_id": "luatdat1",
+                "page": 10,
+                "part": 1,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+              }
+            ],
+            "body_start": 16930,
+            "metadata": {
+              "article": "9",
+              "clause": "1",
+              "part": 1
+            },
+            "score": 0.6242713928222656,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 1
+          },
+          {
+            "id": "b234303013326a4847354d341275ab52",
+            "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã hội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình hạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất đai.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 34,
+            "page_end": 34,
+            "provenance": [
+              {
+                "start": 442963,
+                "end": 443512,
+                "document_id": "luatdat3",
+                "page": 34,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 442963,
+            "metadata": {
+              "article": "219",
+              "clause": "4",
+              "part": 3
+            },
+            "score": 0.5647359490394592,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 2
+          },
+          {
+            "id": "ad6bdcff5f061a528a6c6b5c20a748e1",
+            "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n5. Đối với diện tích đất do cơ quan, tổ chức của Nhà nước quản lý có trong khu vực thực hiện góp quyền sử dụng đất, điều chỉnh lại đất đai được sử dụng như sau:\na) Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư;\nb) Đấu giá quyền sử dụng đất đối với phần diện tích đất còn lại sau khi sử dụng đất theo điểm a khoản này. Tiền thu được từ việc đấu giá quyền sử dụng đất được sử dụng để thực hiện dự án.\n",
+            "source_id": "luatdat3",
+            "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+            "page": 34,
+            "page_end": 34,
+            "provenance": [
+              {
+                "start": 443512,
+                "end": 443942,
+                "document_id": "luatdat3",
+                "page": 34,
+                "part": 3,
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+              }
+            ],
+            "body_start": 443512,
+            "metadata": {
+              "article": "219",
+              "clause": "5",
+              "part": 3
+            },
+            "score": 0.5550445318222046,
+            "strategy": "dense",
+            "score_type": "cosine_similarity",
+            "rank": 3
+          }
+        ],
+        "context_ids": [
+          "e768fa75598da2a2f436f39ae47e54af",
+          "b234303013326a4847354d341275ab52",
+          "ad6bdcff5f061a528a6c6b5c20a748e1"
+        ],
+        "dropped_ids": [],
+        "retrieval_trace": {
+          "original_query": "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?",
+          "variants": [
+            "Căn cứ vào mục đích sử dụng, đất đai được chia thành những nhóm nào?"
+          ],
+          "filters": null,
+          "source_rankings": {
+            "dense_0": [
+              {
+                "id": "e768fa75598da2a2f436f39ae47e54af",
+                "text": "Điều 9. Phân loại đất\n1. Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 10,
+                "page_end": 10,
+                "provenance": [
+                  {
+                    "start": 16930,
+                    "end": 17064,
+                    "document_id": "luatdat1",
+                    "page": 10,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 16930,
+                "metadata": {
+                  "article": "9",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.6242713928222656,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "b234303013326a4847354d341275ab52",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n4. Phương án góp quyền sử dụng đất, điều chỉnh lại đất đai phải thể hiện các nội dung sau đây:\na) Hiện trạng sử dụng đất trong khu vực cần điều chỉnh lại và các bên góp quyền sử dụng đất;\nb) Phương án sắp xếp lại đất đai, trong đó phải thể hiện phương án thiết kế hạ tầng kỹ thuật, hạ tầng xã hội, hạ tầng môi trường, tỷ lệ diện tích đất mà người sử dụng đất đóng góp để xây dựng các công trình hạ tầng kỹ thuật, cung cấp dịch vụ công cộng;\nc) Vị trí, diện tích đất mà người sử dụng đất được nhận lại sau khi thực hiện phương án điều chỉnh đất đai.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 442963,
+                    "end": 443512,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 442963,
+                "metadata": {
+                  "article": "219",
+                  "clause": "4",
+                  "part": 3
+                },
+                "score": 0.5647359490394592,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "ad6bdcff5f061a528a6c6b5c20a748e1",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n5. Đối với diện tích đất do cơ quan, tổ chức của Nhà nước quản lý có trong khu vực thực hiện góp quyền sử dụng đất, điều chỉnh lại đất đai được sử dụng như sau:\na) Sử dụng để xây dựng, nâng cấp hệ thống hạ tầng, dịch vụ công cộng khu dân cư;\nb) Đấu giá quyền sử dụng đất đối với phần diện tích đất còn lại sau khi sử dụng đất theo điểm a khoản này. Tiền thu được từ việc đấu giá quyền sử dụng đất được sử dụng để thực hiện dự án.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 443512,
+                    "end": 443942,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 443512,
+                "metadata": {
+                  "article": "219",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 0.5550445318222046,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "d9e002c7187acadaa02084c0e98bbe93",
+                "text": "Điều 2. Đối tượng áp dụng\n1. Cơ quan nhà nước thực hiện quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực hiện nhiệm vụ thống nhất quản lý nhà nước về đất đai.\n2. Người sử dụng đất.\n3. Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 1,
+                "page_end": 1,
+                "provenance": [
+                  {
+                    "start": 565,
+                    "end": 838,
+                    "document_id": "luatdat1",
+                    "page": 1,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 565,
+                "metadata": {
+                  "article": "2",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.54921954870224,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a6591c94f867b5a3454adcd64c68796b",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n8. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 444611,
+                    "end": 444652,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 444611,
+                "metadata": {
+                  "article": "219",
+                  "clause": "8",
+                  "part": 3
+                },
+                "score": 0.5451751351356506,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "de107a9bf009e224591a4edb39f588dd",
+                "text": "Điều 219. Góp quyền sử dụng đất, điều chỉnh lại đất đai\n6. Việc góp quyền sử dụng đất, điều chỉnh lại đất đai phải có dự án đầu tư do cộng đồng người sử dụng đất tự thực hiện hoặc liên danh, liên kết với các nhà đầu tư theo quy định của pháp luật để thực hiện.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 34,
+                "page_end": 34,
+                "provenance": [
+                  {
+                    "start": 443942,
+                    "end": 444147,
+                    "document_id": "luatdat3",
+                    "page": 34,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 443942,
+                "metadata": {
+                  "article": "219",
+                  "clause": "6",
+                  "part": 3
+                },
+                "score": 0.5438553094863892,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "202235ef80e1095c79dcec8073b61973",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n1. Ban hành và tổ chức thực hiện các văn bản quy phạm pháp luật về quản lý, sử dụng đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 31248,
+                    "end": 31341,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 31248,
+                "metadata": {
+                  "article": "20",
+                  "clause": "1",
+                  "part": 1
+                },
+                "score": 0.5384976863861084,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "8375ab0c4097a4a14f3db3ac052e850e",
+                "text": "Điều 20. Nội dung quản lý nhà nước về đất đai\n5. Điều tra, đánh giá và bảo vệ, cải tạo, phục hồi đất đai.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 18,
+                "page_end": 18,
+                "provenance": [
+                  {
+                    "start": 31722,
+                    "end": 31782,
+                    "document_id": "luatdat1",
+                    "page": 18,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 31722,
+                "metadata": {
+                  "article": "20",
+                  "clause": "5",
+                  "part": 1
+                },
+                "score": 0.538316011428833,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "a0e616ef61f66bca8814cca3b857e719",
+                "text": "Điều 8. Khuyến khích đầu tư vào sử dụng đất đai\n1. Nâng cao hiệu quả sử dụng đất.\n2. Bảo vệ, cải tạo, làm tăng độ màu mỡ của đất; xử lý đất, đất có mặt nước bị ô nhiễm, phục hồi đất bị thoái hóa.\n3. Lấn biển, đưa diện tích đất trống, đồi núi trọc, đất bãi bồi ven sông, ven biển, đất có mặt nước hoang hóa vào sử dụng theo quy định của Luật này.\n4. Tập trung đất đai để sản xuất nông nghiệp, lâm nghiệp quy mô lớn.\n5. Phát triển kết cấu hạ tầng để làm tăng giá trị của đất, phát triển công trình ngầm.\n6. Phát triển văn hóa, y tế, giáo dục và đào tạo, thể dục, thể thao, khoa học và công nghệ, môi trường.\n",
+                "source_id": "luatdat1",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf",
+                "page": 9,
+                "page_end": 10,
+                "provenance": [
+                  {
+                    "start": 16302,
+                    "end": 16804,
+                    "document_id": "luatdat1",
+                    "page": 9,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  },
+                  {
+                    "start": 16804,
+                    "end": 16908,
+                    "document_id": "luatdat1",
+                    "page": 10,
+                    "part": 1,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_1.pdf"
+                  }
+                ],
+                "body_start": 16302,
+                "metadata": {
+                  "article": "8",
+                  "clause": null,
+                  "part": 1
+                },
+                "score": 0.537871241569519,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              },
+              {
+                "id": "cac13f0afe23360a0962e55cd9b56ef2",
+                "text": "Điều 218. Sử dụng đất kết hợp đa mục đích\n5. Chính phủ quy định chi tiết Điều này.\n",
+                "source_id": "luatdat3",
+                "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf",
+                "page": 33,
+                "page_end": 33,
+                "provenance": [
+                  {
+                    "start": 441588,
+                    "end": 441629,
+                    "document_id": "luatdat3",
+                    "page": 33,
+                    "part": 3,
+                    "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/9/31-2024-qh15_3.pdf"
+                  }
+                ],
+                "body_start": 441588,
+                "metadata": {
+                  "article": "218",
+                  "clause": "5",
+                  "part": 3
+                },
+                "score": 0.5374023914337158,
+                "strategy": "dense",
+                "score_type": "cosine_similarity"
+              }
+            ]
+          },
+          "mode": "dense",
+          "requested_fields": []
+        },
+        "elapsed_ms": 1338.5655999882147
+      },
+      {
+        "event": "answer_validation",
+        "errors": [],
+        "normalizations": [],
+        "citation_check": {
+          "all_structurally_valid": true,
+          "citations": [
+            {
+              "id": "e768fa75598da2a2f436f39ae47e54af",
+              "in_context": true,
+              "marked_in_answer": true,
+              "excerpt_present": true,
+              "syntactically_valid": true
+            }
+          ],
+          "semantic_support": "human_review_required"
+        }
+      }
+    ],
+    "responses": [
+      {
+        "response_id": "chatcmpl-Ek875zQwcerGJIbq7cDTqbs0PEAAZ",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_IwajMCmZlbEbHhf5U8C2WkJ6",
+              "type": "function",
+              "function": {
+                "name": "search",
+                "arguments": "{\"query\":\"mục đích sử dụng đất đai\",\"mode\":\"dense\",\"top_k\":3}"
+              }
+            }
+          ],
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 401,
+          "completion_tokens": 30,
+          "total_tokens": 431,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 7.815e-05,
+        "finish_reason": "tool_calls"
+      },
+      {
+        "response_id": "chatcmpl-Ek878Oons0r7teTw158gdDzGrdJIg",
+        "model": "gpt-4o-mini-2024-07-18",
+        "message": {
+          "role": "assistant",
+          "content": "{\"answer\":\"Căn cứ vào mục đích sử dụng, đất đai được chia thành ba nhóm: nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, và nhóm đất chưa sử dụng [e768fa75598da2a2f436f39ae47e54af].\",\"citations\":[\"e768fa75598da2a2f436f39ae47e54af\"],\"abstained\":false,\"reason\":\"Thông tin đầy đủ về phân loại đất theo mục đích sử dụng đã được cung cấp trong tài liệu.\",\"evidence_quotes\":[{\"id\":\"e768fa75598da2a2f436f39ae47e54af\",\"quote\":\"Căn cứ vào mục đích sử dụng, đất đai được phân loại bao gồm nhóm đất nông nghiệp, nhóm đất phi nông nghiệp, nhóm đất chưa sử dụng.\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "usage": {
+          "prompt_tokens": 1108,
+          "completion_tokens": 182,
+          "total_tokens": 1290,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "estimated_cost_usd": 0.00027539999999999997,
+        "finish_reason": "stop"
+      }
+    ],
+    "model": "gpt-4o-mini",
+    "provider": "openai",
+    "mode": "dense",
+    "autonomous": false,
+    "tool_trace_id": "6e2330f9b56c4e94ad767293104ee081",
+    "prompt_version": "grounded_answer_v2+tool_router_v1",
+    "prompt_sha256": "e353ecab18efecfc300064a696eee909ba74f9accab1a5ff5fedc2418b63a744",
+    "usage": {
+      "prompt_tokens": 1509,
+      "completion_tokens": 212,
+      "total_tokens": 1721
+    },
+    "estimated_chat_cost_usd": 0.00035355,
+    "actual_chat_cost_usd": null,
+    "price_source": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "price_checked_on": "2026-11-14",
+    "semantic_support": "pending_human_review",
+    "elapsed_ms": 6053.693199995905
+  }
+}
